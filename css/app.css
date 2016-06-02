@@ -2041,6 +2041,8 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .long-delay { animation-delay: 700ms !important; }
 
+body { background: #F7F7F7 url("/img/assets/bg/hex.png") repeat; }
+
 @font-face { font-family: 'Muller ExtraBold'; src: url("/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
 
 @font-face { font-family: 'Muller Medium'; src: url("/fonts/muller-medium/muller-medium.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
