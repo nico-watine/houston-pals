@@ -2,11 +2,20 @@
 @import "typography/_fonts.scss";
 
 
-// OPTIONAL CUSTOM STYLING OF H5 & H6 FOR UPPERCASE W/ LETTER SPACING
-// USES SETTINGS FROM _custom-settings.scss
-// h5,
-// h6 {
-// 	letter-spacing: $h5-h6-letter-spacing;
-// 	text-transform: uppercase;
-// }
+.title {
+	font-family: $title-font;
+	font-weight: $title-weight;
+	color: $dark-blue;
+	letter-spacing: rem(2);
+}
 
+.heading {
+	font-family: $header-font;
+	font-weight: $header-weight;
+}
+
+p {
+	@include breakpoint(medium) {
+		font-size: rem(18);
+	}
+}

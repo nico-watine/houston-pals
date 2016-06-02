@@ -10,3 +10,7 @@
 .random-box-shadow {
 	box-shadow: 0 -4px 25px rgba(0,0,0,.3);
 }
+
+.font-shorthand {
+	font: font-style font-variant font-weight font-size/line-height font-family;
+}

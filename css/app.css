@@ -325,7 +325,7 @@ html { font-size: 100%; box-sizing: border-box; }
 
 *, *::before, *::after { box-sizing: inherit; }
 
-body { padding: 0; margin: 0; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; line-height: 1.5; color: #0a0a0a; background: #fefefe; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { padding: 0; margin: 0; font-family: "Open Sans", Helvetica, Roboto, Arial, sans-serif; font-weight: 300; line-height: 1.5; color: #0a0a0a; background: #fefefe; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 img { max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; display: inline-block; vertical-align: middle; }
 
@@ -721,7 +721,7 @@ strong, b { font-weight: bold; line-height: inherit; }
 
 small { font-size: 80%; line-height: inherit; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; font-style: normal; color: inherit; text-rendering: optimizeLegibility; margin-top: 0; margin-bottom: 0.5rem; line-height: 1.4; }
+h1, h2, h3, h4, h5, h6 { font-family: "Muller Medium", sans-serif; font-weight: 400; font-style: normal; color: inherit; text-rendering: optimizeLegibility; margin-top: 0; margin-bottom: 0.5rem; line-height: 1.4; }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { color: #cacaca; line-height: 0; }
 
@@ -742,7 +742,7 @@ h6 { font-size: 1rem; }
   h3 { font-size: 1.9375rem; }
   h4 { font-size: 1.5625rem; }
   h5 { font-size: 1.25rem; }
-  h6 { font-size: 1rem; } }
+  h6 { font-size: 1.125rem; } }
 
 a { color: #2199e8; text-decoration: none; line-height: inherit; cursor: pointer; }
 
@@ -776,11 +776,11 @@ cite:before { content: '\2014 \0020'; }
 
 abbr { color: #0a0a0a; cursor: help; border-bottom: 1px dotted #0a0a0a; }
 
-code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight: normal; color: #0a0a0a; background-color: #e6e6e6; border: 1px solid #cacaca; padding: 0.125rem 0.3125rem 0.0625rem; }
+code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight: 300; color: #0a0a0a; background-color: #e6e6e6; border: 1px solid #cacaca; padding: 0.125rem 0.3125rem 0.0625rem; }
 
 kbd { padding: 0.125rem 0.25rem 0; margin: 0; background-color: #e6e6e6; color: #0a0a0a; font-family: Consolas, "Liberation Mono", Courier, monospace; }
 
-.subheader { margin-top: 0.2rem; margin-bottom: 0.5rem; font-weight: normal; line-height: 1.4; color: #8a8a8a; }
+.subheader { margin-top: 0.2rem; margin-bottom: 0.5rem; font-weight: 300; line-height: 1.4; color: #8a8a8a; }
 
 .lead { font-size: 125%; line-height: 1.6; }
 
@@ -923,7 +923,7 @@ label > [type='checkbox'], label > [type='radio'] { margin-right: 0.5rem; }
 
 [type='file'] { width: 100%; }
 
-label { display: block; margin: 0; font-size: 0.875rem; font-weight: normal; line-height: 1.8; color: #0a0a0a; }
+label { display: block; margin: 0; font-size: 0.875rem; font-weight: 300; line-height: 1.8; color: #0a0a0a; }
 
 label.middle { margin: 0 0 1rem; padding: 0.5625rem 0; }
 
@@ -2044,6 +2044,12 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 @font-face { font-family: 'Muller ExtraBold'; src: url("/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
 
 @font-face { font-family: 'Muller Medium'; src: url("/fonts/muller-medium/muller-medium.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
+
+.title { font-family: "Muller ExtraBold", sans-serif; font-weight: 700; color: #30659B; letter-spacing: 0.125rem; }
+
+.heading { font-family: "Muller Medium", sans-serif; font-weight: 400; }
+
+@media screen and (min-width: 40em) { p { font-size: 1.125rem; } }
 
 .p-0 { padding: 0; }
 
