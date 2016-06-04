@@ -6,6 +6,31 @@ header {
 	background: $off-white url('/img/assets/accents/dog/top-left.png') no-repeat left top;
 	box-shadow: $z-1;
 
+	aside {
+		position: absolute;
+		top: rem(10);
+		right: rem(30);
+
+		a {
+			color: #000;
+			// text-shadow: 0 rem(2) rem(1) #fff;
+
+			&:hover {
+				// text-decoration: underline;
+
+				span.green {
+					color: #fff;
+					background: $light-green;
+				}
+
+				span.blue {
+					color: #fff;
+					background: $dark-blue;
+				}
+			}
+		}
+	}
+
 	.logo {
 		padding: rem(16) rem(8);
 

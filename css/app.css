@@ -2045,6 +2045,14 @@ body { background: #F7F7F7 url("/img/assets/bg/hex.png") repeat; }
 
 header { background: #F7F7F7 url("/img/assets/accents/dog/top-left.png") no-repeat left top; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
+header aside { position: absolute; top: 0.625rem; right: 1.875rem; }
+
+header aside a { color: #000; }
+
+header aside a:hover span.green { color: #fff; background: #98CD68; }
+
+header aside a:hover span.blue { color: #fff; background: #30659B; }
+
 header .logo { padding: 1rem 0.5rem; }
 
 header .logo img { max-width: 23.125rem; width: 100%; }
@@ -2080,6 +2088,8 @@ header ul.menu li a.active { background: #98CD68; color: #fff; }
 .heading, header ul.menu li a { font-family: "Muller Medium", sans-serif; font-weight: 400; }
 
 @media screen and (min-width: 40em) { p { font-size: 1.125rem; } }
+
+.normal { font-weight: normal; }
 
 .p-0 { padding: 0; }
 
