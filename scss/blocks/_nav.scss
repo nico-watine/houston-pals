@@ -1,1 +1,26 @@
 @import "../_settings.scss";
+
+#top-bar-nav.dropdown-pane {
+	width: 100% !important;
+	left: 0 !important;
+	border: 0;
+	padding: rem(10) 0;
+	top: auto !important;
+	box-shadow: $z-1;
+	background: $off-white;
+
+	@include breakpoint(medium) {
+		visibility: visible !important;
+		position: initial;
+		box-shadow: none;
+		padding: 0;
+
+		ul.menu {
+			display: inline-block;
+		}
+	}
+
+	@include breakpoint(large) {
+		height: rem(180);
+	}
+}

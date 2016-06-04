@@ -1,2 +1,79 @@
 @import "../_settings.scss";
 
+$max-width-690: "only screen and (max-width : 43.125em)";
+
+header {
+	background: $off-white url('/img/assets/accents/dog/top-left.png') no-repeat left top;
+	box-shadow: $z-1;
+
+	.logo {
+		padding: rem(16) rem(8);
+
+		img {
+			max-width: rem(370);
+			width: 100%;
+		}
+	}
+
+	.title-bar {
+		background: $dark-blue;
+	}
+
+	ul.menu {
+
+		li {
+
+			a {
+				line-height: 1.4;
+				@extend .heading;
+				color: #000;
+				font-size: rem(18);
+				padding: rem(10);
+
+				&:hover {
+					background: $light-green;
+					color: #fff;
+				}
+			}
+
+			a.active {
+				background: $light-green;
+				color: #fff;
+			}
+		}
+
+		@include breakpoint(medium) {
+			li {
+				a {
+					&:hover {
+						background: $dark-blue;
+					}
+				}
+
+				a.active {
+					&:hover {
+						background: $light-green;
+					}
+				}
+			}
+
+			li#op-faq {
+				a {
+					width: rem(150);
+				}
+			}
+
+			li#about-pals {
+				a {
+					width: rem(130);
+				}
+			}
+		}
+
+		@include breakpoint(large) {
+			li {
+				height: rem(180);
+			}
+		}
+	}
+}

@@ -2043,13 +2043,41 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 body { background: #F7F7F7 url("/img/assets/bg/hex.png") repeat; }
 
+header { background: #F7F7F7 url("/img/assets/accents/dog/top-left.png") no-repeat left top; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
+header .logo { padding: 1rem 0.5rem; }
+
+header .logo img { max-width: 23.125rem; width: 100%; }
+
+header .title-bar { background: #30659B; }
+
+header ul.menu li a { line-height: 1.4; color: #000; font-size: 1.125rem; padding: 0.625rem; }
+
+header ul.menu li a:hover { background: #98CD68; color: #fff; }
+
+header ul.menu li a.active { background: #98CD68; color: #fff; }
+
+@media screen and (min-width: 40em) { header ul.menu li a:hover { background: #30659B; }
+  header ul.menu li a.active:hover { background: #98CD68; }
+  header ul.menu li#op-faq a { width: 9.375rem; }
+  header ul.menu li#about-pals a { width: 8.125rem; } }
+
+@media screen and (min-width: 64em) { header ul.menu li { height: 11.25rem; } }
+
+#top-bar-nav.dropdown-pane { width: 100% !important; left: 0 !important; border: 0; padding: 0.625rem 0; top: auto !important; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #F7F7F7; }
+
+@media screen and (min-width: 40em) { #top-bar-nav.dropdown-pane { visibility: visible !important; position: initial; box-shadow: none; padding: 0; }
+  #top-bar-nav.dropdown-pane ul.menu { display: inline-block; } }
+
+@media screen and (min-width: 64em) { #top-bar-nav.dropdown-pane { height: 11.25rem; } }
+
 @font-face { font-family: 'Muller ExtraBold'; src: url("/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
 
 @font-face { font-family: 'Muller Medium'; src: url("/fonts/muller-medium/muller-medium.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
 .title { font-family: "Muller ExtraBold", sans-serif; font-weight: 700; color: #30659B; letter-spacing: 0.125rem; }
 
-.heading { font-family: "Muller Medium", sans-serif; font-weight: 400; }
+.heading, header ul.menu li a { font-family: "Muller Medium", sans-serif; font-weight: 400; }
 
 @media screen and (min-width: 40em) { p { font-size: 1.125rem; } }
 
