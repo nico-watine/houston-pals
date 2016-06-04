@@ -42,8 +42,25 @@ header {
 
 	.title-bar {
 		background: $dark-blue;
+
+		a {
+			color: #fff;
+		    float: left;
+		    line-height: 1;
+		    margin-right: rem(28);
+
+		    .icon {
+		    	font-size: rem(28);
+		    }
+		}
 	}
 
+	@include breakpoint(large) {
+		.nav-wrapper {
+			padding-left: 0;
+		}
+	}
+	
 	ul.menu {
 
 		li {
@@ -70,6 +87,9 @@ header {
 		@include breakpoint(medium) {
 			li {
 				a {
+					height: rem(70);
+					line-height: rem(50);
+
 					&:hover {
 						background: $dark-blue;
 					}
@@ -85,6 +105,7 @@ header {
 			li#op-faq {
 				a {
 					width: rem(150);
+					line-height: rem(25);
 				}
 			}
 
@@ -98,6 +119,11 @@ header {
 		@include breakpoint(large) {
 			li {
 				height: rem(180);
+
+				a {
+					height: auto;
+					line-height: initial;
+				}
 			}
 		}
 	}
