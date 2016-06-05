@@ -2043,7 +2043,12 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 body { background: #F7F7F7 url("/img/assets/bg/hex.png") repeat; }
 
-header { background: #F7F7F7 url("/img/assets/accents/dog/top-left.png") no-repeat left top; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+header .row { background: #F7F7F7 url("/img/assets/accents/dog/top-left.png") no-repeat left top; background-size: contain; width: 100%; }
+
+@media screen and (min-width: 40em) { header { height: 15.5625rem; position: relative; }
+  header .row { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background-size: initial; position: absolute; top: 0; left: 0; z-index: 10; width: 100%; height: 100%; } }
+
+@media screen and (min-width: 64em) { header { height: 11.25rem; } }
 
 header aside { position: absolute; top: 0.625rem; right: 1.875rem; }
 
@@ -2078,7 +2083,7 @@ header ul.menu li a.active { background: #98CD68; color: #fff; }
 
 #top-bar-nav.dropdown-pane { width: 100% !important; left: 0 !important; border: 0; padding: 0; top: auto !important; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #F7F7F7; }
 
-@media screen and (min-width: 40em) { #top-bar-nav.dropdown-pane { visibility: visible !important; position: initial; box-shadow: none; height: 4.375rem; }
+@media screen and (min-width: 40em) { #top-bar-nav.dropdown-pane { background: none; visibility: visible !important; position: initial; box-shadow: none; height: 4.375rem; }
   #top-bar-nav.dropdown-pane ul.menu { display: inline-block; } }
 
 @media screen and (min-width: 64em) { #top-bar-nav.dropdown-pane { height: 11.25rem; } }
