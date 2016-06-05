@@ -2083,6 +2083,8 @@ header ul.menu li a.active { background: #98CD68; color: #fff; }
 
 @media screen and (min-width: 64em) { #top-bar-nav.dropdown-pane { height: 11.25rem; } }
 
+main { /* GREEN GRADIENT */ background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 65%, rgba(255, 255, 255, 0) 65%, #98CD68 100%); }
+
 footer { background: #30659B; padding: 1.25rem 0; color: #fff; }
 
 footer ul.menu { display: inline-block; }
