@@ -13,21 +13,6 @@ header {
 
 		a {
 			color: #000;
-			// text-shadow: 0 rem(2) rem(1) #fff;
-
-			&:hover {
-				// text-decoration: underline;
-
-				span.green {
-					color: #fff;
-					background: $light-green;
-				}
-
-				span.blue {
-					color: #fff;
-					background: $dark-blue;
-				}
-			}
 		}
 	}
 

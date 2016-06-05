@@ -2049,10 +2049,6 @@ header aside { position: absolute; top: 0.625rem; right: 1.875rem; }
 
 header aside a { color: #000; }
 
-header aside a:hover span.green { color: #fff; background: #98CD68; }
-
-header aside a:hover span.blue { color: #fff; background: #30659B; }
-
 header .logo { padding: 1rem 0.5rem; }
 
 header .logo img { max-width: 23.125rem; width: 100%; }
@@ -2087,6 +2083,24 @@ header ul.menu li a.active { background: #98CD68; color: #fff; }
 
 @media screen and (min-width: 64em) { #top-bar-nav.dropdown-pane { height: 11.25rem; } }
 
+footer { background: #30659B; padding: 1.25rem 0; color: #fff; }
+
+footer ul.menu { display: inline-block; }
+
+@media screen and (min-width: 40em) { footer ul.menu { margin-bottom: 0.75rem; } }
+
+footer ul.menu li { padding: 0 1rem; }
+
+footer ul.menu li a { display: inline-block; color: #fff; padding: 0.75rem 0; }
+
+footer ul.menu li a:hover { color: #fff; text-decoration: underline; }
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) { footer ul.menu li#op-faq a { width: 6.25rem; line-height: 1.5625rem; } }
+
+footer #contact-deets a { color: #fff; margin-bottom: 0.75rem; display: inline-block; }
+
+footer #contact-deets a:hover { text-decoration: underline; }
+
 @font-face { font-family: 'Muller ExtraBold'; src: url("/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
 
 @font-face { font-family: 'Muller Medium'; src: url("/fonts/muller-medium/muller-medium.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
@@ -2105,7 +2119,11 @@ header ul.menu li a.active { background: #98CD68; color: #fff; }
 
 @media screen and (min-width: 40em) { p { font-size: 1.125rem; } }
 
-.normal { font-weight: normal; }
+.normal, footer ul.menu li a { font-weight: normal; }
+
+a#colorful-name-hover:hover span.green { color: #fff; background: #98CD68; }
+
+a#colorful-name-hover:hover span.blue { color: #fff; background: #30659B; }
 
 .p-0 { padding: 0; }
 

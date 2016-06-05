@@ -1,1 +1,53 @@
 @import "../_settings.scss";
+
+footer {
+	background: #30659B;
+	padding: rem(20) 0;
+	color: #fff;
+
+	ul.menu {
+		display: inline-block;
+
+		@include breakpoint(medium) {
+			margin-bottom: rem(12);
+		}
+
+		li {
+			padding: 0 rem(16);
+
+			a {
+				display: inline-block;
+				@extend .normal;
+				color: #fff;
+				padding: rem(12) 0;
+
+				&:hover {
+					color: #fff;
+					text-decoration: underline;
+				}
+			}
+		}
+
+		@include breakpoint(medium only) {
+			li#op-faq {
+				a {
+					width: rem(100);
+					line-height: rem(25);
+				}
+			}
+		}
+	}
+
+	#contact-deets {
+		a {
+			color: #fff;
+			margin-bottom: rem(12);
+			display: inline-block;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
