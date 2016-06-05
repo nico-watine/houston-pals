@@ -29,11 +29,13 @@
 
 {{> header}}
 
-{{> main-open-tag}}
-
-	{{> body}}
-
-{{> main-close-tag}}
+<main>
+	<div class="content-wrapper">
+		<div class="content">
+			{{> body}}
+		</div>
+	</div>
+</main>
 
 {{> footer}}
 
