@@ -3,8 +3,31 @@
 $max-width-690: "only screen and (max-width : 43.125em)";
 
 header {
-	background: $off-white url('/img/assets/accents/dog/top-left.png') no-repeat left top;
-	box-shadow: $z-1;
+
+	.row {
+		background: $off-white url('/img/assets/accents/dog/top-left.png') no-repeat left top;
+		background-size: contain;
+		width: 100%;
+	}
+
+	@include breakpoint(medium) {
+		height: rem(249);
+		position: relative;
+
+		.row {
+			box-shadow: $z-1;
+			background-size: initial;
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: 10;
+			height: 100%;
+		}
+	}
+
+	@include breakpoint(large) {
+		height: rem(180);
+	}
 
 	aside {
 		position: absolute;

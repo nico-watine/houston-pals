@@ -1,2 +1,32 @@
 @import "../_settings.scss";
 
+main {
+	background-image: linear-gradient(0deg, rgba(255,255,255,0.00) 65%, rgba(255,255,255,0.00) 65%, $light-green 100%);
+
+	.content-wrapper {
+		padding: 0 rem(10);
+
+		.content {
+			@extend .row;
+			background: #fff;
+			box-shadow: $z-1;
+			border: 0 solid $dark-blue;
+			border-width: 0 rem(3);
+			padding: rem(12) 0;
+
+			.row {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+
+		@include breakpoint(medium) {
+			padding: 0 rem(20);
+		}
+
+		@include breakpoint(large) {
+			padding: 0 rem(30);
+		}
+	}
+}
+
