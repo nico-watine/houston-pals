@@ -10,12 +10,13 @@ main {
 
 		.content {
 			@extend .row;
-			background: #fff url('/img/assets/bg/paw/paw-default.png') right bottom no-repeat;
+			background: #fff url('/img/assets/bg/paw/paw-shadow.png') right bottom no-repeat;
+			background-size: 480px 513px;
 
 			@media #{$max-width-480} {
 				background-size: contain;	
 			}
-			
+
 			box-shadow: $z-1;
 			border: 0 solid $dark-blue;
 			border-width: 0 rem(3);
