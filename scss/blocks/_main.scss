@@ -10,7 +10,7 @@ main {
 
 		.content {
 			@extend .row;
-			background: #fff url('/img/assets/bg/paw/paw-shadow.png') right bottom no-repeat;
+			background: #fff url('#{$url}/img/assets/bg/paw/paw-shadow.png') right bottom no-repeat;
 			background-size: 480px 513px;
 
 			@media #{$max-width-480} {

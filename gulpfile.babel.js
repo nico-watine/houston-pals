@@ -39,9 +39,6 @@ function clean(done) {
 }
 
 // Copy files out of the assets folder
-// This task skips over the "img", "js", and "scss" folders, which are parsed separately
-// [ DEFAULT FOLDER CHANGED FROM '/ASSETS' TO '/' ]
-// [ THIS MAKES IT EASIER TO RIGHTCLICK->COPY PATH WHILE CODING]
 function copy() {
   return gulp.src(PATHS.assets)
     .pipe(gulp.dest(PATHS.dist + '/'));
@@ -69,7 +66,6 @@ function resetPages(done) {
 
 // Compile Sass into CSS
 // In production, the CSS is compressed
-// [ REMOVED SOURCE-MAPPING/ERROR-LOGGING FUNCTION]
 function sass() {
   return gulp.src('css/*.css')
     .pipe($.autoprefixer({
@@ -84,7 +80,6 @@ function sass() {
 
 // Combine JavaScript into one file
 // In production, the file is minified
-// [REMOVED SOURCE-MAPPING FUNCTION]
 function javascript() {
   return gulp.src(PATHS.javascript)
     .pipe($.babel())
@@ -96,23 +91,19 @@ function javascript() {
 }
 
 function javascript_other() {
-  return gulp.src('js/!(app-min).js')
+  return gulp.src('js/{{(**),!(src)/**},*.js}') // all sub-files and sub-folders except src
     .pipe(gulp.dest(PATHS.dist + '/js'));
 }
 
 // Copy over fonts
 function fonts() {
-  return gulp.src('fonts/**/*')
+  return gulp.src('fonts/**')
     .pipe(gulp.dest(PATHS.dist + '/fonts'));
 }
 
 // Copy images to the "dist" folder
-// In production, the images are compressed
-// [ DEFAULT FOLDER CHANGED FROM '/ASSETS' TO '/' ]
-// [ THIS MAKES IT EASIER TO RIGHTCLICK->COPY PATH WHILE CODING]
-// [ ALSO REMOVED THE 'IMAGEMIN' FUNCTION PER PERSONAL PREFERENCE OF GRAPHICS EDITING FLOW ]
 function images() {
-  return gulp.src('img/**/*')
+  return gulp.src('img/**')
     .pipe(gulp.dest(PATHS.dist + '/img'));
 }
 
@@ -125,7 +116,6 @@ function watch() {
   gulp.watch('src/pages/**/*.html', gulp.series(pages));
   gulp.watch('src/pages/**/*.php', gulp.series(pages));
   gulp.watch('src/{layouts,partials}/**/*.html', gulp.series(resetPages, pages));
-  // gulp.watch('scss/*.scss', sass);
   gulp.watch('css/*.css', sass);
   gulp.watch('js/src/*.js', gulp.series(javascript, javascript_other));
   gulp.watch('img/**/*', images);
