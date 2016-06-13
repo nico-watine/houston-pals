@@ -2,11 +2,9 @@
 
 import plugins  from 'gulp-load-plugins';
 import yargs    from 'yargs';
-import browser  from 'browser-sync';
 import gulp     from 'gulp';
 import panini   from 'panini';
 import rimraf   from 'rimraf';
-import sherpa   from 'style-sherpa';
 import yaml     from 'js-yaml';
 import fs       from 'fs';
 
@@ -46,7 +44,7 @@ function copy() {
 
 // Copy page templates into finished HTML files
 function pages() {
-  return gulp.src('src/pages/**/*.{html,php,hbs,handlebars}')
+  return gulp.src('src/pages/**/*.{html,php,htm,hbs,handlebars}') // <-must specify exactly what kind
     .pipe(panini({
       root: 'src/pages/',
       layouts: 'src/layouts/',
@@ -64,8 +62,7 @@ function resetPages(done) {
 }
 
 
-// Compile Sass into CSS
-// In production, the CSS is compressed
+// In production, compress CSS and append Autoprefixer
 function sass() {
   return gulp.src('css/*.css')
     .pipe($.autoprefixer({
@@ -73,13 +70,12 @@ function sass() {
     }))
     .pipe($.if(PRODUCTION, $.uncss(UNCSS_OPTIONS)))
     .pipe($.if(PRODUCTION, $.cssnano()))
-    .pipe(gulp.dest(PATHS.dist + '/css'))
-    .pipe(browser.reload({ stream: true }));
+    .pipe(gulp.dest(PATHS.dist + '/css'));
 }
 
 
-// Combine JavaScript into one file
-// In production, the file is minified
+// Combine Foundation JavaScript imports into one file (app.js)
+// In production, the file is minified (app-min.js)
 function javascript() {
   return gulp.src(PATHS.javascript)
     .pipe($.babel())
@@ -109,15 +105,12 @@ function images() {
 
 
 // Watch for changes to static assets, pages, Sass, and JavaScript
-// [ ALL OF THESE HAVE ALTERED PATHS: '/ASSETS' WAS REMOVED FROM PATHS]
-// [ IMAGES STILL TO BE ADJUSTED ]
 function watch() {
   gulp.watch(PATHS.assets, copy);
-  gulp.watch('src/pages/**/*.html', gulp.series(pages));
-  gulp.watch('src/pages/**/*.php', gulp.series(pages));
+  gulp.watch('src/pages/**', gulp.series(pages)); // <-watch for any type of additions
   gulp.watch('src/{layouts,partials}/**/*.html', gulp.series(resetPages, pages));
   gulp.watch('css/*.css', sass);
-  gulp.watch('js/src/*.js', gulp.series(javascript, javascript_other));
-  gulp.watch('img/**/*', images);
-  gulp.watch('fonts/**/*', fonts);
+  gulp.watch('js/**', gulp.series(javascript, javascript_other));
+  gulp.watch('img/**', images);
+  gulp.watch('fonts/**', fonts);
 }
