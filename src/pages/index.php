@@ -10,12 +10,12 @@ body-class:
 ---
 <div class="row" id="intro">
 	<div class="medium-5 columns text-center" id="profile-pic">
-		<h1 class="title show-for-small-only">About PALS</h1>
+		<h1 class="title show-for-small-only"><span>About</span> PALS</h1>
 		<img src="{{ cdn }}/img/about/bill-default.jpg" alt="Bill Bickley">
 	</div>
 	<div class="medium-7 large-6 columns end">
 		<div class="prose">
-			<h1 class="title show-for-medium">About PALS</h1>
+			<h1 class="title show-for-medium"><span>About</span> PALS</h1>
 			<h2>In 2013, Bill Bickley, a licensed Orthotist and Prosthetist with over 20 years of experience, founded Pet Artificial Limbs and Supports (PALS) in Houston, Texas.</h2>
 		</div>
 	</div>

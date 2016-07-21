@@ -1,0 +1,87 @@
+@import "../../_settings.scss";
+
+body#contact {
+	.content-wrapper {
+		.content {
+			padding: 0;
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	body#contact {
+		#contact-info-panel {
+			position: relative;
+			width: rem(470);
+			// height: rem(690);
+
+			.prose {
+				position: absolute;
+				top: 0;
+				left: 0;
+				background: #fff;
+				box-shadow: $z-1;
+				z-index: 10;
+				width: 100%;
+				// height: rem(690);
+				padding: rem(60) rem(30);
+
+				a {
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+
+				* {
+					line-height: 1.2;
+				}
+
+				h1 {
+					margin-bottom: rem(30);
+				}
+
+				h2 {
+					@extend .h3;
+					margin-bottom: rem(18);
+				}
+
+				h3 {
+					@extend .h4;
+
+					small {
+						@extend .body-font;
+						display: block;
+						letter-spacing: 0;
+						color: $black;
+						font-size: rem(16);
+					}
+				}
+
+				.address-box {
+					margin-bottom: rem(55);
+					line-height: 1.4 !important;
+				}
+
+				address {
+					font-size: rem(23);
+				}
+
+				.profile-box {
+					p {
+						font-size: rem(23);
+						margin-bottom: rem(8);
+					}
+				}
+			}
+		}
+
+		#interactive-map {
+			height: rem(560);
+		}
+	}
+}
+
+
+
+
+
