@@ -26,7 +26,7 @@
 body#contact {
 	#contact-info-panel {
 		.prose {
-			background: #fff url('/img/contact/header/medium/map-header.jpg') no-repeat center top;
+			background: #fff url('#{$url}/img/contact/header/medium/map-header.jpg') no-repeat center top;
 			background-size: auto rem(160);
 			padding: rem(40) rem(16) rem(20);
 
