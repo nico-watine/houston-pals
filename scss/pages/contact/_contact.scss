@@ -1,115 +1,15 @@
 @import "../../_settings.scss";
 
-body#contact {
+@import "_small.scss";
+@import "_medium.scss";
+@import "_large.scss";
 
+
+body#contact {
 	.content-wrapper {
 		.content {
 			padding: 0;
 		}
 	}
 }
-
-@include breakpoint(medium) {
-	body#contact {
-		#contact-info-panel {
-			padding: 0 0 rem(5);
-
-			.prose {
-				background: #fff url('/img/contact/header/medium/map-header.jpg') no-repeat center top;
-				background-size: contain;
-				padding: rem(80) rem(30) rem(20);
-
-				a {
-					&:hover {
-						text-decoration: underline;
-					}
-				}
-
-				* {
-					line-height: 1.2;
-				}
-
-				h1 {
-					margin-bottom: rem(20);
-					text-align: center;
-					text-shadow: 0 rem(2) rem(2) #fff;
-				}
-
-				h2 {
-					@extend .h3;
-					margin-bottom: rem(30);
-				}
-
-				h3 {
-					@extend .h4;
-
-					small {
-						@extend .body-font;
-						display: block;
-						letter-spacing: 0;
-						color: $black;
-						font-size: rem(16);
-					}
-				}
-
-				.address-box {
-					margin-bottom: rem(40);
-					line-height: 1.4 !important;
-				}
-
-				address {
-					font-size: rem(23);
-				}
-
-				.profile-box {
-					p {
-						font-size: rem(23);
-						margin-bottom: rem(8);
-					}
-				}
-			}
-		}
-
-		#interactive-map {
-			height: rem(560);
-		}
-	}
-}
-
-@include breakpoint(large) {
-	body#contact {
-		#contact-info-panel {
-			height: rem(600);
-			padding: 0 rem(5) 0 0;
-
-			.prose {
-				background: #fff;
-				box-shadow: $z-1;
-				height: rem(600);
-				width: 100%;
-				padding: rem(60) rem(30) 0;
-
-				h1 {
-					text-align: left;
-				}
-			}
-		}
-
-		#interactive-map {
-			height: rem(600);
-			position: relative;
-
-			.click-overlay {
-				width: 100%;
-				min-height: rem(600);
-				position: absolute;
-				top: 0;
-			}
-		}
-	}
-}
-
-
-
-
 

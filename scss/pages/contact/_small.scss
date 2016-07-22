@@ -1,0 +1,67 @@
+@import "../../_settings.scss";
+
+@include breakpoint(small only) {
+	body#contact {
+		#contact-info-panel {
+			.prose {
+				h1 {
+					font-size: rem(36);
+				}
+
+				#address-box,
+				#profile-box {
+					margin-bottom: rem(18);
+
+					p,
+					address,
+					a {
+						font-size: rem(18);
+						margin-bottom: 0;
+					}
+				}
+			}
+		}
+	}
+}
+body#contact {
+	#contact-info-panel {
+		.prose {
+			background: #fff url('/img/contact/header/medium/map-header.jpg') no-repeat center top;
+			background-size: auto rem(160);
+			padding: rem(40) rem(16) rem(20);
+
+			a {
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+
+			h1 {
+				margin-bottom: rem(20);
+				text-align: center;
+				text-shadow: 0 rem(2) rem(2) #fff;
+			}
+
+			h2 {
+				font-size: rem(26);
+				margin-bottom: rem(16);
+			}
+
+			h3 {
+				font-size: rem(22);
+			}
+
+			#profile-box {
+				h3 {
+					small {
+						@extend .body-font;
+						display: block;
+						letter-spacing: 0;
+						color: $black;
+						line-height: 1.2;	
+					}
+				}
+			}
+		}
+	}
+}

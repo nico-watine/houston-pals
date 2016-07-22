@@ -10,24 +10,20 @@ body-class:
 ---
 <div class="row collapse">
 	<div id="contact-info-panel" class="large-4 columns">
-		<!-- <img src="{{ cdn }}/img/contact/header/medium/map-header.jpg" alt="" class="show-for-medium-only"> -->
 		<div class="prose">
 			<h1 class="title">Contact</h1>
 			<h2>Come visit our new clinic!</h2>
 			<div class="row collapse">
-				<div class="medium-6 large-12 columns">
+				<div class="medium-6 large-12 columns" id="address-box">
 					<h3>Address</h3>
-					<div class="address-box">
-						<address>3015 S Main St<br>Stafford, TX 77477</address>
-						<a target="_blank" href="https://goo.gl/maps/Xssv72Hv7Vw">Map Link</a>
-					</div>
+					<address>3015 S Main St<br>Stafford, TX 77477</address>
+					<a target="_blank" href="https://goo.gl/maps/Xssv72Hv7Vw">Map Link</a>
 				</div>
-				<div class="medium-6 large-12 columns">
+				<hr class="hide-for-medium-only">
+				<div class="medium-6 large-12 columns" id="profile-box">
 					<h3>Bill Bickley | <span class="body-font">Owner</span><small><i>Licensed Orthotist &amp; Prosthetist</i></small></h3>
-					<div class="profile-box">
-						<p>832-444-8384</p>
-						<p><a href="#">HoustonPALS@AOL.com</a></p>
-					</div>
+					<p>832-444-8384</p>
+					<p><a href="#">HoustonPALS@AOL.com</a></p>
 				</div>
 			</div>
 		</div>

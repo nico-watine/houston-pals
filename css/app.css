@@ -1002,7 +1002,7 @@ footer #contact-deets a:hover { text-decoration: underline; }
 
 .heading, header ul.menu li a { font-family: "Muller Medium", sans-serif; font-weight: 400; }
 
-.body-font, body#contact #contact-info-panel .prose h3 small { font-family: "Open Sans", Helvetica, Roboto, Arial, sans-serif; font-weight: 300; }
+.body-font, body#contact #contact-info-panel .prose #profile-box h3 small { font-family: "Open Sans", Helvetica, Roboto, Arial, sans-serif; font-weight: 300; }
 
 @media screen and (min-width: 40em) { p { font-size: 1.125rem; } }
 
@@ -1016,9 +1016,9 @@ a#colorful-name-hover:hover span.blue { color: #fff; background: #30659B; }
 
 @media screen and (min-width: 40em) { .h2 { font-size: 2.5rem; } }
 
-.h3, body#contact #contact-info-panel .prose h2 { font-size: 1.1875rem; }
+.h3 { font-size: 1.1875rem; }
 
-@media screen and (min-width: 40em) { .h3, body#contact #contact-info-panel .prose h2 { font-size: 1.9375rem; } }
+@media screen and (min-width: 40em) { .h3 { font-size: 1.9375rem; } }
 
 .h4, body#contact #contact-info-panel .prose h3 { font-size: 1.125rem; }
 
@@ -1026,33 +1026,48 @@ a#colorful-name-hover:hover span.blue { color: #fff; background: #30659B; }
 
 address { font-style: normal; }
 
-.p-0 { padding: 0; }
+.p-0 { padding: 0 !important; }
 
-.m-0 { margin: 0; }
+.m-0 { margin: 0 !important; }
 
-.p-x { padding: 0 1rem; }
+.p-x { padding: 0 1rem !important; }
 
-.p-y { padding: 1rem 0; }
+.p-y { padding: 1rem 0 !important; }
 
-body#contact .content-wrapper .content { padding: 0; }
+@media screen and (max-width: 39.9375em) { body#contact #contact-info-panel .prose h1 { font-size: 2.25rem; }
+  body#contact #contact-info-panel .prose #address-box, body#contact #contact-info-panel .prose #profile-box { margin-bottom: 1.125rem; }
+  body#contact #contact-info-panel .prose #address-box p, body#contact #contact-info-panel .prose #address-box address, body#contact #contact-info-panel .prose #address-box a, body#contact #contact-info-panel .prose #profile-box p, body#contact #contact-info-panel .prose #profile-box address, body#contact #contact-info-panel .prose #profile-box a { font-size: 1.125rem; margin-bottom: 0; } }
 
-@media screen and (min-width: 40em) { body#contact #contact-info-panel { padding: 0 0 0.3125rem; }
-  body#contact #contact-info-panel .prose { background: #fff url("/img/contact/header/medium/map-header.jpg") no-repeat center top; background-size: contain; padding: 5rem 1.875rem 1.25rem; }
-  body#contact #contact-info-panel .prose a:hover { text-decoration: underline; }
-  body#contact #contact-info-panel .prose * { line-height: 1.2; }
-  body#contact #contact-info-panel .prose h1 { margin-bottom: 1.25rem; text-align: center; text-shadow: 0 0.125rem 0.125rem #fff; }
-  body#contact #contact-info-panel .prose h2 { margin-bottom: 1.875rem; }
-  body#contact #contact-info-panel .prose h3 small { display: block; letter-spacing: 0; color: #0a0a0a; font-size: 1rem; }
+body#contact #contact-info-panel .prose { background: #fff url("/img/contact/header/medium/map-header.jpg") no-repeat center top; background-size: auto 10rem; padding: 2.5rem 1rem 1.25rem; }
+
+body#contact #contact-info-panel .prose a:hover { text-decoration: underline; }
+
+body#contact #contact-info-panel .prose h1 { margin-bottom: 1.25rem; text-align: center; text-shadow: 0 0.125rem 0.125rem #fff; }
+
+body#contact #contact-info-panel .prose h2 { font-size: 1.625rem; margin-bottom: 1rem; }
+
+body#contact #contact-info-panel .prose h3 { font-size: 1.375rem; }
+
+body#contact #contact-info-panel .prose #profile-box h3 small { display: block; letter-spacing: 0; color: #0a0a0a; line-height: 1.2; }
+
+@media screen and (min-width: 40em) { body#contact #contact-info-panel .prose { background: #fff url("/img/contact/header/medium/map-header.jpg") no-repeat center top; background-size: auto 14.375rem; padding: 5rem 1.875rem 1.25rem; }
+  body#contact #contact-info-panel .prose h1 { line-height: 1.2; }
+  body#contact #contact-info-panel .prose h2 { font-size: 1.9375rem; margin-bottom: 1.875rem; }
+  body#contact #contact-info-panel .prose h3 small { font-size: 1rem; }
+  body#contact #contact-info-panel .prose #address-box, body#contact #contact-info-panel .prose #profile-box { margin-bottom: 1.125rem; }
+  body#contact #contact-info-panel .prose #address-box p, body#contact #contact-info-panel .prose #address-box address, body#contact #contact-info-panel .prose #address-box a, body#contact #contact-info-panel .prose #profile-box p, body#contact #contact-info-panel .prose #profile-box address, body#contact #contact-info-panel .prose #profile-box a { font-size: 1.125rem; margin-bottom: 0; }
   body#contact #contact-info-panel .prose .address-box { margin-bottom: 2.5rem; line-height: 1.4 !important; }
   body#contact #contact-info-panel .prose address { font-size: 1.4375rem; }
-  body#contact #contact-info-panel .prose .profile-box p { font-size: 1.4375rem; margin-bottom: 0.5rem; }
-  body#contact #interactive-map { height: 35rem; } }
+  body#contact #contact-info-panel .prose .profile-box p { font-size: 1.4375rem; margin-bottom: 0.5rem; } }
 
 @media screen and (min-width: 64em) { body#contact #contact-info-panel { height: 37.5rem; padding: 0 0.3125rem 0 0; }
   body#contact #contact-info-panel .prose { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); height: 37.5rem; width: 100%; padding: 3.75rem 1.875rem 0; }
   body#contact #contact-info-panel .prose h1 { text-align: left; }
+  body#contact #contact-info-panel .prose h2 { line-height: 1.2; }
   body#contact #interactive-map { height: 37.5rem; position: relative; }
   body#contact #interactive-map .click-overlay { width: 100%; min-height: 37.5rem; position: absolute; top: 0; } }
+
+body#contact .content-wrapper .content { padding: 0; }
 
 body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content { margin-bottom: 1.5625rem; padding-top: 1.25rem; }
 

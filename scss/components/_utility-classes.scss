@@ -3,18 +3,18 @@
 
 // NO PADDING
 .p-0 {
-	padding: 0;
+	padding: 0 !important;
 }
 
 // NO MARGIN
 .m-0 {
-	margin: 0;
+	margin: 0 !important;
 }
 
 .p-x {
-	padding: 0 rem(16);
+	padding: 0 rem(16) !important;
 }
 
 .p-y {
-	padding: rem(16) 0;
+	padding: rem(16) 0 !important;
 }
