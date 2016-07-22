@@ -1,7 +1,6 @@
 @import "../../_settings.scss";
 
 body#contact {
-	min-height: 2000px;
 
 	.content-wrapper {
 		.content {
@@ -16,8 +15,9 @@ body#contact {
 			padding: 0 0 rem(5);
 
 			.prose {
-				box-shadow: $z-1;
-				padding: rem(50) rem(30) rem(20);
+				background: #fff url('/img/contact/header/medium/map-header.jpg') no-repeat center top;
+				background-size: contain;
+				padding: rem(80) rem(30) rem(20);
 
 				a {
 					&:hover {
@@ -31,6 +31,8 @@ body#contact {
 
 				h1 {
 					margin-bottom: rem(20);
+					text-align: center;
+					text-shadow: 0 rem(2) rem(2) #fff;
 				}
 
 				h2 {
@@ -84,9 +86,12 @@ body#contact {
 				background: #fff;
 				box-shadow: $z-1;
 				height: rem(600);
-				z-index: 10;
 				width: 100%;
 				padding: rem(60) rem(30) 0;
+
+				h1 {
+					text-align: left;
+				}
 			}
 		}
 

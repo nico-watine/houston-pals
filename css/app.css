@@ -1034,15 +1034,13 @@ address { font-style: normal; }
 
 .p-y { padding: 1rem 0; }
 
-body#contact { min-height: 2000px; }
-
 body#contact .content-wrapper .content { padding: 0; }
 
 @media screen and (min-width: 40em) { body#contact #contact-info-panel { padding: 0 0 0.3125rem; }
-  body#contact #contact-info-panel .prose { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding: 3.125rem 1.875rem 1.25rem; }
+  body#contact #contact-info-panel .prose { background: #fff url("/img/contact/header/medium/map-header.jpg") no-repeat center top; background-size: contain; padding: 5rem 1.875rem 1.25rem; }
   body#contact #contact-info-panel .prose a:hover { text-decoration: underline; }
   body#contact #contact-info-panel .prose * { line-height: 1.2; }
-  body#contact #contact-info-panel .prose h1 { margin-bottom: 1.25rem; }
+  body#contact #contact-info-panel .prose h1 { margin-bottom: 1.25rem; text-align: center; text-shadow: 0 0.125rem 0.125rem #fff; }
   body#contact #contact-info-panel .prose h2 { margin-bottom: 1.875rem; }
   body#contact #contact-info-panel .prose h3 small { display: block; letter-spacing: 0; color: #0a0a0a; font-size: 1rem; }
   body#contact #contact-info-panel .prose .address-box { margin-bottom: 2.5rem; line-height: 1.4 !important; }
@@ -1051,7 +1049,8 @@ body#contact .content-wrapper .content { padding: 0; }
   body#contact #interactive-map { height: 35rem; } }
 
 @media screen and (min-width: 64em) { body#contact #contact-info-panel { height: 37.5rem; padding: 0 0.3125rem 0 0; }
-  body#contact #contact-info-panel .prose { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); height: 37.5rem; z-index: 10; width: 100%; padding: 3.75rem 1.875rem 0; }
+  body#contact #contact-info-panel .prose { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); height: 37.5rem; width: 100%; padding: 3.75rem 1.875rem 0; }
+  body#contact #contact-info-panel .prose h1 { text-align: left; }
   body#contact #interactive-map { height: 37.5rem; position: relative; }
   body#contact #interactive-map .click-overlay { width: 100%; min-height: 37.5rem; position: absolute; top: 0; } }
 

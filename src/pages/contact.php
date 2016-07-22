@@ -10,6 +10,7 @@ body-class:
 ---
 <div class="row collapse">
 	<div id="contact-info-panel" class="large-4 columns">
+		<!-- <img src="{{ cdn }}/img/contact/header/medium/map-header.jpg" alt="" class="show-for-medium-only"> -->
 		<div class="prose">
 			<h1 class="title">Contact</h1>
 			<h2>Come visit our new clinic!</h2>
@@ -31,7 +32,7 @@ body-class:
 			</div>
 		</div>
 	</div>
-	<div id="interactive-map" class="large-8 columns">
+	<div id="interactive-map" class="show-for-large large-8 columns">
 		<div class="click-overlay" onClick="style.pointerEvents='none'"></div>
 		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27748.673491062167!2d-95.5698756!3d29.6157717!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640e882a3d1c8e5%3A0xc59313a6509c49f6!2s3015+S+Main+St%2C+Stafford%2C+TX+77477!5e0!3m2!1sen!2sus!4v1469195916554" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 	</div>
