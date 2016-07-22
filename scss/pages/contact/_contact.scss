@@ -1,6 +1,8 @@
 @import "../../_settings.scss";
 
 body#contact {
+	min-height: 2000px;
+
 	.content-wrapper {
 		.content {
 			padding: 0;
@@ -11,20 +13,11 @@ body#contact {
 @include breakpoint(medium) {
 	body#contact {
 		#contact-info-panel {
-			position: relative;
-			width: rem(470);
-			// height: rem(690);
+			padding: 0 0 rem(5);
 
 			.prose {
-				position: absolute;
-				top: 0;
-				left: 0;
-				background: #fff;
 				box-shadow: $z-1;
-				z-index: 10;
-				width: 100%;
-				// height: rem(690);
-				padding: rem(60) rem(30);
+				padding: rem(50) rem(30) rem(20);
 
 				a {
 					&:hover {
@@ -37,12 +30,12 @@ body#contact {
 				}
 
 				h1 {
-					margin-bottom: rem(30);
+					margin-bottom: rem(20);
 				}
 
 				h2 {
 					@extend .h3;
-					margin-bottom: rem(18);
+					margin-bottom: rem(30);
 				}
 
 				h3 {
@@ -58,7 +51,7 @@ body#contact {
 				}
 
 				.address-box {
-					margin-bottom: rem(55);
+					margin-bottom: rem(40);
 					line-height: 1.4 !important;
 				}
 
@@ -77,6 +70,36 @@ body#contact {
 
 		#interactive-map {
 			height: rem(560);
+		}
+	}
+}
+
+@include breakpoint(large) {
+	body#contact {
+		#contact-info-panel {
+			height: rem(600);
+			padding: 0 rem(5) 0 0;
+
+			.prose {
+				background: #fff;
+				box-shadow: $z-1;
+				height: rem(600);
+				z-index: 10;
+				width: 100%;
+				padding: rem(60) rem(30) 0;
+			}
+		}
+
+		#interactive-map {
+			height: rem(600);
+			position: relative;
+
+			.click-overlay {
+				width: 100%;
+				min-height: rem(600);
+				position: absolute;
+				top: 0;
+			}
 		}
 	}
 }
