@@ -5,3 +5,4 @@ dist
 config.codekit
 *.sublime-project
 *.sublime-workspace
+_ignores/google-maps-api-key.txt

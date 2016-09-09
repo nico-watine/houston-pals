@@ -15,6 +15,10 @@ body#about {
 			h1 {
 				font-size: rem(32);
 				margin-bottom: rem(16);
+
+				span {
+					text-transform: none;
+				}
 			}
 
 			img {
@@ -40,6 +44,12 @@ body#about {
 
 			@include breakpoint(medium) {
 				padding-top: rem(45);
+
+				h1 {
+					span {
+						text-transform: none;
+					}
+				}
 
 				h2 {
 					font-size: rem(22);

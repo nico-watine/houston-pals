@@ -1,0 +1,15 @@
+@import "../../_settings.scss";
+
+@import "_small.scss";
+@import "_medium.scss";
+@import "_large.scss";
+
+
+body#contact {
+	.content-wrapper {
+		.content {
+			padding: 0;
+		}
+	}
+}
+

@@ -6,12 +6,18 @@
 	font-family: $title-font;
 	font-weight: $title-weight;
 	color: $dark-blue;
+	text-transform: uppercase;
 	letter-spacing: rem(2);
 }
 
 .heading {
 	font-family: $header-font;
 	font-weight: $header-weight;
+}
+
+.body-font {
+	font-family: $body-font-family;
+	font-weight: $global-weight-normal;
 }
 
 p {
@@ -41,4 +47,33 @@ a#colorful-name-hover {
 			background: $dark-blue;
 		}
 	}
+}
+
+// FOR SASS REFERENCE ONLY ::
+.h2 {
+	font-size: rem(20);
+
+	@include breakpoint(medium) {
+		font-size: rem(40);
+	}
+}
+
+.h3 {
+	font-size: rem(19);
+
+	@include breakpoint(medium) {
+		font-size: rem(31);
+	}
+}
+
+.h4 {
+	font-size: rem(18);
+
+	@include breakpoint(medium) {
+		font-size: rem(25);
+	}
+}
+
+address {
+	font-style: normal;
 }
