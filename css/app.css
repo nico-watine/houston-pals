@@ -1094,8 +1094,6 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
 
 body.coming-soon #top-row { padding-top: 4.375rem; padding-bottom: 4.375rem; }
 
-@media screen and (max-width: 39.9375em) { body.coming-soon #top-row { text-align: center; } }
-
-body.coming-soon #top-row h1 { font-size: 2rem; }
-
-body.coming-soon #top-row h2 { font-size: 1.375rem; }
+@media screen and (max-width: 39.9375em) { body.coming-soon #top-row { text-align: center; }
+  body.coming-soon #top-row h1 { font-size: 2rem; }
+  body.coming-soon #top-row h2 { font-size: 1.375rem; } }

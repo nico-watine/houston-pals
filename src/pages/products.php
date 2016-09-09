@@ -9,8 +9,8 @@ body-id:
 body-class: coming-soon
 ---
 <div class="row" id="top-row">
-	<div class="medium-push-1 medium-11 columns">
-		<h1 class="title">Blog</h1>
+	<div class="medium-push-1 medium-10 columns">
+		<h1 class="title">Products</h1>
 		<h2>Coming Soon</h2>
 	</div>
 </div>
