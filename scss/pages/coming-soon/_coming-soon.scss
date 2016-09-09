@@ -1,0 +1,20 @@
+@import "../../_settings.scss";
+
+body.coming-soon {
+	#top-row {
+		padding-top: rem(70);
+		padding-bottom: rem(70);
+
+		@include breakpoint(small only) {
+			text-align: center;
+		}
+
+		h1 {
+			font-size: rem(32);
+		}
+
+		h2 {
+			font-size: rem(22);
+		}
+	}
+}
