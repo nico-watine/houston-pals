@@ -907,9 +907,9 @@ p + .stat { margin-top: -1rem; }
 
 .clearfix::after { clear: both; }
 
-body { background: #F7F7F7 url("http://cdn.studionclient.rocks/project/hpals/img/assets/bg/hex.png") repeat; }
+body { background: #F7F7F7 url("/img/assets/bg/hex.png") repeat; }
 
-header .row, header main .content-wrapper .content, main .content-wrapper header .content { background: #F7F7F7 url("http://cdn.studionclient.rocks/project/hpals/img/assets/accents/dog/top-left.png") no-repeat left top; background-size: contain; width: 100%; }
+header .row, header main .content-wrapper .content, main .content-wrapper header .content { background: #F7F7F7 url("/img/assets/accents/dog/top-left.png") no-repeat left top; background-size: contain; width: 100%; }
 
 @media screen and (min-width: 40em) { header { height: 15.5625rem; position: relative; }
   header .row, header main .content-wrapper .content, main .content-wrapper header .content { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background-size: initial; position: absolute; top: 0; left: 0; z-index: 10; height: 100%; } }
@@ -958,7 +958,7 @@ main { background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 65%, rgba(
 
 main .content-wrapper { padding: 0 0.625rem; }
 
-main .content-wrapper .content { background: #fff url("http://cdn.studionclient.rocks/project/hpals/img/assets/bg/paw/paw-shadow.png") right bottom no-repeat; background-size: 480px 513px; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0 solid #30659B; border-width: 0 0.1875rem; padding: 0.75rem 0; }
+main .content-wrapper .content { background: #fff url("/img/assets/bg/paw/paw-shadow.png") right bottom no-repeat; background-size: 480px 513px; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0 solid #30659B; border-width: 0 0.1875rem; padding: 0.75rem 0; }
 
 @media only screen and (max-width: 30.000em) { main .content-wrapper .content { background-size: contain; } }
 
@@ -986,11 +986,11 @@ footer #contact-deets a { color: #fff; margin-bottom: 0.75rem; display: inline-b
 
 footer #contact-deets a:hover { text-decoration: underline; }
 
-@font-face { font-family: 'Muller ExtraBold'; src: url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
+@font-face { font-family: 'Muller ExtraBold'; src: url("/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
 
-@font-face { font-family: 'Muller Medium'; src: url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-medium/muller-medium.eot"); /* IE9 Compat Modes */ src: url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-medium/muller-medium.woff") format("woff"), url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("http://cdn.studionclient.rocks/project/hpals/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
+@font-face { font-family: 'Muller Medium'; src: url("/fonts/muller-medium/muller-medium.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
-@font-face { font-family: 'hpals'; src: url("http://cdn.studionclient.rocks/project/hpals/fonts/hpals/hpals.eot"); /* IE9 Compat Modes */ src: url("http://cdn.studionclient.rocks/project/hpals/fonts/hpals/hpals.eot?#iefix") format("embedded-opentype"), url("http://cdn.studionclient.rocks/project/hpals/fonts/hpals/hpals.woff") format("woff"), url("http://cdn.studionclient.rocks/project/hpals/fonts/hpals/hpals.ttf") format("truetype"), url("http://cdn.studionclient.rocks/project/hpals/fonts/hpals/hpals.svg#7b3dfe618a1c5dace8a036c82010d708") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
+@font-face { font-family: 'hpals'; src: url("/fonts/hpals/hpals.eot"); /* IE9 Compat Modes */ src: url("/fonts/hpals/hpals.eot?#iefix") format("embedded-opentype"), url("/fonts/hpals/hpals.woff") format("woff"), url("/fonts/hpals/hpals.ttf") format("truetype"), url("/fonts/hpals/hpals.svg#7b3dfe618a1c5dace8a036c82010d708") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
 .icon { font: normal 1rem hpals; }
 
@@ -1038,7 +1038,7 @@ address { font-style: normal; }
   body#contact #contact-info-panel .prose #address-box, body#contact #contact-info-panel .prose #profile-box { margin-bottom: 1.125rem; }
   body#contact #contact-info-panel .prose #address-box p, body#contact #contact-info-panel .prose #address-box address, body#contact #contact-info-panel .prose #address-box a, body#contact #contact-info-panel .prose #profile-box p, body#contact #contact-info-panel .prose #profile-box address, body#contact #contact-info-panel .prose #profile-box a { font-size: 1.125rem; margin-bottom: 0; } }
 
-body#contact #contact-info-panel .prose { background: #fff url("http://cdn.studionclient.rocks/project/hpals/img/contact/header/medium/map-header.jpg") no-repeat center top; background-size: auto 10rem; padding: 2.5rem 1rem 1.25rem; }
+body#contact #contact-info-panel .prose { background: #fff url("/img/contact/header/medium/map-header.jpg") no-repeat center top; background-size: auto 10rem; padding: 2.5rem 1rem 1.25rem; }
 
 body#contact #contact-info-panel .prose a:hover { text-decoration: underline; }
 
