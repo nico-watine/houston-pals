@@ -7,14 +7,14 @@ body.coming-soon {
 
 		@include breakpoint(small only) {
 			text-align: center;
-		}
+			
+			h1 {
+				font-size: rem(32);
+			}
 
-		h1 {
-			font-size: rem(32);
-		}
-
-		h2 {
-			font-size: rem(22);
+			h2 {
+				font-size: rem(22);
+			}
 		}
 	}
 }
