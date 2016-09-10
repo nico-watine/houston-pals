@@ -1,2 +1,77 @@
 @import "../../_settings.scss";
 
+@import "_small.scss";
+@import "_medium.scss";
+@import "_large.scss";
+
+
+body#index {
+	.row#intro {
+		margin-bottom: rem(25);
+		padding-top: rem(20);
+
+		@include breakpoint(medium) {
+			margin-bottom: rem(35);
+		}
+
+		#profile-pic {
+			h1 {
+				font-size: rem(32);
+				margin-bottom: rem(16);
+
+				span {
+					text-transform: none;
+				}
+			}
+
+			img {
+				border: rem(3) solid $dark-blue;
+				box-shadow: $z-2;
+				margin-bottom: rem(30);
+
+				max-width: 315px;
+				height: auto;
+				width: 100%;
+			}
+
+			@include breakpoint(medium) {
+				text-align: right;
+
+				img {
+					margin-bottom: 0;
+				}
+			}
+		}
+
+		.prose {
+
+			@include breakpoint(medium) {
+				padding-top: rem(45);
+
+				h1 {
+					span {
+						text-transform: none;
+					}
+				}
+
+				h2 {
+					font-size: rem(22);
+				}
+			}
+
+			@media #{$max-width-760} {
+				padding-top: 0;
+			}
+
+			@include breakpoint(large) {
+				h2 {
+					font-size: rem(25);
+				}
+			}
+		}
+	}
+
+	.row#story {
+		margin-bottom: rem(30);
+	}
+}
