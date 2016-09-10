@@ -1,6 +1,14 @@
 @import "../../_settings.scss";
 
 body.coming-soon {
+	main {
+		.content-wrapper {
+			.content {
+				min-height: rem(400);
+			}
+		}
+	}
+
 	#top-row {
 		padding-top: rem(70);
 		padding-bottom: rem(70);
@@ -14,6 +22,19 @@ body.coming-soon {
 
 			h2 {
 				font-size: rem(22);
+			}
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	body.coming-soon {
+		main {
+			.content-wrapper {
+
+				.content {
+					min-height: rem(550);
+				}
 			}
 		}
 	}
