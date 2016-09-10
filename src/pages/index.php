@@ -1,13 +1,21 @@
 ---
-url: /about-pals
-title: About PALS
+url: /
+title: Welcome to PALS
 description:
-og-title: About PALS
+og-title: Welcome to PALS
 og-description:
 og-image:
-body-id: about
+body-id: index
 body-class:
 ---
+<div class="row medium-collapse" id="tagline">
+	<div class="medium-6 columns vertical-wrapper">
+		<h2 class="title">Custom made orthotics and prosthetics for your pet</h2>
+	</div>
+	<div class="medium-6 columns image-wrapper">
+		<img src="/img/index/dog_circles.png" alt="">
+	</div>
+</div>
 <div class="row" id="intro">
 	<div class="medium-5 columns text-center" id="profile-pic">
 		<h1 class="title show-for-small-only"><span>About</span> PALS</h1>

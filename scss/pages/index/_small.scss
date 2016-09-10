@@ -1,0 +1,28 @@
+@import "../../_settings.scss";
+
+
+
+body#index {
+	.row#tagline {
+
+		.image-wrapper {
+			text-align: center;
+
+			img {
+				width: 100%;
+				max-width: 400px;
+			}
+		}
+
+		.vertical-wrapper {
+
+			h2 {
+				padding: rem(16) 0;
+				text-align: center;
+				text-transform: none;
+				letter-spacing: 0;
+			}
+		}
+	}
+}
+
