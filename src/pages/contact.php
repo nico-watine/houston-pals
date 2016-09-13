@@ -1,5 +1,5 @@
 ---
-url: /contact
+url: /contact.php
 title: Contact Info
 description:
 og-title: Contact Info
