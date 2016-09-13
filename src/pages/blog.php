@@ -1,5 +1,5 @@
 ---
-url: /blog
+url: /blog.php
 title: Blog
 description:
 og-title: Blog
