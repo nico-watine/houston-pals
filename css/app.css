@@ -968,7 +968,7 @@ main .content-wrapper .content .row, main .content-wrapper .content .content { m
 
 @media screen and (min-width: 64em) { main .content-wrapper { padding: 0 1.875rem; } }
 
-footer { background: #30659B; padding: 3.125rem 0; color: #fff; }
+footer { background: #30659B; padding: 2.5rem 0; color: #fff; }
 
 footer ul.menu { display: inline-block; }
 
@@ -985,6 +985,14 @@ footer ul.menu li a:hover { color: #fff; text-decoration: underline; }
 footer #contact-deets a { color: #fff; margin-bottom: 0.75rem; display: inline-block; }
 
 footer #contact-deets a:hover { text-decoration: underline; }
+
+#snc-link { padding-top: 2.5rem; }
+
+#snc-link a { font-size: 0.75rem; letter-spacing: 0.075rem; color: #ddd; }
+
+#snc-link a span { text-decoration: underline; }
+
+#snc-link a:hover { color: #fff; text-decoration: underline; }
 
 @font-face { font-family: 'Muller ExtraBold'; src: url("/fonts/muller-extrabold/muller-extrabold.eot"); /* IE9 Compat Modes */ src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 700; }
 
