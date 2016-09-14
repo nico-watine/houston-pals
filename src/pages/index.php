@@ -1,10 +1,10 @@
 ---
 url: /
-title: Welcome to PALS
-description:
-og-title: Welcome to PALS
-og-description:
-og-image:
+title: Pet Artifical Limbs & Supports
+description: Custom made orthotics and prosthetics devices for your pet in Houston, TX
+og-title: Pet Artifical Limbs & Supports | Houston PALS
+og-description: Custom made orthotics and prosthetics devices for your pet in Houston, TX
+og-image: /img/assets/og/1/og-image-1.jpg
 body-id: index
 body-class:
 ---
