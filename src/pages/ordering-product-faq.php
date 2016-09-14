@@ -1,5 +1,5 @@
 ---
-url: /ordering-product-faq.php
+url: /ordering-product-faq
 title: Ordering & Product FAQ
 description:
 og-title: Ordering & Product FAQ

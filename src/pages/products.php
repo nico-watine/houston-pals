@@ -1,5 +1,5 @@
 ---
-url: /products.php
+url: /products
 title: Products
 description:
 og-title: Products

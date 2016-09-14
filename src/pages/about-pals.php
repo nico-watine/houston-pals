@@ -1,5 +1,5 @@
 ---
-url: /about-pals.php
+url: /about-pals
 title: About PALS
 description:
 og-title: About PALS
