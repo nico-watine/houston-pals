@@ -1,10 +1,10 @@
 ---
-url: /about-pals.php
-title: About PALS
-description:
-og-title: About PALS
-og-description:
-og-image:
+url: /about-pals
+title: About Us
+description: Meet Bill Bickley, the expert behind these pet artificial limbs & supports
+og-title: About Houston PALS
+og-description: Meet Bill Bickley, the expert behind Houston Pet Artificial Limbs & Supports
+og-image: /img/assets/og/1/og-image-1.jpg
 body-id: about
 body-class:
 ---

@@ -1,10 +1,10 @@
 ---
-url: /blog.php
-title: Blog
-description:
-og-title: Blog
-og-description:
-og-image:
+url: /blog
+title: Coming Soon - Blog
+description: Articles and guides on how to make the most of your pet's orthotic and prosthetic devices
+og-title: The Houston PALS Blog - Coming Soon
+og-description: Articles and guides on how to make the most of your pet's orthotic and prosthetic devices are coming soon
+og-image: /img/assets/og/1/og-image-1.jpg
 body-id: 
 body-class: coming-soon
 ---

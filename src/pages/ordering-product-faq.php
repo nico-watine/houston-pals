@@ -1,10 +1,10 @@
 ---
-url: /ordering-product-faq.php
-title: Ordering & Product FAQ
-description:
-og-title: Ordering & Product FAQ
-og-description:
-og-image:
+url: /ordering-product-faq
+title: Coming Soon - Ordering & Product FAQ
+description: The scoop on HPALS products and how to order
+og-title: Ordering & Product FAQ - Coming Soon
+og-description: The scoop on HPALS products and how to order yours is coming soon
+og-image: /img/assets/og/1/og-image-1.jpg
 body-id: 
 body-class: coming-soon
 ---
