@@ -2,7 +2,7 @@
 
 footer {
 	background: #30659B;
-	padding: rem(20) 0;
+	padding: rem(40) 0;
 	color: #fff;
 
 	ul.menu {
@@ -51,3 +51,21 @@ footer {
 	}
 }
 
+#snc-link {
+	padding-top: rem(40);
+
+	a {
+		font-size: rem(12);
+		letter-spacing: rem(1.2);
+		color: #ddd;
+
+		span {
+			text-decoration: underline;
+		}
+
+		&:hover {
+			color: #fff;
+			text-decoration: underline;
+		}
+	}
+}
