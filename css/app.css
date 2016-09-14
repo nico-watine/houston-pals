@@ -988,7 +988,7 @@ footer #contact-deets a:hover { text-decoration: underline; }
 
 #snc-link { padding-top: 2.5rem; }
 
-#snc-link a { font-size: 0.75rem; letter-spacing: 0.075rem; color: #ddd; }
+#snc-link a { font-size: 0.75rem; letter-spacing: 0.075rem; color: #ddd; font-weight: normal; }
 
 #snc-link a span { text-decoration: underline; }
 
