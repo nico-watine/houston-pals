@@ -968,7 +968,7 @@ main .content-wrapper .content .row, main .content-wrapper .content .content { m
 
 @media screen and (min-width: 64em) { main .content-wrapper { padding: 0 1.875rem; } }
 
-footer { background: #30659B; padding: 1.25rem 0; color: #fff; }
+footer { background: #30659B; padding: 3.125rem 0; color: #fff; }
 
 footer ul.menu { display: inline-block; }
 
