@@ -13,7 +13,7 @@ body-class:
 		<h2 class="title">Custom made orthotics and prosthetics for your pet</h2>
 	</div>
 	<div class="medium-6 columns image-wrapper">
-		<img src="/img/index/dog_circles.png" alt="">
+		<img src="/img/index/dog-trio/1/dog-trio.jpg" srcset="/img/index/dog-trio/1/dog-trio_2x.jpg 2x" alt="PALS Dogs">
 	</div>
 </div>
 <div class="row" id="intro">
