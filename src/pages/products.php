@@ -8,7 +8,7 @@ og-image: /img/assets/og/1/og-image-1.jpg
 body-id: products
 body-class: 
 ---
-<div class="row">
+<div class="row page-intro">
 	<div class="medium-push-1 medium-11 columns">
 		<h1 class="title">Products</h1>
 		<div class="row">

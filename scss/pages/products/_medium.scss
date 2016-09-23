@@ -1,1 +1,9 @@
 @import "../../_settings.scss";
+
+@include breakpoint(medium) {
+	body#products {
+		.row.page-intro {
+			padding: rem(40) 0;
+		}
+	}
+}

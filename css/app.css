@@ -1079,6 +1079,8 @@ body#index .row#intro #profile-pic img, body#index main .content-wrapper #intro.
 
 body#index .row#story, body#index main .content-wrapper #story.content, main .content-wrapper body#index #story.content { margin-bottom: 1.875rem; }
 
+@media screen and (min-width: 40em) { body#products .row.page-intro, body#products main .content-wrapper .page-intro.content, main .content-wrapper body#products .page-intro.content { padding: 2.5rem 0; } }
+
 body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content { margin-bottom: 1.5625rem; padding-top: 1.25rem; }
 
 @media screen and (min-width: 40em) { body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content { margin-bottom: 2.1875rem; } }
