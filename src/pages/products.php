@@ -34,7 +34,7 @@ layout: products
 				</div>
 				<div class="row">
 					<div class="medium-6 columns">
-						<img src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
+						<img class="frame" src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
 					</div>
 					<div class="medium-6 columns">
 
