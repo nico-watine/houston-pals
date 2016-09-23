@@ -1,0 +1,7 @@
+@import "../_settings.scss";
+
+img.frame {
+	border: rem(3) solid $dark-blue;
+	box-shadow: $z-2;
+	margin-bottom: rem(8);
+}
