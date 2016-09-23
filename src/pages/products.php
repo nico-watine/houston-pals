@@ -7,6 +7,7 @@ og-description: More info on products for Pet Artificial Limbs & Supports coming
 og-image: /img/assets/og/1/og-image-1.jpg
 body-id: products
 body-class: 
+layout: products
 ---
 <div class="row page-intro">
 	<div class="medium-push-1 medium-11 columns">
