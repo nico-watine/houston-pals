@@ -11,10 +11,10 @@ body-class:
 <div class="row">
 	<div class="medium-push-1 medium-11 columns">
 		<h1 class="title">Products</h1>
-	</div>
-</div>
-<div class="row">
-	<div class="medium-push-1 medium-11 large-push-2 large-10 columns">
-		<h3>We specialize in two main types of products - Orthotics and Prosthetics.</h3>
+		<div class="row">
+			<div class="medium-push-1 medium-11 columns">
+				<h3>We specialize in two main types of products - Orthotics and Prosthetics.</h3>
+			</div>
+		</div>
 	</div>
 </div>
