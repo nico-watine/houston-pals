@@ -27,17 +27,24 @@ layout: products
 	<div class="row expanded">
 		<div class="medium-6 columns">
 			<div class="product-block">
-				<div class="row">
+				<div class="row description">
 					<h2 class="title text-center">Orthotics</h2>
 					<h3 class="text-center">Custom Bracing</h3>
-					<p class="large">An Orthosis can improve the quality of life and mobility of an animal for a wide variety of conditions.</p>
+					<p>An Orthosis can improve the quality of life and mobility of an animal for a wide variety of conditions.</p>
 				</div>
-				<div class="row">
-					<div class="medium-6 columns">
+				<div class="row collapse">
+					<div class="medium-6 columns product-image">
 						<img class="frame" src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
 					</div>
-					<div class="medium-6 columns">
-
+					<div class="medium-6 columns reasons">
+						<p>These reasons include:</p>
+						<ul>
+							<li>Post-Surgical Support</li>
+							<li>Trauma</li>
+							<li>Birth Defect</li>
+							<li>Arthritis</li>
+							<li>Rehabilitation</li>
+						</ul>
 					</div>
 				</div>
 			</div>
