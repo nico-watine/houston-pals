@@ -5,5 +5,26 @@
 		.row.page-intro {
 			padding: rem(40) 0;
 		}
+
+		section.wide#product-definitions {
+			padding: rem(20);
+
+			.product-block {
+				padding: rem(20);
+
+				h2 {
+					margin: 0;
+				}
+
+				h3 {
+					margin-bottom: rem(16);
+				}
+
+				p.large {
+					font-size: rem(25);
+					line-height: 1.4;
+				}
+			}
+		}
 	}
 }

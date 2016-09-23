@@ -5,3 +5,13 @@
 @import "_large.scss";
 
 
+body#products {
+	section.wide#product-definitions {
+		width: 100%;
+		background: $dark-blue;
+
+		.product-block {
+			background: $off-white;
+		}
+	}
+}

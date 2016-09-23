@@ -23,3 +23,33 @@ layout: products
 		</div>
 	</div>
 </div>
+<section class="wide" id="product-definitions">
+	<div class="row expanded">
+		<div class="medium-6 columns">
+			<div class="product-block">
+				<div class="row">
+					<h2 class="title text-center">Orthotics</h2>
+					<h3 class="text-center">Custom Bracing</h3>
+					<p class="large">An Orthosis can improve the quality of life and mobility of an animal for a wide variety of conditions.</p>
+				</div>
+				<div class="row">
+					<div class="medium-6 columns">
+						<img src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
+					</div>
+					<div class="medium-6 columns">
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="product-block">
+				<div class="row">
+					<h2 class="title text-center">Prosthetics</h2>
+					<h3 class="text-center">Custom Artificial Limbs</h3>
+					<p class="large">A Prosthetic can improve an animal’s mobility and overall well-being, especially as they age.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
