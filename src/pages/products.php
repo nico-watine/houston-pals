@@ -37,7 +37,7 @@ layout: products
 						<img class="frame" src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
 					</div>
 					<div class="medium-6 columns reasons">
-						<p>These reasons include:</p>
+						<p>Orthotic devices are fitted for:</p>
 						<ul>
 							<li>Post-Surgical Support</li>
 							<li>Trauma</li>
