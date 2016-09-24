@@ -2664,7 +2664,12 @@ body#products section.wide#product-definitions {
       background: #30659B;
       border-radius: 0.3125rem;
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      font-size: 1.25rem; }
+      font-size: 1.25rem;
+      border: 0.125rem solid #30659B; }
+      body#products section.wide#product-definitions .product-block .ordering-button:hover {
+        background: #fff;
+        color: #30659B;
+        box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
 
 body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content {
   margin-bottom: 1.5625rem;

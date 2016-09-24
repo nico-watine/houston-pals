@@ -18,6 +18,14 @@ body#products {
 				border-radius: rem(5);
 				box-shadow: $z-1;
 				font-size: rem(20);
+				border: rem(2) solid $dark-blue;
+
+				&:hover {
+					background: #fff;
+					color: $dark-blue;
+					box-shadow: $z-2;
+					// border: rem(2) solid $dark-blue;
+				}
 			}
 		}
 	}
