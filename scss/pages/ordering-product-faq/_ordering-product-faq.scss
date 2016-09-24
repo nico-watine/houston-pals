@@ -10,6 +10,12 @@ body#ordering-product-faq {
 		padding: rem(20) 0;
 	}
 
+	.row.ordering-summary {
+		p {
+			margin-bottom: 0;
+		}
+	}
+
 	.row#contact-info {
 		padding-bottom: rem(20);
 		
@@ -28,7 +34,7 @@ body#ordering-product-faq {
 
 	.video-container {
 		.row {
-			padding: 0 0 rem(50);
+			padding: rem(40) 0;
 
 			.video-wrapper {
 				.iframe-wrapper {

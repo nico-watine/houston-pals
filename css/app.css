@@ -2695,10 +2695,15 @@ body#products section#animal-diversity {
 
 @media screen and (min-width: 40em) {
   body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
-    padding: 2.5rem 0; } }
+    padding: 2.5rem 0; }
+  body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
+    font-size: 1.5625rem; } }
 
 body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
   padding: 1.25rem 0; }
+
+body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
+  margin-bottom: 0; }
 
 body#ordering-product-faq .row#contact-info, body#ordering-product-faq main .content-wrapper #contact-info.content, main .content-wrapper body#ordering-product-faq #contact-info.content {
   padding-bottom: 1.25rem; }
@@ -2710,7 +2715,7 @@ body#ordering-product-faq .row#contact-info, body#ordering-product-faq main .con
       color: #1585cf; }
 
 body#ordering-product-faq .video-container .row, body#ordering-product-faq .video-container main .content-wrapper .content, main .content-wrapper body#ordering-product-faq .video-container .content {
-  padding: 0 0 3.125rem; }
+  padding: 2.5rem 0; }
   body#ordering-product-faq .video-container .row .video-wrapper .iframe-wrapper, body#ordering-product-faq .video-container main .content-wrapper .content .video-wrapper .iframe-wrapper, main .content-wrapper body#ordering-product-faq .video-container .content .video-wrapper .iframe-wrapper {
     width: 100%;
     position: relative;
