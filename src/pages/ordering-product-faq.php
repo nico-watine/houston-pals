@@ -18,6 +18,15 @@ body-class:
 		</div>
 	</div>
 </div>
+<div class="video-container">
+	<div class="row">
+		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
+			<div class="iframe-wrapper">
+				<iframe src="https://www.youtube.com/embed/FP0VMYZFKmM?rel=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
 <div class="row" id="contact-info">
 	<div class="medium-10 medium-push-1 large-8 large-push-2 columns">
 		<h3 style="margin-bottom: 0;" class="heading">Bill Bickley | Owner</h3>

@@ -2708,6 +2708,23 @@ body#ordering-product-faq .row#contact-info a.email, body#ordering-product-faq m
   body#ordering-product-faq .row#contact-info a.email:hover, body#ordering-product-faq main .content-wrapper #contact-info.content a.email:hover, main .content-wrapper body#ordering-product-faq #contact-info.content a.email:hover {
     color: #1585cf; }
 
+body#ordering-product-faq .video-container .row, body#ordering-product-faq .video-container main .content-wrapper .content, main .content-wrapper body#ordering-product-faq .video-container .content {
+  padding: 0 0 3.125rem; }
+  body#ordering-product-faq .video-container .row .video-wrapper .iframe-wrapper, body#ordering-product-faq .video-container main .content-wrapper .content .video-wrapper .iframe-wrapper, main .content-wrapper body#ordering-product-faq .video-container .content .video-wrapper .iframe-wrapper {
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    border: 0.3125em solid #fff;
+    box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+    body#ordering-product-faq .video-container .row .video-wrapper .iframe-wrapper iframe, body#ordering-product-faq .video-container main .content-wrapper .content .video-wrapper .iframe-wrapper iframe, main .content-wrapper body#ordering-product-faq .video-container .content .video-wrapper .iframe-wrapper iframe {
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      position: absolute; }
+
 body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content {
   margin-bottom: 1.5625rem;
   padding-top: 1.25rem; }
