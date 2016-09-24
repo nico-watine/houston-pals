@@ -2350,6 +2350,8 @@ main {
       main .content-wrapper .content .row, main .content-wrapper .content .content {
         margin-left: auto;
         margin-right: auto; }
+    main .content-wrapper .content.no-paw {
+      background: #fff; }
     @media screen and (min-width: 40em) {
       main .content-wrapper {
         padding: 0 1.25rem; } }
@@ -2629,8 +2631,10 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
           max-width: 260px;
           width: 100%;
           height: auto; }
-  body#products section#animal-diversity .row.section-intro, body#products section#animal-diversity main .content-wrapper .section-intro.content, main .content-wrapper body#products section#animal-diversity .section-intro.content {
-    padding: 2.5rem 0 1.25rem; } }
+  body#products section#animal-diversity {
+    padding: 2.5rem 0; }
+    body#products section#animal-diversity .section-title {
+      margin-bottom: 1.875rem; } }
 
 @media screen and (min-width: 64em) {
   body#products section.wide#product-definitions .product-block .description p {
@@ -2646,7 +2650,10 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   body#products section.wide#product-definitions .product-block .ordering-button {
     max-width: 16.875rem; }
   body#products section#animal-diversity .prose {
-    padding-left: 3.75rem; } }
+    padding-left: 3.75rem; }
+    body#products section#animal-diversity .prose p {
+      font-size: 1.375rem;
+      line-height: 1.4; } }
 
 body#products section.wide#product-definitions {
   width: 100%;

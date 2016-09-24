@@ -10,8 +10,8 @@ body-class:
 layout: products
 ---
 <div class="content-wrapper">
-	<div class="content">
-		<div class="row intro">
+	<div class="content no-paw">
+		<div class="row page-intro">
 			<div class="medium-push-1 medium-11 columns">
 				<h1 class="title">Products</h1>
 				<div class="row">
@@ -82,7 +82,7 @@ layout: products
 		<section id="animal-diversity">
 			<div class="row section-intro">
 				<div class="small-12 columns text-center">
-					<h2 class="title">A DIVERSE ANIMAL KINGDOM</h2>
+					<h2 class="title section-title">A DIVERSE ANIMAL KINGDOM</h2>
 				</div>
 			</div>
 			<div class="row">

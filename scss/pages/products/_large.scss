@@ -38,6 +38,11 @@
 		section#animal-diversity {
 			.prose {
 				padding-left: rem(60);
+
+				p {
+					font-size: rem(22);
+					line-height: 1.4;
+				}
 			}
 		}
 	}
