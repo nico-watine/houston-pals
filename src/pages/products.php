@@ -1,9 +1,9 @@
 ---
 url: /products
-title: Coming Soon - Products
-description: Products for Pet Artificial Limbs & Supports
-og-title: Products - Coming Soon
-og-description: More info on products for Pet Artificial Limbs & Supports coming soon
+title: Products
+description: PALS creates custom Orthotic & Prosthetic animal limbs
+og-title: Products
+og-description: PALS creates custom Orthotic & Prosthetic animal limbs, from dogs and cats to horses and flamingos!
 og-image: /img/assets/og/1/og-image-1.jpg
 body-id: products
 body-class: 
