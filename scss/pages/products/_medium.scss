@@ -74,5 +74,11 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 				}
 			}
 		}
+
+		section#animal-diversity {
+			.row.section-intro {
+				padding: rem(40) 0 rem(20);
+			}
+		}
 	}
 }

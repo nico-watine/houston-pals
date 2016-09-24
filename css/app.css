@@ -2628,7 +2628,9 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
         body#products section.wide#product-definitions .product-block .product-image img {
           max-width: 260px;
           width: 100%;
-          height: auto; } }
+          height: auto; }
+  body#products section#animal-diversity .row.section-intro, body#products section#animal-diversity main .content-wrapper .section-intro.content, main .content-wrapper body#products section#animal-diversity .section-intro.content {
+    padding: 2.5rem 0 1.25rem; } }
 
 @media screen and (min-width: 64em) {
   body#products section.wide#product-definitions .product-block .description p {
@@ -2642,7 +2644,9 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   body#products section.wide#product-definitions .product-block .product-image {
     padding-right: 0.75rem; }
   body#products section.wide#product-definitions .product-block .ordering-button {
-    max-width: 16.875rem; } }
+    max-width: 16.875rem; }
+  body#products section#animal-diversity .prose {
+    padding-left: 3.75rem; } }
 
 body#products section.wide#product-definitions {
   width: 100%;

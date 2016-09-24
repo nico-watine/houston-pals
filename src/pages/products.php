@@ -11,7 +11,7 @@ layout: products
 ---
 <div class="content-wrapper">
 	<div class="content">
-		<div class="row page-intro">
+		<div class="row intro">
 			<div class="medium-push-1 medium-11 columns">
 				<h1 class="title">Products</h1>
 				<div class="row">
@@ -77,3 +77,26 @@ layout: products
 		</div>
 	</div>
 </section>
+<div class="content-wrapper">
+	<div class="content">
+		<section id="animal-diversity">
+			<div class="row section-intro">
+				<div class="small-12 columns text-center">
+					<h2 class="title">A DIVERSE ANIMAL KINGDOM</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="medium-6 columns prose">
+					<p>Dogs and cats are not the only pets that people have. Nor are they the only animal that experiences an injury or illness.</p>
+					<p>PALS has experience assisting a wide variety of animals that includes:  horses, ducks, rams, flamingos, and even a tortoise.</p>
+				</div>
+				<div class="medium-3 columns">
+					<img src="/img/products/animal-diversity/equine-brace.jpg" alt="" class="frame" >
+				</div>
+				<div class="medium-3 columns">
+					<img src="/img/products/animal-diversity/duck.jpg" alt="" class="frame">
+				</div>
+			</div>
+		</section>
+	</div>
+</div>
