@@ -28,8 +28,8 @@ layout: products
 		<div class="medium-6 columns">
 			<div class="product-block" id="orthotics">
 				<div class="row description">
-					<h2 class="title text-center">Orthotics</h2>
-					<h3 class="text-center">Custom Bracing</h3>
+					<h2 class="title medium-text-center">Orthotics</h2>
+					<h3 class="medium-text-center">Custom Bracing</h3>
 					<p>An Orthosis can improve the quality of life and mobility of an animal for a wide variety of conditions.</p>
 				</div>
 				<div class="row collapse">
@@ -53,8 +53,8 @@ layout: products
 		<div class="medium-6 columns">
 			<div class="product-block" id="prosthetics">
 				<div class="row description">
-					<h2 class="title text-center">Prosthetics</h2>
-					<h3 class="text-center">Custom Artificial Limbs</h3>
+					<h2 class="title medium-text-center">Prosthetics</h2>
+					<h3 class="medium-text-center">Custom Artificial Limbs</h3>
 					<p>A Prosthetic can improve an animal’s mobility and overall well-being, especially as they age.</p>
 				</div>
 				<div class="row collapse">
@@ -90,10 +90,10 @@ layout: products
 					<p>Dogs and cats are not the only pets that people have. Nor are they the only animal that experiences an injury or illness.</p>
 					<p>PALS has experience assisting a wide variety of animals that includes:  horses, ducks, rams, flamingos, and even a tortoise.</p>
 				</div>
-				<div class="medium-3 columns">
+				<div class="medium-3 columns text-center">
 					<img src="/img/products/animal-diversity/equine-brace.jpg" alt="" class="frame" >
 				</div>
-				<div class="medium-3 columns">
+				<div class="medium-3 columns text-center">
 					<img src="/img/products/animal-diversity/duck.jpg" alt="" class="frame">
 				</div>
 			</div>

@@ -9,10 +9,10 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 		}
 
 		section.wide#product-definitions {
-			padding: rem(20);
+			// padding: rem(20);
 
 			.product-block {
-				padding: rem(20);
+				// padding: rem(20);
 
 				.description {
 					h2 {
@@ -60,16 +60,6 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 						@media #{$max-width-860} {
 							font-size: rem(18);
 						}
-					}
-				}
-
-				.product-image {
-					text-align: center;
-
-					img {
-						max-width: 260px;
-						width: 100%;
-						height: auto;
 					}
 				}
 			}

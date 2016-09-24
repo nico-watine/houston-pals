@@ -9,9 +9,23 @@ body#products {
 	section.wide#product-definitions {
 		width: 100%;
 		background: $dark-blue;
+		border: rem(3) solid $dark-blue;
+		padding: rem(20) 0;
 
 		.product-block {
 			background: $off-white;
+			padding: rem(20);
+
+			.product-image {
+				text-align: center;
+
+				img {
+					max-width: 260px;
+					width: 100%;
+					height: auto;
+					margin-bottom: rem(18);
+				}
+			}
 
 			.ordering-button {
 				background: $dark-blue;
@@ -26,6 +40,17 @@ body#products {
 					box-shadow: $z-2;
 				}
 			}
+		}
+	}
+
+	section#animal-diversity {
+		padding: rem(20) 0;
+
+		img {
+			max-width: 260px;
+			width: 100%;
+			height: auto;
+			margin-bottom: rem(18);
 		}
 	}
 }
