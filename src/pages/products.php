@@ -26,17 +26,17 @@ layout: products
 <section class="wide" id="product-definitions">
 	<div class="row expanded">
 		<div class="medium-6 columns">
-			<div class="product-block">
+			<div class="product-block" id="orthotics">
 				<div class="row description">
 					<h2 class="title text-center">Orthotics</h2>
 					<h3 class="text-center">Custom Bracing</h3>
 					<p>An Orthosis can improve the quality of life and mobility of an animal for a wide variety of conditions.</p>
 				</div>
 				<div class="row collapse">
-					<div class="large-6 columns product-image">
+					<div class="large-5 columns product-image">
 						<img class="frame" src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
 					</div>
-					<div class="large-6 columns reasons">
+					<div class="large-7 columns reasons">
 						<p>Orthotic devices are fitted for:</p>
 						<ul>
 							<li>Post-Surgical Support</li>
@@ -51,11 +51,27 @@ layout: products
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="product-block">
-				<div class="row">
+			<div class="product-block" id="prosthetics">
+				<div class="row description">
 					<h2 class="title text-center">Prosthetics</h2>
 					<h3 class="text-center">Custom Artificial Limbs</h3>
-					<p class="large">A Prosthetic can improve an animal’s mobility and overall well-being, especially as they age.</p>
+					<p>A Prosthetic can improve an animal’s mobility and overall well-being, especially as they age.</p>
+				</div>
+				<div class="row collapse">
+					<div class="large-5 columns product-image">
+						<img class="frame" src="/img/products/prosthetics/product-block-image/prosthetics-1.jpg" alt="Dog With Prosthesis">
+					</div>
+					<div class="large-7 columns reasons">
+						<p>Orthotic devices are fitted for:</p>
+						<ul>
+							<li>Post-Surgical Support</li>
+							<li>Trauma</li>
+							<li>Birth Defect</li>
+							<li>Arthritis</li>
+							<li>Rehabilitation</li>
+						</ul>
+						<a href="#" class="button expanded ordering-button heading">Ordering Info</a>
+					</div>
 				</div>
 			</div>
 		</div>
