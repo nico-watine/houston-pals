@@ -2689,6 +2689,14 @@ body#products section#animal-diversity {
     height: auto;
     margin-bottom: 1.125rem; }
 
+@media screen and (max-width: 39.9375em) {
+  body#ordering-product-faq .page-intro h1 {
+    font-size: 1.875rem; } }
+
+@media screen and (min-width: 40em) {
+  body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
+    padding: 2.5rem 0; } }
+
 body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content {
   margin-bottom: 1.5625rem;
   padding-top: 1.25rem; }
