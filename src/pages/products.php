@@ -34,7 +34,7 @@ layout: products
 				</div>
 				<div class="row collapse">
 					<div class="large-5 columns product-image">
-						<img class="frame" src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
+						<img class="frame" srcset="/img/products/orthotics/product-block-image/orthotics-1_2x.jpg 2x" src="/img/products/orthotics/product-block-image/orthotics-1.jpg" alt="Dog With Orthesis">
 					</div>
 					<div class="large-7 columns reasons">
 						<p>Orthotic devices are fitted for:</p>
@@ -59,7 +59,7 @@ layout: products
 				</div>
 				<div class="row collapse">
 					<div class="large-5 columns product-image">
-						<img class="frame" src="/img/products/prosthetics/product-block-image/prosthetics-1.jpg" alt="Dog With Prosthesis">
+						<img class="frame" srcset="/img/products/prosthetics/product-block-image/prosthetics-1_2x.jpg 2x" src="/img/products/prosthetics/product-block-image/prosthetics-1.jpg" alt="Dog With Prosthesis">
 					</div>
 					<div class="large-7 columns reasons">
 						<p>Orthotic devices are fitted for:</p>
@@ -91,10 +91,10 @@ layout: products
 					<p>PALS has experience assisting a wide variety of animals that includes:  horses, ducks, rams, flamingos, and even a tortoise.</p>
 				</div>
 				<div class="medium-3 columns text-center">
-					<img src="/img/products/animal-diversity/equine-brace.jpg" alt="" class="frame" >
+					<img srcset="/img/products/animal-diversity/equine-brace_2x.jpg 2x" src="/img/products/animal-diversity/equine-brace.jpg" alt="Equine Brace" class="frame" >
 				</div>
 				<div class="medium-3 columns text-center">
-					<img src="/img/products/animal-diversity/duck.jpg" alt="" class="frame">
+					<img srcset="/img/products/animal-diversity/duck_2x.jpg 2x" src="/img/products/animal-diversity/duck.jpg" alt="Duck Brace" class="frame">
 				</div>
 			</div>
 		</section>
