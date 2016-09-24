@@ -2393,7 +2393,7 @@ footer {
   display: none;
   visibility: hidden; }
   #snc-link a {
-    font-size: 0.75rem;
+    font-size: 0.625rem;
     letter-spacing: 0.075rem;
     color: #888;
     font-weight: normal; }
