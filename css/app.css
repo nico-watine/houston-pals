@@ -2700,13 +2700,14 @@ body#products section#animal-diversity {
 body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
   padding: 1.25rem 0; }
 
-body#ordering-product-faq .row#contact-info .bill-title, body#ordering-product-faq main .content-wrapper #contact-info.content .bill-title, main .content-wrapper body#ordering-product-faq #contact-info.content .bill-title {
-  margin-bottom: 0.625rem; }
-
-body#ordering-product-faq .row#contact-info a.email, body#ordering-product-faq main .content-wrapper #contact-info.content a.email, main .content-wrapper body#ordering-product-faq #contact-info.content a.email {
-  color: #000; }
-  body#ordering-product-faq .row#contact-info a.email:hover, body#ordering-product-faq main .content-wrapper #contact-info.content a.email:hover, main .content-wrapper body#ordering-product-faq #contact-info.content a.email:hover {
-    color: #1585cf; }
+body#ordering-product-faq .row#contact-info, body#ordering-product-faq main .content-wrapper #contact-info.content, main .content-wrapper body#ordering-product-faq #contact-info.content {
+  padding-bottom: 1.25rem; }
+  body#ordering-product-faq .row#contact-info .bill-title, body#ordering-product-faq main .content-wrapper #contact-info.content .bill-title, main .content-wrapper body#ordering-product-faq #contact-info.content .bill-title {
+    margin-bottom: 0.625rem; }
+  body#ordering-product-faq .row#contact-info a.email, body#ordering-product-faq main .content-wrapper #contact-info.content a.email, main .content-wrapper body#ordering-product-faq #contact-info.content a.email {
+    color: #000; }
+    body#ordering-product-faq .row#contact-info a.email:hover, body#ordering-product-faq main .content-wrapper #contact-info.content a.email:hover, main .content-wrapper body#ordering-product-faq #contact-info.content a.email:hover {
+      color: #1585cf; }
 
 body#ordering-product-faq .video-container .row, body#ordering-product-faq .video-container main .content-wrapper .content, main .content-wrapper body#ordering-product-faq .video-container .content {
   padding: 0 0 3.125rem; }
@@ -2717,7 +2718,7 @@ body#ordering-product-faq .video-container .row, body#ordering-product-faq .vide
     height: 0;
     overflow: hidden;
     border: 0.3125em solid #fff;
-    box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+    box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
     body#ordering-product-faq .video-container .row .video-wrapper .iframe-wrapper iframe, body#ordering-product-faq .video-container main .content-wrapper .content .video-wrapper .iframe-wrapper iframe, main .content-wrapper body#ordering-product-faq .video-container .content .video-wrapper .iframe-wrapper iframe {
       width: 100%;
       height: 100%;
