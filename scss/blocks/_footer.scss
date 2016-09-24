@@ -53,6 +53,8 @@ footer {
 
 #snc-link {
 	padding-top: rem(40);
+	display: none;
+	visibility: hidden;
 
 	a {
 		font-size: rem(12);
@@ -68,5 +70,12 @@ footer {
 			color: #fff;
 			text-decoration: underline;
 		}
+	}
+}
+
+body#index {
+	#snc-link {
+		display: block;
+		visibility: visible;
 	}
 }

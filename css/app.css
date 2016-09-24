@@ -2389,7 +2389,9 @@ footer {
       text-decoration: underline; }
 
 #snc-link {
-  padding-top: 2.5rem; }
+  padding-top: 2.5rem;
+  display: none;
+  visibility: hidden; }
   #snc-link a {
     font-size: 0.75rem;
     letter-spacing: 0.075rem;
@@ -2400,6 +2402,10 @@ footer {
     #snc-link a:hover {
       color: #fff;
       text-decoration: underline; }
+
+body#index #snc-link {
+  display: block;
+  visibility: visible; }
 
 @font-face {
   font-family: 'Muller ExtraBold';
