@@ -33,10 +33,10 @@ layout: products
 					<p>An Orthosis can improve the quality of life and mobility of an animal for a wide variety of conditions.</p>
 				</div>
 				<div class="row collapse">
-					<div class="medium-6 columns product-image">
+					<div class="large-6 columns product-image">
 						<img class="frame" src="/img/products/orthotics/product-block-image/orthotics-1.png" alt="Dog With Orthesis">
 					</div>
-					<div class="medium-6 columns reasons">
+					<div class="large-6 columns reasons">
 						<p>Orthotic devices are fitted for:</p>
 						<ul>
 							<li>Post-Surgical Support</li>
@@ -45,6 +45,7 @@ layout: products
 							<li>Arthritis</li>
 							<li>Rehabilitation</li>
 						</ul>
+						<a href="#" class="button expanded ordering-button heading">Ordering Info</a>
 					</div>
 				</div>
 			</div>
