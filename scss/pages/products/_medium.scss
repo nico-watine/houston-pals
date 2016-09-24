@@ -1,5 +1,7 @@
 @import "../../_settings.scss";
 
+$max-width-860: "only screen and (max-width : 53.750em)";
+
 @include breakpoint(medium) {
 	body#products {
 		.row.page-intro {
@@ -12,27 +14,63 @@
 			.product-block {
 				padding: rem(20);
 
-				h2 {
-					margin: 0;
-				}
+				.description {
+					h2 {
+						margin: 0;
 
-				h3 {
-					margin-bottom: rem(16);
+						@media #{$max-width-860} {
+							font-size: rem(30);
+						}
+					}
+
+					h3 {
+						margin-bottom: rem(16);
+
+						@media #{$max-width-860} {
+							font-size: rem(26);
+						}
+					}
+
+					p {
+						font-size: rem(20);
+						line-height: 1.4;
+
+						@media #{$max-width-860} {
+							font-size: rem(18);
+						}
+					}
 				}
 
 				.reasons {
 					p {
+						font-size: rem(20);
 						line-height: 1.4;
 						margin-bottom: rem(8);
+
+						@media #{$max-width-860} {
+							font-size: rem(18);
+						}
 					}
 
 					ul {
+						font-size: rem(20);
 						line-height: 1.4;
+						padding-left: rem(10);
+
+						@media #{$max-width-860} {
+							font-size: rem(18);
+						}
 					}
 				}
 
 				.product-image {
-					padding-right: rem(20);
+					text-align: center;
+
+					img {
+						max-width: 260px;
+						width: 100%;
+						height: auto;
+					}
 				}
 			}
 		}
