@@ -6,5 +6,21 @@
 
 
 body#ordering-product-faq {
+	.row.page-intro {
+		padding: rem(20) 0;
+	}
 
+	.row#contact-info {
+		.bill-title {
+			margin-bottom: rem(10);
+		}
+
+		a.email {
+			color: #000;
+
+			&:hover {
+				color: #1585cf;
+			}
+		}
+	}
 }
