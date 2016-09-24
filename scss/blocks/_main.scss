@@ -28,6 +28,10 @@ main {
 			}
 		}
 
+		.content.no-paw {
+			background: #fff;
+		}
+
 		@include breakpoint(medium) {
 			padding: 0 rem(20);
 		}

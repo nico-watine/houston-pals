@@ -1,0 +1,56 @@
+@import "../../_settings.scss";
+
+@import "_small.scss";
+@import "_medium.scss";
+@import "_large.scss";
+
+
+body#products {
+	section.wide#product-definitions {
+		width: 100%;
+		background: $dark-blue;
+		border: rem(3) solid $dark-blue;
+		padding: rem(20) 0;
+
+		.product-block {
+			background: $off-white;
+			padding: rem(20);
+
+			.product-image {
+				text-align: center;
+
+				img {
+					max-width: 260px;
+					width: 100%;
+					height: auto;
+					margin-bottom: rem(18);
+				}
+			}
+
+			.ordering-button {
+				background: $dark-blue;
+				border-radius: rem(5);
+				box-shadow: $z-1;
+				font-size: rem(20);
+				border: rem(2) solid $dark-blue;
+
+				&:hover {
+					background: #fff;
+					color: $dark-blue;
+					box-shadow: $z-2;
+				}
+			}
+		}
+	}
+
+	section#animal-diversity {
+		padding: rem(20) 0;
+
+		img {
+			max-width: 260px;
+			width: 100%;
+			height: auto;
+			margin-bottom: rem(18);
+		}
+	}
+}

@@ -1,0 +1,12 @@
+@import "../../_settings.scss";
+
+
+@include breakpoint(small only) {
+	body#ordering-product-faq {
+		.page-intro {
+			h1 {
+				font-size: rem(30);
+			}
+		}
+	}
+}

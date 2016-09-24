@@ -1,0 +1,60 @@
+@import "../../_settings.scss";
+
+@import "_small.scss";
+@import "_medium.scss";
+@import "_large.scss";
+
+
+body#ordering-product-faq {
+	.row.page-intro {
+		padding: rem(20) 0;
+	}
+
+	.row.ordering-summary {
+		p {
+			margin-bottom: 0;
+		}
+	}
+
+	.row#contact-info {
+		padding-bottom: rem(20);
+		
+		.bill-title {
+			margin-bottom: rem(10);
+		}
+
+		a.email {
+			color: #000;
+
+			&:hover {
+				color: #1585cf;
+			}
+		}
+	}
+
+	.video-container {
+		.row {
+			padding: rem(40) 0;
+
+			.video-wrapper {
+				.iframe-wrapper {
+					width: 100%;
+					position: relative;
+					padding-bottom: 56.25%;
+					height: 0;
+					overflow: hidden;
+					border: em(5) solid #fff;
+					box-shadow: $z-2;
+
+					iframe {
+						width: 100%;
+						height: 100%;
+						top: 0;
+						left: 0;
+						position: absolute;
+					}
+				}
+			}
+		}
+	}
+}
