@@ -53,11 +53,13 @@ footer {
 
 #snc-link {
 	padding-top: rem(40);
+	display: none;
+	visibility: hidden;
 
 	a {
-		font-size: rem(12);
+		font-size: rem(10);
 		letter-spacing: rem(1.2);
-		color: #ddd;
+		color: #888;
 		font-weight: normal;
 
 		span {
@@ -68,5 +70,12 @@ footer {
 			color: #fff;
 			text-decoration: underline;
 		}
+	}
+}
+
+body#index {
+	#snc-link {
+		display: block;
+		visibility: visible;
 	}
 }

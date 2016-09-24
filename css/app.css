@@ -2389,17 +2389,23 @@ footer {
       text-decoration: underline; }
 
 #snc-link {
-  padding-top: 2.5rem; }
+  padding-top: 2.5rem;
+  display: none;
+  visibility: hidden; }
   #snc-link a {
-    font-size: 0.75rem;
+    font-size: 0.625rem;
     letter-spacing: 0.075rem;
-    color: #ddd;
+    color: #888;
     font-weight: normal; }
     #snc-link a span {
       text-decoration: underline; }
     #snc-link a:hover {
       color: #fff;
       text-decoration: underline; }
+
+body#index #snc-link {
+  display: block;
+  visibility: visible; }
 
 @font-face {
   font-family: 'Muller ExtraBold';
