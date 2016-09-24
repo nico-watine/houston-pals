@@ -13,7 +13,7 @@ body-class:
 		<h1 class="title">Ordering + Product FAQ</h1>
 		<div class="row">
 			<div class="medium-push-1 medium-11 columns">
-				<h3>We specialize in two main types of products - Orthotics and Prosthetics.</h3>
+				<h3>Depending of your animal’s needs, the design will be adjusted appropriately.</h3>
 			</div>
 		</div>
 	</div>
