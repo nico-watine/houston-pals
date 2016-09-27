@@ -31,7 +31,7 @@ body-class:
 	</div>
 	<div class="row" id="story">
 		<div class="medium-10 medium-offset-1 large-8 large-offset-2 end columns">
-			<p>Bill wished to apply his twenty years of experience in custom design and fabrication, and his knowledge of specialized materials, to the world of animal medicine. Orthotics (supportive devices) &amp; Prosthetics (artificial limbs) are improving the lives of injured animals. These devices, when made by an experienced practitioner and individually designed for your animal's needs, can have a significant impact on both surgical outcome and post injury rehabilitation. Being a graduate of Northwestern University's Orthotic &amp; Prosthetic program, and having worked with both the rehabilitation of adults and children, Bill brings a vast amount of experience to the field of animal medicine.</p>
+			<p>Bill wished to apply his twenty years of experience in custom design and fabrication, and his knowledge of specialized materials, to the world of animal medicine. Orthotics (supportive devices) &amp; Prosthetics (artificial limbs) are improving the lives of injured animals. These devices, when made by an experienced practitioner and individually designed for your animal's needs, can have a significant impact on both surgical outcome and post injury rehabilitation. Being a graduate of <span itemprop="affiliation"><span itemprop="alumniOf">Northwestern University</span>'s Orthotic &amp; Prosthetic program</span>, and having worked with both the rehabilitation of adults and children, Bill brings a vast amount of experience to the field of animal medicine.</p>
 		</div>
 	</div>
 </div>
