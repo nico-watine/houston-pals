@@ -19,13 +19,13 @@ body-class:
 <div itemscope itemtype="http://schema.org/Person">
 	<div class="row" id="intro">
 		<div class="medium-5 columns text-center" id="profile-pic">
-			<h1 class="title show-for-small-only"><span>About</span> PALS</h1>
+			<h1 class="title show-for-small-only"><span>About</span> <span itemprop="affiliation">PALS</span></h1>
 			<img src="{{ cdn }}/img/about/bill-default.jpg" itemprop="image" alt="Photo of Bill Bickley">
 		</div>
 		<div class="medium-7 large-6 columns end">
 			<div class="prose">
-				<h1 class="title show-for-medium"><span>About</span> PALS</h1>
-				<h2>In 2013, Bill Bickley, a licensed Orthotist and Prosthetist with over 20 years of experience, founded Pet Artificial Limbs and Supports (PALS) in Houston, Texas.</h2>
+				<h1 class="title show-for-medium"><span>About</span> <span itemprop="affiliation">PALS</span></h1>
+				<h2>In 2013, <span itemprop="name">Bill Bickley</span>, a <span itemprop="jobTitle">licensed Orthotist and Prosthetist</span> with over 20 years of experience, founded <span itemprop="worksFor">Pet Artificial Limbs and Supports (PALS)</span> in <span itemprop="workLocation">Houston, Texas</span>.</h2>
 			</div>
 		</div>
 	</div>
