@@ -1,4 +1,0 @@
-MEDIUM @smallest width ::
-600~
-MEDIUM @max width ::
-1024~
