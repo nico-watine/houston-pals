@@ -20,7 +20,7 @@ body-class:
 	<div class="row" id="intro">
 		<div class="medium-5 columns text-center" id="profile-pic">
 			<h1 class="title show-for-small-only"><span>About</span> PALS</h1>
-			<img src="{{ cdn }}/img/about/bill-default.jpg" alt="Bill Bickley">
+			<img src="{{ cdn }}/img/about/bill-default.jpg" itemprop="image" alt="Photo of Bill Bickley">
 		</div>
 		<div class="medium-7 large-6 columns end">
 			<div class="prose">
