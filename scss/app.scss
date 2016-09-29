@@ -12,8 +12,11 @@
 @include foundation-dropdown-menu;
 @include foundation-menu;
 @include foundation-menu-icon;
-
 @include foundation-button;
+@include foundation-top-bar;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-title-bar;
 
 // @include foundation-forms;
 // @include foundation-range-input;
@@ -41,11 +44,7 @@
 // @include foundation-table;
 // @include foundation-tabs;
 // @include foundation-thumbnail;
-@include foundation-title-bar;
 // @include foundation-tooltip;
-@include foundation-top-bar;
-@include foundation-visibility-classes;
-@include foundation-float-classes;
 // @include foundation-flex-classes;
 
 // THESE ARE MOTION CSS STYLES... DO NOT IMPORT WITHOUT
@@ -78,12 +77,9 @@
 // PAGES ::
 @import "pages/index/_index.scss";
 @import "pages/products/_products.scss";
-// @import "pages/contact/_contact.scss";
 @import "pages/ordering-product-faq/_ordering-product-faq.scss";
 @import "pages/about/_about.scss";
 @import "pages/coming-soon/_coming-soon.scss";
+// @import "pages/contact/_contact.scss";
 
 
-
-
-// 
