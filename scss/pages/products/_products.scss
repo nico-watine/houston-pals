@@ -59,6 +59,16 @@ body#products {
 		background: #F7F7F7;
 		border: rem(3) solid #30659B;
 		box-shadow: 0 rem(1) rem(4) 0 rgba(0,0,0,0.37);
+
+		.gallery {
+			.thumbnail-container {
+				img {
+					width: 150px;
+					height: 150px;
+					margin-bottom: 16px;
+				}
+			}
+		}
 	}
 }
 

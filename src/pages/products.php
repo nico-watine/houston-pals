@@ -105,10 +105,25 @@ layout: products
 			<div class="row gallery">
 				<div class="medium-6 large-6 large-push-1 columns" style="border: 2px solid red;">
 					<h3 class="text-center">Orthotics</h3>
+					<img src="/img/products/orthotics/gallery/landscape.png" alt="">
 				</div>
-				<div class="medium-3 large-4 columns slider-nav" style="border: 2px solid red;">
-					<div style="display: inline-block;"><img style="width: 150px;" src="/img/products/orthotics/gallery/thumb.png" alt=""></div>
-					<div style="display: inline-block; float: right;"><img style="width: 150px;" src="/img/products/orthotics/gallery/thumb-2.png" alt=""></div>
+				<div class="medium-3 large-4 columns thumbnail-container" style="border: 2px solid red;">
+					<div class="row">
+						<div class="small-6 columns">
+							<img src="/img/products/orthotics/gallery/thumb.png" alt="">
+						</div>
+						<div class="small-6 columns">
+							<img src="/img/products/orthotics/gallery/thumb-2.png" alt="">
+						</div>
+					</div>
+					<div class="row">
+						<div class="small-6 columns">
+							<img src="/img/products/orthotics/gallery/thumb.png" alt="">
+						</div>
+						<div class="small-6 columns">
+							<img src="/img/products/orthotics/gallery/thumb-2.png" alt="">
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
