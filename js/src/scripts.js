@@ -1,4 +1,4 @@
-$('.slick-slider').slick();
+$('.slider').slick();
 // This file is to show how 'app.js' is for importing all of the Foundation-specific files
 // 'scripts.js' is a placehold file for any other script files
 // 'scripts.js' is minified via codekit, not via 'npm run build'
