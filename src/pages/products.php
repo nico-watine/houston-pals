@@ -102,6 +102,17 @@ layout: products
 			<div class="row section-title">
 				<h2 class="title text-center">PRODUCT IMAGE GALLERY</h2>
 			</div>
+			<div class="row gallery">
+				<div class="medium-6 large-6 large-push-1 columns" style="border: 2px solid red;">
+					<h3 class="text-center">Orthotics</h3>
+				</div>
+				<div class="medium-3 large-2 large-push-2 columns" style="border: 2px solid red;">
+					<img src="/img/products/orthotics/gallery/thumb.png" alt="">
+				</div>
+				<div class="medium-3 large-2 columns" style="border: 2px solid red;">
+					<img src="/img/products/orthotics/gallery/thumb.png" alt="">
+				</div>
+			</div>
 		</section>
 	</div>
 </div>
