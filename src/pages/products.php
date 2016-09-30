@@ -105,10 +105,6 @@ layout: products
 			<div class="row gallery">
 				<div class="medium-6 large-6 large-push-1 columns" style="border: 2px solid red;">
 					<h3 class="text-center">Orthotics</h3>
-					<div class="slider-for">
-						<div><img src="/img/products/orthotics/gallery/landscape.png" alt=""></div>
-						<div><img src="/img/products/orthotics/gallery/landscape-2.png" alt=""></div>
-					</div>
 				</div>
 				<div class="medium-3 large-4 columns slider-nav" style="border: 2px solid red;">
 					<div style="display: inline-block;"><img style="width: 150px;" src="/img/products/orthotics/gallery/thumb.png" alt=""></div>
