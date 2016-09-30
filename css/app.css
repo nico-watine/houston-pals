@@ -2605,7 +2605,9 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   body#products section#animal-diversity {
     padding: 2.5rem 0; }
     body#products section#animal-diversity .section-title {
-      margin-bottom: 1.875rem; } }
+      margin-bottom: 1.875rem; }
+  body#products section#product-image-gallery .section-title {
+    margin-bottom: 2.5rem; } }
 
 @media screen and (min-width: 64em) {
   body#products section.wide#product-definitions .product-block .description p {
@@ -2659,6 +2661,12 @@ body#products section#animal-diversity {
     width: 100%;
     height: auto;
     margin-bottom: 1.125rem; }
+
+body#products section#product-image-gallery {
+  padding: 1.875rem 0;
+  background: #F7F7F7;
+  border: 0.1875rem solid #30659B;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
 @media screen and (max-width: 39.9375em) {
   body#ordering-product-faq .page-intro h1 {

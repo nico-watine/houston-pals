@@ -98,5 +98,10 @@ layout: products
 				</div>
 			</div>
 		</section>
+		<section id="product-image-gallery">
+			<div class="row section-title">
+				<h2 class="title text-center">PRODUCT IMAGE GALLERY</h2>
+			</div>
+		</section>
 	</div>
 </div>
