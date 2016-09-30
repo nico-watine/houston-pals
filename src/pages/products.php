@@ -103,25 +103,25 @@ layout: products
 				<h2 class="title text-center">PRODUCT IMAGE GALLERY</h2>
 			</div>
 			<div class="row gallery">
-				<div class="medium-6 large-6 large-push-1 columns" style="border: 2px solid red;">
+				<div class="medium-7 large-6 large-push-1 columns" style="border: 2px solid red;">
 					<h3 class="text-center">Orthotics</h3>
 					<img id="preview" src="/img/products/orthotics/gallery/landscape.png" alt="">
 				</div>
-				<div class="medium-3 large-4 columns thumbnail-container" style="border: 2px solid red;">
+				<div class="medium-5 large-4 columns thumbnail-container" style="border: 2px solid red;">
 					<div class="row">
 						<div class="small-6 columns">
 							<img onclick="getElementById('preview').src=('/img/products/orthotics/gallery/landscape-2.png')" id="img1" src="/img/products/orthotics/gallery/thumb.png" alt="" />
 						</div>
 						<div class="small-6 columns">
-							<img onclick="getElementById('preview').src=getElementById('img2').src" id="img2" src="/img/products/orthotics/gallery/thumb-2.png" alt="" />
+							<img onclick="getElementById('preview').src=('/img/products/orthotics/gallery/landscape.png')" id="img1" src="/img/products/orthotics/gallery/thumb-2.png" alt="" />
 						</div>
 					</div>
 					<div class="row">
 						<div class="small-6 columns">
-							<img src="/img/products/orthotics/gallery/thumb.png" alt="">
+							<img onclick="getElementById('preview').src=('/img/products/orthotics/gallery/landscape.png')" id="img1" src="/img/products/orthotics/gallery/thumb-2.png" alt="" />
 						</div>
 						<div class="small-6 columns">
-							<img src="/img/products/orthotics/gallery/thumb-2.png" alt="">
+							<img onclick="getElementById('preview').src=('/img/products/orthotics/gallery/landscape-2.png')" id="img1" src="/img/products/orthotics/gallery/thumb.png" alt="" />
 						</div>
 					</div>
 				</div>
