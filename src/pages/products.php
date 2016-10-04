@@ -106,7 +106,7 @@ layout: products
 				<div class="medium-7 large-6 large-push-1 columns">
 					<h3 class="text-center">Orthotics</h3>
 					<div class="feature-img-container">
-						<img id="feature-img" src="/img/products/orthotics/gallery/1.jpg" alt="">
+						<img id="feature-img" class="frame" src="/img/products/orthotics/gallery/1.jpg" alt="">
 					</div>
 				</div>
 				<div class="medium-5 large-4 columns thumbnail-container">
