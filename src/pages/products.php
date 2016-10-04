@@ -106,24 +106,24 @@ layout: products
 				<div class="medium-7 large-6 large-push-1 columns" style="border: 2px solid red;">
 					<h3 class="text-center">Orthotics</h3>
 					<div class="feature-img-container">
-						<img id="feature-img" src="/img/products/orthotics/gallery/landscape.png" alt="">
+						<img id="feature-img" src="/img/products/orthotics/gallery/1.jpg" alt="">
 					</div>
 				</div>
 				<div class="medium-5 large-4 columns thumbnail-container" style="border: 2px solid red;">
 					<div class="row">
 						<div class="small-6 columns">
-							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/landscape-2.png')" id="img1" src="/img/products/orthotics/gallery/thumb.png" alt="" />
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/1.jpg')" id="img1" src="/img/products/orthotics/gallery/1t.jpg" alt="" />
 						</div>
 						<div class="small-6 columns">
-							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/landscape.png')" id="img1" src="/img/products/orthotics/gallery/thumb-2.png" alt="" />
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/2.jpg')" id="img1" src="/img/products/orthotics/gallery/2t.jpg" alt="" />
 						</div>
 					</div>
 					<div class="row">
 						<div class="small-6 columns">
-							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/portrait.png')" id="img1" src="/img/products/orthotics/gallery/thumb-2.png" alt="" />
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/3.jpg')" id="img1" src="/img/products/orthotics/gallery/3t.jpg" alt="" />
 						</div>
 						<div class="small-6 columns">
-							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/portrait-2.png')" id="img1" src="/img/products/orthotics/gallery/thumb.png" alt="" />
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/4.jpg')" id="img1" src="/img/products/orthotics/gallery/4t.jpg" alt="" />
 						</div>
 					</div>
 				</div>
