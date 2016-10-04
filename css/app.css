@@ -2667,6 +2667,18 @@ body#products section#product-image-gallery {
   background: #F7F7F7;
   border: 0.1875rem solid #30659B;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+  body#products section#product-image-gallery .gallery .feature-img-container {
+    padding-top: 75%;
+    position: relative; }
+    body#products section#product-image-gallery .gallery .feature-img-container img#feature-img {
+      max-width: 100%;
+      max-height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      margin: auto; }
   body#products section#product-image-gallery .gallery .thumbnail-container img {
     margin-bottom: 16px; }
 
