@@ -77,6 +77,13 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 			.section-title {
 				margin-bottom: rem(40);
 			}
+
+			.gallery {
+				.ordering-button {
+					padding: rem(12) rem(38);
+					@include button-expand(false);
+				}
+			}
 		}
 	}
 }

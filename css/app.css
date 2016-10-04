@@ -2619,7 +2619,12 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     body#products section#animal-diversity .section-title {
       margin-bottom: 1.875rem; }
   body#products section#product-image-gallery .section-title {
-    margin-bottom: 2.5rem; } }
+    margin-bottom: 2.5rem; }
+  body#products section#product-image-gallery .gallery .ordering-button {
+    padding: 0.75rem 2.375rem;
+    display: inline-block;
+    width: auto;
+    margin: 0 0 1rem 0; } }
 
 @media screen and (min-width: 64em) {
   body#products section.wide#product-definitions .product-block .description p {
@@ -2705,6 +2710,18 @@ body#products section#product-image-gallery {
     border: 3px solid #30659B; }
     body#products section#product-image-gallery .gallery .thumbnail-container img:hover, body#products section#product-image-gallery .gallery .thumbnail-container img:focus {
       box-shadow: 0 0 9px 1px rgba(33, 153, 232, 0.5); }
+  body#products section#product-image-gallery .gallery .button-row {
+    margin-top: 1.25rem; }
+  body#products section#product-image-gallery .gallery .ordering-button {
+    background: #30659B;
+    border-radius: 0.3125rem;
+    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+    font-size: 1.125rem;
+    border: 0.125rem solid #30659B; }
+    body#products section#product-image-gallery .gallery .ordering-button:hover {
+      background: #fff;
+      color: #30659B;
+      box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
 
 @media screen and (max-width: 39.9375em) {
   body#ordering-product-faq .page-intro h1 {

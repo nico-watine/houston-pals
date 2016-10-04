@@ -85,9 +85,26 @@ body#products {
 					border: 3px solid $dark-blue;
 				}
 			}
+
+			.button-row {
+				margin-top: rem(20);
+			}
+
+			.ordering-button {
+				background: $dark-blue;
+				border-radius: rem(5);
+				box-shadow: $z-1;
+				font-size: rem(18);
+				border: rem(2) solid $dark-blue;
+
+
+				&:hover {
+					background: #fff;
+					color: $dark-blue;
+					box-shadow: $z-2;
+				}
+			}
 		}
 	}
 }
-
-
 

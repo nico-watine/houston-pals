@@ -126,6 +126,9 @@ layout: products
 							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/4.jpg')" id="img1" src="/img/products/orthotics/gallery/4t.jpg" alt="" />
 						</div>
 					</div>
+					<div class="row button-row">
+						<a href="#" class="button expanded ordering-button heading">Ordering Info</a>
+					</div>
 				</div>
 			</div>
 		</section>
