@@ -103,13 +103,13 @@ layout: products
 				<h2 class="title text-center">PRODUCT IMAGE GALLERY</h2>
 			</div>
 			<div class="row gallery">
-				<div class="medium-7 large-6 large-push-1 columns" style="border: 2px solid red;">
+				<div class="medium-7 large-6 large-push-1 columns">
 					<h3 class="text-center">Orthotics</h3>
 					<div class="feature-img-container">
 						<img id="feature-img" src="/img/products/orthotics/gallery/1.jpg" alt="">
 					</div>
 				</div>
-				<div class="medium-5 large-4 columns thumbnail-container" style="border: 2px solid red;">
+				<div class="medium-5 large-4 columns thumbnail-container">
 					<div class="row">
 						<div class="small-6 columns">
 							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/1.jpg')" id="img1" src="/img/products/orthotics/gallery/1t.jpg" alt="" />
