@@ -2193,7 +2193,7 @@ kbd {
 
 .thumbnail {
   border: solid 4px #fefefe;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.37);
   display: inline-block;
   line-height: 0;
   max-width: 100%;
@@ -2201,7 +2201,7 @@ kbd {
   border-radius: 0;
   margin-bottom: 1rem; }
   .thumbnail:hover, .thumbnail:focus {
-    box-shadow: 0 0 6px 1px rgba(33, 153, 232, 0.5); }
+    box-shadow: 0 0 9px 1px rgba(33, 153, 232, 0.5); }
 
 body {
   background: #F7F7F7 url("/img/assets/bg/hex.png") repeat; }
@@ -2692,7 +2692,18 @@ body#products section#product-image-gallery {
       bottom: 0;
       margin: auto; }
   body#products section#product-image-gallery .gallery .thumbnail-container img {
-    margin-bottom: 16px; }
+    margin-bottom: 16px;
+    border: solid 4px #fefefe;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.37);
+    display: inline-block;
+    line-height: 0;
+    max-width: 100%;
+    transition: box-shadow 200ms ease-out;
+    border-radius: 0;
+    margin-bottom: 1rem;
+    border: 3px solid #30659B; }
+    body#products section#product-image-gallery .gallery .thumbnail-container img:hover, body#products section#product-image-gallery .gallery .thumbnail-container img:focus {
+      box-shadow: 0 0 9px 1px rgba(33, 153, 232, 0.5); }
 
 @media screen and (max-width: 39.9375em) {
   body#ordering-product-faq .page-intro h1 {

@@ -80,6 +80,8 @@ body#products {
 			.thumbnail-container {
 				img {
 					margin-bottom: 16px;
+					@include thumbnail;
+					border: 3px solid $dark-blue;
 				}
 			}
 		}
