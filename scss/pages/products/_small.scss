@@ -28,13 +28,13 @@
 			}
 		}
 
-		// section#product-image-gallery {
-		// 	.gallery {
-		// 		.ordering-button {
-		// 			@include button-expand(small only);
-		// 		}
-		// 	}
-		// }
+		section#product-image-gallery {
+			.gallery {
+				.ordering-button {
+					font-size: rem(18);
+				}
+			}
+		}
 	}
 }
 

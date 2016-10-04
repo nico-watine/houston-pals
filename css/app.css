@@ -2569,7 +2569,9 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   body#products section.wide#product-definitions .product-block#orthotics {
     margin-bottom: 1.25rem; }
   body#products section#animal-diversity .section-title {
-    font-size: 1.5rem; } }
+    font-size: 1.5rem; }
+  body#products section#product-image-gallery .gallery .ordering-button {
+    font-size: 1.125rem; } }
 
 @media screen and (min-width: 40em) {
   body#products .row.page-intro, body#products main .content-wrapper .page-intro.content, main .content-wrapper body#products .page-intro.content {
@@ -2622,6 +2624,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     margin-bottom: 2.5rem; }
   body#products section#product-image-gallery .gallery .ordering-button {
     padding: 0.75rem 2.375rem;
+    font-size: 1.25rem;
     display: inline-block;
     width: auto;
     margin: 0 0 1rem 0; } }
@@ -2716,7 +2719,6 @@ body#products section#product-image-gallery {
     background: #30659B;
     border-radius: 0.3125rem;
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-    font-size: 1.125rem;
     border: 0.125rem solid #30659B; }
     body#products section#product-image-gallery .gallery .ordering-button:hover {
       background: #fff;

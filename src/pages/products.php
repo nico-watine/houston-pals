@@ -127,7 +127,7 @@ layout: products
 						</div>
 					</div>
 					<div class="row button-row">
-						<a href="#" class="button expanded ordering-button heading">Ordering Info</a>
+						<a href="/ordering-product-faq.php" class="button expanded ordering-button heading">Ordering Info</a>
 					</div>
 				</div>
 			</div>
