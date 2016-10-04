@@ -2681,7 +2681,8 @@ body#products section#product-image-gallery {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
   body#products section#product-image-gallery .gallery .feature-img-container {
     padding-top: 75%;
-    position: relative; }
+    position: relative;
+    margin-bottom: 1.875rem; }
     body#products section#product-image-gallery .gallery .feature-img-container img#feature-img {
       max-width: 100%;
       max-height: 100%;

@@ -109,7 +109,7 @@ layout: products
 						<img id="feature-img" class="frame" src="/img/products/orthotics/gallery/1.jpg" alt="">
 					</div>
 				</div>
-				<div class="medium-5 large-4 columns thumbnail-container">
+				<div class="medium-5 large-5 columns thumbnail-container text-center">
 					<div class="row">
 						<div class="small-6 columns">
 							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/1.jpg')" id="img1" src="/img/products/orthotics/gallery/1t.jpg" alt="" />
