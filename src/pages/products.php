@@ -104,7 +104,7 @@ layout: products
 					<h2 class="title text-center section-title">PRODUCT IMAGE GALLERY</h2>
 				</div>
 			</div>
-			<div class="row gallery">
+			<div class="row gallery" id="orthotics">
 				<div class="medium-7 large-6 large-push-1 columns">
 					<h3 class="text-center gallery-title">Orthotics</h3>
 					<div class="feature-img-container">
