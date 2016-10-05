@@ -2570,6 +2570,10 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     margin-bottom: 1.25rem; }
   body#products section#animal-diversity .section-title {
     font-size: 1.5rem; }
+  body#products section#product-image-gallery .section-title {
+    font-size: 1.5rem; }
+  body#products section#product-image-gallery .gallery .gallery-title {
+    font-size: 1.25rem; }
   body#products section#product-image-gallery .gallery .ordering-button {
     font-size: 1.125rem; } }
 

@@ -99,12 +99,12 @@ layout: products
 			</div>
 		</section>
 		<section id="product-image-gallery">
-			<div class="row section-title">
-				<h2 class="title text-center">PRODUCT IMAGE GALLERY</h2>
+			<div class="row">
+				<h2 class="title text-center section-title">PRODUCT IMAGE GALLERY</h2>
 			</div>
 			<div class="row gallery">
 				<div class="medium-7 large-6 large-push-1 columns">
-					<h3 class="text-center">Orthotics</h3>
+					<h3 class="text-center gallery-title">Orthotics</h3>
 					<div class="feature-img-container">
 						<img id="feature-img" class="frame" src="/img/products/orthotics/gallery/1.jpg" alt="">
 					</div>
