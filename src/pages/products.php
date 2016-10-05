@@ -133,6 +133,11 @@ layout: products
 					</div>
 				</div>
 			</div>
+			<div class="row gallery-divider">
+				<div class="small-10 small-push-1 columns">
+					<hr>
+				</div>
+			</div>
 			<div class="row gallery" id="prosthetics">
 				<div class="medium-7 large-6 large-push-1 columns">
 					<h3 class="text-center gallery-title">Orthotics</h3>

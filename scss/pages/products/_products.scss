@@ -60,6 +60,12 @@ body#products {
 		border: rem(3) solid #30659B;
 		box-shadow: 0 rem(1) rem(4) 0 rgba(0,0,0,0.37);
 
+		.gallery-divider {
+			hr {
+				margin: rem(40) 0;
+			}
+		}
+
 		.gallery {
 			.feature-img-container {
 				padding-top: 75%;
