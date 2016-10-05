@@ -2573,7 +2573,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   body#products section#product-image-gallery .section-title {
     font-size: 1.5rem; }
   body#products section#product-image-gallery .gallery .gallery-title {
-    font-size: 1.25rem; }
+    font-size: 1.375rem; }
   body#products section#product-image-gallery .gallery .feature-img-container {
     margin-bottom: 2.5rem; }
   body#products section#product-image-gallery .gallery .ordering-button {
@@ -2701,6 +2701,8 @@ body#products section#product-image-gallery {
   body#products section#product-image-gallery .gallery-divider hr {
     margin: 3.125rem 0;
     border-bottom: 0.125rem solid #30659B; }
+  body#products section#product-image-gallery .gallery .gallery-title {
+    margin-bottom: 1rem; }
   body#products section#product-image-gallery .gallery .feature-img-container {
     padding-top: 75%;
     position: relative; }

@@ -68,6 +68,10 @@ body#products {
 		}
 
 		.gallery {
+			.gallery-title {
+				margin-bottom: rem(16);
+			}
+			
 			.feature-img-container {
 				padding-top: 75%;
 				position: relative;
