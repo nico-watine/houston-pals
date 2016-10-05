@@ -100,7 +100,9 @@ layout: products
 		</section>
 		<section id="product-image-gallery">
 			<div class="row">
-				<h2 class="title text-center section-title">PRODUCT IMAGE GALLERY</h2>
+				<div class="small-12 columns">
+					<h2 class="title text-center section-title">PRODUCT IMAGE GALLERY</h2>
+				</div>
 			</div>
 			<div class="row gallery">
 				<div class="medium-7 large-6 large-push-1 columns">
