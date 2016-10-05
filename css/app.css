@@ -2578,7 +2578,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     margin-bottom: 2.5rem; }
   body#products section#product-image-gallery .gallery .ordering-button {
     font-size: 1.125rem;
-    margin-top: 1rem; } }
+    margin: 0; } }
 
 @media screen and (min-width: 40em) {
   body#products .row.page-intro, body#products main .content-wrapper .page-intro.content, main .content-wrapper body#products .page-intro.content {
@@ -2638,8 +2638,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     font-size: 1.25rem;
     display: inline-block;
     width: auto;
-    margin: 0 0 1rem 0;
-    margin: 0; } }
+    margin: 0 0 1rem 0; } }
 
 @media screen and (min-width: 64em) {
   body#products section.wide#product-definitions .product-block .description p {
