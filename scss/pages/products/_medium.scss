@@ -85,10 +85,15 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 			}
 
 			.gallery {
+				.feature-img-container {
+					margin-bottom: rem(10);
+				}
+
 				.ordering-button {
 					padding: rem(12) rem(38);
 					font-size: rem(20);
 					@include button-expand(false);
+					margin: 0;
 				}
 			}
 		}
