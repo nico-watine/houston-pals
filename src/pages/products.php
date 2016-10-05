@@ -133,6 +133,35 @@ layout: products
 					</div>
 				</div>
 			</div>
+			<div class="row gallery" id="prosthetics">
+				<div class="medium-7 large-6 large-push-1 columns">
+					<h3 class="text-center gallery-title">Orthotics</h3>
+					<div class="feature-img-container">
+						<img id="feature-img" class="frame" src="/img/products/orthotics/gallery/1.jpg" alt="">
+					</div>
+				</div>
+				<div class="medium-5 large-5 columns thumbnail-container text-center">
+					<div class="row">
+						<div class="small-6 columns">
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/1.jpg')" id="img1" src="/img/products/orthotics/gallery/1t.jpg" alt="" />
+						</div>
+						<div class="small-6 columns">
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/2.jpg')" id="img1" src="/img/products/orthotics/gallery/2t.jpg" alt="" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="small-6 columns">
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/3.jpg')" id="img1" src="/img/products/orthotics/gallery/3t.jpg" alt="" />
+						</div>
+						<div class="small-6 columns">
+							<img onclick="getElementById('feature-img').src=('/img/products/orthotics/gallery/4.jpg')" id="img1" src="/img/products/orthotics/gallery/4t.jpg" alt="" />
+						</div>
+					</div>
+					<div class="row button-row">
+						<a href="/ordering-product-faq.php" class="button expanded ordering-button heading">Ordering Info</a>
+					</div>
+				</div>
+			</div>
 		</section>
 	</div>
 </div>
