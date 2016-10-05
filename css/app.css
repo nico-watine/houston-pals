@@ -2699,7 +2699,8 @@ body#products section#product-image-gallery {
   border: 0.1875rem solid #30659B;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
   body#products section#product-image-gallery .gallery-divider hr {
-    margin: 3.125rem 0; }
+    margin: 3.125rem 0;
+    border-bottom: 0.125rem solid #30659B; }
   body#products section#product-image-gallery .gallery .feature-img-container {
     padding-top: 75%;
     position: relative; }
