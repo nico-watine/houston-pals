@@ -106,7 +106,7 @@ layout: products
 			</div>
 			<div class="row gallery" id="orthotics">
 				<div class="medium-7 large-6 large-push-1 columns">
-					<h3 class="text-center gallery-title">Orthotics</h3>
+					<h3 class="text-center gallery-title">Orthotics Images</h3>
 					<div class="feature-img-container">
 						<img id="orthotics-feature-img" class="frame" src="/img/products/orthotics/gallery/1.jpg" alt="">
 					</div>
@@ -140,7 +140,7 @@ layout: products
 			</div>
 			<div class="row gallery" id="prosthetics">
 				<div class="medium-7 large-6 large-push-1 columns">
-					<h3 class="text-center gallery-title">Orthotics</h3>
+					<h3 class="text-center gallery-title">Prosthetics Images</h3>
 					<div class="feature-img-container">
 						<img id="prosthetics-feature-img" class="frame" src="/img/products/prosthetics/gallery/1.jpg" alt="">
 					</div>
