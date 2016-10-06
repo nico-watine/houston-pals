@@ -1,0 +1,46 @@
+
+:: IDEAS/PLANS ON HOW TO DEVELOP BLOG & ARTICLES ::
+
+# ---------------------------------------
+# |            BLOG PLATFORM            |
+# ---------------------------------------
+
+1. WORDPRESS
+PROS ::
+Would give client ability to post on their own
+CONS ::
+Would take A TON of effort to customize even a basic free template to match the rest of the site
+If we wanted to be able to "feature" certain posts on the home page, index would have to be converted into a Wordpress-layout page in order to accomodate the post_loop
+-Then it's like, well should the whole site be converted into a static/Wordpress hybrid site?
+
+------------
+
+2. FOUNDATION PLATFORM
+PROS ::
+The site is already built on Foundation, so there would be no extra setup time required to get started. Page structure is all set, so would just be creating basic article entries
+CONS ::
+Bill cannot do anything on his own (but he is a pretty busy person...)
+If I "lose steam" on the website, he would have to hire another web dev to take over the site. Then there might be the chance of having to bring that person up to speed...
+Would have to maintain the main /blog page by updating it with article links
+Would also have to keep track of linking new articles to previous and next article pages
+
+------------
+
+3. JEKYLL-BASED PLATFORM	
+PROS ::
+Jekyll is great at creating static blogs! It could take care of the main blog-roll index page by auto updating it.
+It also will take care of auto linking previous-next article pages (in addition to "categorizing" if wanted)
+CONS ::
+Some initial setup required to get /blog identical to rest of site (but not nearly as much as Wordpress)
+Bill cannot do anything on his own (see CONS of using Foundation Platform, they're pretty similar)
+Will have to figure out exactly how to integrate the jekyll dev-setup into the Foundation workflow (would it be done separately? and then the dist/ folder just copied into the Foundation dist/ folder? That also might be tedious, hard to keep track of)
+
+
+
+# ---------------------------------------
+# |            GENERAL NOTES            |
+# ---------------------------------------
+
+One possible solution to Bill not being able to do anything on his own is that he just provided article text like a standard newspaper. I then format it into the website with images, etc... Technically, he could already have written an article prior to even logging in to, say, the Wordpress platform to then type it up. 
+PLUS
+Haven't thought about the fact that he would need to be trained in Wordpress usage
