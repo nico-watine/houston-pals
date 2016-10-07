@@ -7,6 +7,7 @@ og-description: Custom made orthotics and prosthetics devices for your pet in Ho
 og-image: /img/assets/og/1/og-image-1.jpg
 body-id: index
 body-class:
+layout: index
 ---
 <div class="row medium-collapse" id="tagline">
 	<div class="medium-6 columns vertical-wrapper">
