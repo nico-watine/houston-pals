@@ -1,0 +1,57 @@
+# ---------------------------------------------
+# |            GreencareTX.com Example            |
+# ---------------------------------------------
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Greencare Interior Plants",
+  "logo": "http://greencaretx.com/img/schema/greencare-logo.png",
+  "description": "Interior plant design &amp; maintenance services for commercial and residential accounts in the Greater Houston area.",
+  "url" : "http://greencaretx.com",
+  "telephone": "713-864-5300",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77007",
+    "streetAddress": "5221 Center St"
+  },
+  "sameAs" : [
+    "https://plus.google.com/108713736317109074241/posts?hl=en",
+    "https://www.facebook.com/GreencareInteriorPlants"
+  ]
+}
+</script>
+
+
+# ------------------------------------------------
+# |            HPALS json/head schema            |
+# ------------------------------------------------
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Houston PALS | Pet Artifical Limbs &amp; Supports",
+  "logo": "http://greencaretx.com/img/schema/greencare-logo.png",
+  "description": "Interior plant design &amp; maintenance services for commercial and residential accounts in the Greater Houston area.",
+  "url" : "http://greencaretx.com",
+  "telephone": "713-864-5300",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77007",
+    "streetAddress": "5221 Center St"
+  },
+  "sameAs" : [
+    "https://plus.google.com/108713736317109074241/posts?hl=en",
+    "https://www.facebook.com/GreencareInteriorPlants"
+  ]
+}
+</script>
