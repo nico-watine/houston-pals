@@ -40,18 +40,17 @@
   "name": "Houston PALS | Pet Artifical Limbs &amp; Supports",
   "logo": "http://houstonpals.com/img/assets/schema/houston-pet-artificial-limbs-and-supports-logo.png",
   "description": "Custom made orthotics and prosthetics devices for your pet in Houston, TX, created by Bill Bickley",
-  "url" : "http://greencaretx.com",
-  "telephone": "713-864-5300",
-  "address": {
+  "url" : "http://houstonpals.com",
+  "telephone": "832-444-8384",
+   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Houston",
     "addressRegion": "TX",
-    "postalCode": "77007",
-    "streetAddress": "5221 Center St"
+    "postalCode": "77035",
+    "streetAddress": "4430 McDermed Dr"
   },
   "sameAs" : [
-    "https://plus.google.com/108713736317109074241/posts?hl=en",
-    "https://www.facebook.com/GreencareInteriorPlants"
+    "https://www.facebook.com/Pet-Artificial-Limbs-and-Supports-547234815361977/"
   ]
 }
 </script>
