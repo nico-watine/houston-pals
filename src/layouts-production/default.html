@@ -32,11 +32,14 @@
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
-
 {{> header}}
 
 <main>
-	{{> body}}
+	<div class="content-wrapper">
+		<div class="content">
+			{{> body}}
+		</div>
+	</div>
 </main>
 
 {{> footer}}
@@ -44,6 +47,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-2/jquery.min.js"><\/script>')</script>
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
+
+{{> google-tracking-id}}
 
 </body>
 </html>

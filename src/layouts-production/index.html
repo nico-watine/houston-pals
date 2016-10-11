@@ -29,14 +29,39 @@
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LocalBusiness",
+	  "name": "Houston PALS | Pet Artifical Limbs &amp; Supports",
+	  "logo": "http://houstonpals.com/img/assets/schema/houston-pet-artificial-limbs-and-supports-logo.png",
+	  "description": "Custom made orthotics and prosthetics devices for your pet in Houston, TX, created by Bill Bickley",
+	  "url" : "http://houstonpals.com",
+	  "telephone": "832-444-8384",
+	   "address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "Houston",
+	    "addressRegion": "TX",
+	    "postalCode": "77035",
+	    "streetAddress": "4430 McDermed Dr"
+	  },
+	  "sameAs" : [
+	    "https://www.facebook.com/Pet-Artificial-Limbs-and-Supports-547234815361977/"
+	  ]
+	}
+	</script>
+
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
-
 
 {{> header}}
 
 <main>
-	{{> body}}
+	<div class="content-wrapper">
+		<div class="content">
+			{{> body}}
+		</div>
+	</div>
 </main>
 
 {{> footer}}
@@ -44,6 +69,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-2/jquery.min.js"><\/script>')</script>
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
+
+{{> google-tracking-id}}
 
 </body>
 </html>
