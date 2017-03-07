@@ -3,7 +3,6 @@ node_modules
 bower_components
 npm-debug.log
 dist
-config.codekit
 *.sublime-project
 *.sublime-workspace
 _ignores/google-maps-api-key.txt
