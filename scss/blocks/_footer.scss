@@ -2,24 +2,24 @@
 
 footer {
 	background: #30659B;
-	padding: rem(40) 0;
+	padding: rem-calc(40) 0;
 	color: #fff;
 
 	ul.menu {
 		display: inline-block;
 
 		@include breakpoint(medium) {
-			margin-bottom: rem(12);
+			margin-bottom: rem-calc(12);
 		}
 
 		li {
-			padding: 0 rem(16);
+			padding: 0 rem-calc(16);
 
 			a {
 				display: inline-block;
 				@extend .normal;
 				color: #fff;
-				padding: rem(12) 0;
+				padding: rem-calc(12) 0;
 
 				&:hover {
 					color: #fff;
@@ -31,8 +31,8 @@ footer {
 		@include breakpoint(medium only) {
 			li#op-faq {
 				a {
-					width: rem(100);
-					line-height: rem(25);
+					width: rem-calc(100);
+					line-height: rem-calc(25);
 				}
 			}
 		}
@@ -41,7 +41,7 @@ footer {
 	#contact-deets {
 		a {
 			color: #fff;
-			margin-bottom: rem(12);
+			margin-bottom: rem-calc(12);
 			display: inline-block;
 
 			&:hover {
@@ -52,13 +52,13 @@ footer {
 }
 
 #snc-link {
-	padding-top: rem(40);
+	padding-top: rem-calc(40);
 	display: none;
 	visibility: hidden;
 
 	a {
-		font-size: rem(10);
-		letter-spacing: rem(1.2);
+		font-size: rem-calc(10);
+		letter-spacing: rem-calc(1.2);
 		color: #888;
 		font-weight: normal;
 

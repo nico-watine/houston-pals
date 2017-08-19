@@ -2491,40 +2491,40 @@ main {
 
 footer {
   background: #30659B;
-  padding: rem(40) 0;
+  padding: 2.5rem 0;
   color: #fff; }
   footer ul.menu {
     display: inline-block; }
     @media print, screen and (min-width: 40em) {
       footer ul.menu {
-        margin-bottom: rem(12); } }
+        margin-bottom: 0.75rem; } }
     footer ul.menu li {
-      padding: 0 rem(16); }
+      padding: 0 1rem; }
       footer ul.menu li a {
         display: inline-block;
         color: #fff;
-        padding: rem(12) 0; }
+        padding: 0.75rem 0; }
         footer ul.menu li a:hover {
           color: #fff;
           text-decoration: underline; }
     @media screen and (min-width: 40em) and (max-width: 63.9375em) {
       footer ul.menu li#op-faq a {
-        width: rem(100);
-        line-height: rem(25); } }
+        width: 6.25rem;
+        line-height: 1.5625rem; } }
   footer #contact-deets a {
     color: #fff;
-    margin-bottom: rem(12);
+    margin-bottom: 0.75rem;
     display: inline-block; }
     footer #contact-deets a:hover {
       text-decoration: underline; }
 
 #snc-link {
-  padding-top: rem(40);
+  padding-top: 2.5rem;
   display: none;
   visibility: hidden; }
   #snc-link a {
-    font-size: rem(10);
-    letter-spacing: rem(1.2);
+    font-size: 0.625rem;
+    letter-spacing: 0.075rem;
     color: #888;
     font-weight: normal; }
     #snc-link a span {
