@@ -1,9 +1,8 @@
-
 //  IMPORT CUSTOM SETTINGS FILE ::
 @import "settings/_custom-settings.scss";
 //  ---------------------------------------------------------------
 
-//  Foundation for Sites Settings
+//  Foundation for Sites Settings v6.3.1
 //  -----------------------------
 //
 //  Table of Contents:
@@ -21,11 +20,11 @@
 //  11. Button
 //  12. Button Group
 //  13. Callout
-//  14. Close Button
-//  15. Drilldown
-//  16. Dropdown
-//  17. Dropdown Menu
-//  18. Flex Video
+//  14. Card
+//  15. Close Button
+//  16. Drilldown
+//  17. Dropdown
+//  18. Dropdown Menu
 //  19. Forms
 //  20. Label
 //  21. Media Object
@@ -35,15 +34,16 @@
 //  25. Orbit
 //  26. Pagination
 //  27. Progress Bar
-//  28. Reveal
-//  29. Slider
-//  30. Switch
-//  31. Table
-//  32. Tabs
-//  33. Thumbnail
-//  34. Title Bar
-//  35. Tooltip
-//  36. Top Bar
+//  28. Responsive Embed
+//  29. Reveal
+//  30. Slider
+//  31. Switch
+//  32. Table
+//  33. Tabs
+//  34. Thumbnail
+//  35. Title Bar
+//  36. Tooltip
+//  37. Top Bar
 
 @import 'util/util';
 
@@ -54,11 +54,11 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #2199e8,
-  secondary: #777,
+  primary: #1779ba,
+  secondary: #767676,
   success: #3adb76,
   warning: #ffae00,
-  alert: #ec5840,
+  alert: #cc4b37,
 );
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
@@ -67,7 +67,7 @@ $black: #0a0a0a;
 $white: #fefefe;
 $body-background: $white;
 $body-font-color: $black;
-$body-font-family: 'Open Sans', Helvetica, Roboto, Arial, sans-serif;
+$body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -91,6 +91,7 @@ $breakpoints: (
   xlarge: 1200px,
   xxlarge: 1440px,
 );
+$print-breakpoint: large;
 $breakpoint-classes: (small medium large);
 
 // 3. The Grid
@@ -113,28 +114,28 @@ $header-font-family: $header-font;
 $header-font-weight: $header-weight;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-$header-sizes: (
-  small: (
-    'h1': 24,
-    'h2': 20,
-    'h3': 19,
-    'h4': 18,
-    'h5': 17,
-    'h6': 16,
-  ),
-  medium: (
-    'h1': 48,
-    'h2': 40,
-    'h3': 31,
-    'h4': 25,
-    'h5': 20,
-    'h6': 18,
-  ),
-);
 $header-color: inherit;
 // $header-lineheight: 1.4;
 $header-lineheight: 1.2;
 $header-margin-bottom: 0.5rem;
+$header-styles: (
+  small: (
+    'h1': ('font-size': 24),
+    'h2': ('font-size': 20),
+    'h3': ('font-size': 19),
+    'h4': ('font-size': 18),
+    'h5': ('font-size': 17),
+    'h6': ('font-size': 16),
+  ),
+  medium: (
+    'h1': ('font-size': 48),
+    'h2': ('font-size': 40),
+    'h3': ('font-size': 31),
+    'h4': ('font-size': 25),
+    'h5': ('font-size': 20),
+    'h6': ('font-size': 18),
+  ),
+);
 $header-text-rendering: optimizeLegibility;
 $small-font-size: 80%;
 $header-small-font-color: $medium-gray;
@@ -168,6 +169,7 @@ $blockquote-padding: rem-calc(9 20 0 19);
 $blockquote-border: 1px solid $medium-gray;
 $cite-font-size: rem-calc(13);
 $cite-color: $dark-gray;
+$cite-pseudo-content: '\2014 \0020';
 $keystroke-font: $font-family-monospace;
 $keystroke-color: $black;
 $keystroke-background: $light-gray;
