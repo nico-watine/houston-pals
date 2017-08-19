@@ -7,7 +7,7 @@
 	font-weight: $title-weight;
 	color: $dark-blue;
 	text-transform: uppercase;
-	letter-spacing: rem(2);
+	letter-spacing: rem-calc(2);
 }
 
 .heading {
@@ -22,7 +22,7 @@
 
 p {
 	@include breakpoint(medium) {
-		font-size: rem(18);
+		font-size: rem-calc(18);
 	}
 }
 
@@ -32,7 +32,7 @@ p {
 
 a#colorful-name-hover {
 	// color: #000;
-	// text-shadow: 0 rem(2) rem(1) #fff;
+	// text-shadow: 0 rem-calc(2) rem-calc(1) #fff;
 
 	&:hover {
 		// text-decoration: underline;
@@ -51,26 +51,26 @@ a#colorful-name-hover {
 
 // FOR SASS REFERENCE ONLY ::
 .h2 {
-	font-size: rem(20);
+	font-size: rem-calc(20);
 
 	@include breakpoint(medium) {
-		font-size: rem(40);
+		font-size: rem-calc(40);
 	}
 }
 
 .h3 {
-	font-size: rem(19);
+	font-size: rem-calc(19);
 
 	@include breakpoint(medium) {
-		font-size: rem(31);
+		font-size: rem-calc(31);
 	}
 }
 
 .h4 {
-	font-size: rem(18);
+	font-size: rem-calc(18);
 
 	@include breakpoint(medium) {
-		font-size: rem(25);
+		font-size: rem-calc(25);
 	}
 }
 

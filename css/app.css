@@ -2565,7 +2565,7 @@ body#index #snc-link {
   font-weight: 400; }
 
 .icon {
-  font: normal rem(16) hpals; }
+  font: normal 1rem hpals; }
 
 .icon.phone:before {
   content: '\e801'; }
@@ -2578,7 +2578,7 @@ body#index #snc-link {
   font-weight: 700;
   color: #30659B;
   text-transform: uppercase;
-  letter-spacing: rem(2); }
+  letter-spacing: 0.125rem; }
 
 .heading, header ul.menu li a {
   font-family: "Muller Medium", sans-serif;
@@ -2590,7 +2590,7 @@ body#index #snc-link {
 
 @media print, screen and (min-width: 40em) {
   p {
-    font-size: rem(18); } }
+    font-size: 1.125rem; } }
 
 .normal, footer ul.menu li a {
   font-weight: normal; }
@@ -2604,22 +2604,22 @@ a#colorful-name-hover:hover span.blue {
   background: #30659B; }
 
 .h2 {
-  font-size: rem(20); }
+  font-size: 1.25rem; }
   @media print, screen and (min-width: 40em) {
     .h2 {
-      font-size: rem(40); } }
+      font-size: 2.5rem; } }
 
 .h3 {
-  font-size: rem(19); }
+  font-size: 1.1875rem; }
   @media print, screen and (min-width: 40em) {
     .h3 {
-      font-size: rem(31); } }
+      font-size: 1.9375rem; } }
 
 .h4 {
-  font-size: rem(18); }
+  font-size: 1.125rem; }
   @media print, screen and (min-width: 40em) {
     .h4 {
-      font-size: rem(25); } }
+      font-size: 1.5625rem; } }
 
 address {
   font-style: normal; }
@@ -2631,15 +2631,15 @@ address {
   margin: 0 !important; }
 
 .p-x {
-  padding: 0 rem(16) !important; }
+  padding: 0 1rem !important; }
 
 .p-y {
-  padding: rem(16) 0 !important; }
+  padding: 1rem 0 !important; }
 
 img.frame {
-  border: rem(3) solid #30659B;
+  border: 0.1875rem solid #30659B;
   box-shadow: 0 rem(2) rem(2) 0 rgba(0, 0, 0, 0.2), 0 rem(6) rem(10) 0 rgba(0, 0, 0, 0.3);
-  margin-bottom: rem(8); }
+  margin-bottom: 0.5rem; }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center; }
