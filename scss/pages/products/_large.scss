@@ -9,38 +9,38 @@
 
 				.description {
 					p {
-						font-size: rem(25);
+						font-size: rem-calc(25);
 					}
 				}
 
 				.reasons {
 					p {
-						font-size: rem(20);
-						margin-bottom: rem(8);
+						font-size: rem-calc(20);
+						margin-bottom: rem-calc(8);
 					}
 
 					ul {
-						font-size: rem(20);
-						padding-left: rem(10);
+						font-size: rem-calc(20);
+						padding-left: rem-calc(10);
 					}
 				}
 
 				.product-image {
-					padding-right: rem(12);
+					padding-right: rem-calc(12);
 				}
 
 				.ordering-button {
-					max-width: rem(270);
+					max-width: rem-calc(270);
 				}
 			}
 		}
 
 		section#animal-diversity {
 			.prose {
-				padding-left: rem(60);
+				padding-left: rem-calc(60);
 
 				p {
-					font-size: rem(22);
+					font-size: rem-calc(22);
 					line-height: 1.4;
 				}
 			}

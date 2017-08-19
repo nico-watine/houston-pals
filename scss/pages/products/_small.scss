@@ -5,7 +5,7 @@
 	body#products {
 		.page-intro {
 			h1 {
-				font-size: rem(30);
+				font-size: rem-calc(30);
 			}
 		}
 		
@@ -13,37 +13,37 @@
 			.product-block {
 				.description {
 					h2 {
-						font-size: rem(24);
+						font-size: rem-calc(24);
 					}
 				}
 			}
 			.product-block#orthotics {
-				margin-bottom: rem(20);
+				margin-bottom: rem-calc(20);
 			}
 		}
 
 		section#animal-diversity {
 			.section-title {
-				font-size: rem(24);
+				font-size: rem-calc(24);
 			}
 		}
 
 		section#product-image-gallery {
 			.section-title {
-				font-size: rem(24);
+				font-size: rem-calc(24);
 			}
 
 			.gallery {
 				.gallery-title {
-					font-size: rem(22);
+					font-size: rem-calc(22);
 				}
 
 				.feature-img-container {
-					margin-bottom: rem(40);
+					margin-bottom: rem-calc(40);
 				}
 				
 				.ordering-button {
-					font-size: rem(18);
+					font-size: rem-calc(18);
 					margin: 0;
 				}
 			}

@@ -5,60 +5,60 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 @include breakpoint(medium) {
 	body#products {
 		.row.page-intro {
-			padding: rem(40) 0;
+			padding: rem-calc(40) 0;
 		}
 
 		section.wide#product-definitions {
-			// padding: rem(20);
+			// padding: rem-calc(20);
 
 			.product-block {
-				// padding: rem(20);
+				// padding: rem-calc(20);
 
 				.description {
 					h2 {
 						margin: 0;
 
 						@media #{$max-width-860} {
-							font-size: rem(30);
+							font-size: rem-calc(30);
 						}
 					}
 
 					h3 {
-						margin-bottom: rem(16);
+						margin-bottom: rem-calc(16);
 
 						@media #{$max-width-860} {
-							font-size: rem(26);
+							font-size: rem-calc(26);
 						}
 					}
 
 					p {
-						font-size: rem(20);
+						font-size: rem-calc(20);
 						line-height: 1.4;
 
 						@media #{$max-width-860} {
-							font-size: rem(18);
+							font-size: rem-calc(18);
 						}
 					}
 				}
 
 				.reasons {
 					p {
-						font-size: rem(20);
+						font-size: rem-calc(20);
 						line-height: 1.4;
-						margin-bottom: rem(8);
+						margin-bottom: rem-calc(8);
 
 						@media #{$max-width-860} {
-							font-size: rem(18);
+							font-size: rem-calc(18);
 						}
 					}
 
 					ul {
-						font-size: rem(20);
+						font-size: rem-calc(20);
 						line-height: 1.4;
-						padding-left: rem(10);
+						padding-left: rem-calc(10);
 
 						@media #{$max-width-860} {
-							font-size: rem(18);
+							font-size: rem-calc(18);
 						}
 					}
 				}
@@ -66,32 +66,32 @@ $max-width-860: "only screen and (max-width : 53.750em)";
 		}
 
 		section#animal-diversity {
-			padding: rem(40) 0;
+			padding: rem-calc(40) 0;
 
 			.section-title {
-				margin-bottom: rem(30);
+				margin-bottom: rem-calc(30);
 			}
 		}
 
 		section#product-image-gallery {
 			.section-title {
-				margin-bottom: rem(40);
+				margin-bottom: rem-calc(40);
 			}
 
 			.gallery-divider {
 				hr {
-					margin: rem(50) 0 rem(40);
+					margin: rem-calc(50) 0 rem-calc(40);
 				}
 			}
 
 			.gallery {
 				.feature-img-container {
-					margin-bottom: rem(10);
+					margin-bottom: rem-calc(10);
 				}
 
 				.ordering-button {
-					padding: rem(12) rem(38);
-					font-size: rem(20);
+					padding: rem-calc(12) rem-calc(38);
+					font-size: rem-calc(20);
 					@include button-expand(false);
 				}
 			}

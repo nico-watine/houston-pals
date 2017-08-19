@@ -9,12 +9,12 @@ body#products {
 	section.wide#product-definitions {
 		width: 100%;
 		background: $dark-blue;
-		border: rem(3) solid $dark-blue;
-		padding: rem(20) 0;
+		border: rem-calc(3) solid $dark-blue;
+		padding: rem-calc(20) 0;
 
 		.product-block {
 			background: $off-white;
-			padding: rem(20);
+			padding: rem-calc(20);
 
 			.product-image {
 				text-align: center;
@@ -23,16 +23,16 @@ body#products {
 					max-width: 260px;
 					width: 100%;
 					height: auto;
-					margin-bottom: rem(18);
+					margin-bottom: rem-calc(18);
 				}
 			}
 
 			.ordering-button {
 				background: $dark-blue;
-				border-radius: rem(5);
+				border-radius: rem-calc(5);
 				box-shadow: $z-1;
-				font-size: rem(20);
-				border: rem(2) solid $dark-blue;
+				font-size: rem-calc(20);
+				border: rem-calc(2) solid $dark-blue;
 
 				&:hover {
 					background: #fff;
@@ -44,32 +44,32 @@ body#products {
 	}
 
 	section#animal-diversity {
-		padding: rem(20) 0;
+		padding: rem-calc(20) 0;
 
 		img {
 			max-width: 260px;
 			width: 100%;
 			height: auto;
-			margin-bottom: rem(18);
+			margin-bottom: rem-calc(18);
 		}
 	}
 
 	section#product-image-gallery {
-		padding: rem(30) 0;
+		padding: rem-calc(30) 0;
 		background: #F7F7F7;
-		border: rem(3) solid #30659B;
-		box-shadow: 0 rem(1) rem(4) 0 rgba(0,0,0,0.37);
+		border: rem-calc(3) solid #30659B;
+		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37);
 
 		.gallery-divider {
 			hr {
-				margin: rem(50) 0;
-				border-bottom: rem(2) solid $dark-blue;
+				margin: rem-calc(50) 0;
+				border-bottom: rem-calc(2) solid $dark-blue;
 			}
 		}
 
 		.gallery {
 			.gallery-title {
-				margin-bottom: rem(16);
+				margin-bottom: rem-calc(16);
 			}
 			
 			.feature-img-container {
@@ -98,14 +98,14 @@ body#products {
 			}
 
 			.button-row {
-				margin-top: rem(20);
+				margin-top: rem-calc(20);
 			}
 
 			.ordering-button {
 				background: $dark-blue;
-				border-radius: rem(5);
+				border-radius: rem-calc(5);
 				box-shadow: $z-1;
-				border: rem(2) solid $dark-blue;
+				border: rem-calc(2) solid $dark-blue;
 
 
 				&:hover {
