@@ -43,7 +43,7 @@ body#ordering-product-faq {
 					padding-bottom: 56.25%;
 					height: 0;
 					overflow: hidden;
-					border: em(5) solid #fff;
+					border: rem-calc(5) solid #fff;
 					box-shadow: $z-2;
 
 					iframe {
