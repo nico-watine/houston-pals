@@ -11,7 +11,7 @@ header {
 	}
 
 	@include breakpoint(medium) {
-		height: rem(249);
+		height: rem-calc(249);
 		position: relative;
 
 		.row {
@@ -26,13 +26,13 @@ header {
 	}
 
 	@include breakpoint(large) {
-		height: rem(180);
+		height: rem-calc(180);
 	}
 
 	aside {
 		position: absolute;
-		top: rem(10);
-		right: rem(30);
+		top: rem-calc(10);
+		right: rem-calc(30);
 
 		a {
 			color: #000;
@@ -40,10 +40,10 @@ header {
 	}
 
 	.logo {
-		padding: rem(16) rem(8);
+		padding: rem-calc(16) rem-calc(8);
 
 		img {
-			max-width: rem(370);
+			max-width: rem-calc(370);
 			width: 100%;
 		}
 	}
@@ -55,10 +55,10 @@ header {
 			color: #fff;
 		    float: left;
 		    line-height: 1;
-		    margin-right: rem(28);
+		    margin-right: rem-calc(28);
 
 		    .icon {
-		    	font-size: rem(28);
+		    	font-size: rem-calc(28);
 		    }
 		}
 	}
@@ -77,8 +77,8 @@ header {
 				line-height: 1.4;
 				@extend .heading;
 				color: #000;
-				font-size: rem(18);
-				padding: rem(10);
+				font-size: rem-calc(18);
+				padding: rem-calc(10);
 
 				&:hover {
 					background: $light-green;
@@ -95,8 +95,8 @@ header {
 		@include breakpoint(medium) {
 			li {
 				a {
-					height: rem(70);
-					line-height: rem(50);
+					height: rem-calc(70);
+					line-height: rem-calc(50);
 
 					&:hover {
 						background: $dark-blue;
@@ -112,21 +112,21 @@ header {
 
 			li#op-faq {
 				a {
-					width: rem(150);
-					line-height: rem(25);
+					width: rem-calc(150);
+					line-height: rem-calc(25);
 				}
 			}
 
 			li#about-pals {
 				a {
-					width: rem(130);
+					width: rem-calc(130);
 				}
 			}
 		}
 
 		@include breakpoint(large) {
 			li {
-				height: rem(180);
+				height: rem-calc(180);
 
 				a {
 					height: auto;
