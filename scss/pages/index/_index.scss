@@ -7,17 +7,17 @@
 
 body#index {
 	.row#intro {
-		margin-bottom: rem(25);
-		padding-top: rem(20);
+		margin-bottom: rem-calc(25);
+		padding-top: rem-calc(20);
 
 		@include breakpoint(medium) {
-			margin-bottom: rem(35);
+			margin-bottom: rem-calc(35);
 		}
 
 		#profile-pic {
 			h1 {
-				font-size: rem(32);
-				margin-bottom: rem(16);
+				font-size: rem-calc(32);
+				margin-bottom: rem-calc(16);
 
 				span {
 					text-transform: none;
@@ -25,9 +25,9 @@ body#index {
 			}
 
 			img {
-				border: rem(3) solid $dark-blue;
+				border: rem-calc(3) solid $dark-blue;
 				box-shadow: $z-2;
-				margin-bottom: rem(30);
+				margin-bottom: rem-calc(30);
 
 				max-width: 315px;
 				height: auto;
@@ -46,7 +46,7 @@ body#index {
 		.prose {
 
 			@include breakpoint(medium) {
-				padding-top: rem(45);
+				padding-top: rem-calc(45);
 
 				h1 {
 					span {
@@ -55,7 +55,7 @@ body#index {
 				}
 
 				h2 {
-					font-size: rem(22);
+					font-size: rem-calc(22);
 				}
 			}
 
@@ -65,13 +65,13 @@ body#index {
 
 			@include breakpoint(large) {
 				h2 {
-					font-size: rem(25);
+					font-size: rem-calc(25);
 				}
 			}
 		}
 	}
 
 	.row#story {
-		margin-bottom: rem(30);
+		margin-bottom: rem-calc(30);
 	}
 }
