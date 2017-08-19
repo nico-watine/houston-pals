@@ -194,9 +194,9 @@ $stat-font-size: 2.5rem;
 
 $abide-inputs: true;
 $abide-labels: true;
-$input-background-invalid: map-get($foundation-palette, alert);
-$form-label-color-invalid: map-get($foundation-palette, alert);
-$input-error-color: map-get($foundation-palette, alert);
+$input-background-invalid: get-color(alert);
+$form-label-color-invalid: get-color(alert);
+$input-error-color: get-color(alert);
 $input-error-font-size: rem-calc(12);
 $input-error-font-weight: $global-weight-bold;
 
@@ -205,12 +205,13 @@ $input-error-font-weight: $global-weight-bold;
 
 $accordion-background: $white;
 $accordion-plusminus: true;
-$accordion-item-color: foreground($accordion-background, $primary-color);
+$accordion-title-font-size: rem-calc(12);
+$accordion-item-color: $primary-color;
 $accordion-item-background-hover: $light-gray;
 $accordion-item-padding: 1.25rem 1rem;
 $accordion-content-background: $white;
 $accordion-content-border: 1px solid $light-gray;
-$accordion-content-color: foreground($accordion-background, $primary-color);
+$accordion-content-color: $body-font-color;
 $accordion-content-padding: 1rem;
 
 // 8. Accordion Menu
@@ -218,12 +219,15 @@ $accordion-content-padding: 1rem;
 
 $accordionmenu-arrows: true;
 $accordionmenu-arrow-color: $primary-color;
+$accordionmenu-arrow-size: 6px;
 
 // 9. Badge
 // --------
 
 $badge-background: $primary-color;
-$badge-color: foreground($badge-background);
+$badge-color: $white;
+$badge-color-alt: $black;
+$badge-palette: $foundation-palette;
 $badge-padding: 0.3em;
 $badge-minwidth: 2.1em;
 $badge-font-size: 0.6rem;
