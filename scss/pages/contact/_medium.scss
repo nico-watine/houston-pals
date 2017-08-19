@@ -6,51 +6,51 @@
 
 			.prose {
 				// background: #fff url('#{$url}/img/contact/header/medium/map-header.jpg') no-repeat center top;
-				background-size: auto rem(230);
-				padding: rem(80) rem(30) rem(20);
+				background-size: auto rem-calc(230);
+				padding: rem-calc(80) rem-calc(30) rem-calc(20);
 
 				h1 {
 					line-height: 1.2;
 				}
 
 				h2 {
-					font-size: rem(31);
-					margin-bottom: rem(30);
+					font-size: rem-calc(31);
+					margin-bottom: rem-calc(30);
 				}
 
 				h3 {
 					@extend .h4;
 
 					small {
-						font-size: rem(16);
+						font-size: rem-calc(16);
 					}
 				}
 
 				#address-box,
 				#profile-box {
-					margin-bottom: rem(18);
+					margin-bottom: rem-calc(18);
 
 					p,
 					address,
 					a {
-						font-size: rem(18);
+						font-size: rem-calc(18);
 						margin-bottom: 0;
 					}
 				}
 				
 				.address-box {
-					margin-bottom: rem(40);
+					margin-bottom: rem-calc(40);
 					line-height: 1.4 !important;
 				}
 
 				address {
-					font-size: rem(23);
+					font-size: rem-calc(23);
 				}
 
 				.profile-box {
 					p {
-						font-size: rem(23);
-						margin-bottom: rem(8);
+						font-size: rem-calc(23);
+						margin-bottom: rem-calc(8);
 					}
 				}
 			}

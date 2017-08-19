@@ -4,24 +4,24 @@ body.coming-soon {
 	main {
 		.content-wrapper {
 			.content {
-				min-height: rem(400);
+				min-height: rem-calc(400);
 			}
 		}
 	}
 
 	#top-row {
-		padding-top: rem(70);
-		padding-bottom: rem(70);
+		padding-top: rem-calc(70);
+		padding-bottom: rem-calc(70);
 
 		@include breakpoint(small only) {
 			text-align: center;
 			
 			h1 {
-				font-size: rem(32);
+				font-size: rem-calc(32);
 			}
 
 			h2 {
-				font-size: rem(22);
+				font-size: rem-calc(22);
 			}
 		}
 	}
@@ -33,7 +33,7 @@ body.coming-soon {
 			.content-wrapper {
 
 				.content {
-					min-height: rem(550);
+					min-height: rem-calc(550);
 				}
 			}
 		}

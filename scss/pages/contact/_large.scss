@@ -4,15 +4,15 @@
 @include breakpoint(large) {
 	body#contact {
 		#contact-info-panel {
-			height: rem(600);
-			padding: 0 rem(5) 0 0;
+			height: rem-calc(600);
+			padding: 0 rem-calc(5) 0 0;
 
 			.prose {
 				background: #fff;
 				box-shadow: $z-1;
-				height: rem(600);
+				height: rem-calc(600);
 				width: 100%;
-				padding: rem(60) rem(30) 0;
+				padding: rem-calc(60) rem-calc(30) 0;
 
 				h1 {
 					text-align: left;
@@ -25,12 +25,12 @@
 		}
 
 		#interactive-map {
-			height: rem(600);
+			height: rem-calc(600);
 			position: relative;
 
 			.click-overlay {
 				width: 100%;
-				min-height: rem(600);
+				min-height: rem-calc(600);
 				position: absolute;
 				top: 0;
 			}
