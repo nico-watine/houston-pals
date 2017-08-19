@@ -24,9 +24,9 @@ layout: products
 	</div>
 </div>
 <section class="wide" id="product-definitions">
-	<div class="row expanded">
+	<div class="row expanded" data-equalizer>
 		<div class="medium-6 columns">
-			<div class="product-block" id="orthotics">
+			<div class="product-block" id="orthotics" data-equalizer-watch>
 				<div class="row description">
 					<h2 class="title medium-text-center">Orthotics</h2>
 					<h3 class="medium-text-center">Custom Bracing</h3>
@@ -51,7 +51,7 @@ layout: products
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="product-block" id="prosthetics">
+			<div class="product-block" id="prosthetics" data-equalizer-watch>
 				<div class="row description">
 					<h2 class="title medium-text-center">Prosthetics</h2>
 					<h3 class="medium-text-center">Custom Artificial Limbs</h3>
