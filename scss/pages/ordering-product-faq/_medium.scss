@@ -4,12 +4,12 @@
 @include breakpoint(medium) {
 	body#ordering-product-faq {
 		.row.page-intro {
-			padding: rem(40) 0;
+			padding: rem-calc(40) 0;
 		}
 
 		.row.ordering-summary {
 			p {
-				font-size: rem(25);
+				font-size: rem-calc(25);
 			}
 		}
 	}

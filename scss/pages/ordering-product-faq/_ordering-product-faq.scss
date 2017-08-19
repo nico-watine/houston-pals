@@ -7,7 +7,7 @@
 
 body#ordering-product-faq {
 	.row.page-intro {
-		padding: rem(20) 0;
+		padding: rem-calc(20) 0;
 	}
 
 	.row.ordering-summary {
@@ -17,10 +17,10 @@ body#ordering-product-faq {
 	}
 
 	.row#contact-info {
-		padding-bottom: rem(20);
+		padding-bottom: rem-calc(20);
 		
 		.bill-title {
-			margin-bottom: rem(10);
+			margin-bottom: rem-calc(10);
 		}
 
 		a.email {
@@ -34,7 +34,7 @@ body#ordering-product-faq {
 
 	.video-container {
 		.row {
-			padding: rem(40) 0;
+			padding: rem-calc(40) 0;
 
 			.video-wrapper {
 				.iframe-wrapper {

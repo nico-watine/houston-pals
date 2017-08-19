@@ -2893,31 +2893,31 @@ body#products section#product-image-gallery {
 
 @media screen and (max-width: 39.9375em) {
   body#ordering-product-faq .page-intro h1 {
-    font-size: rem(30); } }
+    font-size: 1.875rem; } }
 
 @media print, screen and (min-width: 40em) {
   body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
-    padding: rem(40) 0; }
+    padding: 2.5rem 0; }
   body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
-    font-size: rem(25); } }
+    font-size: 1.5625rem; } }
 
 body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
-  padding: rem(20) 0; }
+  padding: 1.25rem 0; }
 
 body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
   margin-bottom: 0; }
 
 body#ordering-product-faq .row#contact-info, body#ordering-product-faq main .content-wrapper #contact-info.content, main .content-wrapper body#ordering-product-faq #contact-info.content {
-  padding-bottom: rem(20); }
+  padding-bottom: 1.25rem; }
   body#ordering-product-faq .row#contact-info .bill-title, body#ordering-product-faq main .content-wrapper #contact-info.content .bill-title, main .content-wrapper body#ordering-product-faq #contact-info.content .bill-title {
-    margin-bottom: rem(10); }
+    margin-bottom: 0.625rem; }
   body#ordering-product-faq .row#contact-info a.email, body#ordering-product-faq main .content-wrapper #contact-info.content a.email, main .content-wrapper body#ordering-product-faq #contact-info.content a.email {
     color: #000; }
     body#ordering-product-faq .row#contact-info a.email:hover, body#ordering-product-faq main .content-wrapper #contact-info.content a.email:hover, main .content-wrapper body#ordering-product-faq #contact-info.content a.email:hover {
       color: #1585cf; }
 
 body#ordering-product-faq .video-container .row, body#ordering-product-faq .video-container main .content-wrapper .content, main .content-wrapper body#ordering-product-faq .video-container .content {
-  padding: rem(40) 0; }
+  padding: 2.5rem 0; }
   body#ordering-product-faq .video-container .row .video-wrapper .iframe-wrapper, body#ordering-product-faq .video-container main .content-wrapper .content .video-wrapper .iframe-wrapper, main .content-wrapper body#ordering-product-faq .video-container .content .video-wrapper .iframe-wrapper {
     width: 100%;
     position: relative;
