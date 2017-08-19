@@ -2456,12 +2456,12 @@ header ul.menu li a.active {
       visibility: visible !important;
       position: initial;
       box-shadow: none;
-      height: rem(70); }
+      height: 4.375rem; }
       #top-bar-nav.dropdown-pane ul.menu {
         display: inline-block; } }
   @media print, screen and (min-width: 64em) {
     #top-bar-nav.dropdown-pane {
-      height: rem(180); } }
+      height: 11.25rem; } }
 
 main {
   background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 65%, rgba(255, 255, 255, 0) 65%, #98CD68 100%); }
