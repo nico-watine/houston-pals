@@ -20,7 +20,7 @@ body-class:
 </div>
 <div class="row">
 	<div class="large-5 large-push-1 columns">
-		<div class="priceCard">
+		<div class="priceCard marginBottom-20 x2">
 			<div class="header">
 				<h4>Prosthetics</h4>
 				<div class="image-scrim">&nbsp;</div>
@@ -32,7 +32,7 @@ body-class:
 		</div>
 	</div>
 	<div class="large-5 large-push-1 columns end">
-		<div class="priceCard">
+		<div class="priceCard marginBottom-20 x2">
 			<div class="header">
 				<h4>Orthotics</h4>
 				<div class="image-scrim">&nbsp;</div>
