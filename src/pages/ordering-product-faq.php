@@ -44,6 +44,14 @@ body-class:
 		</div>
 	</div>
 </div>
+<div class="row">
+	<div class="large-push-2 large-2 columns">
+		<img src="/img/orderingProductFAQ/pawIcon.svg" alt="Paw Icon">
+	</div>
+	<div class="large-push-2 large-6 columns end">
+		<h3>Depending of your animal’s needs, the design will be adjusted appropriately</h3>
+	</div>
+</div>
 <!-- <div class="video-container">
 	<div class="row">
 		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
