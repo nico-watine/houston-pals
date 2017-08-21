@@ -19,7 +19,7 @@ body-class:
 	</div>
 </div>
 <div class="row">
-	<div class="large-5 large-push-1 columns">
+	<div class="medium-6 large-5 large-push-1 columns">
 		<div class="priceCard marginBottom-20 x2">
 			<div class="header">
 				<h4>Prosthetics</h4>
@@ -31,7 +31,7 @@ body-class:
 			</div>
 		</div>
 	</div>
-	<div class="large-5 large-push-1 columns end">
+	<div class="medium-6 large-5 large-push-1 columns end">
 		<div class="priceCard marginBottom-20 x2">
 			<div class="header">
 				<h4>Orthotics</h4>
