@@ -52,6 +52,11 @@ body-class:
 		<h3>Depending of your animal’s needs, the design will be adjusted appropriately</h3>
 	</div>
 </div>
+<div class="row ordering-summary">
+	<div class="medium-10 medium-push-1 columns">
+		<p>To get started, contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
+	</div>
+</div>
 <!-- <div class="video-container">
 	<div class="row">
 		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
