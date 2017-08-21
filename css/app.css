@@ -2978,6 +2978,17 @@ body#ordering-product-faq .video-container .row, body#ordering-product-faq .vide
       left: 0;
       position: absolute; }
 
+@media print, screen and (min-width: 40em) {
+  .designAdjustment .wrapper {
+    min-height: 190px; }
+  .designAdjustment img {
+    display: block; }
+  .designAdjustment img,
+  .designAdjustment h3 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); } }
+
 body#about .row#intro, body#about main .content-wrapper #intro.content, main .content-wrapper body#about #intro.content {
   margin-bottom: 1.5625rem;
   padding-top: 1.25rem; }

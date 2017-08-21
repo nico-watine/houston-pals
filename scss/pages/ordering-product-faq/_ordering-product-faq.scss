@@ -58,3 +58,20 @@ body#ordering-product-faq {
 		}
 	}
 }
+
+.designAdjustment {
+	@include breakpoint(medium) {
+		.wrapper {
+			min-height: 190px;
+		}
+
+		img {
+			display: block;
+		}
+		
+		img,
+		h3 {
+			@include vertical-center;
+		}
+	}
+}
