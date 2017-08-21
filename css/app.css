@@ -2642,13 +2642,13 @@ img.frame {
 .marginBottom-20 {
   margin-bottom: 1.25rem; }
 
-.marginBottom-20.marginBottom-20 {
+.marginBottom-20.x2 {
   margin-bottom: 2.5rem; }
 
 .marginTop-20 {
   margin-top: 1.25rem; }
 
-.marginTop-20.marginTop-20 {
+.marginTop-20.x2 {
   margin-top: 2.5rem; }
 
 .padding-0,
@@ -2658,7 +2658,7 @@ img.frame {
 .paddingBottom-20 {
   padding-bottom: 1.25rem; }
 
-.paddingBottom-20.paddingBottom-20 {
+.paddingBottom-20.x2 {
   padding-bottom: 2.5rem; }
 
 .paddingTop-20 {
