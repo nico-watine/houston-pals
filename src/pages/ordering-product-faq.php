@@ -18,6 +18,20 @@ body-class:
 		<h2>Pricing</h2>
 	</div>
 </div>
+<div class="row">
+	<div class="large-5 large-push-1 columns">
+		<div class="priceCard">
+			<div class="header">
+				<h4>Prosthetics</h4>
+				<div class="image-scrim">&nbsp;</div>
+				<img src="/img/orderingProductFAQ/prosthetic.jpg" alt="Prosthetic Reference Photo">
+			</div>
+			<div class="plaque">
+				<p class="margin-0">A standard prosthetic has an estimated price range between $1200 and $1500</p>
+			</div>
+		</div>
+	</div>
+</div>
 <!-- <div class="video-container">
 	<div class="row">
 		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">

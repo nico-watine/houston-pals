@@ -2927,6 +2927,25 @@ body#products section#product-image-gallery {
   body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
     font-size: 1.5625rem; } }
 
+.priceCard {
+  background: #f7f7f7;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+  .priceCard .header {
+    position: relative; }
+    .priceCard .header h4 {
+      position: absolute;
+      z-index: 10;
+      bottom: 0;
+      padding: 0 1rem;
+      color: #fff; }
+    .priceCard .header .image-scrim {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-image: linear-gradient(-180deg, transparent 38%, #000 100%); }
+  .priceCard .plaque {
+    padding: 0.5rem 1rem 1rem; }
+
 body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
   padding: 1.25rem 0; }
 
