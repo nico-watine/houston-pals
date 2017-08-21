@@ -57,7 +57,7 @@ body-class:
 		<p>To get started, contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
 	</div>
 </div>
-<!-- <div class="video-container">
+<div class="video-container">
 	<div class="row">
 		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
 			<div class="iframe-wrapper">
@@ -73,4 +73,4 @@ body-class:
 		<a href="mailto:info@houstonpals.com" class="email">Info@HoustonPALS.com</a>
 		<p class="phone">(832) 444-8384</p>
 	</div>
-</div> -->
+</div>
