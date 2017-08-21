@@ -4405,6 +4405,8 @@ body#index .row#intro, body#index main .content-wrapper #intro.content, main .co
       text-align: right; }
       body#index .row#intro #profile-pic img, body#index main .content-wrapper #intro.content #profile-pic img, main .content-wrapper body#index #intro.content #profile-pic img {
         margin-bottom: 0; } }
+  body#index .row#intro .prose h2, body#index main .content-wrapper #intro.content .prose h2, main .content-wrapper body#index #intro.content .prose h2 {
+    line-height: 1.4; }
   @media print, screen and (min-width: 40em) {
     body#index .row#intro .prose, body#index main .content-wrapper #intro.content .prose, main .content-wrapper body#index #intro.content .prose {
       padding-top: 2.8125rem; }
