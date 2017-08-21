@@ -4628,6 +4628,15 @@ body#products section#product-image-gallery {
   .priceCard .plaque {
     padding: 0.5rem 1rem 1rem; }
 
+.tooltip {
+  max-width: 25rem;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4;
+  background-color: #fefefe;
+  color: #0a0a0a;
+  border: 3px solid #0a0a0a; }
+
 body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
   padding: 1.25rem 0; }
 
