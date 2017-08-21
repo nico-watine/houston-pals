@@ -13,9 +13,9 @@ body-class:
 		<h1 class="title">Ordering + Product FAQ</h1>
 	</div>
 </div>
-<div class="row ordering-summary">
-	<div class="medium-10 medium-push-1 columns">
-		<p>To get started, contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
+<div class="row">
+	<div class="columns text-center">
+		<h2>Pricing</h2>
 	</div>
 </div>
 <div class="video-container">
