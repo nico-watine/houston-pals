@@ -11,11 +11,6 @@ body-class:
 <div class="row page-intro">
 	<div class="medium-push-1 medium-11 columns">
 		<h1 class="title">Ordering + Product FAQ</h1>
-		<div class="row">
-			<div class="medium-push-1 medium-11 columns">
-				<h3>Depending on your animal’s needs, the design will be adjusted appropriately.</h3>
-			</div>
-		</div>
 	</div>
 </div>
 <div class="row ordering-summary">
