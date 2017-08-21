@@ -18,7 +18,7 @@ body-class:
 		<h2>Pricing</h2>
 	</div>
 </div>
-<div class="video-container">
+<!-- <div class="video-container">
 	<div class="row">
 		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
 			<div class="iframe-wrapper">
@@ -34,4 +34,4 @@ body-class:
 		<a href="mailto:info@houstonpals.com" class="email">Info@HoustonPALS.com</a>
 		<p class="phone">(832) 444-8384</p>
 	</div>
-</div>
+</div> -->
