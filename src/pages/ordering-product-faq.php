@@ -8,8 +8,8 @@ og-image: /img/assets/og/1/og-image-1.jpg
 body-id: ordering-product-faq
 body-class: 
 ---
-<div class="row paddingTop-20 x2">
-	<div class="medium-push-1 medium-11 columns">
+<div class="row">
+	<div class="medium-push-1 medium-11 columns paddingTop-20 x2">
 		<h1 class="title">Ordering + Product FAQ</h1>
 	</div>
 </div>
