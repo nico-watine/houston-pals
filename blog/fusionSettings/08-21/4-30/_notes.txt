@@ -1,0 +1,7 @@
+# ----------------------------------------------
+# |            Basic Typography Set            |
+# ----------------------------------------------
+
+h1-h6 Open Sans, zurb sizes, line-heights and colors
+
+Will add Muller fonts later on
