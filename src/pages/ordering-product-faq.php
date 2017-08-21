@@ -45,10 +45,10 @@ body-class:
 	</div>
 </div>
 <div class="row">
-	<div class="large-push-2 large-2 columns">
-		<img src="/img/orderingProductFAQ/pawIcon.svg" alt="Paw Icon">
+	<div class="medium-2 medium-push-1 large-push-2 large-2 columns text-center marginBottom-20">
+		<img style="max-width: 170px;" src="/img/orderingProductFAQ/pawIcon.svg" alt="Paw Icon">
 	</div>
-	<div class="large-push-2 large-6 columns end">
+	<div class="medium-9 medium-push-1 large-push-2 large-6 columns end marginBottom-20 text-center medium-text-left">
 		<h3>Depending of your animal’s needs, the design will be adjusted appropriately</h3>
 	</div>
 </div>
