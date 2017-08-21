@@ -1,10 +1,6 @@
 @import "../_settings.scss";
 
 
-// NO PADDING
-.p-0 {
-	padding: 0 !important;
-}
 
 .p-x {
 	padding: 0 rem-calc(16) !important;
@@ -30,3 +26,23 @@
 .marginBottom-20.marginBottom-20 {
 	margin-bottom: rem-calc(40);
 }
+
+
+// -------------------------------------------------
+// |            Padding Metrics Classes            |
+// -------------------------------------------------
+
+.padding-0,
+.p-0 {
+	padding: 0;
+}
+
+.paddingBottom-20 {
+	padding-bottom: rem-calc(20);
+}
+
+.paddingBottom-20.paddingBottom-20 {
+	padding-bottom: rem-calc(40);
+}
+
+
