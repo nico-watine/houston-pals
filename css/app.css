@@ -2664,7 +2664,7 @@ img.frame {
 .paddingTop-20 {
   padding-top: 1.25rem; }
 
-.paddingTop-20.paddingTop-20 {
+.paddingTop-20.x2 {
   padding-top: 2.5rem; }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
