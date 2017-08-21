@@ -31,6 +31,18 @@ body-class:
 			</div>
 		</div>
 	</div>
+	<div class="large-5 large-push-1 columns end">
+		<div class="priceCard">
+			<div class="header">
+				<h4>Orthotics</h4>
+				<div class="image-scrim">&nbsp;</div>
+				<img src="/img/orderingProductFAQ/orthotic.jpg" alt="Orthotic Reference Photo">
+			</div>
+			<div class="plaque">
+				<p class="margin-0">A standard orthotic has an estimated price range between $1200 and $1500</p>
+			</div>
+		</div>
+	</div>
 </div>
 <!-- <div class="video-container">
 	<div class="row">
