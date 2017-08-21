@@ -6586,7 +6586,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/ordering-product-faq\/_small.scss": {
+	"\/scss\/pages\/ordering-product-faq\/_small-only.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -6594,7 +6594,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_small.css",
+		"oAP": "\/scss\/pages\/css\/_small-only.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
