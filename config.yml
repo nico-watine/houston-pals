@@ -40,6 +40,7 @@ PATHS:
     - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
     - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
     - "bower_components/foundation-sites/js/foundation.equalizer.js"
+    - "bower_components/foundation-sites/js/foundation.tooltip.js"
     # ---------------------------------
     # If you aren't using a component, just remove it from the list
     # - "bower_components/foundation-sites/js/foundation.abide.js"
@@ -55,6 +56,5 @@ PATHS:
     # - "bower_components/foundation-sites/js/foundation.sticky.js"
     # - "bower_components/foundation-sites/js/foundation.tabs.js"
     # - "bower_components/foundation-sites/js/foundation.toggler.js"
-    # - "bower_components/foundation-sites/js/foundation.tooltip.js"
     # - "bower_components/foundation-sites/js/foundation.zf.responsiveAccordionTabs.js"
     - "js/app-min.js"

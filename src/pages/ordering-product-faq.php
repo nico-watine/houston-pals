@@ -27,7 +27,7 @@ body-class:
 				<img src="/img/orderingProductFAQ/prosthetic.jpg" alt="Prosthetic Reference Photo">
 			</div>
 			<div class="plaque">
-				<p class="margin-0">A standard prosthetic has an estimated price range between $1200 and $1500</p>
+				<p class="margin-0">A standard prosthetic has an estimated price range between $1200 and $1500 <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!"><strong>*</strong></span></p>
 			</div>
 		</div>
 	</div>

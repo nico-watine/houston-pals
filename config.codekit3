@@ -83,6 +83,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_ignores\/misc-text.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/misc-text.txt",
+		"oF": 0
+		},
 	"\/_ignores\/misc\/browser-upgrade-snippet.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -4939,16 +4945,6 @@
 		"oAP": "\/dist\/contact.php",
 		"oF": 0
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5243,19 +5239,9 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/dist\/img\/ordering\/pawIcon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/ordering\/pawIcon.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/dist\/img\/orderingProductFAQ\/orthotic.jpg": {
 		"ft": 16384,
-		"iS": 76343,
+		"iS": 75657,
 		"oA": 1,
 		"oAP": "\/dist\/img\/orderingProductFAQ\/orthotic.jpg",
 		"oF": 0,
@@ -5275,7 +5261,7 @@
 		},
 	"\/dist\/img\/orderingProductFAQ\/prosthetic.jpg": {
 		"ft": 16384,
-		"iS": 95589,
+		"iS": 94479,
 		"oA": 1,
 		"oAP": "\/dist\/img\/orderingProductFAQ\/prosthetic.jpg",
 		"oF": 0,
