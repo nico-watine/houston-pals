@@ -373,6 +373,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/wp-blog\/.gitkeep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/wp-blog\/.gitkeep",
+		"oF": 0
+		},
 	"\/blog\/css\/blog.css": {
 		"aP": 1,
 		"bl": 0,
