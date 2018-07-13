@@ -1,8 +1,6 @@
-@import "../../_settings.scss";
+@import '_small.scss';
+@import '_medium.scss';
 
-@import "_small.scss";
-@import "_medium.scss";
-@import "_large.scss";
 
 
 body#index {
@@ -28,7 +26,6 @@ body#index {
 				border: rem-calc(3) solid $dark-blue;
 				box-shadow: $z-2;
 				margin-bottom: rem-calc(30);
-
 				max-width: 315px;
 				height: auto;
 				width: 100%;
@@ -44,7 +41,6 @@ body#index {
 		}
 
 		.prose {
-
 			h2 {
 				line-height: 1.4;
 			}
