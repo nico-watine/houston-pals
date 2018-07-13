@@ -1,8 +1,5 @@
 @charset 'utf-8';
 
-//  IMPORT CUSTOM SETTINGS FILE ::
-@import 'settings/_custom-settings.scss';
-
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
@@ -61,6 +58,8 @@
 // ------------------------------------------------------------------------------
 // |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
 // ------------------------------------------------------------------------------
+
+@import 'settings/_custom-settings.scss';
 
 // BLOCKS ::
 @import 'blocks/_body.scss';
