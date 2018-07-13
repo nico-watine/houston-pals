@@ -7,69 +7,80 @@
 		"uuidString": "412FF380-250F-4884-8E39-EF8E30398051"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26680",
 "files": {
 	"\/.babelrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.babelrc",
 		"oF": 0
 		},
 	"\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.bowerrc",
 		"oF": 0
 		},
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/_ignores\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_ignores\/_notes.txt",
 		"oF": 0
 		},
 	"\/_ignores\/blogging-article-ideas-plans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/blogging-article-ideas-plans.txt",
 		"oF": 0
 		},
 	"\/_ignores\/google-tracking-snippet-notes.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/google-tracking-snippet-notes.html",
 		"oF": 0
 		},
 	"\/_ignores\/head\/favicon-linking.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/head\/favicon-linking.html",
 		"oF": 0
 		},
 	"\/_ignores\/head\/head-references.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/head\/head-references.html",
 		"oF": 0
 		},
 	"\/_ignores\/houston-pals.sublime-project": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/houston-pals.sublime-project",
 		"oF": 0
 		},
 	"\/_ignores\/houston-pals.sublime-workspace": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/houston-pals.sublime-workspace",
 		"oF": 0
 		},
 	"\/_ignores\/hpals-online-presence-urls.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/hpals-online-presence-urls.txt",
@@ -84,72 +95,84 @@
 		"oS": 1
 		},
 	"\/_ignores\/misc-text.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/misc-text.txt",
 		"oF": 0
 		},
 	"\/_ignores\/misc\/browser-upgrade-snippet.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/misc\/browser-upgrade-snippet.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-htaccess.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/old-htaccess.txt",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_faq.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_faq.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_gallery.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_gallery.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_index.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_nav_bar_test.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_nav_bar_test.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_order.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_order.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_products.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_products.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_resources.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_resources.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_welcome.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_welcome.html",
 		"oF": 0
 		},
 	"\/_ignores\/old-static-site-files\/_what.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/old-static-site-files\/_what.html",
@@ -164,12 +187,14 @@
 		"opt": 0
 		},
 	"\/_ignores\/PDF\/PALS_Worksheet.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/PDF\/PALS_Worksheet.pdf",
 		"oF": 0
 		},
 	"\/_ignores\/PDF\/PALS_Worksheet_back.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/PDF\/PALS_Worksheet_back.pdf",
@@ -187,6 +212,7 @@
 		"q": 100
 		},
 	"\/_ignores\/PDF\/PALS_Worksheet_front.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/PDF\/PALS_Worksheet_front.pdf",
@@ -215,24 +241,28 @@
 		"q": 100
 		},
 	"\/_ignores\/youtube-embed-links.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/youtube-embed-links.txt",
 		"oF": 0
 		},
 	"\/assets\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/.htaccess",
 		"oF": 0
 		},
 	"\/assets\/403.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/403.html",
 		"oF": 0
 		},
 	"\/assets\/404.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/404.html",
@@ -294,6 +324,7 @@
 		"q": 100
 		},
 	"\/assets\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/favicon.ico",
@@ -311,30 +342,35 @@
 		"q": 100
 		},
 	"\/assets\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/googlea536b0ce9879dae9.html",
 		"oF": 0
 		},
 	"\/assets\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/humans.txt",
 		"oF": 0
 		},
 	"\/assets\/php\/autoVer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/php\/autoVer.php",
 		"oF": 0
 		},
 	"\/assets\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/robots.txt",
 		"oF": 0
 		},
 	"\/assets\/sitemap.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sitemap.xml",
@@ -374,6 +410,7 @@
 		"q": 100
 		},
 	"\/assets\/wp-blog\/.gitkeep": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/wp-blog\/.gitkeep",
@@ -390,6 +427,7 @@
 		"oS": 3
 		},
 	"\/blog\/fusionSettings\/08-21\/4-30\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/blog\/fusionSettings\/08-21\/4-30\/_notes.txt",
@@ -459,22 +497,24 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.bowerrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.eslintrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.github\/ISSUE_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -489,10 +529,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -507,12 +547,14 @@
 		"uCM": 0
 		},
 	"\/bower_components\/foundation-sites\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.sass-lint.yml",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.travis.yml",
@@ -717,10 +759,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/code-of-conduct.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -743,6 +785,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/config.yml",
@@ -757,6 +800,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/index.html",
@@ -1440,6 +1484,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/docslink.sh": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/docslink.sh",
@@ -1736,16 +1781,17 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2743,6 +2789,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/AUTHORS.txt",
@@ -2787,6 +2834,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.min.map",
@@ -2813,6 +2861,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.slim.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.min.map",
@@ -2839,28 +2888,31 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3967,10 +4019,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/animations.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3985,10 +4037,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/classes.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4003,10 +4055,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/configuration.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4021,10 +4073,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/installation.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4039,10 +4091,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/javascript.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4057,10 +4109,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4075,10 +4127,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/transitions.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4093,10 +4145,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/wow.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4131,16 +4183,17 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/motion-ui\/meteor-README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4196,10 +4249,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/motion-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4508,18 +4561,21 @@
 		"oS": 1
 		},
 	"\/bower_components\/normalize-css\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.editorconfig",
 		"oF": 0
 		},
 	"\/bower_components\/normalize-css\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.gitignore",
 		"oF": 0
 		},
 	"\/bower_components\/normalize-css\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.travis.yml",
@@ -4534,10 +4590,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/normalize-css\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4586,16 +4642,17 @@
 		"oS": 1
 		},
 	"\/bower_components\/slick-carousel\/CONTRIBUTING.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/CONTRIBUTING.markdown",
 		"oF": 0
 		},
 	"\/bower_components\/slick-carousel\/ISSUE_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4610,18 +4667,21 @@
 		"uCM": 0
 		},
 	"\/bower_components\/slick-carousel\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/slick-carousel\/Makefile": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/Makefile",
 		"oF": 0
 		},
 	"\/bower_components\/slick-carousel\/README.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/README.markdown",
@@ -4644,12 +4704,14 @@
 		"opt": 0
 		},
 	"\/bower_components\/slick-carousel\/slick\/config.rb": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/slick\/config.rb",
 		"oF": 0
 		},
 	"\/bower_components\/slick-carousel\/slick\/fonts\/slick.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/slick\/fonts\/slick.eot",
@@ -4666,12 +4728,14 @@
 		"prP": 0
 		},
 	"\/bower_components\/slick-carousel\/slick\/fonts\/slick.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/slick\/fonts\/slick.ttf",
 		"oF": 0
 		},
 	"\/bower_components\/slick-carousel\/slick\/fonts\/slick.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/slick-carousel\/slick\/fonts\/slick.woff",
@@ -4834,12 +4898,14 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/index.html",
 		"oF": 0
 		},
 	"\/bower_components\/what-input\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/LICENSE",
@@ -4854,10 +4920,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/what-input\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4902,12 +4968,14 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/yarn.lock",
 		"oF": 0
 		},
 	"\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/config.yml",
@@ -4923,761 +4991,8 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist\/.htaccess": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/.htaccess",
-		"oF": 0
-		},
-	"\/dist\/403.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/403.html",
-		"oF": 0
-		},
-	"\/dist\/404.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/404.html",
-		"oF": 0
-		},
-	"\/dist\/about-pals.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/about-pals.php",
-		"oF": 0
-		},
-	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
-		"ft": 32768,
-		"iS": 4578,
-		"oA": 1,
-		"oAP": "\/dist\/apple-touch-icon-120x120-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/apple-touch-icon-152x152-precomposed.png": {
-		"ft": 32768,
-		"iS": 5560,
-		"oA": 1,
-		"oAP": "\/dist\/apple-touch-icon-152x152-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/apple-touch-icon-180x180-precomposed.png": {
-		"ft": 32768,
-		"iS": 6642,
-		"oA": 1,
-		"oAP": "\/dist\/apple-touch-icon-180x180-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/apple-touch-icon-76x76-precomposed.png": {
-		"ft": 32768,
-		"iS": 2842,
-		"oA": 1,
-		"oAP": "\/dist\/apple-touch-icon-76x76-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 6642,
-		"oA": 1,
-		"oAP": "\/dist\/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/blog.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/blog.php",
-		"oF": 0
-		},
-	"\/dist\/contact.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/contact.php",
-		"oF": 0
-		},
-	"\/dist\/css\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/dist\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/favicon.ico",
-		"oF": 0
-		},
-	"\/dist\/favicon.png": {
-		"ft": 32768,
-		"iS": 1696,
-		"oA": 1,
-		"oAP": "\/dist\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/fonts\/hpals\/hpals.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/hpals\/hpals.eot",
-		"oF": 0
-		},
-	"\/dist\/fonts\/hpals\/hpals.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/hpals\/hpals.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/fonts\/hpals\/hpals.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/hpals\/hpals.ttf",
-		"oF": 0
-		},
-	"\/dist\/fonts\/hpals\/hpals.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/hpals\/hpals.woff",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.eot",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.ttf",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.woff",
-		"oF": 0
-		},
-	"\/dist\/googlea536b0ce9879dae9.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/googlea536b0ce9879dae9.html",
-		"oF": 0
-		},
-	"\/dist\/humans.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/humans.txt",
-		"oF": 0
-		},
-	"\/dist\/img\/about\/bill-default.jpg": {
-		"ft": 16384,
-		"iS": 71720,
-		"oA": 1,
-		"oAP": "\/dist\/img\/about\/bill-default.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/accents\/dog\/top-left.png": {
-		"ft": 32768,
-		"iS": 35217,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/accents\/dog\/top-left.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/bg\/hex.png": {
-		"ft": 32768,
-		"iS": 1263,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/bg\/hex.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/bg\/paw\/paw-shadow.png": {
-		"ft": 32768,
-		"iS": 5095,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/bg\/paw\/paw-shadow.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/logo\/logo.png": {
-		"ft": 32768,
-		"iS": 39173,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/logo\/logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/logo\/logo@2x.png": {
-		"ft": 32768,
-		"iS": 103005,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/logo\/logo@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/og\/1\/og-image-1.jpg": {
-		"ft": 16384,
-		"iS": 138230,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/og\/1\/og-image-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png": {
-		"ft": 32768,
-		"iS": 67432,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue.png": {
-		"ft": 32768,
-		"iS": 303,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue_2x.png": {
-		"ft": 32768,
-		"iS": 474,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-white.png": {
-		"ft": 32768,
-		"iS": 300,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-white.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-white_2x.png": {
-		"ft": 32768,
-		"iS": 466,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-white_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/contact\/header\/medium\/map-header.jpg": {
-		"ft": 16384,
-		"iS": 39719,
-		"oA": 1,
-		"oAP": "\/dist\/img\/contact\/header\/medium\/map-header.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/index\/dog-trio\/1\/dog-trio.jpg": {
-		"ft": 16384,
-		"iS": 80978,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/dog-trio\/1\/dog-trio.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/index\/dog-trio\/1\/dog-trio_2x.jpg": {
-		"ft": 16384,
-		"iS": 110392,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/dog-trio\/1\/dog-trio_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/index\/dog_circles.png": {
-		"ft": 32768,
-		"iS": 648826,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/dog_circles.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/orderingProductFAQ\/orthotic.jpg": {
-		"ft": 16384,
-		"iS": 75657,
-		"oA": 1,
-		"oAP": "\/dist\/img\/orderingProductFAQ\/orthotic.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/orderingProductFAQ\/pawIcon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/orderingProductFAQ\/pawIcon.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/orderingProductFAQ\/prosthetic.jpg": {
-		"ft": 16384,
-		"iS": 94479,
-		"oA": 1,
-		"oAP": "\/dist\/img\/orderingProductFAQ\/prosthetic.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/animal-diversity\/duck.jpg": {
-		"ft": 16384,
-		"iS": 34697,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/animal-diversity\/duck.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/animal-diversity\/duck_2x.jpg": {
-		"ft": 16384,
-		"iS": 58052,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/animal-diversity\/duck_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/animal-diversity\/equine-brace.jpg": {
-		"ft": 16384,
-		"iS": 47540,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/animal-diversity\/equine-brace.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/animal-diversity\/equine-brace_2x.jpg": {
-		"ft": 16384,
-		"iS": 99203,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/animal-diversity\/equine-brace_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/1.jpg": {
-		"ft": 16384,
-		"iS": 90090,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/1t.jpg": {
-		"ft": 16384,
-		"iS": 16860,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/1t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/2.jpg": {
-		"ft": 16384,
-		"iS": 36906,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/2t.jpg": {
-		"ft": 16384,
-		"iS": 11959,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/2t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/3.jpg": {
-		"ft": 16384,
-		"iS": 87097,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/3t.jpg": {
-		"ft": 16384,
-		"iS": 18082,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/3t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/4.jpg": {
-		"ft": 16384,
-		"iS": 34161,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/gallery\/4t.jpg": {
-		"ft": 16384,
-		"iS": 12188,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/4t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/product-block-image\/orthotics-1.jpg": {
-		"ft": 16384,
-		"iS": 53030,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/product-block-image\/orthotics-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/orthotics\/product-block-image\/orthotics-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 72938,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/orthotics\/product-block-image\/orthotics-1_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/1.jpg": {
-		"ft": 16384,
-		"iS": 65095,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/1t.jpg": {
-		"ft": 16384,
-		"iS": 11875,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/1t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/2.jpg": {
-		"ft": 16384,
-		"iS": 43196,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/2t.jpg": {
-		"ft": 16384,
-		"iS": 9672,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/2t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/3.jpg": {
-		"ft": 16384,
-		"iS": 32942,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/3t.jpg": {
-		"ft": 16384,
-		"iS": 11732,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/3t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/4.jpg": {
-		"ft": 16384,
-		"iS": 76564,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/gallery\/4t.jpg": {
-		"ft": 16384,
-		"iS": 16427,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/4t.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/product-block-image\/prosthetics-1.jpg": {
-		"ft": 16384,
-		"iS": 54082,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/product-block-image\/prosthetics-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/products\/prosthetics\/product-block-image\/prosthetics-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 95360,
-		"oA": 1,
-		"oAP": "\/dist\/img\/products\/prosthetics\/product-block-image\/prosthetics-1_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/index.php",
-		"oF": 0
-		},
-	"\/dist\/js\/app-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/app-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/vendor\/jquery\/2-2-2\/jquery.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/vendor\/jquery\/jquery.min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/ordering-product-faq.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/ordering-product-faq.php",
-		"oF": 0
-		},
-	"\/dist\/php\/autoVer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/php\/autoVer.php",
-		"oF": 0
-		},
-	"\/dist\/products.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/products.php",
-		"oF": 0
-		},
-	"\/dist\/robots.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/robots.txt",
-		"oF": 0
-		},
-	"\/dist\/sitemap.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/sitemap.xml",
-		"oF": 0
-		},
-	"\/dist\/tile-wide.png": {
-		"ft": 32768,
-		"iS": 13256,
-		"oA": 1,
-		"oAP": "\/dist\/tile-wide.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/tile.png": {
-		"ft": 32768,
-		"iS": 25299,
-		"oA": 1,
-		"oAP": "\/dist\/tile.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/touch-icon-192x192.png": {
-		"ft": 32768,
-		"iS": 7083,
-		"oA": 1,
-		"oAP": "\/dist\/touch-icon-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/fonts\/hpals\/hpals.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/hpals\/hpals.eot",
@@ -5694,18 +5009,21 @@
 		"prP": 0
 		},
 	"\/fonts\/hpals\/hpals.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/hpals\/hpals.ttf",
 		"oF": 0
 		},
 	"\/fonts\/hpals\/hpals.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/hpals\/hpals.woff",
 		"oF": 0
 		},
 	"\/fonts\/muller-extrabold\/muller-extrabold.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.eot",
@@ -5722,18 +5040,21 @@
 		"prP": 0
 		},
 	"\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.ttf",
 		"oF": 0
 		},
 	"\/fonts\/muller-extrabold\/muller-extrabold.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.woff",
 		"oF": 0
 		},
 	"\/fonts\/muller-medium\/muller-medium.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/muller-medium\/muller-medium.eot",
@@ -5750,12 +5071,14 @@
 		"prP": 0
 		},
 	"\/fonts\/muller-medium\/muller-medium.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/muller-medium\/muller-medium.ttf",
 		"oF": 0
 		},
 	"\/fonts\/muller-medium\/muller-medium.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/muller-medium\/muller-medium.woff",
@@ -5774,6 +5097,7 @@
 	"\/img\/about\/bill-default.jpg": {
 		"ft": 16384,
 		"iS": 71720,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/about\/bill-default.jpg",
 		"oF": 0,
@@ -5839,6 +5163,7 @@
 	"\/img\/assets\/og\/1\/og-image-1.jpg": {
 		"ft": 16384,
 		"iS": 138230,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/assets\/og\/1\/og-image-1.jpg",
 		"oF": 0,
@@ -5904,6 +5229,7 @@
 	"\/img\/contact\/header\/medium\/map-header.jpg": {
 		"ft": 16384,
 		"iS": 39719,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/contact\/header\/medium\/map-header.jpg",
 		"oF": 0,
@@ -5914,6 +5240,7 @@
 	"\/img\/index\/dog-trio\/1\/dog-trio.jpg": {
 		"ft": 16384,
 		"iS": 80978,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/dog-trio\/1\/dog-trio.jpg",
 		"oF": 0,
@@ -5924,6 +5251,7 @@
 	"\/img\/index\/dog-trio\/1\/dog-trio_2x.jpg": {
 		"ft": 16384,
 		"iS": 110392,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/dog-trio\/1\/dog-trio_2x.jpg",
 		"oF": 0,
@@ -5945,6 +5273,7 @@
 	"\/img\/orderingProductFAQ\/orthotic.jpg": {
 		"ft": 16384,
 		"iS": 75657,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/orderingProductFAQ\/orthotic.jpg",
 		"oF": 0,
@@ -5965,6 +5294,7 @@
 	"\/img\/orderingProductFAQ\/prosthetic.jpg": {
 		"ft": 16384,
 		"iS": 94479,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/orderingProductFAQ\/prosthetic.jpg",
 		"oF": 0,
@@ -5975,6 +5305,7 @@
 	"\/img\/products\/animal-diversity\/duck.jpg": {
 		"ft": 16384,
 		"iS": 34697,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/animal-diversity\/duck.jpg",
 		"oF": 0,
@@ -5985,6 +5316,7 @@
 	"\/img\/products\/animal-diversity\/duck_2x.jpg": {
 		"ft": 16384,
 		"iS": 58052,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/animal-diversity\/duck_2x.jpg",
 		"oF": 0,
@@ -5995,6 +5327,7 @@
 	"\/img\/products\/animal-diversity\/equine-brace.jpg": {
 		"ft": 16384,
 		"iS": 47540,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/animal-diversity\/equine-brace.jpg",
 		"oF": 0,
@@ -6005,6 +5338,7 @@
 	"\/img\/products\/animal-diversity\/equine-brace_2x.jpg": {
 		"ft": 16384,
 		"iS": 99203,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/animal-diversity\/equine-brace_2x.jpg",
 		"oF": 0,
@@ -6015,6 +5349,7 @@
 	"\/img\/products\/orthotics\/gallery\/1.jpg": {
 		"ft": 16384,
 		"iS": 90090,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/1.jpg",
 		"oF": 0,
@@ -6025,6 +5360,7 @@
 	"\/img\/products\/orthotics\/gallery\/1t.jpg": {
 		"ft": 16384,
 		"iS": 16860,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/1t.jpg",
 		"oF": 0,
@@ -6035,6 +5371,7 @@
 	"\/img\/products\/orthotics\/gallery\/2.jpg": {
 		"ft": 16384,
 		"iS": 36906,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/2.jpg",
 		"oF": 0,
@@ -6045,6 +5382,7 @@
 	"\/img\/products\/orthotics\/gallery\/2t.jpg": {
 		"ft": 16384,
 		"iS": 11959,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/2t.jpg",
 		"oF": 0,
@@ -6055,6 +5393,7 @@
 	"\/img\/products\/orthotics\/gallery\/3.jpg": {
 		"ft": 16384,
 		"iS": 87097,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/3.jpg",
 		"oF": 0,
@@ -6065,6 +5404,7 @@
 	"\/img\/products\/orthotics\/gallery\/3t.jpg": {
 		"ft": 16384,
 		"iS": 18082,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/3t.jpg",
 		"oF": 0,
@@ -6075,6 +5415,7 @@
 	"\/img\/products\/orthotics\/gallery\/4.jpg": {
 		"ft": 16384,
 		"iS": 34161,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/4.jpg",
 		"oF": 0,
@@ -6085,6 +5426,7 @@
 	"\/img\/products\/orthotics\/gallery\/4t.jpg": {
 		"ft": 16384,
 		"iS": 12188,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/gallery\/4t.jpg",
 		"oF": 0,
@@ -6095,6 +5437,7 @@
 	"\/img\/products\/orthotics\/product-block-image\/orthotics-1.jpg": {
 		"ft": 16384,
 		"iS": 53030,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/product-block-image\/orthotics-1.jpg",
 		"oF": 0,
@@ -6105,6 +5448,7 @@
 	"\/img\/products\/orthotics\/product-block-image\/orthotics-1_2x.jpg": {
 		"ft": 16384,
 		"iS": 72938,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/orthotics\/product-block-image\/orthotics-1_2x.jpg",
 		"oF": 0,
@@ -6115,6 +5459,7 @@
 	"\/img\/products\/prosthetics\/gallery\/1.jpg": {
 		"ft": 16384,
 		"iS": 90090,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/1.jpg",
 		"oF": 0,
@@ -6125,6 +5470,7 @@
 	"\/img\/products\/prosthetics\/gallery\/1t.jpg": {
 		"ft": 16384,
 		"iS": 16860,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/1t.jpg",
 		"oF": 0,
@@ -6135,6 +5481,7 @@
 	"\/img\/products\/prosthetics\/gallery\/2.jpg": {
 		"ft": 16384,
 		"iS": 36906,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/2.jpg",
 		"oF": 0,
@@ -6145,6 +5492,7 @@
 	"\/img\/products\/prosthetics\/gallery\/2t.jpg": {
 		"ft": 16384,
 		"iS": 9672,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/2t.jpg",
 		"oF": 0,
@@ -6155,6 +5503,7 @@
 	"\/img\/products\/prosthetics\/gallery\/3.jpg": {
 		"ft": 16384,
 		"iS": 32942,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/3.jpg",
 		"oF": 0,
@@ -6165,6 +5514,7 @@
 	"\/img\/products\/prosthetics\/gallery\/3t.jpg": {
 		"ft": 16384,
 		"iS": 11732,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/3t.jpg",
 		"oF": 0,
@@ -6175,6 +5525,7 @@
 	"\/img\/products\/prosthetics\/gallery\/4.jpg": {
 		"ft": 16384,
 		"iS": 76564,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/4.jpg",
 		"oF": 0,
@@ -6185,6 +5536,7 @@
 	"\/img\/products\/prosthetics\/gallery\/4t.jpg": {
 		"ft": 16384,
 		"iS": 16427,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/gallery\/4t.jpg",
 		"oF": 0,
@@ -6195,6 +5547,7 @@
 	"\/img\/products\/prosthetics\/product-block-image\/prosthetics-1.jpg": {
 		"ft": 16384,
 		"iS": 54082,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/product-block-image\/prosthetics-1.jpg",
 		"oF": 0,
@@ -6205,6 +5558,7 @@
 	"\/img\/products\/prosthetics\/product-block-image\/prosthetics-1_2x.jpg": {
 		"ft": 16384,
 		"iS": 95360,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/products\/prosthetics\/product-block-image\/prosthetics-1_2x.jpg",
 		"oF": 0,
@@ -6277,16 +5631,17 @@
 		"oS": 1
 		},
 	"\/phptest.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/phptest.html",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6743,132 +6098,154 @@
 		"uL": 1
 		},
 	"\/src\/data\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/data\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/data\/cdn.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/data\/cdn.yml",
 		"oF": 0
 		},
 	"\/src\/helpers\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/helpers\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/layouts-production\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/layouts-production\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/layouts-production\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts-production\/default.html",
 		"oF": 0
 		},
 	"\/src\/layouts-production\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts-production\/index.html",
 		"oF": 0
 		},
 	"\/src\/layouts-production\/products.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts-production\/products.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/layouts\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/layouts\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/index.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/products.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/products.html",
 		"oF": 0
 		},
 	"\/src\/pages\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/pages\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/pages\/about-pals.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/about-pals.php",
 		"oF": 0
 		},
 	"\/src\/pages\/blog.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/blog.php",
 		"oF": 0
 		},
 	"\/src\/pages\/contact.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/contact.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
 	"\/src\/pages\/ordering-product-faq.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/ordering-product-faq.php",
 		"oF": 0
 		},
 	"\/src\/pages\/products.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/products.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/partials\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/partials\/footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/partials\/footer.html",
 		"oF": 0
 		},
 	"\/src\/partials\/google-tracking-id.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/partials\/google-tracking-id.html",
 		"oF": 0
 		},
 	"\/src\/partials\/header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/partials\/header.html",
@@ -6883,7 +6260,8 @@
 	"creationDate": 510595862,
 	"displayValue": "houston-pals",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/assets\/touch-icon-192x192.png"
+	"iconImageName": "\/assets\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -6891,6 +6269,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "last 2 versions, ie >= 9",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -7419,6 +6798,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -7450,6 +6833,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -7483,9 +6870,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -7515,6 +6902,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -7524,14 +6915,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -8635,7 +8018,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -8668,6 +8052,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -8679,6 +8064,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
@@ -8709,7 +8095,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -8741,13 +8128,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -8756,7 +8143,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 1,
@@ -8776,7 +8164,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -8804,7 +8193,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
