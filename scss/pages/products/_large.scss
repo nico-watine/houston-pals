@@ -1,12 +1,8 @@
-@import "../../_settings.scss";
 
 @include breakpoint(large) {
 	body#products {
-
 		section.wide#product-definitions {
-
 			.product-block {
-
 				.description {
 					p {
 						font-size: rem-calc(25);
