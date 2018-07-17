@@ -1,9 +1,7 @@
-@import "../_settings.scss";
 
-$max-width-690: "only screen and (max-width : 43.125em)";
+$max-width-690: 'only screen and (max-width : 43.125em)';
 
 header {
-
 	.row {
 		background: $off-white url('#{$url}/img/assets/accents/dog/top-left.png') no-repeat left top;
 		background-size: contain;
@@ -53,13 +51,13 @@ header {
 
 		a {
 			color: #fff;
-		    float: left;
-		    line-height: 1;
-		    margin-right: rem-calc(28);
+			float: left;
+			line-height: 1;
+			margin-right: rem-calc(28);
 
-		    .icon {
-		    	font-size: rem-calc(28);
-		    }
+			.icon {
+				font-size: rem-calc(28);
+			}
 		}
 	}
 
@@ -68,11 +66,9 @@ header {
 			padding-left: 0;
 		}
 	}
-	
+
 	ul.menu {
-
 		li {
-
 			a {
 				line-height: 1.4;
 				@extend .heading;

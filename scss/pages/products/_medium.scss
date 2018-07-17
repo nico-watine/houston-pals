@@ -1,6 +1,5 @@
-@import "../../_settings.scss";
 
-$max-width-860: "only screen and (max-width : 53.750em)";
+$max-width-860: 'only screen and (max-width : 53.750em)';
 
 @include breakpoint(medium) {
 	body#products {

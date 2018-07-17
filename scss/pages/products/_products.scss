@@ -1,8 +1,7 @@
-@import "../../_settings.scss";
 
-@import "_small.scss";
-@import "_medium.scss";
-@import "_large.scss";
+@import '_small.scss';
+@import '_medium.scss';
+@import '_large.scss';
 
 
 body#products {
@@ -56,9 +55,9 @@ body#products {
 
 	section#product-image-gallery {
 		padding: rem-calc(30) 0;
-		background: #F7F7F7;
-		border: rem-calc(3) solid #30659B;
-		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37);
+		background: #f7f7f7;
+		border: rem-calc(3) solid #30659b;
+		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
 
 		.gallery-divider {
 			hr {
@@ -71,7 +70,7 @@ body#products {
 			.gallery-title {
 				margin-bottom: rem-calc(16);
 			}
-			
+
 			.feature-img-container {
 				padding-top: 75%;
 				position: relative;
@@ -117,4 +116,3 @@ body#products {
 		}
 	}
 }
-

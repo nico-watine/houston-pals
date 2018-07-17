@@ -1,9 +1,7 @@
-@import "../../_settings.scss";
 
 @include breakpoint(medium) {
 	body#contact {
 		#contact-info-panel {
-
 			.prose {
 				// background: #fff url('#{$url}/img/contact/header/medium/map-header.jpg') no-repeat center top;
 				background-size: auto rem-calc(230);
@@ -37,7 +35,7 @@
 						margin-bottom: 0;
 					}
 				}
-				
+
 				.address-box {
 					margin-bottom: rem-calc(40);
 					line-height: 1.4 !important;

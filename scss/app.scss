@@ -1,9 +1,8 @@
 @charset 'utf-8';
-@import "bourbon";
 
 @import 'settings';
 @import 'foundation';
-// @import 'motion-ui';
+@import 'motion-ui';
 
 @include foundation-global-styles;
 @include foundation-grid;
@@ -56,31 +55,31 @@
 // @include foundation-flex-grid;
 
 
-//  ---------------------------------------------------------------
-// IMPORT CUSTOM SCSS FILES ::
-//  ---------------------------------------------------------------
+// ------------------------------------------------------------------------------
+// |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
+// ------------------------------------------------------------------------------
+
+@import 'settings/_custom-settings.scss';
 
 // BLOCKS ::
-@import "blocks/_body.scss";
-@import "blocks/_header.scss";
-@import "blocks/_nav.scss";
-@import "blocks/_main.scss";
-@import "blocks/_footer.scss";
+@import 'blocks/_body.scss';
+@import 'blocks/_header.scss';
+@import 'blocks/_nav.scss';
+@import 'blocks/_main.scss';
+@import 'blocks/_footer.scss';
 
 // COMPONENTS ::
-@import "components/_extras.scss";
-@import "components/_typography.scss";
-@import "components/_resets.scss";
-@import "components/_utility-classes.scss";
-@import "components/_image-styles.scss";
-@import "components/_metrics.scss";
+@import 'components/_extras.scss';
+@import 'components/_typography.scss';
+@import 'components/_resets.scss';
+@import 'components/_utility-classes.scss';
+@import 'components/_image-styles.scss';
+@import 'components/_metrics.scss';
 
 // PAGES ::
-@import "pages/index/_index.scss";
-@import "pages/products/_products.scss";
-@import "pages/ordering-product-faq/_ordering-product-faq.scss";
-@import "pages/about/_about.scss";
-@import "pages/coming-soon/_coming-soon.scss";
+@import 'pages/index/_index.scss';
+@import 'pages/products/_products.scss';
+@import 'pages/ordering-product-faq/_ordering-product-faq.scss';
+@import 'pages/about/_about.scss';
+@import 'pages/coming-soon/_coming-soon.scss';
 // @import "pages/contact/_contact.scss";
-
-

@@ -1,8 +1,7 @@
-@import "../../_settings.scss";
 
-@import "_small-only.scss";
-@import "_medium.scss";
-@import "_pricing.scss";
+@import '_small-only.scss';
+@import '_medium.scss';
+@import '_pricing.scss';
 
 
 body#ordering-product-faq {
@@ -18,7 +17,7 @@ body#ordering-product-faq {
 
 	.row#contact-info {
 		padding-bottom: rem-calc(20);
-		
+
 		.bill-title {
 			margin-bottom: rem-calc(10);
 		}
@@ -68,7 +67,7 @@ body#ordering-product-faq {
 		img {
 			display: block;
 		}
-		
+
 		img,
 		h3 {
 			@include vertical-center;

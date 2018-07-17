@@ -1,6 +1,5 @@
-@import "../../_settings.scss";
 
-$max-width-760: "only screen and (max-width : 47.500em)";
+$max-width-760: 'only screen and (max-width : 47.500em)';
 
 @include breakpoint(medium) {
 	body#index {
@@ -26,19 +25,17 @@ $max-width-760: "only screen and (max-width : 47.500em)";
 				}
 			}
 		}
-	}	
+	}
 }
 
 @media #{$max-width-760} {
 	body#index {
 		.row#tagline {
-
 			.vertical-wrapper {
-
 				h2 {
 					font-size: rem-calc(32);
 				}
 			}
 		}
-	}	
+	}
 }
