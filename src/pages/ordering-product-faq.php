@@ -6,7 +6,7 @@ og-title: Ordering & Product FAQ
 og-description: Depending on your animal’s needs, the cast design will be adjusted appropriately.
 og-image: /img/assets/og/1/og-image-1.jpg
 body-id: ordering-product-faq
-body-class: 
+body-class:
 ---
 <div class="row marginBottom-20">
 	<div class="medium-push-1 medium-11 columns paddingTop-20 x2">
@@ -70,7 +70,7 @@ body-class:
 	<div class="medium-10 medium-push-1 large-8 large-push-2 columns">
 		<h3 style="margin-bottom: 0;" class="heading">Bill Bickley | Owner</h3>
 		<p class="bill-title"><em>Licensed Orthotist &amp; Prosthetist</em></p>
-		<a href="mailto:houstonpals@aol.com" class="email">HoustonPALS@aol.com</a>
+		<a href="mailto:bill@houstonpals.com" class="email">bill@houstonpals.com</a>
 		<p class="phone">(832) 444-8384</p>
 	</div>
 </div>
