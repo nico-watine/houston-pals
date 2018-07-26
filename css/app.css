@@ -6178,6 +6178,7 @@ header ul.menu li a {
   color: #000;
   font-size: 1.125rem;
   padding: 0.625rem;
+  width: 100%;
 }
 
 header ul.menu li a:hover {
