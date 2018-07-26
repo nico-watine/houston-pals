@@ -6228,9 +6228,6 @@ header ul.menu li a.active {
     box-shadow: none;
     height: 4.375rem;
   }
-  #top-bar-nav.dropdown-pane ul.menu {
-    display: inline-block;
-  }
 }
 
 @media print, screen and (min-width: 64em) {
