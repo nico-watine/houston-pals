@@ -6210,16 +6210,6 @@ header ul.menu li a.active {
   }
 }
 
-@media print, screen and (min-width: 64em) {
-  header ul.menu li {
-    height: 11.25rem;
-  }
-  header ul.menu li a {
-    height: auto;
-    line-height: initial;
-  }
-}
-
 #top-bar-nav.dropdown-pane {
   width: 100% !important;
   left: 0 !important;

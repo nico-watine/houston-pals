@@ -119,16 +119,5 @@ header {
 				}
 			}
 		}
-
-		@include breakpoint(large) {
-			li {
-				height: rem-calc(180);
-
-				a {
-					height: auto;
-					line-height: initial;
-				}
-			}
-		}
 	}
 }
