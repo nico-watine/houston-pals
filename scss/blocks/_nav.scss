@@ -13,14 +13,5 @@
 		visibility: visible !important;
 		position: initial;
 		box-shadow: none;
-		height: rem-calc(70);
-
-		ul.menu {
-			display: inline-block;
-		}
-	}
-
-	@include breakpoint(large) {
-		height: rem-calc(180);
 	}
 }

@@ -75,6 +75,7 @@ header {
 				color: #000;
 				font-size: rem-calc(18);
 				padding: rem-calc(10);
+				width: 100%;
 
 				&:hover {
 					background: $light-green;
@@ -116,17 +117,6 @@ header {
 			li#about-pals {
 				a {
 					width: rem-calc(130);
-				}
-			}
-		}
-
-		@include breakpoint(large) {
-			li {
-				height: rem-calc(180);
-
-				a {
-					height: auto;
-					line-height: initial;
 				}
 			}
 		}
