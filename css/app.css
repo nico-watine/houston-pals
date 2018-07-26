@@ -6230,12 +6230,6 @@ header ul.menu li a.active {
   }
 }
 
-@media print, screen and (min-width: 64em) {
-  #top-bar-nav.dropdown-pane {
-    height: 11.25rem;
-  }
-}
-
 main {
   background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 65%, rgba(255, 255, 255, 0) 65%, #98cd68 100%);
 }
