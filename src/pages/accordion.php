@@ -18,10 +18,10 @@ body-class: accordion
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content" data-tab-content id="deeplink1">
 					<div class="grid-x">
-						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/black.png" alt=""><p>Black</p></div>
-						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/brown.png" alt=""><p>Brown</p></div>
-						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/tan.png" alt=""><p>Tan</p></div>
-						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/spotted.png" alt=""><p>Spotted</p></div>
+						<div class="cell small-3 text-center"><img src="/img/accordion/coat-color/black.png" alt=""><p>Black</p></div>
+						<div class="cell small-3 text-center"><img src="/img/accordion/coat-color/brown.png" alt=""><p>Brown</p></div>
+						<div class="cell small-3 text-center"><img src="/img/accordion/coat-color/tan.png" alt=""><p>Tan</p></div>
+						<div class="cell small-3 text-center"><img src="/img/accordion/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
 				</div>
 			</li>
