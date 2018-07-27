@@ -9,7 +9,7 @@
 
 
 # ------------------------------------------------------------------------------------
-# | Cross-origin images  |  Send the CORS header for images when browsers request it | 
+# | Cross-origin images  |  Send the CORS header for images when browsers request it |
 # ------------------------------------------------------------------------------------
 
 <IfModule mod_setenvif.c>
@@ -32,23 +32,6 @@
         Header set Access-Control-Allow-Origin "*"
     </FilesMatch>
 </IfModule>
-
-
-
-# -------------------------------------------------------------------------------------------------------
-# | Custom error messages / pages  |  http://httpd.apache.org/docs/current/mod/core.html#errordocument  |
-# -------------------------------------------------------------------------------------------------------
-
-# Use 403 for 'access denied' - Don't necessarily need 403 by default
-#ErrorDocument 403 /403.html
-
-# Use 404 for 'not found' - Is good to use
-#ErrorDocument 404 /index.php
-
-DirectoryIndex index.php
-ErrorDocument 403 http://houstonpals.com/
-ErrorDocument 404 http://houstonpals.com/
-
 
 
 # ----------------------------------------------------------------------

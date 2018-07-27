@@ -185,6 +185,20 @@
 		"oAP": "\/_ignores\/old-static-site-files\/_what.html",
 		"oF": 0
 		},
+	"\/_ignores\/pages\/403.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/pages\/403.html",
+		"oF": 0
+		},
+	"\/_ignores\/pages\/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/pages\/404.html",
+		"oF": 0
+		},
 	"\/_ignores\/pages\/about-pals.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -280,20 +294,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/.htaccess",
-		"oF": 0
-		},
-	"\/assets\/403.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/403.html",
-		"oF": 0
-		},
-	"\/assets\/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/404.html",
 		"oF": 0
 		},
 	"\/assets\/apple-touch-icon-120x120-precomposed.png": {
@@ -5040,13 +5040,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-	"\/dist\/about-pals.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/about-pals.php",
-		"oF": 0
-		},
 	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 4578,
@@ -5101,20 +5094,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"\/dist\/blog.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/blog.php",
-		"oF": 0
-		},
-	"\/dist\/contact.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/contact.php",
-		"oF": 0
 		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
