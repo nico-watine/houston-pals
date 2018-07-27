@@ -15,19 +15,25 @@ body-class: accordion
 	<div class="columns">
 		<ul class="accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" id="deeplinked-accordion">
 			<li class="accordion-item is-active" data-accordion-item>
-				<a href="#deeplink1" class="accordion-title">Accordion 1</a>
+				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content" data-tab-content id="deeplink1">
 				Panel 1. Lorem ipsum dolor
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
-				<a href="#deeplink2" class="accordion-title">Accordion 2</a>
+				<a href="#affected-limb" class="accordion-title">Affected Limb</a>
 				<div class="accordion-content" data-tab-content id="deeplink2">
 				Panel 2. Lorem ipsum dolor
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
-				<a href="#deeplink3" class="accordion-title">Accordion 3</a>
+				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
+				<div class="accordion-content" data-tab-content id="deeplink3">
+				Panel 3. Lorem ipsum dolor
+				</div>
+			</li>
+			<li class="accordion-item" data-accordion-item>
+				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
 				Panel 3. Lorem ipsum dolor
 				</div>
