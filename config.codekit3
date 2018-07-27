@@ -185,6 +185,27 @@
 		"oAP": "\/_ignores\/old-static-site-files\/_what.html",
 		"oF": 0
 		},
+	"\/_ignores\/pages\/about-pals.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/pages\/about-pals.php",
+		"oF": 0
+		},
+	"\/_ignores\/pages\/blog.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/pages\/blog.php",
+		"oF": 0
+		},
+	"\/_ignores\/pages\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/pages\/contact.php",
+		"oF": 0
+		},
 	"\/_ignores\/PDF\/get_adobe_reader.gif": {
 		"ft": 4194304,
 		"iS": 2126,
@@ -7001,27 +7022,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/pages\/_notes.txt",
-		"oF": 0
-		},
-	"\/src\/pages\/about-pals.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/src\/pages\/about-pals.php",
-		"oF": 0
-		},
-	"\/src\/pages\/blog.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/src\/pages\/blog.php",
-		"oF": 0
-		},
-	"\/src\/pages\/contact.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/src\/pages\/contact.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
