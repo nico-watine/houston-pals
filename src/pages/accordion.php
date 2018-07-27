@@ -9,7 +9,7 @@ body-id: accordion
 body-class: accordion
 ---
 <div class="row" style="padding: 40px 0;">
-	<h1 class="title text-center">Accordion</h1>
+	<h1 class="title text-center"><a href="/accordion">Accordion</a></h1>
 </div>
 <div class="row">
 	<div class="columns">
