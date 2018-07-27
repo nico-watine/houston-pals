@@ -5040,6 +5040,13 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/accordion.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/accordion.php",
+		"oF": 0
+		},
 	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 4578,
@@ -5094,6 +5101,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
@@ -7001,6 +7018,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/pages\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/pages\/accordion.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/accordion.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
