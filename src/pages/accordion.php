@@ -17,7 +17,12 @@ body-class: accordion
 			<li class="accordion-item is-active" data-accordion-item>
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content" data-tab-content id="deeplink1">
-				Panel 1. Lorem ipsum dolor
+					<div class="grid-x">
+						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/black.png" alt=""></div>
+						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/brown.png" alt=""></div>
+						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/tan.png" alt=""></div>
+						<div class="cell small-6 medium-auto text-center"><img src="/img/accordion/coat-color/spotted.png" alt=""></div>
+					</div>
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
