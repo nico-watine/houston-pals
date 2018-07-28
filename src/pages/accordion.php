@@ -9,7 +9,14 @@ body-id: accordion
 body-class: accordion
 ---
 <div class="row" style="padding: 40px 0;">
-	<h1 class="title text-center"><a href="/accordion">Accordion</a></h1>
+	<h1 class="title text-center"><a href="/accordion">Product Builder</a></h1>
+</div>
+<div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
+	<div class="cell">
+		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto;">
+			<img src="/img/product-builder/dog/tan-dog.png" alt="">
+		</div>
+	</div>
 </div>
 <div class="row">
 	<div class="columns">
