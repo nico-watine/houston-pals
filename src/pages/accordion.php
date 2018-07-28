@@ -26,7 +26,7 @@ body-class: accordion
 				<div class="accordion-content" data-tab-content id="deeplink1">
 					<div class="grid-x">
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/accordion/coat-color/tan.png" alt=""><p>Tan</p></span></div>
-						<div onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" class="cell small-3 text-center" style="cursor: pointer; padding: 0 5px;"><img src="/img/accordion/coat-color/black.png" alt=""><p>Black</p></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/accordion/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/accordion/coat-color/brown.png" alt=""><p>Brown</p></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/accordion/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
