@@ -25,8 +25,8 @@ body-class: accordion
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content" data-tab-content id="deeplink1">
 					<div class="grid-x">
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><img onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')" src="/img/accordion/coat-color/tan.png" alt=""><p>Tan</p></div>
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><img onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" src="/img/accordion/coat-color/black.png" alt=""><p>Black</p></div>
+						<div onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')" class="cell small-3 text-center" style="cursor: pointer; padding: 0 5px;"><img src="/img/accordion/coat-color/tan.png" alt=""><p>Tan</p></div>
+						<div onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" class="cell small-3 text-center" style="cursor: pointer; padding: 0 5px;"><img src="/img/accordion/coat-color/black.png" alt=""><p>Black</p></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/accordion/coat-color/brown.png" alt=""><p>Brown</p></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/accordion/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
