@@ -5133,6 +5133,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/accordion\/coat-color\/black.png": {
+		"ft": 32768,
+		"iS": 2450,
+		"oA": 1,
+		"oAP": "\/img\/accordion\/coat-color\/black.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/accordion\/coat-color\/brown.png": {
+		"ft": 32768,
+		"iS": 2393,
+		"oA": 1,
+		"oAP": "\/img\/accordion\/coat-color\/brown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/accordion\/coat-color\/spotted.png": {
+		"ft": 32768,
+		"iS": 3294,
+		"oA": 1,
+		"oAP": "\/img\/accordion\/coat-color\/spotted.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/accordion\/coat-color\/tan.png": {
+		"ft": 32768,
+		"iS": 2368,
+		"oA": 1,
+		"oAP": "\/img\/accordion\/coat-color\/tan.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/assets\/accents\/dog\/top-left.png": {
 		"ft": 32768,
 		"iS": 35217,
@@ -5328,6 +5372,182 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/black-dog.png": {
+		"ft": 32768,
+		"iS": 253058,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/black-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/color-picker\/black.png": {
+		"ft": 32768,
+		"iS": 2450,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/color-picker\/black.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/color-picker\/brown.png": {
+		"ft": 32768,
+		"iS": 2393,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/color-picker\/brown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/color-picker\/spotted.png": {
+		"ft": 32768,
+		"iS": 3294,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/color-picker\/spotted.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/color-picker\/tan.png": {
+		"ft": 32768,
+		"iS": 2368,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/color-picker\/tan.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/tan-dog.png": {
+		"ft": 32768,
+		"iS": 283922,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/tan-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png": {
+		"ft": 32768,
+		"iS": 273334,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1025.png": {
+		"ft": 32768,
+		"iS": 227878,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1025.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1026.png": {
+		"ft": 32768,
+		"iS": 208332,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1026.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1050.png": {
+		"ft": 32768,
+		"iS": 299941,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1050.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1053.png": {
+		"ft": 32768,
+		"iS": 283836,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1053.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1060.png": {
+		"ft": 32768,
+		"iS": 281271,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1060.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1071.png": {
+		"ft": 32768,
+		"iS": 145902,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1071.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1083.png": {
+		"ft": 32768,
+		"iS": 205222,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1083.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1090.png": {
+		"ft": 32768,
+		"iS": 303632,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1090.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1201.png": {
+		"ft": 32768,
+		"iS": 234694,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1201.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/products\/animal-diversity\/duck.jpg": {
@@ -5728,19 +5948,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/blocks\/_header-scrim.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/css\/_header-scrim.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/blocks\/_header.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5923,6 +6130,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/accordion\/_accordion.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_accordion.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/coming-soon\/_coming-soon.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -6023,32 +6243,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_small.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/splash\/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/index\/css\/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/splash\/_splash.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/index\/css\/_splash.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -6226,13 +6420,6 @@
 		"oAP": "\/src\/layouts\/_notes.txt",
 		"oF": 0
 		},
-	"\/src\/layouts\/blank.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/layouts\/blank.html",
-		"oF": 0
-		},
 	"\/src\/layouts\/default.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6259,6 +6446,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/pages\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/pages\/accordion.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/accordion.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
@@ -6301,13 +6495,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/partials\/google-tracking-id.html",
-		"oF": 0
-		},
-	"\/src\/partials\/header-scrim.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/partials\/header-scrim.html",
 		"oF": 0
 		},
 	"\/src\/partials\/header.html": {
