@@ -8815,10 +8815,17 @@ body {
 }
 
 @media print, screen and (min-width: 64em) {
-  header.scrim .row, header.scrim main .content-wrapper .content, main .content-wrapper header.scrim .content {
+  .header-scrim {
     background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0.5) 0%, transparent 100%);
     height: 12.5rem;
+  }
+  .header-scrim .row, .header-scrim main .content-wrapper .content, main .content-wrapper .header-scrim .content {
+    background: none;
     box-shadow: none;
+  }
+  .header-scrim ul.menu li a {
+    color: #fff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
