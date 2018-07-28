@@ -14,7 +14,7 @@ body-class: accordion
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
 		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto;">
-			<img src="/img/product-builder/dog/tan-dog.png" alt="">
+			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
 		</div>
 	</div>
 </div>
