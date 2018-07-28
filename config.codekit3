@@ -7064,6 +7064,13 @@
 		"oAP": "\/src\/partials\/google-tracking-id.html",
 		"oF": 0
 		},
+	"\/src\/partials\/header-scrim.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/header-scrim.html",
+		"oF": 0
+		},
 	"\/src\/partials\/header.html": {
 		"cB": 0,
 		"ft": 8192,

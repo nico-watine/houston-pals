@@ -9,6 +9,7 @@ body-id: index
 body-class: index
 layout: blank
 ---
+{{> header-scrim}}
 <div class="row medium-collapse" id="tagline">
 	<div class="medium-6 columns vertical-wrapper">
 		<h2 class="title">Custom made orthotics and prosthetics for your pet</h2>
