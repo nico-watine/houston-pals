@@ -5475,6 +5475,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/product-builder\/dog\/black-dog.png": {
+		"ft": 32768,
+		"iS": 253058,
+		"oA": 1,
+		"oAP": "\/dist\/img\/product-builder\/dog\/black-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/product-builder\/dog\/tan-dog.png": {
+		"ft": 32768,
+		"iS": 283922,
+		"oA": 1,
+		"oAP": "\/dist\/img\/product-builder\/dog\/tan-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png": {
 		"ft": 32768,
 		"iS": 273334,
@@ -6307,6 +6329,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/black-dog.png": {
+		"ft": 32768,
+		"iS": 253058,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/black-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/dog\/tan-dog.png": {
+		"ft": 32768,
+		"iS": 283922,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/dog\/tan-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png": {
