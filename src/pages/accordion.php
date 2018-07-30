@@ -86,13 +86,7 @@ body-class: accordion
 
 <!-- Hide "white" Affected Limb after choosing Injury Solution :: -->
 <script>
-	$('.front-injury-solution-option').click(function(){
-		$('#affected-limb-img').addClass('is-hidden');
-		$('#affected-limb-img').removeClass('is-visible');
-		$('#injury-solution-img').removeClass('is-hidden');
-		$('#injury-solution-img').addClass('is-visible');
-	});
-	$('.rear-injury-solution-option').click(function(){
+	$('.front-injury-solution-option, .rear-injury-solution-option').click(function(){
 		$('#affected-limb-img').addClass('is-hidden');
 		$('#affected-limb-img').removeClass('is-visible');
 		$('#injury-solution-img').removeClass('is-hidden');
@@ -102,13 +96,7 @@ body-class: accordion
 
 <!-- Hide chosen limb & product options when retroactively clicking on Affected Limb :: -->
 <script>
-	$('.front-affected-limb-toggle').click(function(){
-		$('#injury-solution-img').removeClass('is-visible');
-		$('#injury-solution-img').addClass('is-hidden');
-		$('#affected-limb-img').addClass('is-visible');
-		$('#affected-limb-img').removeClass('is-hidden');
-	});
-	$('.rear-affected-limb-toggle').click(function(){
+	$('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 		$('#injury-solution-img').removeClass('is-visible');
 		$('#injury-solution-img').addClass('is-hidden');
 		$('#affected-limb-img').addClass('is-visible');
