@@ -5567,11 +5567,33 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/product-builder\/injury-solution\/front\/front-orthotic.png": {
+		"ft": 32768,
+		"iS": 58978,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/product-builder\/injury-solution\/front\/front-prosthetic-icon.png": {
 		"ft": 32768,
 		"iS": 4720,
 		"oA": 1,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-prosthetic-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/injury-solution\/front\/front-prosthetic.png": {
+		"ft": 32768,
+		"iS": 58978,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-prosthetic.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
