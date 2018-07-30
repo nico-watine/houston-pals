@@ -9155,6 +9155,18 @@ img.frame {
   }
 }
 
+@media screen and (min-width: 46.875em) {
+  .splash {
+    height: 450px;
+  }
+}
+
+@media screen and (min-width: 59.375em) {
+  .splash {
+    height: 500px;
+  }
+}
+
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center;
 }

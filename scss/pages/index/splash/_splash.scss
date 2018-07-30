@@ -12,4 +12,12 @@
 		background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
 		height: 400px;
 	}
+
+	@include breakpoint(750) {
+		height: 450px;
+	}
+
+	@include breakpoint(950) {
+		height: 500px;
+	}
 }
