@@ -14,7 +14,8 @@ body-class: accordion
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
 		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto; position: relative;">
-			<img style="position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb">
+			<img style="z-index: 2; position: absolute; top: 0; left: 0;" src="" alt="" id="injury-solution">
+			<img style="z-index: 1; position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb">
 			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
 		</div>
 	</div>
@@ -45,7 +46,16 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
-				Panel 3. Lorem ipsum dolor
+					<div class="grid-x">
+						<!-- Front Orthotic -->
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<!-- Front Prosthetic -->
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<!-- Rear Orthotic -->
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
+						<!-- Rear Prosthetic -->
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
+					</div>
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
