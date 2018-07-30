@@ -93,3 +93,8 @@ body-class: accordion
 		$('#affected-limb').addClass('is-hidden');
 	});
 </script>
+
+<!-- Hide chosen limb & product options when retroactively clicking on Affected Limb :: -->
+<script>
+
+</script>
