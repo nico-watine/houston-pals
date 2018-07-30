@@ -72,34 +72,4 @@ body-class: accordion
 <!-- Extra jquery cdn just so these in-page scripts function: -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
-<!-- Toggle Injury Solution options based on Affected Limb chosen :: -->
-<script>
-	$('.front-affected-limb-toggle').click(function(){
-		$('.front-injury-solution-option').removeClass('is-hidden');
-		$('.rear-injury-solution-option').addClass('is-hidden');
-	});
-	$('.rear-affected-limb-toggle').click(function(){
-		$('.rear-injury-solution-option').removeClass('is-hidden');
-		$('.front-injury-solution-option').addClass('is-hidden');
-	});
-</script>
 
-<!-- Hide "white" Affected Limb after choosing Injury Solution :: -->
-<script>
-	$('.front-injury-solution-option, .rear-injury-solution-option').click(function(){
-		$('#affected-limb-img').addClass('is-hidden');
-		$('#affected-limb-img').removeClass('is-visible');
-		$('#injury-solution-img').removeClass('is-hidden');
-		$('#injury-solution-img').addClass('is-visible');
-	});
-</script>
-
-<!-- Hide chosen limb & product options when retroactively clicking on Affected Limb :: -->
-<script>
-	$('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
-		$('#injury-solution-img').removeClass('is-visible');
-		$('#injury-solution-img').addClass('is-hidden');
-		$('#affected-limb-img').addClass('is-visible');
-		$('#affected-limb-img').removeClass('is-hidden');
-	});
-</script>
