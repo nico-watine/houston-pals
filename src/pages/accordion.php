@@ -48,13 +48,13 @@ body-class: accordion
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x">
 						<!-- Front Orthotic -->
-						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<div class="is-hidden cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
 						<!-- Front Prosthetic -->
-						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<div class="is-hidden cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<!-- Rear Orthotic -->
-						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
+						<div class="is-hidden cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
 						<!-- Rear Prosthetic -->
-						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
+						<div class="is-hidden cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
 					</div>
 				</div>
 			</li>
