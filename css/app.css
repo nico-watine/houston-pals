@@ -9138,7 +9138,7 @@ img.frame {
 }
 
 .splash {
-  background: linear-gradient(rgba(48, 101, 155, 0.4), rgba(48, 101, 155, 0.4)), url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
+  background: #acc1d8 url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
   height: 320px;
 }
 

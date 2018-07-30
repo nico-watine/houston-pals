@@ -1,11 +1,7 @@
 @import '_header.scss';
 
 .splash {
-	background: linear-gradient(
-	rgba(48,101,155,0.40),
-	rgba(48,101,155,0.40)
-	), url('/img/index/splash/splash-small.jpg') center / cover no-repeat;
-
+	background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
 	height: 320px;
 
 	@include breakpoint(380) {
