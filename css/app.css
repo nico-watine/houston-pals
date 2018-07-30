@@ -9138,7 +9138,7 @@ img.frame {
 }
 
 .splash {
-  background: linear-gradient(rgba(48, 101, 155, 0.4), rgba(48, 101, 155, 0.4)), url("/img/index/splash/splash-small.jpg") right 190px/cover no-repeat;
+  background: linear-gradient(rgba(48, 101, 155, 0.4), rgba(48, 101, 155, 0.4)), url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
 }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
