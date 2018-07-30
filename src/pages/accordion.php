@@ -13,7 +13,8 @@ body-class: accordion
 </div>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
-		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto;">
+		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto; position: relative;">
+			<img style="position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb">
 			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
 		</div>
 	</div>
@@ -35,7 +36,10 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#affected-limb" class="accordion-title">Affected Limb</a>
 				<div class="accordion-content" data-tab-content id="deeplink2">
-				Panel 2. Lorem ipsum dolor
+					<div class="grid-x">
+						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+					</div>
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
