@@ -5336,11 +5336,44 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/product-builder\/affected-limb\/front\/front-icon.png": {
+		"ft": 32768,
+		"iS": 6759,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/affected-limb\/front\/front-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/product-builder\/affected-limb\/front\/front.png": {
 		"ft": 32768,
 		"iS": 151328,
 		"oA": 1,
 		"oAP": "\/img\/product-builder\/affected-limb\/front\/front.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/affected-limb\/rear\/rear-icon.png": {
+		"ft": 32768,
+		"iS": 7410,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/affected-limb\/rear\/rear-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/affected-limb\/rear\/rear.png": {
+		"ft": 32768,
+		"iS": 176013,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/affected-limb\/rear\/rear.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
