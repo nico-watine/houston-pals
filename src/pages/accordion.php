@@ -69,7 +69,3 @@ body-class: accordion
 		</ul>
 	</div>
 </div>
-<!-- Extra jquery cdn just so these in-page scripts function: -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
-
