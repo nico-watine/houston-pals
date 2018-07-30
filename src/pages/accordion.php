@@ -39,9 +39,9 @@ body-class: accordion
 				<div class="accordion-content" data-tab-content id="deeplink2">
 					<div class="grid-x">
 						<!-- Front Toggle -->
-						<div class="front-injury-solution-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<div class="front-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
 						<!-- Rear Toggle -->
-						<div class="rear-injury-solution-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+						<div class="rear-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
 			</li>
@@ -50,13 +50,13 @@ body-class: accordion
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x">
 						<!-- Front Orthotic -->
-						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
 						<!-- Front Prosthetic -->
-						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<!-- Rear Orthotic -->
-						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
+						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
 						<!-- Rear Prosthetic -->
-						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
+						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
 					</div>
 				</div>
 			</li>
@@ -74,11 +74,11 @@ body-class: accordion
 
 <!-- Toggle Injury Solution options based on Affected Limb chosen :: -->
 <script>
-	$('.front-injury-solution-toggle').click(function(){
+	$('.front-affected-limb-toggle').click(function(){
 		$('.front-injury-solution-option').removeClass('is-hidden');
 		$('.rear-injury-solution-option').addClass('is-hidden');
 	});
-	$('.rear-injury-solution-toggle').click(function(){
+	$('.rear-affected-limb-toggle').click(function(){
 		$('.rear-injury-solution-option').removeClass('is-hidden');
 		$('.front-injury-solution-option').addClass('is-hidden');
 	});
@@ -95,6 +95,4 @@ body-class: accordion
 </script>
 
 <!-- Hide chosen limb & product options when retroactively clicking on Affected Limb :: -->
-<script>
 
-</script>
