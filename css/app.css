@@ -9167,6 +9167,12 @@ img.frame {
 }
 
 @media print, screen and (min-width: 64em) {
+  .splash .hero {
+    background: transparent;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
   .splash {
     background: #acc1d8 url("/img/index/splash/splash-large.jpg") center/cover no-repeat;
     height: 770px;

@@ -20,6 +20,10 @@
 		@include breakpoint(950) {
 			height: 500px;
 		}
+
+		@include breakpoint(large) {
+			background: transparent;
+		}
 	}
 
 	@include breakpoint(large) {
