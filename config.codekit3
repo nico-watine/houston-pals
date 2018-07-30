@@ -5019,6 +5019,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -5328,6 +5334,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/product-builder\/affected-limb\/front\/front.png": {
+		"ft": 32768,
+		"iS": 151328,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/affected-limb\/front\/front.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/product-builder\/coat-color\/black.png": {
