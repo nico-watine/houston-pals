@@ -13,8 +13,8 @@ body-class: accordion
 </div>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
-		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto;">
-			<img src="" alt="" id="affected-limb">
+		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto; position: relative;">
+			<img style="position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb">
 			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
 		</div>
 	</div>
