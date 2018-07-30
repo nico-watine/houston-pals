@@ -14,8 +14,8 @@ body-class: accordion
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
 		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto; position: relative;">
-			<img style="z-index: 2; position: absolute; top: 0; left: 0;" src="" alt="" id="injury-solution">
-			<img style="z-index: 1; position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb">
+			<img style="z-index: 2; position: absolute; top: 0; left: 0;" src="" alt="" id="injury-solution-img">
+			<img style="z-index: 1; position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb-img">
 			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
 		</div>
 	</div>
@@ -87,10 +87,10 @@ body-class: accordion
 <!-- Hide "white" Affected Limb after choosing Injury Solution :: -->
 <script>
 	$('.front-injury-solution-option').click(function(){
-		$('#affected-limb').addClass('is-hidden');
+		$('#affected-limb-img').addClass('is-hidden');
 	});
 	$('.rear-injury-solution-option').click(function(){
-		$('#affected-limb').addClass('is-hidden');
+		$('#affected-limb-img').addClass('is-hidden');
 	});
 </script>
 
