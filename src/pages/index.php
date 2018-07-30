@@ -49,5 +49,5 @@ layout: blank
 			<h1 style="padding: 0 15px; font-family: MullerExtraBold;font-size: 32px;color: #fff;line-height: 1.2;">Custom made orthotics and prosthetics for any pet</h1>
 		</div>
 	</div>
-	<img class="show-for-large" src="/img/index/splash/splash-large.jpg" style="position: absolute; top: 0; z-index: -1;" alt="">
+	<img class="bg-dog show-for-large" src="/img/index/splash/splash-large.jpg" alt="">
 </div>
