@@ -5133,50 +5133,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/accordion\/coat-color\/black.png": {
-		"ft": 32768,
-		"iS": 2450,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/black.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/brown.png": {
-		"ft": 32768,
-		"iS": 2393,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/brown.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/spotted.png": {
-		"ft": 32768,
-		"iS": 3294,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/spotted.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/tan.png": {
-		"ft": 32768,
-		"iS": 2368,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/tan.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/img\/assets\/accents\/dog\/top-left.png": {
 		"ft": 32768,
 		"iS": 35217,
