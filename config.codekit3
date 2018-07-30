@@ -5026,13 +5026,6 @@
 		"oAP": "\/dist\/.htaccess",
 		"oF": 0
 		},
-	"\/dist\/accordion.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/accordion.php",
-		"oF": 0
-		},
 	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 4578,
@@ -5431,314 +5424,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/product-builder\/affected-limb\/front\/front-icon.png": {
-		"ft": 32768,
-		"iS": 6759,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/affected-limb\/front\/front-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/affected-limb\/front\/front.png": {
-		"ft": 32768,
-		"iS": 151328,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/affected-limb\/front\/front.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/affected-limb\/rear\/rear-icon.png": {
-		"ft": 32768,
-		"iS": 7410,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/affected-limb\/rear\/rear-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/affected-limb\/rear\/rear.png": {
-		"ft": 32768,
-		"iS": 176013,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/affected-limb\/rear\/rear.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/coat-color\/black.png": {
-		"ft": 32768,
-		"iS": 2450,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/coat-color\/black.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/coat-color\/brown.png": {
-		"ft": 32768,
-		"iS": 2393,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/coat-color\/brown.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/coat-color\/spotted.png": {
-		"ft": 32768,
-		"iS": 3294,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/coat-color\/spotted.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/coat-color\/tan.png": {
-		"ft": 32768,
-		"iS": 2368,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/coat-color\/tan.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/dog\/black-dog.png": {
-		"ft": 32768,
-		"iS": 253058,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/dog\/black-dog.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/dog\/tan-dog.png": {
-		"ft": 32768,
-		"iS": 283922,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/dog\/tan-dog.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png": {
-		"ft": 32768,
-		"iS": 273334,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1025.png": {
-		"ft": 32768,
-		"iS": 227878,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1025.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1026.png": {
-		"ft": 32768,
-		"iS": 208332,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1026.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1050.png": {
-		"ft": 32768,
-		"iS": 299941,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1050.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1053.png": {
-		"ft": 32768,
-		"iS": 283836,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1053.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1060.png": {
-		"ft": 32768,
-		"iS": 281271,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1060.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1071.png": {
-		"ft": 32768,
-		"iS": 145902,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1071.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1083.png": {
-		"ft": 32768,
-		"iS": 205222,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1083.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1090.png": {
-		"ft": 32768,
-		"iS": 303632,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1090.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1201.png": {
-		"ft": 32768,
-		"iS": 234694,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/front\/orthotic\/front-orthotic-1201.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/front\/front-orthotic-icon.png": {
-		"ft": 32768,
-		"iS": 4517,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/front\/front-orthotic-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/front\/front-orthotic.png": {
-		"ft": 32768,
-		"iS": 75918,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/front\/front-orthotic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/front\/front-prosthetic-icon.png": {
-		"ft": 32768,
-		"iS": 4720,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/front\/front-prosthetic-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/front\/front-prosthetic.png": {
-		"ft": 32768,
-		"iS": 80104,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/front\/front-prosthetic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/rear\/rear-orthotic-icon.png": {
-		"ft": 32768,
-		"iS": 4917,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/rear\/rear-orthotic-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/rear\/rear-orthotic.png": {
-		"ft": 32768,
-		"iS": 188232,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/rear\/rear-orthotic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic-icon.png": {
-		"ft": 32768,
-		"iS": 5033,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic.png": {
-		"ft": 32768,
-		"iS": 192849,
-		"oA": 1,
-		"oAP": "\/dist\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/dist\/img\/products\/animal-diversity\/duck.jpg": {
 		"ft": 16384,
 		"iS": 34697,
@@ -6020,12 +5705,12 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/dist\/js\/scripts-min.js": {
+	"\/dist\/js\/custom\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scripts-min-min.js",
+		"oAP": "\/dist\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -6693,13 +6378,23 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/src\/app.js": {
+	"\/js\/custom\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/app-min.js",
+		"oAP": "\/js\/scripts-min-min.js",
 		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/js\/src\/app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/app-min.js",
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
@@ -6707,9 +6402,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 1,
-		"oAP": "\/js\/src\/scripts-min.js",
-		"oF": 0,
+		"oA": 0,
+		"oAP": "\/js\/custom\/scripts-min.js",
+		"oF": 3,
 		"sC": 0,
 		"tS": 0
 		},
