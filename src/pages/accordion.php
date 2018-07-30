@@ -83,3 +83,5 @@ body-class: accordion
 		$('.front-injury-solution-option').addClass('is-hidden');
 	});
 </script>
+
+<!-- Hide "white" Affected Limb after choosing Injury Solution :: -->
