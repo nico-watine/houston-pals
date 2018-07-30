@@ -41,7 +41,7 @@ body-class: accordion
 						<!-- Front Toggle -->
 						<div class="front-injury-solution-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
 						<!-- Rear Toggle -->
-						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+						<div class="rear-injury-solution-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
 			</li>
@@ -72,6 +72,11 @@ body-class: accordion
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>
 	$('.front-injury-solution-toggle').click(function(){
-		$('.front-injury-solution-option').toggleClass('is-hidden is-visible');
+		$('.front-injury-solution-option').removeClass('is-hidden');
+		$('.rear-injury-solution-option').addClass('is-hidden');
+	});
+	$('.rear-injury-solution-toggle').click(function(){
+		$('.rear-injury-solution-option').removeClass('is-hidden');
+		$('.front-injury-solution-option').addClass('is-hidden');
 	});
 </script>
