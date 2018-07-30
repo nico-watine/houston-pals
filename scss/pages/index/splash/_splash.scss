@@ -5,6 +5,10 @@
 		background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
 		height: 320px;
 
+		h1 {
+			color: #fff;
+		}
+
 		@include breakpoint(380) {
 			height: 400px;
 		}

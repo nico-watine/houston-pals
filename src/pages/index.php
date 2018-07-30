@@ -46,7 +46,7 @@ layout: blank
 	</header>
 	<div class="hero grid-x align-middle">
 		<div class="cell">
-			<h1 style="padding: 0 15px; font-family: MullerExtraBold;color: #fff;line-height: 1.2;">Custom made orthotics and prosthetics for any pet</h1>
+			<h1 style="padding: 0 15px; font-family: MullerExtraBold;">Custom made orthotics and prosthetics for any pet</h1>
 		</div>
 	</div>
 	<img class="bg-dog show-for-large" src="/img/index/splash/splash-large.jpg" alt="">

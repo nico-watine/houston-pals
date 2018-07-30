@@ -9142,6 +9142,10 @@ img.frame {
   height: 320px;
 }
 
+.splash .hero h1 {
+  color: #fff;
+}
+
 @media screen and (min-width: 23.75em) {
   .splash .hero {
     height: 400px;
