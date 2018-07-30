@@ -5019,6 +5019,96 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/.htaccess",
+		"oF": 0
+		},
+	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 4578,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 5560,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 6642,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 2842,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 6642,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/css\/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/dist\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/favicon.ico",
+		"oF": 0
+		},
+	"\/dist\/favicon.png": {
+		"ft": 32768,
+		"iS": 1696,
+		"oA": 1,
+		"oAP": "\/dist\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -5026,11 +5116,59 @@
 		"oAP": "\/dist\/fonts\/hpals\/hpals.eot",
 		"oF": 0
 		},
+	"\/dist\/fonts\/hpals\/hpals.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/hpals\/hpals.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/dist\/fonts\/hpals\/hpals.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/fonts\/hpals\/hpals.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/hpals\/hpals.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/hpals\/hpals.woff",
+		"oF": 0
+		},
+	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff",
 		"oF": 0
 		},
 	"\/dist\/fonts\/muller-medium\/muller-medium.eot": {
@@ -5062,6 +5200,20 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.woff",
+		"oF": 0
+		},
+	"\/dist\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/googlea536b0ce9879dae9.html",
+		"oF": 0
+		},
+	"\/dist\/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
 	"\/dist\/img\/about\/bill-default.jpg": {
@@ -5249,6 +5401,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/index\/splash\/splash-small.jpg": {
+		"ft": 16384,
+		"iS": 178589,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/splash\/splash-small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/dist\/img\/orderingProductFAQ\/orthotic.jpg": {
@@ -5547,6 +5710,33 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
+	"\/dist\/js\/app-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/app-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5556,6 +5746,74 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/dist\/ordering-product-faq.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/ordering-product-faq.php",
+		"oF": 0
+		},
+	"\/dist\/php\/autoVer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/php\/autoVer.php",
+		"oF": 0
+		},
+	"\/dist\/products.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/products.php",
+		"oF": 0
+		},
+	"\/dist\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/dist\/sitemap.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/sitemap.xml",
+		"oF": 0
+		},
+	"\/dist\/tile-wide.png": {
+		"ft": 32768,
+		"iS": 13256,
+		"oA": 1,
+		"oAP": "\/dist\/tile-wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/tile.png": {
+		"ft": 32768,
+		"iS": 25299,
+		"oA": 1,
+		"oAP": "\/dist\/tile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/touch-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 7083,
+		"oA": 1,
+		"oAP": "\/dist\/touch-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
@@ -5845,6 +6103,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/index\/splash\/splash-small.jpg": {
+		"ft": 16384,
+		"iS": 178589,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index\/splash\/splash-small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/orderingProductFAQ\/orthotic.jpg": {
