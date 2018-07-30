@@ -52,9 +52,9 @@ body-class: accordion
 						<!-- Front Prosthetic -->
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<!-- Rear Orthotic -->
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
 						<!-- Rear Prosthetic -->
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/rear/rear-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
 					</div>
 				</div>
 			</li>
