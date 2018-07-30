@@ -2,14 +2,14 @@ $(document).foundation();
 
 // Toggle Injury Solution options based on Affected Limb chosen
 
-	$('.front-affected-limb-toggle').click(function(){
-		$('.front-injury-solution-option').removeClass('is-hidden');
-		$('.rear-injury-solution-option').addClass('is-hidden');
-	});
-	$('.rear-affected-limb-toggle').click(function(){
-		$('.rear-injury-solution-option').removeClass('is-hidden');
-		$('.front-injury-solution-option').addClass('is-hidden');
-	});
+$('.front-affected-limb-toggle').click(function(){
+	$('.front-injury-solution-option').removeClass('is-hidden');
+	$('.rear-injury-solution-option').addClass('is-hidden');
+});
+$('.rear-affected-limb-toggle').click(function(){
+	$('.rear-injury-solution-option').removeClass('is-hidden');
+	$('.front-injury-solution-option').addClass('is-hidden');
+});
 
 // Hide "white" Affected Limb after choosing Injury Solution
 
