@@ -1,1 +1,8 @@
 @import '_header.scss';
+
+.splash {
+	background: linear-gradient(
+	rgba(48,101,155,0.40),
+	rgba(48,101,155,0.40)
+	), url('/img/index/splash/splash-small.jpg') right 190px / cover no-repeat;
+}
