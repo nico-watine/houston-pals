@@ -45,7 +45,7 @@ layout: blank
 		</div>
 	</header>
 
-	<div class="grid-x align-bottom" style="height: 100%; position: relative; top: -196px; padding-top: 196px;">
+	<div class="grid-x align-middle" style="height: 100%; position: relative; top: -196px; padding-top: 196px;">
 		<div class="cell">
 			<h1 style="padding: 0 15px; font-family: MullerExtraBold;font-size: 32px;color: #fff;line-height: 1.2;">Custom made orthotics and prosthetics for any pet</h1>
 			<!-- <img src="/img/index/splash/splash-small.jpg" alt=""> -->
