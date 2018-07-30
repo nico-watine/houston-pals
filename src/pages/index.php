@@ -43,10 +43,8 @@ layout: blank
 		</div>
 	</div>
 </header>
-<div class="splash">
-	<div class="grid-x align-middle" style="height: 320px;">
-		<div class="cell">
-			<h1 style="padding: 0 15px; font-family: MullerExtraBold;font-size: 32px;color: #fff;line-height: 1.2;">Custom made orthotics and prosthetics for any pet</h1>
-		</div>
+<div class="splash grid grid-x align-middle">
+	<div class="cell">
+		<h1 style="padding: 0 15px; font-family: MullerExtraBold;font-size: 32px;color: #fff;line-height: 1.2;">Custom made orthotics and prosthetics for any pet</h1>
 	</div>
 </div>
