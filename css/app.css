@@ -9154,6 +9154,13 @@ img.frame {
   }
 }
 
+@media print, screen and (min-width: 40em) {
+  .splash {
+    background: #acc1d8 url("/img/index/splash/splash-medium.jpg") center/cover no-repeat;
+    height: 400px;
+  }
+}
+
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center;
 }

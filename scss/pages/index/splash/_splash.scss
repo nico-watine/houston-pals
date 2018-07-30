@@ -11,4 +11,9 @@
 	@include breakpoint(480) {
 		height: 500px;
 	}
+
+	@include breakpoint(medium) {
+		background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
+		height: 400px;;
+	}
 }
