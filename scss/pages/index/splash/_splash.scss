@@ -1,22 +1,29 @@
 @import '_header.scss';
 
 .splash {
-	background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
-	height: 320px;
+	.hero {
+		background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
+		height: 320px;
 
-	@include breakpoint(380) {
-		height: 400px;
+		@include breakpoint(380) {
+			height: 400px;
+		}
+
+		@include breakpoint(480) {
+			background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
+		}
+
+		@include breakpoint(750) {
+			height: 450px;
+		}
+
+		@include breakpoint(950) {
+			height: 500px;
+		}
 	}
 
-	@include breakpoint(480) {
-		background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
-	}
-
-	@include breakpoint(750) {
-		height: 450px;
-	}
-
-	@include breakpoint(950) {
-		height: 500px;
+	@include breakpoint(large) {
+		background: #acc1d8 url('/img/index/splash/splash-large.jpg') center/cover no-repeat;
+		height: 770px;
 	}
 }

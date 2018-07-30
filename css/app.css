@@ -9137,32 +9137,39 @@ img.frame {
   padding-top: 2.5rem;
 }
 
-.splash {
+.splash .hero {
   background: #acc1d8 url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
   height: 320px;
 }
 
 @media screen and (min-width: 23.75em) {
-  .splash {
+  .splash .hero {
     height: 400px;
   }
 }
 
 @media screen and (min-width: 30em) {
-  .splash {
+  .splash .hero {
     background: #acc1d8 url("/img/index/splash/splash-medium.jpg") center/cover no-repeat;
   }
 }
 
 @media screen and (min-width: 46.875em) {
-  .splash {
+  .splash .hero {
     height: 450px;
   }
 }
 
 @media screen and (min-width: 59.375em) {
-  .splash {
+  .splash .hero {
     height: 500px;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .splash {
+    background: #acc1d8 url("/img/index/splash/splash-large.jpg") center/cover no-repeat;
+    height: 770px;
   }
 }
 
