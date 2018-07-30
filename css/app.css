@@ -9142,9 +9142,15 @@ img.frame {
   height: 320px;
 }
 
-@media screen and (min-width: 26.5625em) {
+@media screen and (min-width: 23.75em) {
   .splash {
     height: 400px;
+  }
+}
+
+@media screen and (min-width: 30em) {
+  .splash {
+    height: 500px;
   }
 }
 
