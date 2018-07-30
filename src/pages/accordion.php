@@ -38,7 +38,9 @@ body-class: accordion
 				<a href="#affected-limb" class="accordion-title">Affected Limb</a>
 				<div class="accordion-content" data-tab-content id="deeplink2">
 					<div class="grid-x">
-						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<!-- Front Toggle -->
+						<div class="front-injury-solution-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<!-- Rear Toggle -->
 						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
@@ -67,3 +69,8 @@ body-class: accordion
 		</ul>
 	</div>
 </div>
+<script>
+	$('.front-injury-solution-toggle').click(function(){
+		$('.front-injury-solution-option').toggleClass('is-hidden is-visible');
+	});
+</script>
