@@ -5556,6 +5556,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/product-builder\/injury-solution\/orthotic-icon.png": {
+		"ft": 32768,
+		"iS": 3400,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/injury-solution\/orthotic-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/injury-solution\/prosthetic-icon.png": {
+		"ft": 32768,
+		"iS": 3685,
+		"oA": 1,
+		"oAP": "\/img\/product-builder\/injury-solution\/prosthetic-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/products\/animal-diversity\/duck.jpg": {
 		"ft": 16384,
 		"iS": 34697,
