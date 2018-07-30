@@ -69,6 +69,7 @@ body-class: accordion
 		</ul>
 	</div>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>
 	$('.front-injury-solution-toggle').click(function(){
 		$('.front-injury-solution-option').toggleClass('is-hidden is-visible');
