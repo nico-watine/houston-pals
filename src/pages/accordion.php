@@ -37,8 +37,8 @@ body-class: accordion
 				<a href="#affected-limb" class="accordion-title">Affected Limb</a>
 				<div class="accordion-content" data-tab-content id="deeplink2">
 					<div class="grid-x">
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/dog/tan-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/dog/black-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/dog/tan-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb').src=('/img/product-builder/dog/black-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 					</div>
 				</div>
 			</li>
