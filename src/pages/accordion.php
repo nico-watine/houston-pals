@@ -14,6 +14,7 @@ body-class: accordion
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
 		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto; position: relative;">
+			<img style="position: absolute; top: 0; left: 0;" src="" alt="" id="injury-solution">
 			<img style="position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb">
 			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
 		</div>
@@ -46,8 +47,8 @@ body-class: accordion
 				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x">
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></div>
 					</div>
