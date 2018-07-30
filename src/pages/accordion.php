@@ -89,4 +89,7 @@ body-class: accordion
 	$('.front-injury-solution-option').click(function(){
 		$('#affected-limb').addClass('is-hidden');
 	});
+	$('.rear-injury-solution-option').click(function(){
+		$('#affected-limb').addClass('is-hidden');
+	});
 </script>
