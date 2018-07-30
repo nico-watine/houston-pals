@@ -9151,7 +9151,6 @@ img.frame {
 @media screen and (min-width: 30em) {
   .splash {
     background: #acc1d8 url("/img/index/splash/splash-medium.jpg") center/cover no-repeat;
-    height: 400px;
   }
 }
 
