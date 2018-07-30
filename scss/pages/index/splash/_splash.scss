@@ -23,11 +23,7 @@
 
 		@include breakpoint(large) {
 			background: transparent;
+			height: 370px;
 		}
-	}
-
-	@include breakpoint(large) {
-		// background: #acc1d8 url('/img/index/splash/splash-large.jpg') center/cover no-repeat;
-		height: 770px;
 	}
 }

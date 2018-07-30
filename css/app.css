@@ -9169,12 +9169,7 @@ img.frame {
 @media print, screen and (min-width: 64em) {
   .splash .hero {
     background: transparent;
-  }
-}
-
-@media print, screen and (min-width: 64em) {
-  .splash {
-    height: 770px;
+    height: 370px;
   }
 }
 
