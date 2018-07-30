@@ -85,3 +85,8 @@ body-class: accordion
 </script>
 
 <!-- Hide "white" Affected Limb after choosing Injury Solution :: -->
+<script>
+	$('.front-injury-solution-option').click(function(){
+		$('#affected-limb').addClass('is-hidden');
+	});
+</script>
