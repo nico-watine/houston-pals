@@ -45,7 +45,12 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
-				Panel 3. Lorem ipsum dolor
+					<div class="grid-x">
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/product-builder/injury-solution/rear/rear-prosthetic-icon.png" alt=""><p>Rear Prosthetic</p></div>
+					</div>
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
