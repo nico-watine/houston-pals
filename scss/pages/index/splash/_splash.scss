@@ -55,12 +55,12 @@
 	}
 
 	.bg-dog {
-		position: absolute;
-		top: 0;
-		z-index: -1;
+		// position: absolute;
+		// top: 0;
+		// z-index: -1;
 
-		@include breakpoint(1441) {
-			top: -100px;
-		}
+		// @include breakpoint(1441) {
+		// 	top: -100px;
+		// }
 	}
 }

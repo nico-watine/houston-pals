@@ -9,8 +9,8 @@ body-id: index
 body-class: index
 layout: blank
 ---
-<div class="splash">
-	<header class="header header-scrim">
+<div class="splash" style="position: relative;">
+	<header class="header header-scrim" style="position: absolute; width: 100%;">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
 				<a id="colorful-name-hover" href="mailto:bill@houstonpals.com" class="normal">bill@houston<span class="green">P</span><span class="blue">A</span><span class="green">L</span><span class="blue">S</span>.com</a>
@@ -44,12 +44,14 @@ layout: blank
 			</div>
 		</div>
 	</header>
-	<div class=" grid-container">
-		<div class="hero grid-x grid-padding-x">
-			<div class="cell">
-				<div class="prose">
-					<h1 class="white title-font">Custom made orthotics and prosthetics for any pet.</h1>
-					<h3 style="line-height: 1.4;" class="white body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
+	<div class="wrapper" style="position: absolute; width: 100%; top: 200px;">
+		<div class="grid-container">
+			<div class="hero grid-x grid-padding-x">
+				<div class="cell">
+					<div class="prose">
+						<h1 class="white title-font">Custom made orthotics and prosthetics for any pet.</h1>
+						<h3 style="line-height: 1.4;" class="white body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
+					</div>
 				</div>
 			</div>
 		</div>

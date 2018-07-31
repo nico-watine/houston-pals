@@ -9206,18 +9206,6 @@ img.frame {
   }
 }
 
-.splash .bg-dog {
-  position: absolute;
-  top: 0;
-  z-index: -1;
-}
-
-@media screen and (min-width: 90.0625em) {
-  .splash .bg-dog {
-    top: -100px;
-  }
-}
-
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center;
 }
