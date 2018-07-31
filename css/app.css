@@ -8997,6 +8997,11 @@ body#index #snc-link {
   letter-spacing: 0.125rem;
 }
 
+.title-font {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+}
+
 .heading, .header ul.menu li a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
