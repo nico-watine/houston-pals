@@ -5140,68 +5140,6 @@
 		"oAP": "\/dist\/fonts\/hpals\/hpals.woff",
 		"oF": 0
 		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.eot",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.ttf",
-		"oF": 0
-		},
-	"\/dist\/fonts\/muller-medium\/muller-medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.woff",
-		"oF": 0
-		},
 	"\/dist\/googlea536b0ce9879dae9.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5745,16 +5683,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/dist\/js\/app-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/dist\/js\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/dist\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
