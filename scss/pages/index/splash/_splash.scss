@@ -5,6 +5,8 @@
 		background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
 		height: 320px;
 
+		@include align-middle;
+
 		h1 {
 			font-size: $h1;
 		}
