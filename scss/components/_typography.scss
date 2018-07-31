@@ -48,31 +48,6 @@ a#colorful-name-hover {
 	}
 }
 
-// FOR SASS REFERENCE ONLY ::
-.h2 {
-	font-size: rem-calc(20);
-
-	@include breakpoint(medium) {
-		font-size: rem-calc(40);
-	}
-}
-
-.h3 {
-	font-size: rem-calc(19);
-
-	@include breakpoint(medium) {
-		font-size: rem-calc(31);
-	}
-}
-
-.h4 {
-	font-size: rem-calc(18);
-
-	@include breakpoint(medium) {
-		font-size: rem-calc(25);
-	}
-}
-
 address {
 	font-style: normal;
 }
