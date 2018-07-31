@@ -8992,12 +8992,6 @@ body#index #snc-link {
   font-weight: normal;
 }
 
-@media print, screen and (min-width: 40em) {
-  p {
-    font-size: 1.125rem;
-  }
-}
-
 .normal, footer ul.menu li a {
   font-weight: normal;
 }

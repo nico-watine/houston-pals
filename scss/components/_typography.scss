@@ -19,12 +19,6 @@
 	font-weight: $global-weight-normal;
 }
 
-p {
-	@include breakpoint(medium) {
-		font-size: rem-calc(18);
-	}
-}
-
 .normal {
 	font-weight: normal;
 }
