@@ -79,52 +79,31 @@ body-class: accordion
 						</div>
 						<!-- 1050 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1050.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1050.jpg" alt="">
-								<p>4</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1050.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1050.jpg" alt=""><p>4</p></span>
 						</div>
 						<!-- 1053 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1053.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1053.jpg" alt="">
-								<p>5</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1053.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1053.jpg" alt=""><p>5</p></span>
 						</div>
 						<!-- 1060 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1060.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1060.jpg" alt="">
-								<p>6</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1060.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1060.jpg" alt=""><p>6</p></span>
 						</div>
 						<!-- 1071 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1071.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1071.jpg" alt="">
-								<p>7</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1071.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1071.jpg" alt=""><p>7</p></span>
 						</div>
 						<!-- 1083 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1083.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1083.jpg" alt="">
-								<p>8</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1083.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1083.jpg" alt=""><p>8</p></span>
 						</div>
 						<!-- 1090 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1090.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1090.jpg" alt="">
-								<p>9</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1090.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1090.jpg" alt=""><p>9</p></span>
 						</div>
 						<!-- 1201 -->
 						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
-							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1201.png')" style="display: inline-block; cursor: pointer;">
-								<img src="/img/product-builder/tailored-finish/1201.jpg" alt="">
-								<p>10</p>
-							</span>
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1201.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/tailored-finish/1201.jpg" alt=""><p>10</p></span>
 						</div>
 					</div>
 				</div>
