@@ -63,7 +63,7 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
-					<div class="grid-x small-up-3 medium-up 5">
+					<div class="grid-x small-up-3 medium-up-5">
 						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
 							<p>1</p>
