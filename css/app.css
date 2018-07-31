@@ -9045,6 +9045,9 @@ address {
 }
 
 @media print, screen and (min-width: 40em) {
+  .p {
+    font-size: 1.125rem;
+  }
   .h1 {
     font-size: 3rem;
   }

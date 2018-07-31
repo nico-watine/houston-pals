@@ -85,6 +85,10 @@ address {
 }
 
 @include breakpoint(medium) {
+	.p {
+		font-size: $p-medium;
+	}
+
 	.h1 {
 		font-size: $h1-medium;
 	}

@@ -24,9 +24,9 @@ $z-5: 0 rem-calc(17) rem-calc(17) 0 rgba(0,0,0,.15), 0 rem-calc(27) rem-calc(55)
 // ----------------------------------------------
 // |            TYPOGRAPHY VARIABLES            |
 // ----------------------------------------------
-$p: rem-calc(16);
 
 // Heading sizes @small
+$p: rem-calc(16);
 $h1: rem-calc(32);
 $h2: rem-calc(26);
 $h3: rem-calc(22);
@@ -35,6 +35,7 @@ $h5: rem-calc(17);
 $h6: rem-calc(16);
 
 // Heading sizes @medium+
+$p-medium: rem-calc(18);
 $h1-medium: rem-calc(48);
 $h2-medium: rem-calc(40);
 $h3-medium: rem-calc(31);
