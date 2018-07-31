@@ -1,0 +1,80 @@
+@import '_header.scss';
+
+.splash {
+	@include breakpoint(large) {
+		.header,
+		.hero-wrapper {
+			position: absolute;
+			width: 100%;
+		}
+
+		.hero-wrapper {
+			top: 200px;
+		}
+	}
+
+	.hero {
+		background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
+		height: 320px;
+
+		@include align-middle;
+
+		.prose {
+			max-width: rem-calc(570);
+		}
+
+		h1 {
+			font-size: $h1;
+		}
+
+		h3 {
+			font-size: $h3;
+		}
+
+		@include breakpoint(380) {
+			height: 400px;
+		}
+
+		@include breakpoint(480) {
+			background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
+		}
+
+		@include breakpoint(medium) {
+			@include align-bottom;
+			padding-bottom: 40px;
+		}
+
+		@include breakpoint(750) {
+			height: 450px;
+		}
+
+		@include breakpoint(950) {
+			height: 500px;
+		}
+
+		@include breakpoint(large) {
+			background: transparent;
+			height: 370px;
+
+			h1 {
+				font-size: $h2-medium;
+			}
+
+			h3 {
+				font-size: $h3-medium;
+			}
+		}
+	}
+
+	.dog-background {
+		overflow: hidden;
+
+		@include breakpoint(1350) {
+			height: 700px;
+		}
+
+		@include breakpoint(1600) {
+			height: 800px;
+		}
+	}
+}

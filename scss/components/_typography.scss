@@ -9,6 +9,11 @@
 	letter-spacing: rem-calc(2);
 }
 
+.title-font {
+	font-family: $title-font;
+	font-weight: $title-weight;
+}
+
 .heading {
 	font-family: $header-font-family;
 	font-weight: $header-font-weight;
@@ -40,6 +45,10 @@ a#colorful-name-hover {
 			background: $dark-blue;
 		}
 	}
+}
+
+.white {
+	color: #fff;
 }
 
 address {
