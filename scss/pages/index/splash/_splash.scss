@@ -37,6 +37,7 @@
 		}
 
 		@include breakpoint(large) {
+			@include align-middle;
 			background: transparent;
 			height: 370px;
 		}
