@@ -9626,11 +9626,11 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
 }
 
-.priceCard .header {
+.priceCard .priceCard-header {
   position: relative;
 }
 
-.priceCard .header h4 {
+.priceCard .priceCard-header h4 {
   position: absolute;
   z-index: 10;
   bottom: 0;
@@ -9638,7 +9638,7 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
   color: #fff;
 }
 
-.priceCard .header .image-scrim {
+.priceCard .priceCard-header .image-scrim {
   position: absolute;
   width: 100%;
   height: 100%;
