@@ -63,7 +63,9 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
-				Panel 3. Lorem ipsum dolor
+					<div class="grid-x small-up-3 medium-up 5">
+
+					</div>
 				</div>
 			</li>
 		</ul>
