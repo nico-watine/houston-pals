@@ -9191,8 +9191,6 @@ img.frame {
 
 @media print, screen and (min-width: 64em) {
   .splash .hero {
-    -ms-flex-align: center;
-    align-items: center;
     background: transparent;
     height: 370px;
   }
