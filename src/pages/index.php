@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 layout: blank
 ---
-<div class="splash" style="position: relative;">
+<div class="splash">
 	<header class="header header-scrim" style="position: absolute; width: 100%;">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
@@ -56,8 +56,10 @@ layout: blank
 			</div>
 		</div>
 	</div>
-	<div>
-		<img class="bg-dog show-for-large" src="/img/index/splash/splash-large.jpg" alt="">
+	<div class="grid-x align-middle dog-background show-for-large">
+		<div class="cell">
+			<img src="/img/index/splash/splash-large.jpg" alt="">
+		</div>
 	</div>
 </div>
 <div itemscope itemtype="http://schema.org/Person">

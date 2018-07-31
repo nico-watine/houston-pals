@@ -9206,6 +9206,22 @@ img.frame {
   }
 }
 
+.splash .dog-background {
+  overflow: hidden;
+}
+
+@media screen and (min-width: 84.375em) {
+  .splash .dog-background {
+    height: 700px;
+  }
+}
+
+@media screen and (min-width: 100em) {
+  .splash .dog-background {
+    height: 800px;
+  }
+}
+
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center;
 }
