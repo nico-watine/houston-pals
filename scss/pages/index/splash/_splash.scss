@@ -23,6 +23,11 @@
 			background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
 		}
 
+		@include breakpoint(medium) {
+			@include align-bottom;
+			padding-bottom: 40px;
+		}
+
 		@include breakpoint(750) {
 			height: 450px;
 		}

@@ -9169,6 +9169,14 @@ img.frame {
   }
 }
 
+@media print, screen and (min-width: 40em) {
+  .splash .hero {
+    -ms-flex-align: end;
+    align-items: flex-end;
+    padding-bottom: 40px;
+  }
+}
+
 @media screen and (min-width: 46.875em) {
   .splash .hero {
     height: 450px;
