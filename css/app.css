@@ -2277,9 +2277,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Muller Medium", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   color: inherit;
   text-rendering: optimizeLegibility;
 }
@@ -9003,8 +9003,8 @@ body#index #snc-link {
 }
 
 .heading, header ul.menu li a {
-  font-family: "Muller Medium", sans-serif;
-  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
 }
 
 .body-font {
