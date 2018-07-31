@@ -64,7 +64,36 @@ body-class: accordion
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x small-up-3 medium-up 5">
-
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
+						<div class="cell text-center">
+							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+						</div>
 					</div>
 				</div>
 			</li>
