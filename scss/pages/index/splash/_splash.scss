@@ -7,6 +7,10 @@
 
 		@include align-middle;
 
+		.prose {
+			max-width: rem-calc(570);
+		}
+
 		h1 {
 			font-size: $h1;
 		}

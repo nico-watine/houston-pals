@@ -47,7 +47,7 @@ layout: blank
 	<div class=" grid-container">
 		<div class="hero grid-x grid-padding-x">
 			<div class="cell">
-				<div class="prose" style="max-width: 570px;">
+				<div class="prose">
 					<h1 class="white title-font">Custom made orthotics and prosthetics for any pet.</h1>
 					<h3 style="line-height: 1.4;" class="white body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
 				</div>

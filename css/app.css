@@ -9149,6 +9149,10 @@ img.frame {
   align-items: center;
 }
 
+.splash .hero .prose {
+  max-width: 35.625rem;
+}
+
 .splash .hero h1 {
   font-size: 2rem;
 }
