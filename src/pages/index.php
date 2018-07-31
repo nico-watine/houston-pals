@@ -10,7 +10,7 @@ body-class: index
 layout: blank
 ---
 <div class="splash">
-	<header class="header header-scrim" style="position: absolute; width: 100%;">
+	<header class="header header-scrim">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
 				<a id="colorful-name-hover" href="mailto:bill@houstonpals.com" class="normal">bill@houston<span class="green">P</span><span class="blue">A</span><span class="green">L</span><span class="blue">S</span>.com</a>
@@ -44,7 +44,7 @@ layout: blank
 			</div>
 		</div>
 	</header>
-	<div class="wrapper" style="position: absolute; width: 100%; top: 200px;">
+	<div class="hero-wrapper">
 		<div class="grid-container">
 			<div class="hero grid-x grid-padding-x">
 				<div class="cell">

@@ -9142,6 +9142,16 @@ img.frame {
   padding-top: 2.5rem;
 }
 
+.splash .header,
+.splash .hero-wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.splash .hero-wrapper {
+  top: 200px;
+}
+
 .splash .hero {
   background: #acc1d8 url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
   height: 320px;

@@ -1,6 +1,16 @@
 @import '_header.scss';
 
 .splash {
+	.header,
+	.hero-wrapper {
+		position: absolute;
+		width: 100%;
+	}
+
+	.hero-wrapper {
+		top: 200px;
+	}
+
 	.hero {
 		background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
 		height: 320px;
