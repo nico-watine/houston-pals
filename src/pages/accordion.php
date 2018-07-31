@@ -22,7 +22,7 @@ body-class: accordion
 </div>
 <div class="row">
 	<div class="columns">
-		<ul class="accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" id="deeplinked-accordion">
+		<ul class="product-builder-accordion accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" id="deeplinked-accordion">
 			<li class="accordion-item is-active" data-accordion-item>
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content" data-tab-content id="deeplink1">
