@@ -65,9 +65,10 @@ body-class: accordion
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x small-up-3 medium-up-5">
-						<div class="cell text-center" style="padding: 0 5px;">
-							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
-							<p>1</p>
+						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1013.png')" style="display: inline-block; cursor: pointer;">
+								<img src="/img/product-builder/tailored-finish/1013.jpg" alt=""><p>1</p>
+							</span>
 						</div>
 						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
