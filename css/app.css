@@ -9812,3 +9812,7 @@ body.coming-soon #top-row {
     min-height: 34.375rem;
   }
 }
+
+.product-builder-accordion img {
+  border-radius: 100%;
+}
