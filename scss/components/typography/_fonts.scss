@@ -1,31 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:700,900');
+// font-family: 'Raleway', sans-serif;
 // font-family: 'Open Sans', sans-serif;
-
-@font-face {
-  font-family: 'Muller ExtraBold';
-  src: url('#{$url}/fonts/muller-extrabold/muller-extrabold.eot'); /* IE9 Compat Modes */
-  src: url('#{$url}/fonts/muller-extrabold/muller-extrabold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-	   url('#{$url}/fonts/muller-extrabold/muller-extrabold.woff') format('woff'), /* Modern Browsers */
-	   url('#{$url}/fonts/muller-extrabold/muller-extrabold.ttf')  format('truetype'), /* Safari, Android, iOS */
-	   url('#{$url}/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b') format('svg'); /* Legacy iOS */
-
-  font-style:   normal;
-  font-weight:  700;
-}
-
-@font-face {
-  font-family: 'Muller Medium';
-  src: url('#{$url}/fonts/muller-medium/muller-medium.eot'); /* IE9 Compat Modes */
-  src: url('#{$url}/fonts/muller-medium/muller-medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-	   url('#{$url}/fonts/muller-medium/muller-medium.woff') format('woff'), /* Modern Browsers */
-	   url('#{$url}/fonts/muller-medium/muller-medium.ttf')  format('truetype'), /* Safari, Android, iOS */
-	   url('#{$url}/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3') format('svg'); /* Legacy iOS */
-
-  font-style:   normal;
-  font-weight:  400;
-}
-
 
 @font-face {
   font-family: 'hpals';
@@ -50,4 +26,5 @@
 .icon.email:before {
 	content: '\e802';
 }
+
 

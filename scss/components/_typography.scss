@@ -9,20 +9,19 @@
 	letter-spacing: rem-calc(2);
 }
 
+.title-font {
+	font-family: $title-font;
+	font-weight: $title-weight;
+}
+
 .heading {
-	font-family: $header-font;
-	font-weight: $header-weight;
+	font-family: $header-font-family;
+	font-weight: $header-font-weight;
 }
 
 .body-font {
 	font-family: $body-font-family;
 	font-weight: $global-weight-normal;
-}
-
-p {
-	@include breakpoint(medium) {
-		font-size: rem-calc(18);
-	}
 }
 
 .normal {
@@ -48,31 +47,72 @@ a#colorful-name-hover {
 	}
 }
 
-// FOR SASS REFERENCE ONLY ::
-.h2 {
-	font-size: rem-calc(20);
-
-	@include breakpoint(medium) {
-		font-size: rem-calc(40);
-	}
-}
-
-.h3 {
-	font-size: rem-calc(19);
-
-	@include breakpoint(medium) {
-		font-size: rem-calc(31);
-	}
-}
-
-.h4 {
-	font-size: rem-calc(18);
-
-	@include breakpoint(medium) {
-		font-size: rem-calc(25);
-	}
+.white {
+	color: #fff;
 }
 
 address {
 	font-style: normal;
+}
+
+// ----------------------------------------------------
+// |            Default Typographhy Sizing            |
+// ----------------------------------------------------
+
+.p {
+	font-size: $p;
+}
+
+.h1 {
+	font-size: $h1;
+}
+
+.h2 {
+	font-size: $h2;
+}
+
+.h3 {
+	font-size: $h3;
+}
+
+.h4 {
+	font-size: $h4;
+}
+
+.h5 {
+	font-size: $h5;
+}
+
+.h6 {
+	font-size: $h6;
+}
+
+@include breakpoint(medium) {
+	.p {
+		font-size: $p-medium;
+	}
+
+	.h1 {
+		font-size: $h1-medium;
+	}
+
+	.h2 {
+		font-size: $h2-medium;
+	}
+
+	.h3 {
+		font-size: $h3-medium;
+	}
+
+	.h4 {
+		font-size: $h4-medium;
+	}
+
+	.h5 {
+		font-size: $h5-medium;
+	}
+
+	.h6 {
+		font-size: $h6-medium;
+	}
 }

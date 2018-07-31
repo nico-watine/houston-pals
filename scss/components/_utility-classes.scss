@@ -1,0 +1,14 @@
+@mixin align-bottom() {
+	-ms-flex-align: end;
+	align-items: flex-end;
+}
+
+@mixin align-middle() {
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+@mixin align-top() {
+	-ms-flex-align: start;
+	align-items: flex-start;
+}

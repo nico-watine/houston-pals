@@ -1,0 +1,20 @@
+@include breakpoint(large) {
+	.header-scrim {
+		background-image: linear-gradient(-180deg, rgba(0,0,0,.50) 0%, rgba(0,0,0,.00) 100%);
+		height: rem-calc(200);
+
+		.row {
+			background: none;
+			box-shadow: none;
+		}
+
+		ul.menu {
+			li {
+				a {
+					color: #fff;
+					text-shadow: 0 2px 4px rgba(0,0,0,.50);
+				}
+			}
+		}
+	}
+}

@@ -71,8 +71,7 @@ $body-font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
-// $global-weight-normal: normal;
-$global-weight-normal: 300;
+$global-weight-normal: normal;
 $global-weight-bold: bold;
 $global-radius: 0;
 $global-text-direction: ltr;
@@ -110,8 +109,9 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $header-font;
-$header-font-weight: $header-weight;
+
+$header-font-family: 'Raleway', sans-serif;;
+$header-font-weight: 700;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;

@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Raleway:700,900");
 .slide-in-down.mui-enter {
   transition-duration: 500ms;
   transition-timing-function: linear;
@@ -1046,7 +1046,7 @@ body {
   padding: 0;
   background: #fefefe;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
   -webkit-font-smoothing: antialiased;
@@ -2277,9 +2277,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Muller Medium", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   color: inherit;
   text-rendering: optimizeLegibility;
 }
@@ -2454,7 +2454,7 @@ code {
   border: 1px solid #cacaca;
   background-color: #e6e6e6;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
-  font-weight: 300;
+  font-weight: normal;
   color: #0a0a0a;
 }
 
@@ -2469,7 +2469,7 @@ kbd {
 .subheader {
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
-  font-weight: 300;
+  font-weight: normal;
   line-height: 1.4;
   color: #8a8a8a;
 }
@@ -3822,7 +3822,7 @@ textarea {
   box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
   font-family: inherit;
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: normal;
   color: #0a0a0a;
   transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
   appearance: none;
@@ -3900,7 +3900,7 @@ label {
   display: block;
   margin: 0;
   font-size: 0.875rem;
-  font-weight: 300;
+  font-weight: normal;
   line-height: 1.8;
   color: #0a0a0a;
 }
@@ -8708,18 +8708,18 @@ body {
   background: #f7f7f7 url("/img/assets/bg/hex.png") repeat;
 }
 
-header .row, header main .content-wrapper .content, main .content-wrapper header .content {
+.header .row, .header main .content-wrapper .content, main .content-wrapper .header .content {
   background: #f7f7f7 url("/img/assets/accents/dog/top-left.png") no-repeat left top;
   background-size: contain;
   width: 100%;
 }
 
 @media print, screen and (min-width: 40em) {
-  header {
+  .header {
     height: 15.5625rem;
     position: relative;
   }
-  header .row, header main .content-wrapper .content, main .content-wrapper header .content {
+  .header .row, .header main .content-wrapper .content, main .content-wrapper .header .content {
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
     background-size: initial;
     position: absolute;
@@ -8731,52 +8731,52 @@ header .row, header main .content-wrapper .content, main .content-wrapper header
 }
 
 @media print, screen and (min-width: 64em) {
-  header {
+  .header {
     height: 11.25rem;
   }
 }
 
-header aside {
+.header aside {
   position: absolute;
   top: 0.625rem;
   right: 1.875rem;
 }
 
-header aside a {
+.header aside a {
   color: #000;
 }
 
-header .logo {
+.header .logo {
   padding: 1rem 0.5rem;
 }
 
-header .logo img {
+.header .logo img {
   max-width: 23.125rem;
   width: 100%;
 }
 
-header .title-bar {
+.header .title-bar {
   background: #30659b;
 }
 
-header .title-bar a {
+.header .title-bar a {
   color: #fff;
   float: left;
   line-height: 1;
   margin-right: 1.75rem;
 }
 
-header .title-bar a .icon {
+.header .title-bar a .icon {
   font-size: 1.75rem;
 }
 
 @media print, screen and (min-width: 64em) {
-  header .nav-wrapper {
+  .header .nav-wrapper {
     padding-left: 0;
   }
 }
 
-header ul.menu li a {
+.header ul.menu li a {
   line-height: 1.4;
   color: #000;
   font-size: 1.125rem;
@@ -8784,33 +8784,48 @@ header ul.menu li a {
   width: 100%;
 }
 
-header ul.menu li a:hover {
+.header ul.menu li a:hover {
   background: #98cd68;
   color: #fff;
 }
 
-header ul.menu li a.active {
+.header ul.menu li a.active {
   background: #98cd68;
   color: #fff;
 }
 
 @media print, screen and (min-width: 40em) {
-  header ul.menu li a {
+  .header ul.menu li a {
     height: 4.375rem;
     line-height: 3.125rem;
   }
-  header ul.menu li a:hover {
+  .header ul.menu li a:hover {
     background: #30659b;
   }
-  header ul.menu li a.active:hover {
+  .header ul.menu li a.active:hover {
     background: #98cd68;
   }
-  header ul.menu li#op-faq a {
+  .header ul.menu li#op-faq a {
     width: 9.375rem;
     line-height: 1.5625rem;
   }
-  header ul.menu li#about-pals a {
+  .header ul.menu li#about-pals a {
     width: 8.125rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .header-scrim {
+    background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0.5) 0%, transparent 100%);
+    height: 12.5rem;
+  }
+  .header-scrim .row, .header-scrim main .content-wrapper .content, main .content-wrapper .header-scrim .content {
+    background: none;
+    box-shadow: none;
+  }
+  .header-scrim ul.menu li a {
+    color: #fff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
@@ -8953,26 +8968,6 @@ body#index #snc-link {
 }
 
 @font-face {
-  font-family: 'Muller ExtraBold';
-  src: url("/fonts/muller-extrabold/muller-extrabold.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 700;
-}
-
-@font-face {
-  font-family: 'Muller Medium';
-  src: url("/fonts/muller-medium/muller-medium.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400;
-}
-
-@font-face {
   font-family: 'hpals';
   src: url("/fonts/hpals/hpals.eot");
   /* IE9 Compat Modes */
@@ -8995,27 +8990,26 @@ body#index #snc-link {
 }
 
 .title {
-  font-family: "Muller ExtraBold", sans-serif;
-  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
   color: #30659b;
   text-transform: uppercase;
   letter-spacing: 0.125rem;
 }
 
-.heading, header ul.menu li a {
-  font-family: "Muller Medium", sans-serif;
-  font-weight: 400;
+.title-font {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+}
+
+.heading, .header ul.menu li a {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
 }
 
 .body-font {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-}
-
-@media print, screen and (min-width: 40em) {
-  p {
-    font-size: 1.125rem;
-  }
+  font-weight: normal;
 }
 
 .normal, footer ul.menu li a {
@@ -9032,38 +9026,64 @@ a#colorful-name-hover:hover span.blue {
   background: #30659b;
 }
 
-.h2 {
-  font-size: 1.25rem;
+.white {
+  color: #fff;
 }
 
-@media print, screen and (min-width: 40em) {
-  .h2 {
-    font-size: 2.5rem;
-  }
+address {
+  font-style: normal;
+}
+
+.p {
+  font-size: 1rem;
+}
+
+.h1 {
+  font-size: 2rem;
+}
+
+.h2 {
+  font-size: 1.625rem;
 }
 
 .h3 {
-  font-size: 1.1875rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .h3 {
-    font-size: 1.9375rem;
-  }
+  font-size: 1.375rem;
 }
 
 .h4 {
   font-size: 1.125rem;
 }
 
+.h5 {
+  font-size: 1.0625rem;
+}
+
+.h6 {
+  font-size: 1rem;
+}
+
 @media print, screen and (min-width: 40em) {
+  .p {
+    font-size: 1.125rem;
+  }
+  .h1 {
+    font-size: 3rem;
+  }
+  .h2 {
+    font-size: 2.5rem;
+  }
+  .h3 {
+    font-size: 1.9375rem;
+  }
   .h4 {
     font-size: 1.5625rem;
   }
-}
-
-address {
-  font-style: normal;
+  .h5 {
+    font-size: 1.25rem;
+  }
+  .h6 {
+    font-size: 1rem;
+  }
 }
 
 img.frame {
@@ -9120,6 +9140,97 @@ img.frame {
 
 .paddingTop-20.x2 {
   padding-top: 2.5rem;
+}
+
+@media print, screen and (min-width: 64em) {
+  .splash .header,
+  .splash .hero-wrapper {
+    position: absolute;
+    width: 100%;
+  }
+  .splash .hero-wrapper {
+    top: 200px;
+  }
+}
+
+.splash .hero {
+  background: #acc1d8 url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
+  height: 320px;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.splash .hero .prose {
+  max-width: 35.625rem;
+}
+
+.splash .hero h1 {
+  font-size: 2rem;
+}
+
+.splash .hero h3 {
+  font-size: 1.375rem;
+}
+
+@media screen and (min-width: 23.75em) {
+  .splash .hero {
+    height: 400px;
+  }
+}
+
+@media screen and (min-width: 30em) {
+  .splash .hero {
+    background: #acc1d8 url("/img/index/splash/splash-medium.jpg") center/cover no-repeat;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .splash .hero {
+    -ms-flex-align: end;
+    align-items: flex-end;
+    padding-bottom: 40px;
+  }
+}
+
+@media screen and (min-width: 46.875em) {
+  .splash .hero {
+    height: 450px;
+  }
+}
+
+@media screen and (min-width: 59.375em) {
+  .splash .hero {
+    height: 500px;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .splash .hero {
+    background: transparent;
+    height: 370px;
+  }
+  .splash .hero h1 {
+    font-size: 2.5rem;
+  }
+  .splash .hero h3 {
+    font-size: 1.9375rem;
+  }
+}
+
+.splash .dog-background {
+  overflow: hidden;
+}
+
+@media screen and (min-width: 84.375em) {
+  .splash .dog-background {
+    height: 700px;
+  }
+}
+
+@media screen and (min-width: 100em) {
+  .splash .dog-background {
+    height: 800px;
+  }
 }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
