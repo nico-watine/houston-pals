@@ -5059,7 +5059,7 @@
 	"\/fonts\/muller-extrabold\/muller-extrabold.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.eot",
 		"oF": 0
 		},
@@ -5076,21 +5076,21 @@
 	"\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.ttf",
 		"oF": 0
 		},
 	"\/fonts\/muller-extrabold\/muller-extrabold.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.woff",
 		"oF": 0
 		},
 	"\/fonts\/muller-medium\/muller-medium.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/fonts\/muller-medium\/muller-medium.eot",
 		"oF": 0
 		},
@@ -5107,14 +5107,14 @@
 	"\/fonts\/muller-medium\/muller-medium.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/fonts\/muller-medium\/muller-medium.ttf",
 		"oF": 0
 		},
 	"\/fonts\/muller-medium\/muller-medium.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/fonts\/muller-medium\/muller-medium.woff",
 		"oF": 0
 		},
@@ -5339,7 +5339,7 @@
 	"\/img\/product-builder\/affected-limb\/front\/front-icon.png": {
 		"ft": 32768,
 		"iS": 6759,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/affected-limb\/front\/front-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5350,7 +5350,7 @@
 	"\/img\/product-builder\/affected-limb\/front\/front.png": {
 		"ft": 32768,
 		"iS": 151328,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/affected-limb\/front\/front.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5361,7 +5361,7 @@
 	"\/img\/product-builder\/affected-limb\/rear\/rear-icon.png": {
 		"ft": 32768,
 		"iS": 7410,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/affected-limb\/rear\/rear-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5372,7 +5372,7 @@
 	"\/img\/product-builder\/affected-limb\/rear\/rear.png": {
 		"ft": 32768,
 		"iS": 176013,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/affected-limb\/rear\/rear.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5383,7 +5383,7 @@
 	"\/img\/product-builder\/coat-color\/black.png": {
 		"ft": 32768,
 		"iS": 2450,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/coat-color\/black.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5394,7 +5394,7 @@
 	"\/img\/product-builder\/coat-color\/brown.png": {
 		"ft": 32768,
 		"iS": 2393,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/coat-color\/brown.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5405,7 +5405,7 @@
 	"\/img\/product-builder\/coat-color\/spotted.png": {
 		"ft": 32768,
 		"iS": 3294,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/coat-color\/spotted.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5416,7 +5416,7 @@
 	"\/img\/product-builder\/coat-color\/tan.png": {
 		"ft": 32768,
 		"iS": 2368,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/coat-color\/tan.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5427,7 +5427,7 @@
 	"\/img\/product-builder\/dog\/black-dog.png": {
 		"ft": 32768,
 		"iS": 253058,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/dog\/black-dog.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5438,7 +5438,7 @@
 	"\/img\/product-builder\/dog\/tan-dog.png": {
 		"ft": 32768,
 		"iS": 283922,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/dog\/tan-dog.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5449,7 +5449,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png": {
 		"ft": 32768,
 		"iS": 273334,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5460,7 +5460,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1025.png": {
 		"ft": 32768,
 		"iS": 227878,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1025.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5471,7 +5471,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1026.png": {
 		"ft": 32768,
 		"iS": 208332,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1026.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5482,7 +5482,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1050.png": {
 		"ft": 32768,
 		"iS": 299941,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1050.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5493,7 +5493,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1053.png": {
 		"ft": 32768,
 		"iS": 283836,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1053.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5504,7 +5504,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1060.png": {
 		"ft": 32768,
 		"iS": 281271,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1060.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5515,7 +5515,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1071.png": {
 		"ft": 32768,
 		"iS": 145902,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1071.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5526,7 +5526,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1083.png": {
 		"ft": 32768,
 		"iS": 205222,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1083.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5537,7 +5537,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1090.png": {
 		"ft": 32768,
 		"iS": 303632,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1090.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5548,7 +5548,7 @@
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1201.png": {
 		"ft": 32768,
 		"iS": 234694,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/front\/orthotic\/front-orthotic-1201.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5559,7 +5559,7 @@
 	"\/img\/product-builder\/injury-solution\/front\/front-orthotic-icon.png": {
 		"ft": 32768,
 		"iS": 4517,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5569,8 +5569,8 @@
 		},
 	"\/img\/product-builder\/injury-solution\/front\/front-orthotic.png": {
 		"ft": 32768,
-		"iS": 58978,
-		"oA": 1,
+		"iS": 75918,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5581,7 +5581,7 @@
 	"\/img\/product-builder\/injury-solution\/front\/front-prosthetic-icon.png": {
 		"ft": 32768,
 		"iS": 4720,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-prosthetic-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5591,8 +5591,8 @@
 		},
 	"\/img\/product-builder\/injury-solution\/front\/front-prosthetic.png": {
 		"ft": 32768,
-		"iS": 58978,
-		"oA": 1,
+		"iS": 80104,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-prosthetic.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5603,7 +5603,7 @@
 	"\/img\/product-builder\/injury-solution\/rear\/rear-orthotic-icon.png": {
 		"ft": 32768,
 		"iS": 4917,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/rear\/rear-orthotic-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5614,7 +5614,7 @@
 	"\/img\/product-builder\/injury-solution\/rear\/rear-orthotic.png": {
 		"ft": 32768,
 		"iS": 188232,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/rear\/rear-orthotic.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5625,7 +5625,7 @@
 	"\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic-icon.png": {
 		"ft": 32768,
 		"iS": 5033,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5636,7 +5636,7 @@
 	"\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic.png": {
 		"ft": 32768,
 		"iS": 192849,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/rear\/rear-prosthetic.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5913,7 +5913,7 @@
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/app-min-min.js",
+		"oAP": "\/js\/app-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5923,7 +5923,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/app-min.js",
+		"oAP": "\/js\/src\/app-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
@@ -5933,7 +5933,7 @@
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/vendor\/jquery\/jquery.min-min.js",
+		"oAP": "\/js\/vendor\/jquery\/2-2-4\/jquery.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -6525,7 +6525,7 @@
 	"\/src\/pages\/accordion.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/src\/pages\/accordion.php",
 		"oF": 0
 		},
@@ -6595,7 +6595,7 @@
 	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "last 2 versions, ie >= 9",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
@@ -7003,7 +7003,7 @@
 			},
 		"array-callback-return": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowImplicit': false}"
 			},
 		"array-element-newline": {
 			"active": 0,
@@ -7167,7 +7167,7 @@
 			},
 		"indent": {
 			"active": 0,
-			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
 			},
 		"init-declarations": {
 			"active": 0,
@@ -7394,8 +7394,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -7414,7 +7414,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -7622,7 +7622,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -7643,14 +7643,14 @@
 			},
 		"no-sync": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowAtRootLevel': false}"
 			},
 		"no-tabs": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -7667,7 +7667,7 @@
 			},
 		"no-trailing-spaces": {
 			"active": 0,
-			"optionString": "{'skipBlankLines': false}"
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
 			"active": 1,
@@ -7683,7 +7683,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -7706,12 +7706,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -7730,7 +7730,7 @@
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -7787,7 +7787,7 @@
 			},
 		"object-property-newline": {
 			"active": 0,
-			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
 			},
 		"object-shorthand": {
 			"active": 0,
@@ -7870,7 +7870,7 @@
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -8361,7 +8361,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.gif",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8385,7 +8385,7 @@
 		"useUnixNewlines": 0
 		},
 	"languageDefaultsJPG": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.jpg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8395,15 +8395,15 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "..\/",
+		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 0,
-		"syntaxCheckerStyle": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -8420,8 +8420,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
 		"shouldRunCacheBuster": 0
 		},
@@ -8432,8 +8432,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -8465,7 +8465,7 @@
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.*",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8474,7 +8474,7 @@
 		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8529,7 +8529,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -8553,13 +8553,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 0,
+		"moduleType": 2,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -8570,7 +8570,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/dist",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/dist",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
@@ -8696,7 +8696,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
