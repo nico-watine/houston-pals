@@ -21,7 +21,7 @@ body-class:
 <div class="row">
 	<div class="medium-6 large-5 large-push-1 columns">
 		<div class="priceCard marginBottom-20 x2">
-			<div class="header">
+			<div class="priceCard-header">
 				<h4>Prosthetics</h4>
 				<div class="image-scrim">&nbsp;</div>
 				<img src="/img/orderingProductFAQ/prosthetic.jpg" alt="Prosthetic Reference Photo">
@@ -33,7 +33,7 @@ body-class:
 	</div>
 	<div class="medium-6 large-5 large-push-1 columns end">
 		<div class="priceCard marginBottom-20 x2">
-			<div class="header">
+			<div class="priceCard-header">
 				<h4>Orthotics</h4>
 				<div class="image-scrim">&nbsp;</div>
 				<img src="/img/orderingProductFAQ/orthotic.jpg" alt="Orthotic Reference Photo">
