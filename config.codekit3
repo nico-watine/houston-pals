@@ -5022,14 +5022,14 @@
 	"\/dist\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/.htaccess",
 		"oF": 0
 		},
 	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 4578,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5040,7 +5040,7 @@
 	"\/dist\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
 		"iS": 5560,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5051,7 +5051,7 @@
 	"\/dist\/apple-touch-icon-180x180-precomposed.png": {
 		"ft": 32768,
 		"iS": 6642,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5062,7 +5062,7 @@
 	"\/dist\/apple-touch-icon-76x76-precomposed.png": {
 		"ft": 32768,
 		"iS": 2842,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5073,7 +5073,7 @@
 	"\/dist\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 6642,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5094,14 +5094,14 @@
 	"\/dist\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/favicon.ico",
 		"oF": 0
 		},
 	"\/dist\/favicon.png": {
 		"ft": 32768,
 		"iS": 1696,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5112,7 +5112,7 @@
 	"\/dist\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/hpals\/hpals.eot",
 		"oF": 0
 		},
@@ -5129,21 +5129,21 @@
 	"\/dist\/fonts\/hpals\/hpals.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/hpals\/hpals.ttf",
 		"oF": 0
 		},
 	"\/dist\/fonts\/hpals\/hpals.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/hpals\/hpals.woff",
 		"oF": 0
 		},
 	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.eot",
 		"oF": 0
 		},
@@ -5160,21 +5160,21 @@
 	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.ttf",
 		"oF": 0
 		},
 	"\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/muller-extrabold\/muller-extrabold.woff",
 		"oF": 0
 		},
 	"\/dist\/fonts\/muller-medium\/muller-medium.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.eot",
 		"oF": 0
 		},
@@ -5191,28 +5191,28 @@
 	"\/dist\/fonts\/muller-medium\/muller-medium.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.ttf",
 		"oF": 0
 		},
 	"\/dist\/fonts\/muller-medium\/muller-medium.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/fonts\/muller-medium\/muller-medium.woff",
 		"oF": 0
 		},
 	"\/dist\/googlea536b0ce9879dae9.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/googlea536b0ce9879dae9.html",
 		"oF": 0
 		},
 	"\/dist\/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
@@ -5220,7 +5220,7 @@
 		"ft": 16384,
 		"iS": 71720,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/about\/bill-default.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5230,7 +5230,7 @@
 	"\/dist\/img\/assets\/accents\/dog\/top-left.png": {
 		"ft": 32768,
 		"iS": 35217,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/accents\/dog\/top-left.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5241,7 +5241,7 @@
 	"\/dist\/img\/assets\/bg\/hex.png": {
 		"ft": 32768,
 		"iS": 1263,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/bg\/hex.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5252,7 +5252,7 @@
 	"\/dist\/img\/assets\/bg\/paw\/paw-shadow.png": {
 		"ft": 32768,
 		"iS": 5095,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/bg\/paw\/paw-shadow.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5263,7 +5263,7 @@
 	"\/dist\/img\/assets\/logo\/logo.png": {
 		"ft": 32768,
 		"iS": 39173,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/logo\/logo.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5274,7 +5274,7 @@
 	"\/dist\/img\/assets\/logo\/logo@2x.png": {
 		"ft": 32768,
 		"iS": 103005,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/logo\/logo@2x.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5286,7 +5286,7 @@
 		"ft": 16384,
 		"iS": 138230,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/og\/1\/og-image-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5296,7 +5296,7 @@
 	"\/dist\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png": {
 		"ft": 32768,
 		"iS": 67432,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5307,7 +5307,7 @@
 	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue.png": {
 		"ft": 32768,
 		"iS": 303,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5318,7 +5318,7 @@
 	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue_2x.png": {
 		"ft": 32768,
 		"iS": 474,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-blue_2x.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5329,7 +5329,7 @@
 	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-white.png": {
 		"ft": 32768,
 		"iS": 300,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-white.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5340,7 +5340,7 @@
 	"\/dist\/img\/assets\/social-icons\/facebook\/facebook-white_2x.png": {
 		"ft": 32768,
 		"iS": 466,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/assets\/social-icons\/facebook\/facebook-white_2x.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5352,7 +5352,7 @@
 		"ft": 16384,
 		"iS": 39719,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/contact\/header\/medium\/map-header.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5363,7 +5363,7 @@
 		"ft": 16384,
 		"iS": 80978,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/index\/dog-trio\/1\/dog-trio.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5374,7 +5374,7 @@
 		"ft": 16384,
 		"iS": 110392,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/index\/dog-trio\/1\/dog-trio_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5384,7 +5384,7 @@
 	"\/dist\/img\/index\/dog_circles.png": {
 		"ft": 32768,
 		"iS": 648826,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/index\/dog_circles.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5396,7 +5396,7 @@
 		"ft": 16384,
 		"iS": 75657,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/orderingProductFAQ\/orthotic.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5417,7 +5417,7 @@
 		"ft": 16384,
 		"iS": 94479,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/orderingProductFAQ\/prosthetic.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5428,7 +5428,7 @@
 		"ft": 16384,
 		"iS": 34697,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/animal-diversity\/duck.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5439,7 +5439,7 @@
 		"ft": 16384,
 		"iS": 58052,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/animal-diversity\/duck_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5450,7 +5450,7 @@
 		"ft": 16384,
 		"iS": 47540,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/animal-diversity\/equine-brace.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5461,7 +5461,7 @@
 		"ft": 16384,
 		"iS": 99203,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/animal-diversity\/equine-brace_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5472,7 +5472,7 @@
 		"ft": 16384,
 		"iS": 90090,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5483,7 +5483,7 @@
 		"ft": 16384,
 		"iS": 16860,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/1t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5494,7 +5494,7 @@
 		"ft": 16384,
 		"iS": 36906,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5505,7 +5505,7 @@
 		"ft": 16384,
 		"iS": 11959,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/2t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5516,7 +5516,7 @@
 		"ft": 16384,
 		"iS": 87097,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5527,7 +5527,7 @@
 		"ft": 16384,
 		"iS": 18082,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/3t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5538,7 +5538,7 @@
 		"ft": 16384,
 		"iS": 34161,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5549,7 +5549,7 @@
 		"ft": 16384,
 		"iS": 12188,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/gallery\/4t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5560,7 +5560,7 @@
 		"ft": 16384,
 		"iS": 53030,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/product-block-image\/orthotics-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5571,7 +5571,7 @@
 		"ft": 16384,
 		"iS": 72938,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/orthotics\/product-block-image\/orthotics-1_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5582,7 +5582,7 @@
 		"ft": 16384,
 		"iS": 65095,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5593,7 +5593,7 @@
 		"ft": 16384,
 		"iS": 11875,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/1t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5604,7 +5604,7 @@
 		"ft": 16384,
 		"iS": 43196,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5615,7 +5615,7 @@
 		"ft": 16384,
 		"iS": 9672,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/2t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5626,7 +5626,7 @@
 		"ft": 16384,
 		"iS": 32942,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5637,7 +5637,7 @@
 		"ft": 16384,
 		"iS": 11732,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/3t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5648,7 +5648,7 @@
 		"ft": 16384,
 		"iS": 76564,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5659,7 +5659,7 @@
 		"ft": 16384,
 		"iS": 16427,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/gallery\/4t.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5670,7 +5670,7 @@
 		"ft": 16384,
 		"iS": 54082,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/product-block-image\/prosthetics-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5681,7 +5681,7 @@
 		"ft": 16384,
 		"iS": 95360,
 		"jF": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/img\/products\/prosthetics\/product-block-image\/prosthetics-1_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -5691,69 +5691,79 @@
 	"\/dist\/index.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/app-min-min.js",
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/app-min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/dist\/js\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/vendor\/jquery\/jquery.min-min.js",
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/vendor\/jquery\/2-2-4\/jquery.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/dist\/ordering-product-faq.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/ordering-product-faq.php",
 		"oF": 0
 		},
 	"\/dist\/php\/autoVer.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/php\/autoVer.php",
 		"oF": 0
 		},
 	"\/dist\/products.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/products.php",
 		"oF": 0
 		},
 	"\/dist\/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/robots.txt",
 		"oF": 0
 		},
 	"\/dist\/sitemap.xml": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/sitemap.xml",
 		"oF": 0
 		},
 	"\/dist\/tile-wide.png": {
 		"ft": 32768,
 		"iS": 13256,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/tile-wide.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5764,7 +5774,7 @@
 	"\/dist\/tile.png": {
 		"ft": 32768,
 		"iS": 25299,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/tile.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5775,7 +5785,7 @@
 	"\/dist\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 7083,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/dist\/touch-icon-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5812,68 +5822,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/hpals\/hpals.woff",
-		"oF": 0
-		},
-	"\/fonts\/muller-extrabold\/muller-extrabold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.eot",
-		"oF": 0
-		},
-	"\/fonts\/muller-extrabold\/muller-extrabold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/fonts\/muller-extrabold\/muller-extrabold.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.ttf",
-		"oF": 0
-		},
-	"\/fonts\/muller-extrabold\/muller-extrabold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-extrabold\/muller-extrabold.woff",
-		"oF": 0
-		},
-	"\/fonts\/muller-medium\/muller-medium.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-medium\/muller-medium.eot",
-		"oF": 0
-		},
-	"\/fonts\/muller-medium\/muller-medium.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-medium\/muller-medium.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/fonts\/muller-medium\/muller-medium.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-medium\/muller-medium.ttf",
-		"oF": 0
-		},
-	"\/fonts\/muller-medium\/muller-medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/muller-medium\/muller-medium.woff",
 		"oF": 0
 		},
 	"\/gulpfile.babel.js": {
@@ -6363,7 +6311,7 @@
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/app-min-min.js",
+		"oAP": "\/js\/app-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -6373,7 +6321,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/app-min.js",
+		"oAP": "\/js\/src\/app-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
@@ -6383,7 +6331,7 @@
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/vendor\/jquery\/jquery.min-min.js",
+		"oAP": "\/js\/vendor\/jquery\/2-2-4\/jquery.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -7022,10 +6970,10 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "last 2 versions, ie >= 9",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
@@ -7433,7 +7381,7 @@
 			},
 		"array-callback-return": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowImplicit': false}"
 			},
 		"array-element-newline": {
 			"active": 0,
@@ -7597,7 +7545,7 @@
 			},
 		"indent": {
 			"active": 0,
-			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
 			},
 		"init-declarations": {
 			"active": 0,
@@ -7824,8 +7772,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -7844,7 +7792,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -8052,7 +8000,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -8073,14 +8021,14 @@
 			},
 		"no-sync": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowAtRootLevel': false}"
 			},
 		"no-tabs": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -8097,7 +8045,7 @@
 			},
 		"no-trailing-spaces": {
 			"active": 0,
-			"optionString": "{'skipBlankLines': false}"
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
 			"active": 1,
@@ -8113,7 +8061,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -8136,12 +8084,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -8160,7 +8108,7 @@
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -8217,7 +8165,7 @@
 			},
 		"object-property-newline": {
 			"active": 0,
-			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
 			},
 		"object-shorthand": {
 			"active": 0,
@@ -8300,7 +8248,7 @@
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -8413,7 +8361,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/houston-pals.local",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -8791,7 +8739,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.gif",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8815,7 +8763,7 @@
 		"useUnixNewlines": 0
 		},
 	"languageDefaultsJPG": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.jpg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8825,15 +8773,15 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "..\/",
+		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 0,
-		"syntaxCheckerStyle": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -8850,8 +8798,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
 		"shouldRunCacheBuster": 0
 		},
@@ -8862,8 +8810,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -8895,7 +8843,7 @@
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.*",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8904,7 +8852,7 @@
 		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8959,7 +8907,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -8983,13 +8931,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 0,
+		"moduleType": 2,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -9000,7 +8948,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
@@ -9126,7 +9074,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {

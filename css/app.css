@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Raleway:700,900");
 .slide-in-down.mui-enter {
   transition-duration: 500ms;
   transition-timing-function: linear;
@@ -2277,9 +2277,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Muller Medium", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   color: inherit;
   text-rendering: optimizeLegibility;
 }
@@ -8953,26 +8953,6 @@ body#index #snc-link {
 }
 
 @font-face {
-  font-family: 'Muller ExtraBold';
-  src: url("/fonts/muller-extrabold/muller-extrabold.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/muller-extrabold/muller-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-extrabold/muller-extrabold.woff") format("woff"), url("/fonts/muller-extrabold/muller-extrabold.ttf") format("truetype"), url("/fonts/muller-extrabold/muller-extrabold.svg#1aa7f6e80ab5bfd8143273b80f027a5b") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 700;
-}
-
-@font-face {
-  font-family: 'Muller Medium';
-  src: url("/fonts/muller-medium/muller-medium.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/muller-medium/muller-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/muller-medium/muller-medium.woff") format("woff"), url("/fonts/muller-medium/muller-medium.ttf") format("truetype"), url("/fonts/muller-medium/muller-medium.svg#e5ccb100f9a4282fcb703dcaf4fe60c3") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400;
-}
-
-@font-face {
   font-family: 'hpals';
   src: url("/fonts/hpals/hpals.eot");
   /* IE9 Compat Modes */
@@ -8995,27 +8975,21 @@ body#index #snc-link {
 }
 
 .title {
-  font-family: "Muller ExtraBold", sans-serif;
-  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
   color: #30659b;
   text-transform: uppercase;
   letter-spacing: 0.125rem;
 }
 
 .heading, header ul.menu li a {
-  font-family: "Muller Medium", sans-serif;
-  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
 }
 
 .body-font {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-}
-
-@media print, screen and (min-width: 40em) {
-  p {
-    font-size: 1.125rem;
-  }
 }
 
 .normal, footer ul.menu li a {
@@ -9032,38 +9006,60 @@ a#colorful-name-hover:hover span.blue {
   background: #30659b;
 }
 
-.h2 {
-  font-size: 1.25rem;
+address {
+  font-style: normal;
 }
 
-@media print, screen and (min-width: 40em) {
-  .h2 {
-    font-size: 2.5rem;
-  }
+.p {
+  font-size: 1rem;
+}
+
+.h1 {
+  font-size: 2rem;
+}
+
+.h2 {
+  font-size: 1.625rem;
 }
 
 .h3 {
-  font-size: 1.1875rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .h3 {
-    font-size: 1.9375rem;
-  }
+  font-size: 1.375rem;
 }
 
 .h4 {
   font-size: 1.125rem;
 }
 
+.h5 {
+  font-size: 1.0625rem;
+}
+
+.h6 {
+  font-size: 1rem;
+}
+
 @media print, screen and (min-width: 40em) {
+  .p {
+    font-size: 1.125rem;
+  }
+  .h1 {
+    font-size: 3rem;
+  }
+  .h2 {
+    font-size: 2.5rem;
+  }
+  .h3 {
+    font-size: 1.9375rem;
+  }
   .h4 {
     font-size: 1.5625rem;
   }
-}
-
-address {
-  font-style: normal;
+  .h5 {
+    font-size: 1.25rem;
+  }
+  .h6 {
+    font-size: 1rem;
+  }
 }
 
 img.frame {
