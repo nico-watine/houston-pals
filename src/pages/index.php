@@ -46,7 +46,8 @@ layout: blank
 	</header>
 	<div class="hero grid-x grid-padding-x align-middle">
 		<div class="cell">
-			<h1 class="title-font">Custom made orthotics and prosthetics for any pet.</h1>
+			<h1 class="white title-font">Custom made orthotics and prosthetics for any pet.</h1>
+			<h3 style="line-height: 1.4;" class="white body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
 		</div>
 	</div>
 	<img class="bg-dog show-for-large" src="/img/index/splash/splash-large.jpg" alt="">

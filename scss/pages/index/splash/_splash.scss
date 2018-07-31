@@ -6,7 +6,11 @@
 		height: 320px;
 
 		h1 {
-			color: #fff;
+			font-size: $h1;
+		}
+
+		h3 {
+			font-size: $h3;
 		}
 
 		@include breakpoint(380) {

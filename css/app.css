@@ -9026,6 +9026,10 @@ a#colorful-name-hover:hover span.blue {
   background: #30659b;
 }
 
+.white {
+  color: #fff;
+}
+
 address {
   font-style: normal;
 }
@@ -9144,7 +9148,11 @@ img.frame {
 }
 
 .splash .hero h1 {
-  color: #fff;
+  font-size: 2rem;
+}
+
+.splash .hero h3 {
+  font-size: 1.375rem;
 }
 
 @media screen and (min-width: 23.75em) {
