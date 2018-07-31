@@ -1,14 +1,16 @@
 @import '_header.scss';
 
 .splash {
-	.header,
-	.hero-wrapper {
-		position: absolute;
-		width: 100%;
-	}
+	@include breakpoint(large) {
+		.header,
+		.hero-wrapper {
+			position: absolute;
+			width: 100%;
+		}
 
-	.hero-wrapper {
-		top: 200px;
+		.hero-wrapper {
+			top: 200px;
+		}
 	}
 
 	.hero {
