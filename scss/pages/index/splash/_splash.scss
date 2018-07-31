@@ -39,6 +39,14 @@
 		@include breakpoint(large) {
 			background: transparent;
 			height: 370px;
+
+			h1 {
+				font-size: $h2-medium;
+			}
+
+			h3 {
+				font-size: $h3-medium;
+			}
 		}
 	}
 
