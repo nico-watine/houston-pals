@@ -64,35 +64,45 @@ body-class: accordion
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x small-up-3 medium-up 5">
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>1</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>2</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>3</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>4</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>5</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>6</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>7</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>8</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>9</p>
 						</div>
-						<div class="cell text-center">
+						<div class="cell text-center" style="padding: 0 5px;">
 							<img src="/img/product-builder/tailored-finish/1013.jpg" alt="">
+							<p>10</p>
 						</div>
 					</div>
 				</div>
