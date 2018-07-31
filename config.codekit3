@@ -5019,6 +5019,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -5131,50 +5137,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/black.png": {
-		"ft": 32768,
-		"iS": 2450,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/black.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/brown.png": {
-		"ft": 32768,
-		"iS": 2393,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/brown.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/spotted.png": {
-		"ft": 32768,
-		"iS": 3294,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/spotted.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/accordion\/coat-color\/tan.png": {
-		"ft": 32768,
-		"iS": 2368,
-		"oA": 1,
-		"oAP": "\/img\/accordion\/coat-color\/tan.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/accents\/dog\/top-left.png": {
@@ -5661,10 +5623,10 @@
 	"\/js\/src\/app.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/js\/app-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
@@ -5950,19 +5912,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_about.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/accordion\/_accordion.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_accordion.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -6270,13 +6219,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/pages\/_notes.txt",
-		"oF": 0
-		},
-	"\/src\/pages\/accordion.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/pages\/accordion.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
@@ -8320,7 +8262,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/dist",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
