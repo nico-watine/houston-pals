@@ -9816,3 +9816,8 @@ body.coming-soon #top-row {
 .product-builder-accordion img {
   border-radius: 100%;
 }
+
+.product-builder-accordion #affected-limb img {
+  max-width: 200px;
+  border: 5px solid #000;
+}

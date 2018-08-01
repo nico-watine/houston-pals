@@ -37,12 +37,12 @@ body-class: accordion
 			</li>
 			<li class="accordion-item" data-accordion-item>
 				<a href="#affected-limb" class="accordion-title">Affected Limb</a>
-				<div class="accordion-content" data-tab-content id="deeplink2">
+				<div class="accordion-content" data-tab-content id="affected-limb">
 					<div class="grid-x">
 						<!-- Front Toggle -->
-						<div class="front-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img style="max-width: 250px;" src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<div class="front-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
 						<!-- Rear Toggle -->
-						<div class="rear-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img style="max-width: 250px;" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+						<div class="rear-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
 			</li>
