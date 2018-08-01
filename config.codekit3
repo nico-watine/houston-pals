@@ -5450,17 +5450,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/product-builder\/front\/front-orthotic.png": {
-		"ft": 32768,
-		"iS": 9330,
-		"oA": 0,
-		"oAP": "\/img\/product-builder\/front\/front-orthotic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/img\/product-builder\/front\/orthotic\/front-orthotic-1013.png": {
 		"ft": 32768,
 		"iS": 273334,
@@ -5584,7 +5573,7 @@
 		},
 	"\/img\/product-builder\/injury-solution\/front\/front-orthotic.png": {
 		"ft": 32768,
-		"iS": 75918,
+		"iS": 9330,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic.png",
 		"oF": 0,
