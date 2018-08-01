@@ -5019,6 +5019,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -5314,7 +5320,7 @@
 		},
 	"\/img\/product-builder\/affected-limb\/front\/front-icon.jpg": {
 		"ft": 16384,
-		"iS": 38055,
+		"iS": 39733,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/affected-limb\/front\/front-icon.jpg",
@@ -5328,17 +5334,6 @@
 		"iS": 6759,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/affected-limb\/front\/front-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/product-builder\/affected-limb\/front\/front.png": {
-		"ft": 32768,
-		"iS": 151328,
-		"oA": 0,
-		"oAP": "\/img\/product-builder\/affected-limb\/front\/front.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5559,6 +5554,17 @@
 		"iS": 4517,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/injury-solution\/front\/front-orthotic.png": {
+		"ft": 32768,
+		"iS": 8050,
+		"oA": 0,
+		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
