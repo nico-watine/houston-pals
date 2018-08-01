@@ -9821,3 +9821,8 @@ body.coming-soon #top-row {
   max-width: 200px;
   border: 5px solid #000;
 }
+
+.product-builder-accordion #injury-solution img {
+  max-width: 200px;
+  border: 5px solid #30659b;
+}

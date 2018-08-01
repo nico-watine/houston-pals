@@ -48,7 +48,7 @@ body-class: accordion
 			</li>
 			<li class="accordion-item" data-accordion-item>
 				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
-				<div class="accordion-content" data-tab-content id="deeplink3">
+				<div class="accordion-content" data-tab-content id="injury-solution">
 					<div class="grid-x">
 						<p id="injury-solution-notification" class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
 						<!-- Front Orthotic -->
