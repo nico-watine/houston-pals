@@ -50,7 +50,7 @@ body-class: accordion
 				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
 				<div class="accordion-content" data-tab-content id="deeplink3">
 					<div class="grid-x">
-						<p class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
+						<p id="injury-solution-notification" class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
 						<!-- Front Orthotic -->
 						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
 						<!-- Front Prosthetic -->
