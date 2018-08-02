@@ -9092,6 +9092,10 @@ img.frame {
   margin-bottom: 0.5rem;
 }
 
+img.circle {
+  border-radius: 100%;
+}
+
 .p-x {
   padding: 0 1rem !important;
 }
@@ -9825,10 +9829,6 @@ body.coming-soon #top-row {
 
 .product-builder-accordion .option-cell span p {
   margin: 1rem 0;
-}
-
-.product-builder-accordion img {
-  border-radius: 100%;
 }
 
 .product-builder-accordion #affected-limb img {

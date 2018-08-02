@@ -28,10 +28,10 @@ body-class: accordion
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
-						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')"><img src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
-						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')"><img src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
-						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/brown-dog.png')"><img src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
-						<div class="cell small-3 option-cell"><img src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
+						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
+						<div class="cell small-3 option-cell"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
 				</div>
 			</li>
