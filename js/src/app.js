@@ -20,7 +20,7 @@ $('.front-injury-solution-option, .rear-injury-solution-option').click(function(
 	$('#affected-limb-img').removeClass('is-visible');
 	$('#injury-solution-img').removeClass('is-hidden');
 	$('#injury-solution-img').addClass('is-visible');
-	$('#tailored-finish-notification').addClass('is-hidden');
+	$('#tailored-finish-prechoice-samples').addClass('is-hidden');
 });
 
 // Hide chosen limb & product options when retroactively clicking on Affected Limb
