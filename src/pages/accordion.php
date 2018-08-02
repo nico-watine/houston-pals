@@ -29,13 +29,13 @@ body-class: accordion
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
 						<!-- Tan Coat -->
-						<div class="cell option-cell small-3"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
 						<!-- Black Coat -->
-						<div class="cell option-cell small-3"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<!-- Brown Coat -->
-						<div class="cell option-cell small-3"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
+						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
 						<!-- Mixed Coat -->
-						<div class="cell option-cell small-3"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
+						<div class="cell option-cell auto"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
 				</div>
 			</li>
