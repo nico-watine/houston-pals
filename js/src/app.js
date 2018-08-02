@@ -68,6 +68,9 @@ $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	// Present the sample choices when resetting the builder
 	$('#tailored-finish-prechoice-samples').removeClass('is-hidden');
 	$('#front-orthotic-tailored-finish-option').addClass('is-hidden');
+	$('#front-prosthetic-tailored-finish-option').addClass('is-hidden');
+	$('#rear-orthotic-tailored-finish-option').addClass('is-hidden');
+	$('#rear-prosthetic-tailored-finish-option').addClass('is-hidden');
 });
 
 // --------------------------------------------------------------
