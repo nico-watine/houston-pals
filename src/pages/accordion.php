@@ -64,7 +64,7 @@ body-class: accordion
 			</li>
 			<li class="accordion-item" data-accordion-item>
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
-				<div class="accordion-content" data-tab-content id="deeplink3">
+				<div class="accordion-content" data-tab-content id="tailored-finish">
 					<p id="tailored-finish-notification" class="h5">Please specify the <strong>Injury Solution</strong>.</p>
 					<div class="grid-x small-up-3 medium-up-5">
 						<!-- 1013 -->
