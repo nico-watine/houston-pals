@@ -30,5 +30,5 @@ $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	$('#injury-solution-img').addClass('is-hidden');
 	$('#affected-limb-img').addClass('is-visible');
 	$('#affected-limb-img').removeClass('is-hidden');
-	$('#tailored-finish-notification').removeClass('is-hidden');
+	$('#tailored-finish-prechoice-samples').removeClass('is-hidden');
 });
