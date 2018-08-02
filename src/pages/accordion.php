@@ -70,7 +70,7 @@ body-class: accordion
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content text-center" data-tab-content id="tailored-finish">
 					<div class="prechoice-samples" id="tailored-finish-prechoice-samples">
-						<p id="tailored-finish-notification" class="h5">Please specify the <strong>Injury Solution</strong>.</p>
+						<p class="h5">Please specify the <strong>Injury Solution</strong>.</p>
 						<div class="grid-x small-up-3 medium-up-5">
 							<!-- 1013 -->
 							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""></div>
