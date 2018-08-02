@@ -15,7 +15,16 @@ $('.rear-affected-limb-toggle').click(function(){
 
 // Hide "white" Affected Limb after choosing Injury Solution
 
-$('.front-injury-solution-option, .rear-injury-solution-option').click(function(){
+$('.front-injury-solution-option').click(function(){
+	$('#affected-limb-img').addClass('is-hidden');
+	$('#affected-limb-img').removeClass('is-visible');
+	$('#injury-solution-img').removeClass('is-hidden');
+	$('#injury-solution-img').addClass('is-visible');
+	// Hide sample choices upon specifying Injury Solution
+	$('#tailored-finish-prechoice-samples').addClass('is-hidden');
+});
+
+$('.rear-injury-solution-option').click(function(){
 	$('#affected-limb-img').addClass('is-hidden');
 	$('#affected-limb-img').removeClass('is-visible');
 	$('#injury-solution-img').removeClass('is-hidden');
