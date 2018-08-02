@@ -54,7 +54,7 @@ body-class: accordion
 						<!-- Front Orthotic -->
 						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
 						<!-- Front Prosthetic -->
-						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthetic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthesis.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<!-- Rear Orthotic -->
 						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-orthotic.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/injury-solution/rear/rear-orthotic-icon.png" alt=""><p>Rear Orthotic</p></span></div>
 						<!-- Rear Prosthetic -->
