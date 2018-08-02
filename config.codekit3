@@ -5408,7 +5408,7 @@
 		},
 	"\/img\/product-builder\/dog\/black-dog.png": {
 		"ft": 32768,
-		"iS": 253058,
+		"iS": 26151,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/dog\/black-dog.png",
 		"oF": 0,
@@ -5417,9 +5417,20 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/product-builder\/dog\/brown-dog.png": {
+		"ft": 32768,
+		"iS": 25976,
+		"oA": 0,
+		"oAP": "\/img\/product-builder\/dog\/brown-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/product-builder\/dog\/tan-dog.png": {
 		"ft": 32768,
-		"iS": 283922,
+		"iS": 26420,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/dog\/tan-dog.png",
 		"oF": 0,
@@ -5664,6 +5675,17 @@
 		"iS": 8050,
 		"oA": 0,
 		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-orthotic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/product-builder\/injury-solution\/front\/front-prosthesis.png": {
+		"ft": 32768,
+		"iS": 11415,
+		"oA": 0,
+		"oAP": "\/img\/product-builder\/injury-solution\/front\/front-prosthesis.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
