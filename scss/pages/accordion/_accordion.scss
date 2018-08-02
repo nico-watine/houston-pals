@@ -1,4 +1,11 @@
 .product-builder-accordion {
+	#coat-color {
+		.option {
+			max-width: 200px;
+			display: inline-block;
+			cursor: pointer;
+		}
+	}
 	img {
 		border-radius: 100%;
 	}

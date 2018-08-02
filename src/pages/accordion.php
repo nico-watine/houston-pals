@@ -26,10 +26,10 @@ body-class: accordion
 		<ul class="product-builder-accordion accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" id="deeplinked-accordion">
 			<li class="accordion-item is-active" data-accordion-item>
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
-				<div class="accordion-content" data-tab-content id="deeplink1">
+				<div class="accordion-content" data-tab-content id="coat-color">
 					<div class="grid-x">
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
-						<div class="cell small-3 text-center" style="padding: 0 5px;"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')" style="display: inline-block; cursor: pointer;"><img src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span class="option" onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')"><img src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell small-3 text-center" style="padding: 0 5px;"><span class="option" onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')"><img src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></div>
 						<div class="cell small-3 text-center" style="padding: 0 5px;"><img src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
