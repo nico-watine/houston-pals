@@ -69,8 +69,22 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content text-center" data-tab-content id="tailored-finish">
-					<p id="tailored-finish-notification" class="h5">Please specify the <strong>Injury Solution</strong>.</p>
-					<div class="grid-x small-up-3 medium-up-5">
+					<div class="prechoice-samples">
+						<p id="tailored-finish-notification" class="h5">Please specify the <strong>Injury Solution</strong>.</p>
+						<div class="grid-x small-up-3 medium-up-5">
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""><p>1</p></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+							<div class="cell sample-cell"></div>
+						</div>
+					</div>
+					<div class="grid-x small-up-3 medium-up-5" id="front-orthotic-tailored-finish-option">
 						<!-- 1013 -->
 						<div class="front-orthotic-tailored-finish-option cell option-cell">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1013.png')"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""><p>1</p></span>

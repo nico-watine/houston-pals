@@ -25,14 +25,28 @@
 			}
 		}
 	}
+
 	#affected-limb {
 		img {
 			border: 5px solid #000;
 		}
 	}
+
 	#injury-solution {
 		img {
 			border: 5px solid $dark-blue;
+		}
+	}
+
+	.sample-cell {
+		padding: 0 rem-calc(5);
+
+		img {
+			max-width: 200px;
+		}
+
+		p {
+			margin: rem-calc(16) 0;
 		}
 	}
 }
