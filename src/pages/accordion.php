@@ -29,13 +29,13 @@ body-class: accordion
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
 						<!-- Tan Coat -->
-						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell option-cell small-3"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
 						<!-- Black Coat -->
-						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell option-cell small-3"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<!-- Brown Coat -->
-						<div class="cell small-3 option-cell"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
+						<div class="cell option-cell small-3"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
 						<!-- Mixed Coat -->
-						<div class="cell small-3 option-cell"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
+						<div class="cell option-cell small-3"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
 				</div>
 			</li>
@@ -44,9 +44,9 @@ body-class: accordion
 				<div class="accordion-content" data-tab-content id="affected-limb">
 					<div class="grid-x">
 						<!-- Front Toggle -->
-						<div class="front-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<div class="front-affected-limb-toggle cell option-cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
 						<!-- Rear Toggle -->
-						<div class="rear-affected-limb-toggle cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+						<div class="rear-affected-limb-toggle cell option-cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
 			</li>
@@ -56,13 +56,13 @@ body-class: accordion
 					<div class="grid-x">
 						<p id="injury-solution-notification" class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
 						<!-- Front Orthotic -->
-						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<div class="is-hidden front-injury-solution-option cell option-cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
 						<!-- Front Prosthetic -->
-						<div class="is-hidden front-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthesis.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
+						<div class="is-hidden front-injury-solution-option cell option-cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthesis.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<!-- Rear Orthotic -->
-						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-orthosis.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-orthosis-icon.png" alt=""><p>Rear Orthotic</p></span></div>
+						<div class="is-hidden rear-injury-solution-option cell option-cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-orthosis.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-orthosis-icon.png" alt=""><p>Rear Orthotic</p></span></div>
 						<!-- Rear Prosthetic -->
-						<div class="is-hidden rear-injury-solution-option cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-prosthesis.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-prosthesis-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
+						<div class="is-hidden rear-injury-solution-option cell option-cell small-6 text-center" style="padding: 0 5px;"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-prosthesis.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-prosthesis-icon.png" alt=""><p>Rear Prosthetic</p></span></div>
 					</div>
 				</div>
 			</li>
@@ -72,43 +72,43 @@ body-class: accordion
 					<p id="tailored-finish-notification" class="h5">Please specify the <strong>Injury Solution</strong>.</p>
 					<div class="grid-x small-up-3 medium-up-5">
 						<!-- 1013 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1013.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""><p>1</p></span>
 						</div>
 						<!-- 1025 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1025.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1025.png" alt=""><p>2</p></span>
 						</div>
 						<!-- 1026 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1026.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1026.png" alt=""><p>3</p></span>
 						</div>
 						<!-- 1050 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1050.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1050.png" alt=""><p>4</p></span>
 						</div>
 						<!-- 1053 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1053.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1053.png" alt=""><p>5</p></span>
 						</div>
 						<!-- 1060 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1060.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1060.png" alt=""><p>6</p></span>
 						</div>
 						<!-- 1071 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1071.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1071.png" alt=""><p>7</p></span>
 						</div>
 						<!-- 1083 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1083.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1083.png" alt=""><p>8</p></span>
 						</div>
 						<!-- 1090 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1090.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1090.png" alt=""><p>9</p></span>
 						</div>
 						<!-- 1201 -->
-						<div class="front-orthotic-tailored-finish-option cell text-center" style="padding: 0 5px;">
+						<div class="front-orthotic-tailored-finish-option cell option-cell text-center" style="padding: 0 5px;">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1201.png')" style="display: inline-block; cursor: pointer;"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""><p>10</p></span>
 						</div>
 					</div>
