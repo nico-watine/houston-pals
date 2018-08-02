@@ -42,6 +42,15 @@ $('.rear-injury-solution-option').click(function(){
 $('#front-injury-orthotic-solution').click(function(){
 	$('#front-orthotic-tailored-finish-option').removeClass('is-hidden');
 });
+$('#front-injury-prosthetic-solution').click(function(){
+	$('#front-prosthetic-tailored-finish-option').removeClass('is-hidden');
+});
+$('#rear-injury-orthotic-solution').click(function(){
+	$('#rear-orthotic-tailored-finish-option').removeClass('is-hidden');
+});
+$('#rear-injury-prosthetic-solution').click(function(){
+	$('#rear-prosthetic-tailored-finish-option').removeClass('is-hidden');
+});
 
 // --------------------------------------------------------------
 
@@ -58,6 +67,7 @@ $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	$('#affected-limb-img').removeClass('is-hidden');
 	// Present the sample choices when resetting the builder
 	$('#tailored-finish-prechoice-samples').removeClass('is-hidden');
+	$('#front-orthotic-tailored-finish-option').addClass('is-hidden');
 });
 
 // --------------------------------------------------------------

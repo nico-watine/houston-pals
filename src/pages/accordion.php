@@ -94,6 +94,7 @@ body-class: accordion
 							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""></div>
 						</div>
 					</div>
+					<!-- Front Orthotic -->
 					<div class="is-hidden grid-x small-up-3 medium-up-5" id="front-orthotic-tailored-finish-option">
 						<!-- 1013 -->
 						<div class="front-orthotic-tailored-finish-option cell option-cell">
@@ -134,6 +135,92 @@ body-class: accordion
 						<!-- 1201 -->
 						<div class="front-orthotic-tailored-finish-option cell option-cell">
 							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-orthotic-1201.png')"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""><p>10</p></span>
+						</div>
+					</div>
+					<!-- Front Prosthetic -->
+					<div class="is-hidden grid-x small-up-3 medium-up-5" id="front-prosthetic-tailored-finish-option">
+						<!-- 1013 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1013.png')"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""><p>1</p></span>
+						</div>
+						<!-- 1025 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1025.png')"><img class="circle" src="/img/product-builder/tailored-finish/1025.png" alt=""><p>2</p></span>
+						</div>
+						<!-- 1026 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1026.png')"><img class="circle" src="/img/product-builder/tailored-finish/1026.png" alt=""><p>3</p></span>
+						</div>
+						<!-- 1050 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1050.png')"><img class="circle" src="/img/product-builder/tailored-finish/1050.png" alt=""><p>4</p></span>
+						</div>
+						<!-- 1053 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1053.png')"><img class="circle" src="/img/product-builder/tailored-finish/1053.png" alt=""><p>5</p></span>
+						</div>
+						<!-- 1060 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1060.png')"><img class="circle" src="/img/product-builder/tailored-finish/1060.png" alt=""><p>6</p></span>
+						</div>
+						<!-- 1071 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1071.png')"><img class="circle" src="/img/product-builder/tailored-finish/1071.png" alt=""><p>7</p></span>
+						</div>
+						<!-- 1083 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1083.png')"><img class="circle" src="/img/product-builder/tailored-finish/1083.png" alt=""><p>8</p></span>
+						</div>
+						<!-- 1090 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1090.png')"><img class="circle" src="/img/product-builder/tailored-finish/1090.png" alt=""><p>9</p></span>
+						</div>
+						<!-- 1201 -->
+						<div class="front-prosthetic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/front/orthotic/front-prosthetic-1201.png')"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""><p>10</p></span>
+						</div>
+					</div>
+					<!-- Rear Orthotic -->
+					<div class="is-hidden grid-x small-up-3 medium-up-5" id="rear-orthotic-tailored-finish-option">
+						<!-- 1013 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1013.png')"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""><p>1</p></span>
+						</div>
+						<!-- 1025 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1025.png')"><img class="circle" src="/img/product-builder/tailored-finish/1025.png" alt=""><p>2</p></span>
+						</div>
+						<!-- 1026 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1026.png')"><img class="circle" src="/img/product-builder/tailored-finish/1026.png" alt=""><p>3</p></span>
+						</div>
+						<!-- 1050 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1050.png')"><img class="circle" src="/img/product-builder/tailored-finish/1050.png" alt=""><p>4</p></span>
+						</div>
+						<!-- 1053 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1053.png')"><img class="circle" src="/img/product-builder/tailored-finish/1053.png" alt=""><p>5</p></span>
+						</div>
+						<!-- 1060 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1060.png')"><img class="circle" src="/img/product-builder/tailored-finish/1060.png" alt=""><p>6</p></span>
+						</div>
+						<!-- 1071 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1071.png')"><img class="circle" src="/img/product-builder/tailored-finish/1071.png" alt=""><p>7</p></span>
+						</div>
+						<!-- 1083 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1083.png')"><img class="circle" src="/img/product-builder/tailored-finish/1083.png" alt=""><p>8</p></span>
+						</div>
+						<!-- 1090 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1090.png')"><img class="circle" src="/img/product-builder/tailored-finish/1090.png" alt=""><p>9</p></span>
+						</div>
+						<!-- 1201 -->
+						<div class="rear-orthotic-tailored-finish-option cell option-cell">
+							<span onclick="getElementById('tailored-finish-img').src=('/img/product-builder/rear/orthotic/rear-orthotic-1201.png')"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""><p>10</p></span>
 						</div>
 					</div>
 				</div>
