@@ -73,25 +73,25 @@ body-class: accordion
 						<p id="tailored-finish-notification" class="h5">Please specify the <strong>Injury Solution</strong>.</p>
 						<div class="grid-x small-up-3 medium-up-5">
 							<!-- 1013 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""><p>1</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""></div>
 							<!-- 1025 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1025.png" alt=""><p>2</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1025.png" alt=""></div>
 							<!-- 1026 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1026.png" alt=""><p>3</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1026.png" alt=""></div>
 							<!-- 1050 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1050.png" alt=""><p>4</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1050.png" alt=""></div>
 							<!-- 1053 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1053.png" alt=""><p>5</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1053.png" alt=""></div>
 							<!-- 1060 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1060.png" alt=""><p>6</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1060.png" alt=""></div>
 							<!-- 1071 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1071.png" alt=""><p>7</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1071.png" alt=""></div>
 							<!-- 1083 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1083.png" alt=""><p>8</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1083.png" alt=""></div>
 							<!-- 1090 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1090.png" alt=""><p>9</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1090.png" alt=""></div>
 							<!-- 1201 -->
-							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""><p>10</p></div>
+							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1201.png" alt=""></div>
 						</div>
 					</div>
 					<div style="display: none;" class="grid-x small-up-3 medium-up-5" id="front-orthotic-tailored-finish-option">

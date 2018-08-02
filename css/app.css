@@ -9858,8 +9858,6 @@ body.coming-soon #top-row {
 
 .product-builder-accordion .sample-cell img {
   max-width: 200px;
-}
-
-.product-builder-accordion .sample-cell p {
-  margin: 1rem 0;
+  width: 100%;
+  margin-bottom: 16px;
 }
