@@ -9824,6 +9824,12 @@ body.coming-soon #top-row {
   position: relative;
 }
 
+.dog-model .img-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .product-builder-accordion .option-cell {
   padding: 0 0.3125rem;
 }
