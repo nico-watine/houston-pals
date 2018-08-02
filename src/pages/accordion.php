@@ -35,7 +35,7 @@ body-class: accordion
 						<!-- Brown Coat -->
 						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
 						<!-- Mixed Coat -->
-						<div class="cell option-cell auto"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
+						<!-- <div class="cell option-cell auto"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div> -->
 					</div>
 				</div>
 			</li>
