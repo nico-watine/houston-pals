@@ -69,6 +69,7 @@ body-class: accordion
 			<li class="accordion-item" data-accordion-item>
 				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
 				<div class="accordion-content text-center" data-tab-content id="tailored-finish">
+					<!-- Prechoice Image Samples -->
 					<div class="prechoice-samples" id="tailored-finish-prechoice-samples">
 						<p class="h5">Please specify the <strong>Injury Solution</strong>.</p>
 						<div class="grid-x small-up-3 medium-up-5">
