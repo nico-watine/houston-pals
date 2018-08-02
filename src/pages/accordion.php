@@ -13,11 +13,11 @@ body-class: accordion
 </div>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
-		<div class="imgWrap" style="max-width: 770px; width: 100%; margin: 0 auto; position: relative;">
-			<img style="z-index: 3; position: absolute; top: 0; left: 0;" src="" alt="" id="tailored-finish-img">
-			<img style="z-index: 2; position: absolute; top: 0; left: 0;" src="" alt="" id="injury-solution-img">
-			<img style="z-index: 1; position: absolute; top: 0; left: 0;" src="" alt="" id="affected-limb-img">
-			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="product-builder-model">
+		<div class="dog-model">
+			<img class="img-layer" style="z-index: 3;" src="" alt="" id="tailored-finish-img">
+			<img class="img-layer" style="z-index: 2;" src="" alt="" id="injury-solution-img">
+			<img class="img-layer" style="z-index: 1;" src="" alt="" id="affected-limb-img">
+			<img src="/img/product-builder/dog/tan-dog.png" alt="" id="coat-color-img">
 		</div>
 	</div>
 </div>
@@ -29,11 +29,11 @@ body-class: accordion
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
 						<!-- Tan Coat -->
-						<div class="cell option-cell small-3"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell option-cell small-3"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
 						<!-- Black Coat -->
-						<div class="cell option-cell small-3"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell option-cell small-3"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<!-- Brown Coat -->
-						<div class="cell option-cell small-3"><span onclick="getElementById('product-builder-model').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
+						<div class="cell option-cell small-3"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
 						<!-- Mixed Coat -->
 						<div class="cell option-cell small-3"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div>
 					</div>
