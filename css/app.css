@@ -9857,7 +9857,6 @@ body.coming-soon #top-row {
 }
 
 .product-builder-accordion .sample-cell img {
-  max-width: 200px;
-  width: 100%;
+  width: 200px;
   margin-bottom: 16px;
 }
