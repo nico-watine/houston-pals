@@ -9851,3 +9851,12 @@ body.coming-soon #top-row {
 .product-builder-accordion #injury-solution img {
   border: 5px solid #30659b;
 }
+
+.product-builder-accordion .sample-cell {
+  padding: 0 0.3125rem;
+}
+
+.product-builder-accordion .sample-cell img {
+  width: 200px;
+  margin-bottom: 16px;
+}
