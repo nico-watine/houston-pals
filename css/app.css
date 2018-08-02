@@ -9813,10 +9813,18 @@ body.coming-soon #top-row {
   }
 }
 
-.product-builder-accordion #coat-color .option {
+.product-builder-accordion .option-cell {
+  padding: 0 0.3125rem;
+}
+
+.product-builder-accordion .option-cell span {
   max-width: 200px;
   display: inline-block;
   cursor: pointer;
+}
+
+.product-builder-accordion .option-cell span p {
+  margin: 1rem 0;
 }
 
 .product-builder-accordion img {

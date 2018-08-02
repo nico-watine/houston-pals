@@ -1,9 +1,15 @@
 .product-builder-accordion {
-	#coat-color {
-		.option {
+	.option-cell {
+		padding: 0 rem-calc(5);
+
+		span {
 			max-width: 200px;
 			display: inline-block;
 			cursor: pointer;
+
+			p {
+				margin: rem-calc(16) 0;
+			}
 		}
 	}
 	img {
