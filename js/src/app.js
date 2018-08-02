@@ -13,6 +13,11 @@ $('.rear-affected-limb-toggle').click(function(){
 	$('#injury-solution-notification').addClass('is-hidden');
 });
 
+// --------------------------------------------------------------
+
+
+
+
 // Hide "white" Affected Limb after choosing Injury Solution
 
 $('.front-injury-solution-option').click(function(){
@@ -33,6 +38,17 @@ $('.rear-injury-solution-option').click(function(){
 	$('#tailored-finish-prechoice-samples').addClass('is-hidden');
 });
 
+
+$('#front-injury-orthotic-solution').click(function(){
+	$('#front-orthotic-tailored-finish-option').removeClass('is-hidden');
+});
+
+// --------------------------------------------------------------
+
+
+
+
+
 // Hide chosen limb & product options when retroactively clicking on Affected Limb
 
 $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
@@ -43,3 +59,9 @@ $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	// Present the sample choices when resetting the builder
 	$('#tailored-finish-prechoice-samples').removeClass('is-hidden');
 });
+
+// --------------------------------------------------------------
+
+
+
+
