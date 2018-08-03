@@ -62,6 +62,18 @@ layout: index
 		</div>
 	</div>
 </div>
+<section>
+	<div class="grid-x">
+		<div class="build-a-brace-block cell medium-6">
+			<div class="prose">
+				<h3 class="white">Build-A-Brace</h3>
+				<p class="white h5">Visualize your dog’s injury solution</p>
+			</div>
+			<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
+		</div>
+		<div class="common-questions-block cell medium-6"></div>
+	</div>
+</section>
 <div itemscope itemtype="http://schema.org/Person">
 	<div class="row" id="intro">
 		<div class="medium-5 columns text-center" id="profile-pic">
