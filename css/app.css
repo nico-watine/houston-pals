@@ -9253,6 +9253,13 @@ img.circle {
   display: inline-block;
 }
 
+.index#index .build-a-brace-block .image-scrim {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(-180deg, rgba(119, 119, 119, 0) 50%, rgba(0, 0, 0, 0.8) 100%);
+}
+
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center;
 }

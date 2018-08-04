@@ -72,7 +72,7 @@ layout: index
 						<p class="white h5">Visualize your dog’s injury solution</p>
 					</div>
 				</div>
-				<div class="image-scrim" style="position: absolute; height: 100%; width: 100%;background: linear-gradient(-180deg, rgba(119,119,119,0.00) 50%, rgba(0,0,0,0.80) 100%);">&nbsp;</div>
+				<div class="image-scrim">&nbsp;</div>
 				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
 			</div>
 			<div class="common-questions-block cell medium-6"></div>
