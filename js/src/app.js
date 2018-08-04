@@ -29,3 +29,12 @@ $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 $('.front-injury-solution-option, .rear-injury-solution-option').click(function(){
 	$('#affected-limb-img').removeClass('is-visible').addClass('is-hidden');
 });
+
+// ----------------------------------------------------------------------------
+// Step #3 --------------------------------------------------------------------
+// ----------------------------------------------------------------------------
+// Hide "Please specify the Injury Solution." & Tailored Finish example options
+// ----------------------------------------------------------------------------
+$('.front-injury-solution-option, .rear-injury-solution-option').click(function(){
+	$('#tailored-finish-prechoice-samples').removeClass('is-visible').addClass('is-hidden');
+});
