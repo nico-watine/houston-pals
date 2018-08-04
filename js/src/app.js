@@ -55,19 +55,23 @@ $('.front-injury-solution-option, .rear-injury-solution-option').click(function(
 // ------------------------------------------------------------------------------------
 // Front - Orthotic
 $('#front-injury-orthotic-solution').click(function(){
-	$('#front-orthotic-tailored-finish-option').removeClass('is-hidden');
+	$('.tailored-finish-options').addClass('is-hidden');
+	$('.tailored-finish-options#front-orthotic-tailored-finish-option').removeClass('is-hidden');
 });
 // Front - Prosthetic
 $('#front-injury-prosthetic-solution').click(function(){
-	$('#front-prosthetic-tailored-finish-option').removeClass('is-hidden');
+	$('.tailored-finish-options').addClass('is-hidden');
+	$('.tailored-finish-options#front-prosthetic-tailored-finish-option').removeClass('is-hidden');
 });
 // Rear - Orthotic
 $('#rear-injury-orthotic-solution').click(function(){
-	$('#rear-orthotic-tailored-finish-option').removeClass('is-hidden');
+	$('.tailored-finish-options').addClass('is-hidden');
+	$('.tailored-finish-options#rear-orthotic-tailored-finish-option').removeClass('is-hidden');
 });
 // Rear - Prosthetic
 $('#rear-injury-prosthetic-solution').click(function(){
-	$('#rear-prosthetic-tailored-finish-option').removeClass('is-hidden');
+	$('.tailored-finish-options').addClass('is-hidden');
+	$('.tailored-finish-options#rear-prosthetic-tailored-finish-option').removeClass('is-hidden');
 });
 
 // -------------------------------------------------------------
