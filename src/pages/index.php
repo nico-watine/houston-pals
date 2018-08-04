@@ -63,15 +63,20 @@ layout: index
 	</div>
 </div>
 <section>
-	<div class="grid-x">
-		<div class="build-a-brace-block cell medium-6">
-			<div class="prose">
-				<h3 class="white">Build-A-Brace</h3>
-				<p class="white h5">Visualize your dog’s injury solution</p>
+	<div class="grid-container fluid full">
+		<div class="grid-x">
+			<div class="build-a-brace-block cell medium-6 align-middle grid-x" style="position: relative;">
+				<div class="align-self-bottom scrim" style="padding: 0 15px; z-index: 5; position: absolute; width: 100%;">
+					<div class="prose" style="float: right; display: inline-block;">
+						<h3 class="white">Build-A-Brace</h3>
+						<p class="white h5">Visualize your dog’s injury solution</p>
+					</div>
+				</div>
+				<div class="image-scrim" style="position: absolute; height: 100%; width: 100%;background: linear-gradient(-180deg, rgba(119,119,119,0.00) 50%, rgba(0,0,0,0.80) 100%);">&nbsp;</div>
+				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
 			</div>
-			<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
+			<div class="common-questions-block cell medium-6"></div>
 		</div>
-		<div class="common-questions-block cell medium-6"></div>
 	</div>
 </section>
 <div itemscope itemtype="http://schema.org/Person">
