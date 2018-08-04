@@ -81,17 +81,7 @@ $('#rear-injury-prosthetic-solution').click(function(){
 // -------------------------------------------------------------
 $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-injury-orthotic-solution, #rear-injury-prosthetic-solution').click(function(){
 	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
-	// $('#injury-solution-img').removeClass('is-visible').addClass('is-hidden'); // Hide "gray" device
 });
-
-// -------------------------------------------------------------
-// Step #8 -----------------------------------------------------
-// -------------------------------------------------------------
-// Hide alternate gray image upon selecting 1 option
-// -------------------------------------------------------------
-// $('#front-injury-orthotic-solution').click(function(){
-	// $('#injury-solution-img').removeClass('is-visible').addClass('is-hidden'); // Hide opposite "gray" device
-// });
 
 // ----------------------------------------------------------------------
 // Resetting the Builder ------------------------------------------------
