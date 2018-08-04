@@ -85,6 +85,5 @@ $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-inj
 // Select "Front Limb" or "Rear Limb"
 // ----------------------------------------------------------------------
 $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
-	$('#tailored-finish-img').removeClass('is-visible').addClass('is-hidden'); // Hide final "Tailored Finish Image"
-	$('#injury-solution-img').removeClass('is-visible').addClass('is-hidden'); // Hide gray "Prosthetic" or "Orthotic" device
+	$('#tailored-finish-img, #injury-solution-img').removeClass('is-visible').addClass('is-hidden'); // Hide colored & gray device image
 });
