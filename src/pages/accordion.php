@@ -46,7 +46,7 @@ body-class: accordion
 						<!-- Front Toggle -->
 						<div class="front-affected-limb-toggle cell option-cell small-6"><span onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png'),getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')"><img class="circle" src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
 						<!-- Rear Toggle -->
-						<div class="rear-affected-limb-toggle cell option-cell small-6"><span onclick="getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')"><img class="circle" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+						<div class="rear-affected-limb-toggle cell option-cell small-6"><span onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png'),getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')"><img class="circle" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
 			</li>
