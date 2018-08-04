@@ -9237,6 +9237,55 @@ img.circle {
   }
 }
 
+.index#index .build-a-brace-block {
+  position: relative;
+}
+
+.index#index .build-a-brace-block .content {
+  padding: 0 15px;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+}
+
+.index#index .build-a-brace-block .prose h3 {
+  font-size: 1.375rem;
+  margin: 0;
+}
+
+.index#index .build-a-brace-block .prose p {
+  font-size: 1rem;
+}
+
+.index#index .build-a-brace-block .image-scrim {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(-180deg, rgba(238, 238, 238, 0) 0%, rgba(0, 0, 0, 0.8) 100%);
+}
+
+@media print, screen and (min-width: 40em) {
+  .index#index .build-a-brace-block .prose {
+    float: right;
+    display: inline-block;
+  }
+}
+
+@media screen and (min-width: 46.875em) {
+  .index#index .build-a-brace-block .prose h3 {
+    font-size: 1.9375rem;
+  }
+  .index#index .build-a-brace-block .prose p {
+    font-size: 1.125rem;
+  }
+}
+
+@media screen and (min-width: 62.5em) {
+  .index#index .build-a-brace-block .image-scrim {
+    background: linear-gradient(-180deg, rgba(119, 119, 119, 0) 50%, rgba(0, 0, 0, 0.8) 100%);
+  }
+}
+
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
   text-align: center;
 }

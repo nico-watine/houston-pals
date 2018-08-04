@@ -5019,12 +5019,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/dist",
-		"oF": 0
-		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -5215,6 +5209,17 @@
 		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/contact\/header\/medium\/map-header.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/build-a-brace-block\/build-a-brace.jpg": {
+		"ft": 16384,
+		"iS": 54241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/index\/build-a-brace-block\/build-a-brace.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6724,6 +6729,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_small.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_build-a-brace.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_build-a-brace.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

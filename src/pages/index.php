@@ -62,6 +62,25 @@ layout: index
 		</div>
 	</div>
 </div>
+<section>
+	<div class="grid-container fluid full">
+		<div class="grid-x">
+			<a class="cell medium-6" href="/accordion.php">
+			<div class="build-a-brace-block align-middle grid-x">
+					<div class="align-self-bottom content">
+						<div class="prose text-center medium-text-left">
+							<h3 class="white">Build-A-Brace</h3>
+							<p class="white h5">Visualize your dog’s injury solution</p>
+						</div>
+					</div>
+					<div class="image-scrim">&nbsp;</div>
+				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
+			</div>
+		</a>
+			<div class="common-questions-block cell medium-6"></div>
+		</div>
+	</div>
+</section>
 <div itemscope itemtype="http://schema.org/Person">
 	<div class="row" id="intro">
 		<div class="medium-5 columns text-center" id="profile-pic">
