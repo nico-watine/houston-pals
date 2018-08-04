@@ -67,7 +67,7 @@ layout: index
 		<div class="grid-x">
 			<div class="build-a-brace-block cell medium-6 align-middle grid-x">
 				<div class="align-self-bottom content">
-					<div class="prose">
+					<div class="prose text-center medium-text-left">
 						<h3 class="white">Build-A-Brace</h3>
 						<p class="white h5">Visualize your dog’s injury solution</p>
 					</div>

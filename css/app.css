@@ -9248,10 +9248,6 @@ img.circle {
   width: 100%;
 }
 
-.index#index .build-a-brace-block .prose {
-  text-align: center;
-}
-
 .index#index .build-a-brace-block .prose h3 {
   font-size: 1.375rem;
   margin: 0;
@@ -9272,7 +9268,6 @@ img.circle {
   .index#index .build-a-brace-block .prose {
     float: right;
     display: inline-block;
-    text-align: left;
   }
 }
 
