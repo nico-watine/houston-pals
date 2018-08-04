@@ -1,6 +1,10 @@
 $(document).foundation();
 
+// --------------------------------------------------------------
+// Step #1 ------------------------------------------------------
+// --------------------------------------------------------------
 // Toggle Injury Solution options based on Affected Limb chosen
+// --------------------------------------------------------------
 // Front
 $('.front-affected-limb-toggle').click(function(){ // Select "Front Affected Limb"
 	$('.front-injury-solution-option').removeClass('is-hidden'); // Show "Front Orthotic" and "Front Prosthetic"
@@ -17,3 +21,8 @@ $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	$('#injury-solution-notification').addClass('is-hidden');
 });
 
+// --------------------------------------------------------------
+// Step #2 ------------------------------------------------------
+// --------------------------------------------------------------
+// Hide "white" Affected Limb after choosing Injury Solution ("Orthotic" or "Prosthetic")
+// --------------------------------------------------------------
