@@ -56,7 +56,7 @@ body-class: accordion
 					<p id="injury-solution-notification" class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
 					<div class="grid-x">
 						<!-- Front Orthotic -->
-						<div id="front-injury-orthotic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png')" onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
+						<div id="front-injury-orthotic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p>Front Orthotic</p></span></div>
 						<!-- Front Prosthetic -->
 						<div id="front-injury-prosthetic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthesis.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p>Front Prosthetic</p></span></div>
 						<!-- Rear Orthotic -->
