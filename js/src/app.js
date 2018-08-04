@@ -6,9 +6,10 @@ $('.front-affected-limb-toggle').click(function(){ // Select "Front Affected Lim
 	$('.front-injury-solution-option').removeClass('is-hidden'); // Show "Front Orthotic" and "Front Prosthetic"
 	$('.rear-injury-solution-option').addClass('is-hidden'); // Hide "Rear Orthotic" and "Rear Prosthetic"
 });
-$('.rear-affected-limb-toggle').click(function(){
-	$('.rear-injury-solution-option').removeClass('is-hidden');
-	$('.front-injury-solution-option').addClass('is-hidden');
+// Rear
+$('.rear-affected-limb-toggle').click(function(){ // Select "Rear Affected Limb"
+	$('.rear-injury-solution-option').removeClass('is-hidden'); // Hide "Front Orthotic" and "Front Prosthetic"
+	$('.front-injury-solution-option').addClass('is-hidden'); // Show "Rear Orthotic" and "Rear Prosthetic"
 });
 
 // Remove "Please specify the Affected Limb first." after choosing Front or Rear limb
