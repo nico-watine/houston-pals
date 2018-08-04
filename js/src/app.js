@@ -48,11 +48,11 @@ $('.front-injury-solution-option, .rear-injury-solution-option').click(function(
 	$('#tailored-finish-prechoice-samples').removeClass('is-visible').addClass('is-hidden');
 });
 
-// --------------------------------------------------------
-// Step #6 ------------------------------------------------
-// --------------------------------------------------------
-// Display "Tailored Options" based on chosen Limb & Device
-// --------------------------------------------------------
+// ------------------------------------------------------------------------------------
+// Step #6 ----------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------
+// Display "Tailored Options" and "Tailored Finish Image" based on chosen Limb & Device
+// ------------------------------------------------------------------------------------
 // Front - Orthotic
 $('#front-injury-orthotic-solution').click(function(){
 	$('#front-orthotic-tailored-finish-option').removeClass('is-hidden');
