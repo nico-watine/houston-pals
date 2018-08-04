@@ -31,7 +31,16 @@ $('.front-injury-solution-option, .rear-injury-solution-option').click(function(
 });
 
 // ----------------------------------------------------------------------------
-// Step #3 --------------------------------------------------------------------
+// Step #4 --------------------------------------------------------------------
+// ----------------------------------------------------------------------------
+// Show gray "Orthotic" or "Prosthetic" device on chosen limb
+// ----------------------------------------------------------------------------
+$('.front-injury-solution-option, .rear-injury-solution-option').click(function(){
+	$('#injury-solution-img').removeClass('is-hidden').addClass('is-visible'); // Show gray "Orthotic" or "Prosthetic" device
+});
+
+// ----------------------------------------------------------------------------
+// Step #5 --------------------------------------------------------------------
 // ----------------------------------------------------------------------------
 // Hide "Please specify the Injury Solution." & Tailored Finish example options
 // ----------------------------------------------------------------------------
@@ -40,7 +49,7 @@ $('.front-injury-solution-option, .rear-injury-solution-option').click(function(
 });
 
 // --------------------------------------------------------
-// Step #4 ------------------------------------------------
+// Step #6 ------------------------------------------------
 // --------------------------------------------------------
 // Display "Tailored Options" based on chosen Limb & Device
 // --------------------------------------------------------
@@ -68,4 +77,5 @@ $('#rear-injury-prosthetic-solution').click(function(){
 // ----------------------------------------------------------------------
 $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	$('#tailored-finish-img').removeClass('is-visible').addClass('is-hidden'); // Hide final "Tailored Finish Image"
+	$('#injury-solution-img').removeClass('is-visible').addClass('is-hidden'); // Hide gray "Prosthetic" or "Orthotic" device
 });
