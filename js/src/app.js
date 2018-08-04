@@ -60,3 +60,7 @@ $('#rear-injury-orthotic-solution').click(function(){
 $('#rear-injury-prosthetic-solution').click(function(){
 	$('#rear-prosthetic-tailored-finish-option').removeClass('is-hidden');
 });
+
+// ----------------------------------------------------------------------
+// Resetting the Builder ------------------------------------------------
+// ----------------------------------------------------------------------
