@@ -64,3 +64,8 @@ $('#rear-injury-prosthetic-solution').click(function(){
 // ----------------------------------------------------------------------
 // Resetting the Builder ------------------------------------------------
 // ----------------------------------------------------------------------
+// Select "Front Limb" or "Rear Limb"
+// ----------------------------------------------------------------------
+$('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
+	$('#tailored-finish-img').removeClass('is-visible').addClass('is-hidden'); // Hide final "Tailored Finish Image"
+});
