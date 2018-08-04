@@ -23,10 +23,25 @@
 		}
 	}
 
+	@include breakpoint(480) {
+		.prose {
+			text-align: center;
+		}
+	}
+
 	@include breakpoint(medium) {
 		.prose {
 			float: right;
 			display: inline-block;
+			text-align: left;
+
+			h3 {
+				font-size: $h3;
+			}
+
+			p {
+				font-size: $p;
+			}
 		}
 
 		.image-scrim {
