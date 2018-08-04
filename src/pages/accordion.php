@@ -71,7 +71,7 @@ body-class: accordion
 				<div class="accordion-content text-center" data-tab-content id="tailored-finish">
 					<!-- Prechoice Image Samples -->
 					<div class="prechoice-samples" id="tailored-finish-prechoice-samples">
-						<p class="h5">Please specify the <strong>Injury Solution</strong>.</p>
+						<p class="h5">Please specify the <strong>Injury Solution</strong> to see a pattern applied.</p>
 						<div class="grid-x small-up-3 medium-up-5">
 							<!-- 1013 -->
 							<div class="cell sample-cell"><img class="circle" src="/img/product-builder/tailored-finish/1013.png" alt=""></div>
