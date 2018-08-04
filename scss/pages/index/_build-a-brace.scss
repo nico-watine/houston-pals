@@ -11,7 +11,12 @@
 
 		.prose {
 			h3 {
+				font-size: $h3;
 				margin: 0;
+			}
+
+			p {
+				font-size: $p;
 			}
 		}
 
@@ -21,31 +26,38 @@
 			width: 100%;
 			background-image: linear-gradient(-180deg, rgba(119,119,119,.00) 0%, rgba(0,0,0,.64) 100%);
 		}
-	}
 
-	@include breakpoint(480) {
-		.prose {
-			text-align: center;
-		}
-	}
-
-	@include breakpoint(medium) {
-		.prose {
-			float: right;
-			display: inline-block;
-			text-align: left;
-
-			h3 {
-				font-size: $h3;
-			}
-
-			p {
-				font-size: $p;
+		@include breakpoint(480) {
+			.prose {
+				text-align: center;
 			}
 		}
 
-		.image-scrim {
-			background: linear-gradient(-180deg, rgba(119,119,119,.00) 50%, rgba(0,0,0,.80) 100%);
+		@include breakpoint(medium) {
+			.prose {
+				float: right;
+				display: inline-block;
+				text-align: left;
+			}
+		}
+
+		@include breakpoint(750) {
+			.prose {
+				h3 {
+					font-size: $h3-medium;
+				}
+
+				p {
+					font-size: $p-medium;
+				}
+			}
+		}
+
+		@include breakpoint(1000) {
+
+			.image-scrim {
+				background: linear-gradient(-180deg, rgba(119,119,119,.00) 50%, rgba(0,0,0,.80) 100%);
+			}
 		}
 	}
 }
