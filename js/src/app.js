@@ -86,4 +86,5 @@ $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-inj
 // ----------------------------------------------------------------------
 $('.front-affected-limb-toggle, .rear-affected-limb-toggle').click(function(){
 	$('#tailored-finish-img, #injury-solution-img').removeClass('is-visible').addClass('is-hidden'); // Hide colored & gray device image
+	$('#affected-limb-img').removeClass('is-hidden').addClass('is-visible'); // Show white limb
 });
