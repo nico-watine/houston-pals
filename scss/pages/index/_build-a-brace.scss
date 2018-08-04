@@ -1,0 +1,17 @@
+.index#index {
+	.build-a-brace-block {
+		position: relative;
+
+		.content {
+			padding: 0 15px;
+			z-index: 5;
+			position: absolute;
+			width: 100%;
+
+			.prose {
+				float: right;
+				display: inline-block;
+			}
+		}
+	}
+}

@@ -65,9 +65,9 @@ layout: index
 <section>
 	<div class="grid-container fluid full">
 		<div class="grid-x">
-			<div class="build-a-brace-block cell medium-6 align-middle grid-x" style="position: relative;">
-				<div class="align-self-bottom scrim" style="padding: 0 15px; z-index: 5; position: absolute; width: 100%;">
-					<div class="prose" style="float: right; display: inline-block;">
+			<div class="build-a-brace-block cell medium-6 align-middle grid-x">
+				<div class="align-self-bottom content">
+					<div class="prose">
 						<h3 class="white">Build-A-Brace</h3>
 						<p class="white h5">Visualize your dog’s injury solution</p>
 					</div>
