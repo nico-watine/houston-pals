@@ -56,21 +56,26 @@ $('.front-injury-solution-option, .rear-injury-solution-option').click(function(
 // Front - Orthotic
 $('#front-injury-orthotic-solution').click(function(){
 	$('#front-orthotic-tailored-finish-option').removeClass('is-hidden');
-	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
 });
 // Front - Prosthetic
 $('#front-injury-prosthetic-solution').click(function(){
 	$('#front-prosthetic-tailored-finish-option').removeClass('is-hidden');
-	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
 });
 // Rear - Orthotic
 $('#rear-injury-orthotic-solution').click(function(){
 	$('#rear-orthotic-tailored-finish-option').removeClass('is-hidden');
-	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
 });
 // Rear - Prosthetic
 $('#rear-injury-prosthetic-solution').click(function(){
 	$('#rear-prosthetic-tailored-finish-option').removeClass('is-hidden');
+});
+
+// -------------------------------------------------------------
+// Step #7 -----------------------------------------------------
+// -------------------------------------------------------------
+// Display "Tailored Finish Image" based on chosen Limb & Device
+// -------------------------------------------------------------
+$('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-injury-orthotic-solution, #rear-injury-prosthetic-solution').click(function(){
 	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
 });
 
