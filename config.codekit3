@@ -5110,6 +5110,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/assets\/blank.png": {
+		"ft": 32768,
+		"iS": 95,
+		"oA": 0,
+		"oAP": "\/img\/assets\/blank.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/assets\/logo\/logo-white-2.png": {
 		"ft": 32768,
 		"iS": 146371,
