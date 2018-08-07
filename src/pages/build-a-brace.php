@@ -19,7 +19,7 @@ body-class: build-a-brace
 </section>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
-		<div class="dog-model">
+		<div class="product-builder-dog-model">
 			<img class="img-layer" style="z-index: 3;" src="" alt="" id="tailored-finish-img">
 			<img class="img-layer" style="z-index: 2;" src="" alt="" id="injury-solution-img">
 			<img class="img-layer" style="z-index: 1;" src="" alt="" id="affected-limb-img">

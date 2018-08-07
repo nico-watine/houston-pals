@@ -9875,14 +9875,14 @@ body.coming-soon #top-row {
   max-width: 29.375rem;
 }
 
-.dog-model {
+.product-builder-dog-model {
   max-width: 770px;
   width: 100%;
   margin: 0 auto;
   position: relative;
 }
 
-.dog-model .img-layer {
+.product-builder-dog-model .img-layer {
   position: absolute;
   top: 0;
   left: 0;
