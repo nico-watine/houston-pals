@@ -8,8 +8,10 @@ og-image: /img/assets/og/1/og-image-1.jpg
 body-id: accordion
 body-class: accordion
 ---
-<div class="row" style="padding: 40px 0;">
-	<h1 class="title text-center"><a href="/accordion">Product Builder</a></h1>
+<div class="grid-x grid-padding-x">
+	<div class="cell medium-offset-1 shrink">
+		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/accordion">Build-A-Brace</a></h1>
+	</div>
 </div>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
