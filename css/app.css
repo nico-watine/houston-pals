@@ -9902,6 +9902,10 @@ body.coming-soon #top-row {
   margin: 1rem 0;
 }
 
+.product-builder-accordion #coat-color img {
+  max-width: 100px;
+}
+
 .product-builder-accordion #affected-limb img {
   border: 5px solid #000;
 }
