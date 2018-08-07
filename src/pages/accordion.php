@@ -8,9 +8,15 @@ og-image: /img/assets/og/1/og-image-1.jpg
 body-id: accordion
 body-class: accordion
 ---
-<div class="row" style="padding: 40px 0;">
-	<h1 class="title text-center"><a href="/accordion">Product Builder</a></h1>
-</div>
+<section class="grid-x grid-padding-x page-intro">
+	<div class="cell medium-offset-1 shrink">
+		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/accordion">Build-A-Brace</a></h1>
+		<div class="prose">
+			<p>Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.</p>
+			<p>Each PALS-produced limb support is custom fitted to match your pet’s exact needs.</p>
+		</div>
+	</div>
+</section>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
 		<div class="dog-model">
@@ -23,7 +29,7 @@ body-class: accordion
 </div>
 <div class="row">
 	<div class="columns">
-		<ul class="product-builder-accordion accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" id="deeplinked-accordion">
+		<ul class="product-builder-accordion accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-allow-all-closed="true" id="deeplinked-accordion">
 			<li class="accordion-item is-active" data-accordion-item>
 				<a href="#coat-color" class="accordion-title">Coat Color</a>
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
