@@ -10,7 +10,7 @@ body-class: build-a-brace
 ---
 <section class="grid-x grid-padding-x page-intro">
 	<div class="cell medium-offset-1 shrink">
-		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/build-a-brace">Build-A-Brace</a></h1>
+		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/build-a-brace.php">Build-A-Brace</a></h1>
 		<div class="prose">
 			<p>Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.</p>
 			<p>Each PALS-produced limb support is custom fitted to match your pet’s exact needs.</p>
