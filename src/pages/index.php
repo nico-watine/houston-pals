@@ -65,7 +65,7 @@ layout: index
 <section>
 	<div class="grid-container fluid full">
 		<div class="grid-x">
-			<a class="cell medium-6" href="/accordion.php">
+			<a class="cell medium-6" href="/build-a-brace.php">
 			<div class="build-a-brace-block align-middle grid-x">
 					<div class="align-self-bottom content">
 						<div class="prose text-center medium-text-left">
