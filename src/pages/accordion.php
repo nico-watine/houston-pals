@@ -31,7 +31,7 @@ body-class: accordion
 	<div class="columns">
 		<ul class="product-builder-accordion accordion" data-accordion data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-allow-all-closed="true" id="deeplinked-accordion">
 			<li class="accordion-item is-active" data-accordion-item>
-				<a href="#coat-color" class="accordion-title">Coat Color</a>
+				<a href="#coat-color" class="accordion-title h5">Coat Color</a>
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
 						<!-- Tan Coat -->
@@ -46,7 +46,7 @@ body-class: accordion
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
-				<a href="#affected-limb" class="accordion-title">Affected Limb</a>
+				<a href="#affected-limb" class="accordion-title h5">Affected Limb</a>
 				<div class="accordion-content text-center" data-tab-content id="affected-limb">
 					<div class="grid-x">
 						<!-- Front Toggle -->
@@ -57,7 +57,7 @@ body-class: accordion
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
-				<a href="#injury-solution" class="accordion-title">Injury Solution</a>
+				<a href="#injury-solution" class="accordion-title h5">Injury Solution</a>
 				<div class="accordion-content text-center" data-tab-content id="injury-solution">
 					<p id="injury-solution-notification" class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
 					<div class="grid-x">
@@ -73,7 +73,7 @@ body-class: accordion
 				</div>
 			</li>
 			<li class="accordion-item" data-accordion-item>
-				<a href="#tailored-finish" class="accordion-title">Tailored Finish</a>
+				<a href="#tailored-finish" class="accordion-title h5">Tailored Finish</a>
 				<div class="accordion-content text-center" data-tab-content id="tailored-finish">
 					<!-- Prechoice Image Samples -->
 					<div class="prechoice-samples" id="tailored-finish-prechoice-samples">
