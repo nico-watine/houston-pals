@@ -9,9 +9,9 @@ body-id: accordion
 body-class: accordion
 ---
 <div class="grid-x grid-padding-x">
-	<div class="cell medium-offset-1 shrink" style="padding-top: 40px;">
+	<div class="cell medium-offset-1 shrink" style="padding-top: 40px; padding-bottom: 40px;">
 		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/accordion">Build-A-Brace</a></h1>
-		<div class="prose" style="max-width: 470px; margin-bottom: 40px;">
+		<div class="prose" style="max-width: 470px;">
 			<p>Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.</p>
 			<p>Each PALS-produced limb support is custom fitted to match your pet’s exact needs.</p>
 		</div>
