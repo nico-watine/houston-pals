@@ -8,7 +8,7 @@ og-image: /img/assets/og/1/og-image-1.jpg
 body-id: accordion
 body-class: accordion
 ---
-<div class="grid-x grid-padding-x">
+<section class="grid-x grid-padding-x page-intro">
 	<div class="cell medium-offset-1 shrink" style="padding-top: 40px; padding-bottom: 40px;">
 		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/accordion">Build-A-Brace</a></h1>
 		<div class="prose" style="max-width: 470px;">
@@ -16,7 +16,7 @@ body-class: accordion
 			<p>Each PALS-produced limb support is custom fitted to match your pet’s exact needs.</p>
 		</div>
 	</div>
-</div>
+</section>
 <div class="grid-x grid-padding-x" style="padding-bottom: 40px;">
 	<div class="cell">
 		<div class="dog-model">
