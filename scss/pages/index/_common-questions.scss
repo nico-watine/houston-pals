@@ -1,0 +1,14 @@
+.index#index {
+	.common-questions-block {
+		background: #98cd68 url('/img/index/common-questions-block/dog-detail.png') center center/cover no-repeat;
+		height: 180px;
+
+		@include breakpoint(480) {
+			height: 200px;
+		}
+
+		@include breakpoint(medium) {
+			height: auto;
+		}
+	}
+}

@@ -16,7 +16,7 @@ UNCSS_OPTIONS:
 # Gulp will reference these paths when it copies files
 PATHS:
   # Path to dist folder
-  dist: "dist"  
+  dist: "dist"
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "assets/.htaccess" # <- specify import invisible file .htaccess
@@ -41,10 +41,10 @@ PATHS:
     - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
     - "bower_components/foundation-sites/js/foundation.equalizer.js"
     - "bower_components/foundation-sites/js/foundation.tooltip.js"
+    - "bower_components/foundation-sites/js/foundation.accordion.js"
     # ---------------------------------
     # If you aren't using a component, just remove it from the list
     # - "bower_components/foundation-sites/js/foundation.abide.js"
-    # - "bower_components/foundation-sites/js/foundation.accordion.js"
     # - "bower_components/foundation-sites/js/foundation.accordionMenu.js"
     # - "bower_components/foundation-sites/js/foundation.drilldown.js"
     # - "bower_components/foundation-sites/js/foundation.interchange.js"
