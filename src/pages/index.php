@@ -66,7 +66,7 @@ layout: index
 	<div class="grid-container fluid full">
 		<div class="grid-x">
 			<a class="build-a-brace-block grid-x align-middle cell medium-6" href="/build-a-brace.php">
-				<div class="align-self-bottom content">
+				<div class="content">
 					<div class="prose text-center medium-text-left">
 						<h3 class="white">Build-A-Brace</h3>
 						<p class="white h5">Visualize your dog’s injury solution</p>
