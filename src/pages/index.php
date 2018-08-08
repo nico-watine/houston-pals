@@ -73,7 +73,7 @@ layout: index
 					</div>
 				</div>
 				<div class="image-scrim">&nbsp;</div>
-				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
+				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="Build-A-Brace link">
 			</a>
 			<a class="common-questions-block block-link cell medium-6 grid-x align-middle" href="/ordering-product-faq.php">
 				<div class="content">
