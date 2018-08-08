@@ -9267,10 +9267,6 @@ img.circle {
   }
 }
 
-.index#index .build-a-brace-block {
-  position: relative;
-}
-
 .index#index .build-a-brace-block .content {
   z-index: 5;
   position: absolute;
@@ -9292,8 +9288,7 @@ img.circle {
 }
 
 .index#index .common-questions-block {
-  position: relative;
-  background: #98CD68 url("/img/index/common-questions-block/dog-detail.png") center center/cover no-repeat;
+  background: #98cd68 url("/img/index/common-questions-block/dog-detail.png") center center/cover no-repeat;
 }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
