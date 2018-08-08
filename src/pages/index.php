@@ -67,25 +67,26 @@ layout: index
 		<div class="grid-x">
 			<a class="cell medium-6" href="/build-a-brace.php">
 			<div class="build-a-brace-block align-middle grid-x">
-					<div class="align-self-bottom content">
-						<div class="prose text-center medium-text-left">
-							<h3 class="white">Build-A-Brace</h3>
-							<p class="white h5">Visualize your dog’s injury solution</p>
-						</div>
+				<div class="align-self-bottom content">
+					<div class="prose text-center medium-text-left">
+						<h3 class="white">Build-A-Brace</h3>
+						<p class="white h5">Visualize your dog’s injury solution</p>
 					</div>
-					<div class="image-scrim">&nbsp;</div>
+				</div>
+				<div class="image-scrim">&nbsp;</div>
 				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
 			</div>
 			</a>
 			<a class="cell medium-6" href="/ordering-product-faq.php">
-				<div class="common-questions-block align-middle grid-x">
-					<div class="content">
-						<div class="prose text-center medium-text-left">
-							<h3 class="white">Build-A-Brace</h3>
-							<p class="white h5">Visualize your dog’s injury solution</p>
-						</div>
+			<div class="common-questions-block align-middle grid-x">
+				<div class="content">
+					<div class="prose text-center medium-text-left">
+						<h3 class="white">Build-A-Brace</h3>
+						<p class="white h5">Visualize your dog’s injury solution</p>
 					</div>
 				</div>
+				<img src="/img/index/common-questions-block/dog-detail.png" alt="">
+			</div>
 			</a>
 		</div>
 	</div>
