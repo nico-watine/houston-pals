@@ -1,32 +1,20 @@
 .index#index {
-	.common-questions-block {
-		position: relative;
-		background: #98CD68 url("/img/index/common-questions-block/dog-detail.png") center center/cover no-repeat;
+	.block-banner {
+		.block {
+			position: relative;
 
-
-		.content {
-			padding: 0 15px;
-		}
-
-		.prose {
-			h3 {
-				font-size: $h3;
-				margin: 0;
+			.content {
+				padding: 0 15px;
 			}
 
-			p {
-				font-size: $p;
-			}
-		}
-
-		@include breakpoint(750) {
 			.prose {
 				h3 {
-					font-size: $h3-medium;
+					font-size: $h3;
+					margin: 0;
 				}
 
 				p {
-					font-size: $p-medium;
+					font-size: $p;
 				}
 			}
 		}
