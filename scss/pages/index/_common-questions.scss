@@ -1,0 +1,25 @@
+.index#index {
+	.common-questions-block {
+		position: relative;
+		background: #98CD68 url("/img/index/common-questions-block/dog-detail.png") center center/cover no-repeat;
+
+
+		.content {
+			padding: 0 15px;
+			z-index: 5;
+			position: absolute;
+			width: 100%;
+		}
+
+		.prose {
+			h3 {
+				font-size: $h3;
+				margin: 0;
+			}
+
+			p {
+				font-size: $p;
+			}
+		}
+	}
+}

@@ -77,15 +77,14 @@ layout: index
 				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
 			</div>
 			</a>
-			<a class="cell medium-6" href="/ordering-product-faq.php">
-			<div class="common-questions-block align-middle grid-x">
+			<a class="common-questions-block cell medium-6 grid-x align-middle" href="/ordering-product-faq.php">
+			<div class="align-middle">
 				<div class="content">
 					<div class="prose text-center medium-text-left">
-						<h3 class="white">Build-A-Brace</h3>
-						<p class="white h5">Visualize your dog’s injury solution</p>
+						<h3 class="">Build-A-Brace</h3>
+						<p class="h5">Visualize your dog’s injury solution</p>
 					</div>
 				</div>
-				<img src="/img/index/common-questions-block/dog-detail.png" alt="">
 			</div>
 			</a>
 		</div>
