@@ -3,3 +3,7 @@ img.frame {
 	box-shadow: $z-2;
 	margin-bottom: rem-calc(8);
 }
+
+img.circle {
+	border-radius: 100%;
+}

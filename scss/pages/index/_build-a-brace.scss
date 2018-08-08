@@ -1,0 +1,22 @@
+.index#index {
+	.build-a-brace-block {
+		.content {
+			z-index: 5;
+			position: absolute;
+		}
+
+		.image-scrim {
+			position: absolute;
+			height: 100%;
+			width: 100%;
+			background: rgba(247,247,247,.50);
+		}
+
+		@include breakpoint(medium) {
+			.prose {
+				float: right;
+				display: inline-block;
+			}
+		}
+	}
+}
