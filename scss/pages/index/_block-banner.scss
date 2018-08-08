@@ -17,6 +17,18 @@
 					font-size: $p;
 				}
 			}
+
+			@include breakpoint(750) {
+				.prose {
+					h3 {
+						font-size: $h3-medium;
+					}
+
+					p {
+						font-size: $p-medium;
+					}
+				}
+			}
 		}
 	}
 }

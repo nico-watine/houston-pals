@@ -9258,6 +9258,15 @@ img.circle {
   font-size: 1rem;
 }
 
+@media screen and (min-width: 46.875em) {
+  .index#index .block-banner .block .prose h3 {
+    font-size: 1.9375rem;
+  }
+  .index#index .block-banner .block .prose p {
+    font-size: 1.125rem;
+  }
+}
+
 .index#index .build-a-brace-block {
   position: relative;
 }
