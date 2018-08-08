@@ -9247,6 +9247,7 @@ img.circle {
 
 .index#index .block-banner .block-link .content {
   padding: 0 15px;
+  width: 100%;
 }
 
 .index#index .block-banner .block-link .prose h3 {
@@ -9274,7 +9275,6 @@ img.circle {
 .index#index .build-a-brace-block .content {
   z-index: 5;
   position: absolute;
-  width: 100%;
 }
 
 .index#index .build-a-brace-block .image-scrim {
@@ -9293,6 +9293,19 @@ img.circle {
 
 .index#index .common-questions-block {
   background: #98cd68 url("/img/index/common-questions-block/dog-detail.png") center center/cover no-repeat;
+  height: 180px;
+}
+
+@media screen and (min-width: 30em) {
+  .index#index .common-questions-block {
+    height: 200px;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .index#index .common-questions-block {
+    height: auto;
+  }
 }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
