@@ -79,7 +79,12 @@ layout: index
 			</a>
 			<a class="cell medium-6" href="/ordering-product-faq.php">
 				<div class="common-questions-block align-middle grid-x">
-
+					<div class="content">
+						<div class="prose text-center medium-text-left">
+							<h3 class="white">Build-A-Brace</h3>
+							<p class="white h5">Visualize your dog’s injury solution</p>
+						</div>
+					</div>
 				</div>
 			</a>
 		</div>
