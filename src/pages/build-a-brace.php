@@ -1,5 +1,5 @@
 ---
-url: /
+url: /build-a-brace
 title: Pet Artificial Limbs & Supports
 description: Custom made orthotics and prosthetics devices for your pet in Houston, TX, created by Bill Bickley
 og-title: Pet Artificial Limbs & Supports | Houston PALS
