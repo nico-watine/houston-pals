@@ -9268,7 +9268,7 @@ img.circle {
   }
 }
 
-.index#index .block-banner .block-link:hover h3, .index#index .block-banner .block-link:hover p {
+.index#index .block-banner .block-link:hover h3 {
   text-decoration: underline;
 }
 
