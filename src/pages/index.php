@@ -76,7 +76,10 @@ layout: index
 					<div class="image-scrim">&nbsp;</div>
 				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
 			</div>
-		</a>
+			</a>
+			<a class="cell medium-6" href="/ordering-product-faq.php">
+
+			</a>
 			<div class="common-questions-block cell medium-6"></div>
 		</div>
 	</div>
