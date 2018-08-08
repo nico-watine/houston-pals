@@ -9241,28 +9241,28 @@ img.circle {
   }
 }
 
-.index#index .block-banner .block {
+.index#index .block-banner .block-link {
   position: relative;
 }
 
-.index#index .block-banner .block .content {
+.index#index .block-banner .block-link .content {
   padding: 0 15px;
 }
 
-.index#index .block-banner .block .prose h3 {
+.index#index .block-banner .block-link .prose h3 {
   font-size: 1.375rem;
   margin: 0;
 }
 
-.index#index .block-banner .block .prose p {
+.index#index .block-banner .block-link .prose p {
   font-size: 1rem;
 }
 
 @media screen and (min-width: 46.875em) {
-  .index#index .block-banner .block .prose h3 {
+  .index#index .block-banner .block-link .prose h3 {
     font-size: 1.9375rem;
   }
-  .index#index .block-banner .block .prose p {
+  .index#index .block-banner .block-link .prose p {
     font-size: 1.125rem;
   }
 }
