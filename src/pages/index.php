@@ -62,7 +62,7 @@ layout: index
 		</div>
 	</div>
 </div>
-<section>
+<section class="block-banner">
 	<div class="grid-container fluid full">
 		<div class="grid-x">
 			<a class="build-a-brace-block grid-x align-middle cell medium-6" href="/build-a-brace.php">

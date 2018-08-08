@@ -5242,6 +5242,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/index\/common-questions-block\/dog-detail.png": {
+		"ft": 32768,
+		"iS": 16281,
+		"oA": 0,
+		"oAP": "\/img\/index\/common-questions-block\/dog-detail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/index\/dog-trio\/1\/dog-trio.jpg": {
 		"ft": 16384,
 		"iS": 80978,
@@ -6746,6 +6757,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_small.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_block-banner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_block-banner.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
