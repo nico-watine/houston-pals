@@ -78,9 +78,10 @@ layout: index
 			</div>
 			</a>
 			<a class="cell medium-6" href="/ordering-product-faq.php">
+				<div class="common-questions-block align-middle grid-x">
 
+				</div>
 			</a>
-			<div class="common-questions-block cell medium-6"></div>
 		</div>
 	</div>
 </section>
