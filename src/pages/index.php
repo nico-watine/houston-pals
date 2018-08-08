@@ -65,8 +65,7 @@ layout: index
 <section>
 	<div class="grid-container fluid full">
 		<div class="grid-x">
-			<a class="cell medium-6" href="/build-a-brace.php">
-			<div class="build-a-brace-block align-middle grid-x">
+			<a class="build-a-brace-block grid-x align-middle cell medium-6" href="/build-a-brace.php">
 				<div class="align-self-bottom content">
 					<div class="prose text-center medium-text-left">
 						<h3 class="white">Build-A-Brace</h3>
@@ -75,7 +74,6 @@ layout: index
 				</div>
 				<div class="image-scrim">&nbsp;</div>
 				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
-			</div>
 			</a>
 			<a class="common-questions-block cell medium-6 grid-x align-middle" href="/ordering-product-faq.php">
 				<div class="content">
