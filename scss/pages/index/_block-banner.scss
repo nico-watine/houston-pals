@@ -29,6 +29,12 @@
 					}
 				}
 			}
+
+			&:hover {
+				h3,p {
+					text-decoration: underline;
+				}
+			}
 		}
 	}
 }

@@ -9267,6 +9267,10 @@ img.circle {
   }
 }
 
+.index#index .block-banner .block-link:hover h3, .index#index .block-banner .block-link:hover p {
+  text-decoration: underline;
+}
+
 .index#index .build-a-brace-block .content {
   z-index: 5;
   position: absolute;
