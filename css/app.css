@@ -9277,15 +9277,6 @@ img.circle {
   width: 100%;
 }
 
-.index#index .build-a-brace-block .prose h3 {
-  font-size: 1.375rem;
-  margin: 0;
-}
-
-.index#index .build-a-brace-block .prose p {
-  font-size: 1rem;
-}
-
 .index#index .build-a-brace-block .image-scrim {
   position: absolute;
   height: 100%;
@@ -9300,40 +9291,9 @@ img.circle {
   }
 }
 
-@media screen and (min-width: 46.875em) {
-  .index#index .build-a-brace-block .prose h3 {
-    font-size: 1.9375rem;
-  }
-  .index#index .build-a-brace-block .prose p {
-    font-size: 1.125rem;
-  }
-}
-
 .index#index .common-questions-block {
   position: relative;
   background: #98CD68 url("/img/index/common-questions-block/dog-detail.png") center center/cover no-repeat;
-}
-
-.index#index .common-questions-block .content {
-  padding: 0 15px;
-}
-
-.index#index .common-questions-block .prose h3 {
-  font-size: 1.375rem;
-  margin: 0;
-}
-
-.index#index .common-questions-block .prose p {
-  font-size: 1rem;
-}
-
-@media screen and (min-width: 46.875em) {
-  .index#index .common-questions-block .prose h3 {
-    font-size: 1.9375rem;
-  }
-  .index#index .common-questions-block .prose p {
-    font-size: 1.125rem;
-  }
 }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {

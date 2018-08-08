@@ -8,45 +8,17 @@
 			width: 100%;
 		}
 
-		.prose {
-			h3 {
-				font-size: $h3;
-				margin: 0;
-			}
-
-			p {
-				font-size: $p;
-			}
-		}
-
 		.image-scrim {
 			position: absolute;
 			height: 100%;
 			width: 100%;
-			background: rgba(247,247,247,0.50);
+			background: rgba(247,247,247,.50);
 		}
 
 		@include breakpoint(medium) {
 			.prose {
 				float: right;
 				display: inline-block;
-			}
-		}
-
-		@include breakpoint(750) {
-			.prose {
-				h3 {
-					font-size: $h3-medium;
-				}
-
-				p {
-					font-size: $p-medium;
-				}
-			}
-		}
-
-		@include breakpoint(1000) {
-			.image-scrim {
 			}
 		}
 	}
