@@ -48,8 +48,14 @@ a#colorful-name-hover {
 }
 
 .white {
-	color: #fff;
+	color: $white;
 }
+
+.black {
+	color: $black;
+}
+
+
 
 address {
 	font-style: normal;

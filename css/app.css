@@ -9027,7 +9027,11 @@ a#colorful-name-hover:hover span.blue {
 }
 
 .white {
-  color: #fff;
+  color: #fefefe;
+}
+
+.black {
+  color: #0a0a0a;
 }
 
 address {
