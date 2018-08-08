@@ -6,9 +6,6 @@
 
 		.content {
 			padding: 0 15px;
-			z-index: 5;
-			position: absolute;
-			width: 100%;
 		}
 
 		.prose {
@@ -19,6 +16,18 @@
 
 			p {
 				font-size: $p;
+			}
+		}
+
+		@include breakpoint(750) {
+			.prose {
+				h3 {
+					font-size: $h3-medium;
+				}
+
+				p {
+					font-size: $p-medium;
+				}
 			}
 		}
 	}

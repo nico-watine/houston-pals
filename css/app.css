@@ -9293,9 +9293,6 @@ img.circle {
 
 .index#index .common-questions-block .content {
   padding: 0 15px;
-  z-index: 5;
-  position: absolute;
-  width: 100%;
 }
 
 .index#index .common-questions-block .prose h3 {
@@ -9305,6 +9302,15 @@ img.circle {
 
 .index#index .common-questions-block .prose p {
   font-size: 1rem;
+}
+
+@media screen and (min-width: 46.875em) {
+  .index#index .common-questions-block .prose h3 {
+    font-size: 1.9375rem;
+  }
+  .index#index .common-questions-block .prose p {
+    font-size: 1.125rem;
+  }
 }
 
 body#index .row#tagline .image-wrapper, body#index main .content-wrapper #tagline.content .image-wrapper, main .content-wrapper body#index #tagline.content .image-wrapper {
