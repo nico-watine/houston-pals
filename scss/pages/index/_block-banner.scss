@@ -1,0 +1,40 @@
+.index#index {
+	.block-banner {
+		.block-link {
+			position: relative;
+
+			.content {
+				padding: 0 15px;
+			}
+
+			.prose {
+				h3 {
+					font-size: $h3;
+					margin: 0;
+				}
+
+				p {
+					font-size: $p;
+				}
+			}
+
+			@include breakpoint(750) {
+				.prose {
+					h3 {
+						font-size: $h3-medium;
+					}
+
+					p {
+						font-size: $p-medium;
+					}
+				}
+			}
+
+			&:hover {
+				h3,p {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+}

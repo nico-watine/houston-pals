@@ -62,24 +62,24 @@ layout: index
 		</div>
 	</div>
 </div>
-<section>
+<section class="block-banner">
 	<div class="grid-container fluid full">
 		<div class="grid-x">
-			<a class="build-a-brace-block grid-x align-middle cell medium-6" href="/build-a-brace.php">
-				<div class="align-self-bottom content">
+			<a class="build-a-brace-block block-link grid-x align-middle cell medium-6" href="/build-a-brace.php">
+				<div class="content">
 					<div class="prose text-center medium-text-left">
-						<h3 class="white">Build-A-Brace</h3>
-						<p class="white h5">Visualize your dog’s injury solution</p>
+						<h3 class="black">Build-A-Brace</h3>
+						<p class="black h5 margin-0">Visualize your dog’s injury solution</p>
 					</div>
 				</div>
 				<div class="image-scrim">&nbsp;</div>
-				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="">
+				<img src="/img/index/build-a-brace-block/build-a-brace.jpg" alt="Build-A-Brace link">
 			</a>
-			<a class="common-questions-block cell medium-6 grid-x align-middle" href="/ordering-product-faq.php">
+			<a class="common-questions-block block-link cell medium-6 grid-x align-middle" href="/ordering-product-faq.php">
 				<div class="content">
 					<div class="prose text-center medium-text-left">
 						<h3 class="white">Common Questions</h3>
-						<p class="white h5">Ordering &amp; Product FAQ</p>
+						<p class="white h5 margin-0">Ordering &amp; Product FAQ</p>
 					</div>
 				</div>
 			</a>
