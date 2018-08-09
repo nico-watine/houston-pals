@@ -9927,7 +9927,7 @@ body.coming-soon #top-row {
 }
 
 .product-builder-accordion .option-cell span p {
-  margin: 1rem 0;
+  margin: 0.5rem 0;
 }
 
 .product-builder-accordion .option-cell span:hover {
@@ -9936,7 +9936,6 @@ body.coming-soon #top-row {
 }
 
 .product-builder-accordion .option-cell span:hover p {
-  text-decoration: underline;
   color: #1468a0;
 }
 
