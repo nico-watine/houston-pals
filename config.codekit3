@@ -5110,6 +5110,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/assets\/bg\/paw\/paw.png": {
+		"ft": 32768,
+		"iS": 6606,
+		"oA": 0,
+		"oAP": "\/img\/assets\/bg\/paw\/paw.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/assets\/blank.png": {
 		"ft": 32768,
 		"iS": 95,
@@ -7019,6 +7030,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/layouts-production\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/layouts-production\/blank.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/src\/layouts-production\/blank.html",
 		"oF": 0
 		},
 	"\/src\/layouts-production\/default.html": {
