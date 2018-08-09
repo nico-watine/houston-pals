@@ -1,6 +1,7 @@
 .build-a-brace#build-a-brace {
 	.content {
-		background-position: right top;
+		background: #fff url('#{$url}/img/assets/bg/paw/paw.png') 105% -30px no-repeat;
+		background-size: 480px 513px;
 	}
 	.page-intro {
 		.cell {
