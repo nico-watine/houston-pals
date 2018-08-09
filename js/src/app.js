@@ -116,11 +116,11 @@ $('#mixed-coat').click(function(){
 // Affected Limb
 $('#front-limb').click(function(){
 	$('#front-limb').addClass('active');
-	$('#rear-limb').removeClass('active');
+	$('#rear-limb, #front-prosthesis, #rear-orthosis, #rear-prosthesis, #front-orthosis').removeClass('active');
 });
 $('#rear-limb').click(function(){
 	$('#rear-limb').addClass('active');
-	$('#front-limb').removeClass('active');
+	$('#front-limb, #front-prosthesis, #rear-orthosis, #rear-prosthesis, #front-orthosis').removeClass('active');
 });
 
 // Injury Solution
