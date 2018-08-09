@@ -9910,6 +9910,11 @@ body.coming-soon #top-row {
   left: 0;
 }
 
+.product-builder-accordion .accordion-item.is-active .accordion-title {
+  color: #fff;
+  background: #30659b;
+}
+
 .product-builder-accordion .option-cell {
   padding: 0 0.3125rem;
 }

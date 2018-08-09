@@ -26,6 +26,13 @@
 }
 
 .product-builder-accordion {
+	.accordion-item.is-active {
+		.accordion-title {
+			color: #fff;
+			background: $dark-blue;
+		}
+	}
+
 	.option-cell {
 		padding: 0 rem-calc(5);
 
