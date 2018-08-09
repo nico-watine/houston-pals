@@ -94,6 +94,8 @@ $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-inj
 // ------------------------------------------------------------------------------------
 // Toggling .active to spans when clicked
 // ------------------------------------------------------------------------------------
+
+// Coat-Color
 $('#tan-coat').click(function(){
 	$('#tan-coat').addClass('active');
 	$('#black-coat, #brown-coat, #mixed-coat').removeClass('active');
@@ -110,3 +112,5 @@ $('#mixed-coat').click(function(){
 	$('#mixed-coat').addClass('active');
 	$('#black-coat, #tan-coat, #brown-coat').removeClass('active');
 });
+
+// Affected Limb
