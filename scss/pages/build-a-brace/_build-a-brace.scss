@@ -55,6 +55,15 @@
 				}
 			}
 		}
+
+		span.active {
+			box-shadow: 0 1px 4px 0 #30659b;
+			border-radius: 5px;
+
+			p {
+				color: #1468a0;
+			}
+		}
 	}
 
 	#coat-color {

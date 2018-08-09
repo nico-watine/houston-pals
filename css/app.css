@@ -9939,6 +9939,15 @@ body.coming-soon #top-row {
   color: #1468a0;
 }
 
+.product-builder-accordion .option-cell span.active {
+  box-shadow: 0 1px 4px 0 #30659b;
+  border-radius: 5px;
+}
+
+.product-builder-accordion .option-cell span.active p {
+  color: #1468a0;
+}
+
 .product-builder-accordion #coat-color img {
   max-width: 100px;
 }

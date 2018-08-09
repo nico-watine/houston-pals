@@ -91,3 +91,18 @@ $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-inj
 	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
 });
 
+// ------------------------------------------------------------------------------------
+// Toggling .active to spans when clicked
+// ------------------------------------------------------------------------------------
+$('#tan-coat').click(function(){
+	$('#tan-coat').toggleClass('active');
+	$('#black-coat, #brown-coat').removeClass('active');
+});
+$('#black-coat').click(function(){
+	$('#black-coat').toggleClass('active');
+	$('#brown-coat, #tan-coat').removeClass('active');
+});
+$('#brown-coat').click(function(){
+	$('#brown-coat').toggleClass('active');
+	$('#black-coat, #tan-coat').removeClass('active');
+});
