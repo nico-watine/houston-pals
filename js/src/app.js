@@ -132,3 +132,11 @@ $('#front-prosthesis').click(function(){
 	$('#front-prosthesis').addClass('active');
 	$('#front-orthosis, #rear-orthosis, #rear-prosthesis').removeClass('active');
 });
+$('#rear-orthosis').click(function(){
+	$('#rear-orthosis').addClass('active');
+	$('#rear-prosthesis, #front-orthosis, #front-prosthesis').removeClass('active');
+});
+$('#rear-prosthesis').click(function(){
+	$('#rear-prosthesis').addClass('active');
+	$('#rear-orthosis, #front-orthosis, #front-prosthesis').removeClass('active');
+});
