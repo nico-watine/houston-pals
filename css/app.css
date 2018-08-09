@@ -9888,6 +9888,11 @@ body.coming-soon #top-row {
   }
 }
 
+.build-a-brace#build-a-brace .content {
+  background: #fff url("/img/assets/bg/paw/paw.png") 105% -30px no-repeat;
+  background-size: 480px 513px;
+}
+
 .build-a-brace#build-a-brace .page-intro .cell {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -9910,6 +9915,11 @@ body.coming-soon #top-row {
   left: 0;
 }
 
+.product-builder-accordion .accordion-item.is-active .accordion-title {
+  color: #fff;
+  background: #30659b;
+}
+
 .product-builder-accordion .option-cell {
   padding: 0 0.3125rem;
 }
@@ -9918,10 +9928,29 @@ body.coming-soon #top-row {
   max-width: 200px;
   display: inline-block;
   cursor: pointer;
+  padding: 5px;
 }
 
 .product-builder-accordion .option-cell span p {
-  margin: 1rem 0;
+  margin: 0.5rem 0;
+}
+
+.product-builder-accordion .option-cell span:hover {
+  box-shadow: 0 1px 4px 0 #30659b;
+  border-radius: 5px;
+}
+
+.product-builder-accordion .option-cell span:hover p {
+  color: #1468a0;
+}
+
+.product-builder-accordion .option-cell span.active {
+  box-shadow: 0 1px 4px 0 #30659b;
+  border-radius: 5px;
+}
+
+.product-builder-accordion .option-cell span.active p {
+  color: #1468a0;
 }
 
 .product-builder-accordion #coat-color img {

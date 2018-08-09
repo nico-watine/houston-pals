@@ -1,4 +1,8 @@
 .build-a-brace#build-a-brace {
+	.content {
+		background: #fff url('#{$url}/img/assets/bg/paw/paw.png') 105% -30px no-repeat;
+		background-size: 480px 513px;
+	}
 	.page-intro {
 		.cell {
 			padding-top: 40px;
@@ -26,6 +30,13 @@
 }
 
 .product-builder-accordion {
+	.accordion-item.is-active {
+		.accordion-title {
+			color: #fff;
+			background: $dark-blue;
+		}
+	}
+
 	.option-cell {
 		padding: 0 rem-calc(5);
 
@@ -33,9 +44,28 @@
 			max-width: 200px;
 			display: inline-block;
 			cursor: pointer;
+			padding: 5px;
 
 			p {
-				margin: rem-calc(16) 0;
+				margin: rem-calc(8) 0;
+			}
+
+			&:hover {
+				box-shadow: 0 1px 4px 0 #30659b;
+				border-radius: 5px;
+
+				p {
+					color: #1468a0;
+				}
+			}
+		}
+
+		span.active {
+			box-shadow: 0 1px 4px 0 #30659b;
+			border-radius: 5px;
+
+			p {
+				color: #1468a0;
 			}
 		}
 	}

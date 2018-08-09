@@ -91,3 +91,52 @@ $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-inj
 	$('#tailored-finish-img').removeClass('is-hidden').addClass('is-visible'); // Show "colored" device
 });
 
+// ------------------------------------------------------------------------------------
+// Toggling .active to spans when clicked
+// ------------------------------------------------------------------------------------
+
+// Coat-Color
+$('#tan-coat').click(function(){
+	$('#tan-coat').addClass('active');
+	$('#black-coat, #brown-coat, #mixed-coat').removeClass('active');
+});
+$('#black-coat').click(function(){
+	$('#black-coat').addClass('active');
+	$('#brown-coat, #tan-coat, #mixed-coat').removeClass('active');
+});
+$('#brown-coat').click(function(){
+	$('#brown-coat').addClass('active');
+	$('#black-coat, #tan-coat, #mixed-coat').removeClass('active');
+});
+$('#mixed-coat').click(function(){
+	$('#mixed-coat').addClass('active');
+	$('#black-coat, #tan-coat, #brown-coat').removeClass('active');
+});
+
+// Affected Limb
+$('#front-limb').click(function(){
+	$('#front-limb').addClass('active');
+	$('#rear-limb, #front-prosthesis, #rear-orthosis, #rear-prosthesis, #front-orthosis').removeClass('active');
+});
+$('#rear-limb').click(function(){
+	$('#rear-limb').addClass('active');
+	$('#front-limb, #front-prosthesis, #rear-orthosis, #rear-prosthesis, #front-orthosis').removeClass('active');
+});
+
+// Injury Solution
+$('#front-orthosis').click(function(){
+	$('#front-orthosis').addClass('active');
+	$('#front-prosthesis, #rear-orthosis, #rear-prosthesis').removeClass('active');
+});
+$('#front-prosthesis').click(function(){
+	$('#front-prosthesis').addClass('active');
+	$('#front-orthosis, #rear-orthosis, #rear-prosthesis').removeClass('active');
+});
+$('#rear-orthosis').click(function(){
+	$('#rear-orthosis').addClass('active');
+	$('#rear-prosthesis, #front-orthosis, #front-prosthesis').removeClass('active');
+});
+$('#rear-prosthesis').click(function(){
+	$('#rear-prosthesis').addClass('active');
+	$('#rear-orthosis, #front-orthosis, #front-prosthesis').removeClass('active');
+});
