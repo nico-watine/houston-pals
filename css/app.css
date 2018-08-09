@@ -9935,6 +9935,11 @@ body.coming-soon #top-row {
   border-radius: 5px;
 }
 
+.product-builder-accordion .option-cell span:hover p {
+  text-decoration: underline;
+  color: #1468a0;
+}
+
 .product-builder-accordion #coat-color img {
   max-width: 100px;
 }
