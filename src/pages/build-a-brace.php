@@ -41,7 +41,7 @@ body-class: build-a-brace
 						<!-- Brown Coat -->
 						<div class="cell option-cell auto"><span id="brown-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
 						<!-- Mixed Coat -->
-						<!-- <div class="cell option-cell auto"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div> -->
+						<!-- <div class="cell option-cell auto"><span id="mixed-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/mixed-dog.png')"><img class="circle" src="/img/product-builder/coat-color/mixed.png" alt=""><p>Mixed</p></span></div> -->
 					</div>
 				</div>
 			</li>
