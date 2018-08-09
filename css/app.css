@@ -9888,6 +9888,10 @@ body.coming-soon #top-row {
   }
 }
 
+.build-a-brace#build-a-brace .content {
+  background-position: right top;
+}
+
 .build-a-brace#build-a-brace .page-intro .cell {
   padding-top: 40px;
   padding-bottom: 40px;
