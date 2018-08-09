@@ -122,3 +122,13 @@ $('#rear-limb').click(function(){
 	$('#rear-limb').addClass('active');
 	$('#front-limb').removeClass('active');
 });
+
+// Injury Solution
+$('#front-orthosis').click(function(){
+	$('#front-orthosis').addClass('active');
+	$('#front-prosthesis, #rear-orthosis, #rear-prosthesis').removeClass('active');
+});
+$('#front-prosthesis').click(function(){
+	$('#front-prosthesis').addClass('active');
+	$('#front-orthosis, #rear-orthosis, #rear-prosthesis').removeClass('active');
+});
