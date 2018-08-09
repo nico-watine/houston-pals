@@ -1,15 +1,15 @@
 ---
-url: /
-title: Pet Artificial Limbs & Supports
-description: Custom made orthotics and prosthetics devices for your pet in Houston, TX, created by Bill Bickley
-og-title: Pet Artificial Limbs & Supports | Houston PALS
-og-description: Custom made orthotics and prosthetics devices for your pet in Houston, TX, created by Bill Bickley
-og-image: /img/assets/og/1/og-image-1.jpg
+url: /build-a-brace
+title: Interactive Build-A-Brace | Houston PALS
+description: Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.
+og-title: Interactive Build-A-Brace | Houston PALS
+og-description: Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.
+og-image: /img/product-builder/og-image/build-a-brace-og.png
 body-id: build-a-brace
 body-class: build-a-brace
 ---
 <section class="grid-x grid-padding-x page-intro">
-	<div class="cell medium-offset-1 shrink">
+	<div class="cell medium-offset-1 medium-shrink">
 		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/build-a-brace.php">Build-A-Brace</a></h1>
 		<div class="prose">
 			<p>Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.</p>
@@ -35,13 +35,13 @@ body-class: build-a-brace
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
 						<!-- Tan Coat -->
-						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell option-cell auto"><span id="tan-coat" class="active" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
 						<!-- Black Coat -->
-						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
+						<div class="cell option-cell auto"><span id="black-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<!-- Brown Coat -->
-						<div class="cell option-cell auto"><span onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
+						<div class="cell option-cell auto"><span id="brown-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/brown-dog.png')"><img class="circle" src="/img/product-builder/coat-color/brown.png" alt=""><p>Brown</p></span></div>
 						<!-- Mixed Coat -->
-						<!-- <div class="cell option-cell auto"><img class="circle" src="/img/product-builder/coat-color/spotted.png" alt=""><p>Spotted</p></div> -->
+						<!-- <div class="cell option-cell auto"><span id="mixed-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/mixed-dog.png')"><img class="circle" src="/img/product-builder/coat-color/mixed.png" alt=""><p>Mixed</p></span></div> -->
 					</div>
 				</div>
 			</li>
@@ -50,9 +50,9 @@ body-class: build-a-brace
 				<div class="accordion-content text-center" data-tab-content id="affected-limb">
 					<div class="grid-x">
 						<!-- Front Toggle -->
-						<div class="front-affected-limb-toggle cell option-cell small-6"><span onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png'),getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')"><img class="circle" src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
+						<div class="front-affected-limb-toggle cell option-cell small-6"><span id="front-limb" onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png'),getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/front/front.png')"><img class="circle" src="/img/product-builder/affected-limb/front/front-icon.png" alt=""><p>Front</p></span></div>
 						<!-- Rear Toggle -->
-						<div class="rear-affected-limb-toggle cell option-cell small-6"><span onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png'),getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')"><img class="circle" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
+						<div class="rear-affected-limb-toggle cell option-cell small-6"><span id="rear-limb" onclick="getElementById('tailored-finish-img').src=('/img/assets/blank.png'),getElementById('affected-limb-img').src=('/img/product-builder/affected-limb/rear/rear.png')"><img class="circle" src="/img/product-builder/affected-limb/rear/rear-icon.png" alt=""><p>Rear</p></span></div>
 					</div>
 				</div>
 			</li>
@@ -62,13 +62,13 @@ body-class: build-a-brace
 					<p id="injury-solution-notification" class="h5">Please specify the <strong>Affected Limb</strong> first.</p>
 					<div class="grid-x">
 						<!-- Front Orthosis -->
-						<div id="front-injury-orthotic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p><strong>Front Orthosis</strong> <br>Support Brace</p></span></div>
+						<div id="front-injury-orthotic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span id="front-orthosis" onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-orthotic.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-orthotic-icon.png" alt=""><p><strong>Front Orthosis</strong> <br>Support Brace</p></span></div>
 						<!-- Front Prosthesis -->
-						<div id="front-injury-prosthetic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthesis.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p><strong>Front Prosthesis</strong> <br>Artificial Limb</p></span></div>
+						<div id="front-injury-prosthetic-solution" class="is-hidden front-injury-solution-option cell option-cell small-6"><span id="front-prosthesis" onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/front/front-prosthesis.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/front/front-prosthetic-icon.png" alt=""><p><strong>Front Prosthesis</strong> <br>Artificial Limb</p></span></div>
 						<!-- Rear Orthosis -->
-						<div id="rear-injury-orthotic-solution" class="is-hidden rear-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-orthosis.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-orthosis-icon.png" alt=""><p><strong>Rear Orthosis</strong> <br>Support Brace</p></span></div>
+						<div id="rear-injury-orthotic-solution" class="is-hidden rear-injury-solution-option cell option-cell small-6"><span id="rear-orthosis" onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-orthosis.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-orthosis-icon.png" alt=""><p><strong>Rear Orthosis</strong> <br>Support Brace</p></span></div>
 						<!-- Rear Prosthesis -->
-						<div id="rear-injury-prosthetic-solution" class="is-hidden rear-injury-solution-option cell option-cell small-6"><span onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-prosthesis.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-prosthesis-icon.png" alt=""><p><strong>Rear Prosthesis</strong> <br>Artificial Limb</p></span></div>
+						<div id="rear-injury-prosthetic-solution" class="is-hidden rear-injury-solution-option cell option-cell small-6"><span id="rear-prosthesis" onclick="getElementById('injury-solution-img').src=('/img/product-builder/injury-solution/rear/rear-prosthesis.png'),getElementById('tailored-finish-img').src=('/img/assets/blank.png')"><img class="circle" src="/img/product-builder/injury-solution/rear/rear-prosthesis-icon.png" alt=""><p><strong>Rear Prosthesis</strong> <br>Artificial Limb</p></span></div>
 					</div>
 				</div>
 			</li>
