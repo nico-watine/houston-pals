@@ -9923,10 +9923,16 @@ body.coming-soon #top-row {
   max-width: 200px;
   display: inline-block;
   cursor: pointer;
+  padding: 5px;
 }
 
 .product-builder-accordion .option-cell span p {
   margin: 1rem 0;
+}
+
+.product-builder-accordion .option-cell span:hover {
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  border-radius: 5px;
 }
 
 .product-builder-accordion #coat-color img {
