@@ -35,7 +35,7 @@ body-class: build-a-brace
 				<div class="accordion-content text-center" data-tab-content id="coat-color">
 					<div class="grid-x">
 						<!-- Tan Coat -->
-						<div class="cell option-cell auto"><span id="tan-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
+						<div class="cell option-cell auto"><span id="tan-coat" class="active" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/tan-dog.png')"><img class="circle" src="/img/product-builder/coat-color/tan.png" alt=""><p>Tan</p></span></div>
 						<!-- Black Coat -->
 						<div class="cell option-cell auto"><span id="black-coat" onclick="getElementById('coat-color-img').src=('/img/product-builder/dog/black-dog.png')"><img class="circle" src="/img/product-builder/coat-color/black.png" alt=""><p>Black</p></span></div>
 						<!-- Brown Coat -->
