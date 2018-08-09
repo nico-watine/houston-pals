@@ -5165,17 +5165,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png": {
-		"ft": 32768,
-		"iS": 67432,
-		"oA": 1,
-		"oAP": "\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/img\/assets\/social-icons\/facebook\/facebook-blue.png": {
 		"ft": 32768,
 		"iS": 303,
@@ -5239,7 +5228,7 @@
 		"oAP": "\/img\/index\/build-a-brace-block\/build-a-brace.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/index\/common-questions-block\/dog-detail.png": {
@@ -5273,17 +5262,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/dog_circles.png": {
-		"ft": 32768,
-		"iS": 648826,
-		"oA": 1,
-		"oAP": "\/img\/index\/dog_circles.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/splash\/splash-large.jpg": {
