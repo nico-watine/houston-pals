@@ -4,7 +4,7 @@ title: Interactive Build-A-Brace | Houston PALS
 description: Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.
 og-title: Interactive Build-A-Brace | Houston PALS
 og-description: Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.
-og-image: /img/assets/og/1/og-image-1.jpg
+og-image: /img/product-builder/og-image/build-a-brace-og.png
 body-id: build-a-brace
 body-class: build-a-brace
 ---
