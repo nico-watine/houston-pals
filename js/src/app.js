@@ -95,14 +95,14 @@ $('#front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-inj
 // Toggling .active to spans when clicked
 // ------------------------------------------------------------------------------------
 $('#tan-coat').click(function(){
-	$('#tan-coat').toggleClass('active');
+	$('#tan-coat').addClass('active');
 	$('#black-coat, #brown-coat').removeClass('active');
 });
 $('#black-coat').click(function(){
-	$('#black-coat').toggleClass('active');
+	$('#black-coat').addClass('active');
 	$('#brown-coat, #tan-coat').removeClass('active');
 });
 $('#brown-coat').click(function(){
-	$('#brown-coat').toggleClass('active');
+	$('#brown-coat').addClass('active');
 	$('#black-coat, #tan-coat').removeClass('active');
 });
