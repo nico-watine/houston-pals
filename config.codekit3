@@ -6011,8 +6011,8 @@
 		},
 	"\/img\/assets\/accents\/dog\/top-left.png": {
 		"ft": 32768,
-		"iS": 35217,
-		"oA": 1,
+		"iS": 9793,
+		"oA": 0,
 		"oAP": "\/img\/assets\/accents\/dog\/top-left.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6066,7 +6066,7 @@
 		},
 	"\/img\/assets\/logo\/logo-white-2.png": {
 		"ft": 32768,
-		"iS": 146371,
+		"iS": 50179,
 		"oA": 0,
 		"oAP": "\/img\/assets\/logo\/logo-white-2.png",
 		"oF": 0,
@@ -6077,20 +6077,9 @@
 		},
 	"\/img\/assets\/logo\/logo.png": {
 		"ft": 32768,
-		"iS": 39173,
-		"oA": 1,
+		"iS": 10092,
+		"oA": 0,
 		"oAP": "\/img\/assets\/logo\/logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/assets\/logo\/logo@2x.png": {
-		"ft": 32768,
-		"iS": 103005,
-		"oA": 1,
-		"oAP": "\/img\/assets\/logo\/logo@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6106,17 +6095,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png": {
-		"ft": 32768,
-		"iS": 67432,
-		"oA": 1,
-		"oAP": "\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social-icons\/facebook\/facebook-blue.png": {
@@ -6182,7 +6160,7 @@
 		"oAP": "\/img\/index\/build-a-brace-block\/build-a-brace.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/index\/common-questions-block\/dog-detail.png": {
@@ -6216,17 +6194,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/dog_circles.png": {
-		"ft": 32768,
-		"iS": 648826,
-		"oA": 1,
-		"oAP": "\/img\/index\/dog_circles.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/splash\/splash-large.jpg": {
