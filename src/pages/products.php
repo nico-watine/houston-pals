@@ -135,7 +135,7 @@ layout: products
 			</div>
 			<div class="row">
 				<div class="columns medium-10 medium-push-1 large-8 large-push-2 end">
-					<div class="build-a-brace-callout" style="padding: 24px; background: #FFFFFF;border: 3px solid #30659B;box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 5px;">
+					<div class="build-a-brace-callout" style="max-width: 500px; margin: 0 auto; padding: 24px; background: #FFFFFF;border: 3px solid #30659B;box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 5px;">
 						<h2 class="title" style="text-transform: none; letter-spacing: normal;">Build-A-Brace Tool <span class="body-font h5 black">New!</span></h2>
 						<p>Generate your pet's injury solution design with our unique <span class="inline-block" style="display: inline-block;"><strong>Build-A-Brace</strong></span> tool. Choose from 10 different options.</p>
 					</div>
