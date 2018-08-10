@@ -21,6 +21,14 @@ layout: products
 				</div>
 			</div>
 		</div>
+		<div class="row pb-40">
+			<div class="columns medium-10 medium-push-1 large-8 large-push-2 end">
+				<div class="build-a-brace-callout">
+					<h2 class="title" style="text-transform: none; letter-spacing: normal;">Build-A-Brace Tool <span class="body-font h5 black">New!</span></h2>
+					<p>Generate your pet's injury solution design with our unique <a class="inline-block" style="display: inline-block;" href="/build-a-brace.php"><strong>Build-A-Brace</strong></a> tool. Choose from 10 different options.</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 <section class="wide" id="product-definitions">
@@ -190,6 +198,14 @@ layout: products
 				</div>
 			</div>
 		</section>
+		<div class="row pt-40 pb-40">
+			<div class="columns medium-10 medium-push-1 large-8 large-push-2 end">
+				<div class="build-a-brace-callout">
+					<h2 class="title" style="text-transform: none; letter-spacing: normal;">Build-A-Brace Tool <span class="body-font h5 black">New!</span></h2>
+					<p>Generate your pet's injury solution design with our unique <a class="inline-block" style="display: inline-block;" href="/build-a-brace.php"><strong>Build-A-Brace</strong></a> tool. Choose from 10 different options.</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 <div class="reveal" id="dynamicTarsalOrthosisModal" data-reveal>
