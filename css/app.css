@@ -9088,6 +9088,14 @@ address {
   }
 }
 
+.td-underline {
+  text-decoration: underline;
+}
+
+.hover-td-none {
+  text-decoration: none;
+}
+
 img.frame {
   border: 0.1875rem solid #30659b;
   box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
