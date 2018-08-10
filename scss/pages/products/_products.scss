@@ -122,6 +122,7 @@ body#products {
 	background: $dark-blue;
 	border-radius: rem-calc(5);
 	box-shadow: $z-1;
+	padding: rem-calc(20) rem-calc(40);
 	border: rem-calc(2) solid $dark-blue;
 
 	&:hover {

@@ -9684,6 +9684,7 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
   background: #30659b;
   border-radius: 0.3125rem;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  padding: 1.25rem 2.5rem;
   border: 0.125rem solid #30659b;
 }
 
