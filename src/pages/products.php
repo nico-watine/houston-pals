@@ -88,9 +88,11 @@ layout: products
 			<div class="row">
 				<div class="medium-8 medium-push-2 large-6 large-push-0 columns">
 					<h3>The Dynamic Tarsal Orthosis</h3>
+					<p>This brace has a flexible carbon fiber section to allow more natural motion of the limb, while providing energy in return.</p>
 				</div>
 				<div class="medium-8 medium-push-2 large-6 large-push-0 columns">
 					<h3>Rigid Extended-Wear Orthosis</h3>
+					<p>This post-operative brace is designed for 24/7 extended wearing. It can be used as a cast replacement in most cases.</p>
 				</div>
 			</div>
 		</section>
