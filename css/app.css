@@ -9148,6 +9148,14 @@ img.circle {
   padding-top: 2.5rem;
 }
 
+.pt-40 {
+  padding-top: 2.5rem;
+}
+
+.pb-40 {
+  padding-bottom: 2.5rem;
+}
+
 @media print, screen and (min-width: 64em) {
   .splash .header,
   .splash .hero-wrapper {

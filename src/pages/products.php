@@ -80,7 +80,7 @@ layout: products
 <div class="content-wrapper">
 	<div class="content">
 		<section id="pals-patented-products">
-			<div class="row section-intro">
+			<div class="row section-intro pt-40 pb-40">
 				<div class="columns text-center">
 					<h2 class="title section-title">PALS-Patented Products</h2>
 				</div>
