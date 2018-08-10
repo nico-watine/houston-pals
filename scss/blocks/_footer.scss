@@ -1,6 +1,6 @@
 
 footer {
-	background: #30659B;
+	background: #30659b;
 	padding: rem-calc(40) 0;
 	color: #fff;
 
@@ -12,7 +12,9 @@ footer {
 		}
 
 		li {
-			padding: 0 rem-calc(16);
+			// padding: 0 rem-calc(16);
+
+			padding: 0 rem-calc(8);
 
 			a {
 				display: inline-block;
@@ -23,15 +25,6 @@ footer {
 				&:hover {
 					color: #fff;
 					text-decoration: underline;
-				}
-			}
-		}
-
-		@include breakpoint(medium only) {
-			li#op-faq {
-				a {
-					width: rem-calc(100);
-					line-height: rem-calc(25);
 				}
 			}
 		}
