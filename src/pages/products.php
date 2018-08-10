@@ -6,7 +6,7 @@ og-title: Products
 og-description: PALS creates custom Orthotic & Prosthetic animal limbs, from dogs and cats to horses and flamingos!
 og-image: /img/assets/og/1/og-image-1.jpg
 body-id: products
-body-class: 
+body-class:
 layout: products
 ---
 <div class="content-wrapper">
@@ -79,6 +79,15 @@ layout: products
 </section>
 <div class="content-wrapper">
 	<div class="content">
+		<section id="pals-patented-products">
+			<div class="row section-intro">
+				<div class="columns text-center">
+					<h2 class="title section-title">PALS-Patented Products</h2>
+				</div>
+			</div>
+			<div class="row">
+			</div>
+		</section>
 		<section id="animal-diversity">
 			<div class="row section-intro">
 				<div class="small-12 columns text-center">
