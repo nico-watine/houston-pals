@@ -5154,6 +5154,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/assets\/logo\/logo@2x.png": {
+		"ft": 32768,
+		"iS": 22518,
+		"oA": 0,
+		"oAP": "\/img\/assets\/logo\/logo@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/assets\/og\/1\/og-image-1.jpg": {
 		"ft": 16384,
 		"iS": 138230,
@@ -5163,6 +5174,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png": {
+		"ft": 32768,
+		"iS": 23934,
+		"oA": 0,
+		"oAP": "\/img\/assets\/schema\/houston-pet-artificial-limbs-and-supports-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social-icons\/facebook\/facebook-blue.png": {
@@ -5262,6 +5284,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/dog_circles.png": {
+		"ft": 32768,
+		"iS": 185106,
+		"oA": 0,
+		"oAP": "\/img\/index\/dog_circles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/splash\/splash-large.jpg": {
