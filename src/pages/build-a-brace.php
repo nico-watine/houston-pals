@@ -277,6 +277,6 @@ body-class: build-a-brace
 				</div>
 			</li>
 		</ul>
-		<h4 class="text-center pt-40 pb-40" style="text-decoration: underline;"><a href="/ordering-product-faq.php"><strong>Learn how to begin your order.</strong></a></h4>
+		<h4 class="text-center pt-40 pb-40"><a style="text-decoration: underline;" href="/ordering-product-faq.php"><strong>Learn how to begin your order.</strong></a></h4>
 	</div>
 </div>
