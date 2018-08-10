@@ -190,14 +190,14 @@ layout: products
 	</div>
 </div>
 <div class="reveal" id="dynamicTarsalOrthosisModal" data-reveal>
-	<h3>The Dynamic Tarsal Orthosis</h3>
+	<h3 style="margin-bottom: 16px;">The Dynamic Tarsal Orthosis</h3>
 	<p>This patented design allows for decreased stress on the limb and other joints while also using less energy to move about.</p>
 	<button class="close-button" data-close aria-label="Close modal" type="button">
 		<span aria-hidden="true">&times;</span>
 	</button>
 </div>
 <div class="reveal" id="rigidExtendedWearOrthosisModal" data-reveal>
-	<h3>Rigid Extended-Wear Orthosis</h3>
+	<h3 style="margin-bottom: 16px;">Rigid Extended-Wear Orthosis</h3>
 	<p>This device holds the joint from excessive motion following surgery or where tendon/ligament healing is required through joint immobilization. It allows for quick and easy inspection of the incision site and general condition of the skin beneath the device. The design incorporates a removable and breathable foam liner set to allow for increased hygiene as the liners are meant to be replaced at regular intervals at the time of device removal for skin inspection.</p>
 	<button class="close-button" data-close aria-label="Close modal" type="button">
 		<span aria-hidden="true">&times;</span>
