@@ -89,6 +89,7 @@ layout: products
 				<div class="medium-8 medium-push-2 large-6 large-push-0 columns">
 					<h3>The Dynamic Tarsal Orthosis</h3>
 					<p>This brace has a flexible carbon fiber section to allow more natural motion of the limb, while providing energy in return.</p>
+					<p><button class="button" data-open="dynamicTarsalOrthosisModal">Device Details</button></p>
 				</div>
 				<div class="medium-8 medium-push-2 large-6 large-push-0 columns">
 					<h3>Rigid Extended-Wear Orthosis</h3>
@@ -186,4 +187,11 @@ layout: products
 			</div>
 		</section>
 	</div>
+</div>
+<div class="reveal" id="dynamicTarsalOrthosisModal" data-reveal>
+	<h3>The Dynamic Tarsal Orthosis</h3>
+	<p>This patented design allows for decreased stress on the limb and other joints while also using less energy to move about.</p>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
 </div>
