@@ -14,6 +14,7 @@ body-class: build-a-brace
 		<div class="prose">
 			<p>Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.</p>
 			<p>Each PALS-produced limb support is custom fitted to match your pet’s exact needs.</p>
+			<a href="/products.php" class="td-underline hover-td-none h5"><strong>Learn more about our products.</strong></a>
 		</div>
 	</div>
 </section>
@@ -276,5 +277,6 @@ body-class: build-a-brace
 				</div>
 			</li>
 		</ul>
+		<h4 class="text-center pt-40 pb-40"><a class="td-underline hover-td-none" href="/ordering-product-faq.php"><strong>Learn how to begin your order.</strong></a></h4>
 	</div>
 </div>

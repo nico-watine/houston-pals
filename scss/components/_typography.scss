@@ -122,3 +122,13 @@ address {
 		font-size: $h6-medium;
 	}
 }
+
+.td-underline {
+	text-decoration: underline;
+}
+
+.hover-td-none {
+	&:hover {
+		text-decoration: none;
+	}
+}
