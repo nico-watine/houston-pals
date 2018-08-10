@@ -86,6 +86,12 @@ layout: products
 				</div>
 			</div>
 			<div class="row">
+				<div class="medium-8 medium-push-2 large-6 large-push-0 columns">
+					<h3>The Dynamic Tarsal Orthosis</h3>
+				</div>
+				<div class="medium-8 medium-push-2 large-6 large-push-0 columns">
+					<h3>Rigid Extended-Wear Orthosis</h3>
+				</div>
 			</div>
 		</section>
 		<section id="animal-diversity">
