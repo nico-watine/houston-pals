@@ -98,25 +98,6 @@ layout: products
 				</div>
 			</div>
 		</section>
-		<section id="animal-diversity">
-			<div class="row section-intro">
-				<div class="small-12 columns text-center">
-					<h2 class="title section-title">A DIVERSE ANIMAL KINGDOM</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="medium-6 columns prose">
-					<p>Dogs and cats are not the only pets that people have. Nor are they the only animal that experiences an injury or illness.</p>
-					<p>PALS has experience assisting a wide variety of animals that includes:  horses, ducks, rams, flamingos, and even a tortoise.</p>
-				</div>
-				<div class="medium-3 columns text-center">
-					<img srcset="/img/products/animal-diversity/equine-brace_2x.jpg 2x" src="/img/products/animal-diversity/equine-brace.jpg" alt="Equine Brace" class="frame" >
-				</div>
-				<div class="medium-3 columns text-center">
-					<img srcset="/img/products/animal-diversity/duck_2x.jpg 2x" src="/img/products/animal-diversity/duck.jpg" alt="Duck Brace" class="frame">
-				</div>
-			</div>
-		</section>
 		<section id="product-image-gallery">
 			<div class="row">
 				<div class="small-12 columns">
@@ -184,6 +165,25 @@ layout: products
 					<div class="row button-row">
 						<a href="/ordering-product-faq.php" class="button expanded ordering-button heading">Ordering Info</a>
 					</div>
+				</div>
+			</div>
+		</section>
+		<section id="animal-diversity">
+			<div class="row section-intro">
+				<div class="small-12 columns text-center">
+					<h2 class="title section-title">A DIVERSE ANIMAL KINGDOM</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="medium-6 columns prose">
+					<p>Dogs and cats are not the only pets that people have. Nor are they the only animal that experiences an injury or illness.</p>
+					<p>PALS has experience assisting a wide variety of animals that includes:  horses, ducks, rams, flamingos, and even a tortoise.</p>
+				</div>
+				<div class="medium-3 columns text-center">
+					<img srcset="/img/products/animal-diversity/equine-brace_2x.jpg 2x" src="/img/products/animal-diversity/equine-brace.jpg" alt="Equine Brace" class="frame" >
+				</div>
+				<div class="medium-3 columns text-center">
+					<img srcset="/img/products/animal-diversity/duck_2x.jpg 2x" src="/img/products/animal-diversity/duck.jpg" alt="Duck Brace" class="frame">
 				</div>
 			</div>
 		</section>
