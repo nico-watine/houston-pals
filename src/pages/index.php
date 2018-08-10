@@ -13,7 +13,7 @@ layout: index
 	<header class="header header-scrim">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
-				<a id="colorful-name-hover" href="mailto:bill@houstonpals.com" class="normal">bill@houston<span class="green">P</span><span class="blue">A</span><span class="green">L</span><span class="blue">S</span>.com</a>
+				<a id="email" href="mailto:bill@houstonpals.com" class="normal">bill@houston<span class="green">P</span><span class="blue">A</span><span class="green">L</span><span class="blue">S</span>.com</a>
 				<a href="https://www.facebook.com/pages/Pet-Artificial-Limbs-and-Supports/547234815361977" target="_blank"><img src="/img/assets/social-icons/facebook/facebook-blue.png" srcset="/img/assets/social-icons/facebook/facebook-blue_2x.png 2x" alt="Houston PALS Facebook Page Link"></a>
 			</aside>
 			<div class="large-5 cell text-center logo">

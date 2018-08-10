@@ -1,15 +1,11 @@
 
 footer {
-	background: #30659B;
+	background: #30659b;
 	padding: rem-calc(40) 0;
 	color: #fff;
 
 	ul.menu {
 		display: inline-block;
-
-		@include breakpoint(medium) {
-			margin-bottom: rem-calc(12);
-		}
 
 		li {
 			padding: 0 rem-calc(16);
@@ -26,12 +22,15 @@ footer {
 				}
 			}
 		}
+	}
 
-		@include breakpoint(medium only) {
-			li#op-faq {
+	@include breakpoint(medium) {
+		ul.menu {
+			margin-bottom: rem-calc(12);
+
+			li {
 				a {
-					width: rem-calc(100);
-					line-height: rem-calc(25);
+					padding: rem-calc(8) 0;
 				}
 			}
 		}
