@@ -8904,14 +8904,8 @@ footer ul.menu {
   display: inline-block;
 }
 
-@media print, screen and (min-width: 40em) {
-  footer ul.menu {
-    margin-bottom: 0.75rem;
-  }
-}
-
 footer ul.menu li {
-  padding: 0 0.5rem;
+  padding: 0 1rem;
 }
 
 footer ul.menu li a {
@@ -8923,6 +8917,15 @@ footer ul.menu li a {
 footer ul.menu li a:hover {
   color: #fff;
   text-decoration: underline;
+}
+
+@media print, screen and (min-width: 40em) {
+  footer ul.menu {
+    margin-bottom: 0.75rem;
+  }
+  footer ul.menu li a {
+    padding: 0.5rem 0;
+  }
 }
 
 footer #contact-deets a {
