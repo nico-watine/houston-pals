@@ -9712,6 +9712,14 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
   border-radius: 5px;
 }
 
+.build-a-brace-callout a {
+  text-decoration: underline;
+}
+
+.build-a-brace-callout a:hover {
+  text-decoration: none;
+}
+
 @media screen and (max-width: 39.9375em) {
   body#ordering-product-faq .page-intro h1 {
     font-size: 1.875rem;
