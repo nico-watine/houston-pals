@@ -52,6 +52,14 @@ body-class:
 		<h3>Depending of your animal’s needs, the design will be adjusted appropriately</h3>
 	</div>
 </div>
+<div class="row pt-40 pb-40">
+	<div class="columns medium-10 medium-push-1 large-8 large-push-2 end">
+		<div class="build-a-brace-callout">
+			<h2 class="title" style="text-transform: none; letter-spacing: normal;">Build-A-Brace Tool <span class="body-font h5 black">New!</span></h2>
+			<p>Generate your pet's injury solution design with our unique <a class="inline-block" style="display: inline-block;" href="/build-a-brace.php"><strong>Build-A-Brace</strong></a> tool. Choose from 10 different options.</p>
+		</div>
+	</div>
+</div>
 <div class="row ordering-summary">
 	<div class="medium-10 medium-push-1 columns">
 		<p>To get started, contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
