@@ -10021,3 +10021,9 @@ body.coming-soon #top-row {
   width: 200px;
   margin-bottom: 16px;
 }
+
+@media screen and (max-width: 39.9375em) {
+  .product-builder-accordion .accordion-content {
+    padding: 1rem 0.5rem;
+  }
+}

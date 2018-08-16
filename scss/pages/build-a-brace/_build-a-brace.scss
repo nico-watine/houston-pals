@@ -98,3 +98,11 @@
 		}
 	}
 }
+
+@include breakpoint(small only) {
+	.product-builder-accordion {
+		.accordion-content {
+			padding: rem-calc(16) rem-calc(8);
+		}
+	}
+}
