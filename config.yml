@@ -16,6 +16,7 @@ UNCSS_OPTIONS:
   - ".dropdown-pane.is-open"
   - ".is-reveal-open"
   - ".reveal-overlay"
+  - ".tooltip"
 
 # Gulp will reference these paths when it copies files
 PATHS:
