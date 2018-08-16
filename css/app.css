@@ -10002,6 +10002,7 @@ body.coming-soon #top-row {
 
 .product-builder-accordion #coat-color img {
   max-width: 100px;
+  width: 100%;
 }
 
 .product-builder-accordion #affected-limb img {
@@ -10019,4 +10020,10 @@ body.coming-soon #top-row {
 .product-builder-accordion .sample-cell img {
   width: 200px;
   margin-bottom: 16px;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .product-builder-accordion .accordion-content {
+    padding: 1rem 0.5rem;
+  }
 }

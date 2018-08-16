@@ -73,6 +73,7 @@
 	#coat-color {
 		img {
 			max-width: 100px;
+			width: 100%;
 		}
 	}
 
@@ -94,6 +95,14 @@
 		img {
 			width: 200px;
 			margin-bottom: 16px;
+		}
+	}
+}
+
+@include breakpoint(small only) {
+	.product-builder-accordion {
+		.accordion-content {
+			padding: rem-calc(16) rem-calc(8);
 		}
 	}
 }
