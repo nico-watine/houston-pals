@@ -10,7 +10,7 @@ body-class:
 ---
 <div class="row marginBottom-20">
 	<div class="medium-push-1 medium-11 columns paddingTop-20 x2">
-		<h1 class="title">Ordering + Product FAQ</h1>
+		<h1 class="title">Ordering Your Pet’s Device</h1>
 	</div>
 </div>
 <div class="row">
