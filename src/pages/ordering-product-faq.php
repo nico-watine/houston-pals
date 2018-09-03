@@ -62,7 +62,7 @@ body-class:
 </div>
 <div class="row ordering-summary">
 	<div class="medium-10 medium-push-1 columns">
-		<p>To get started, contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
+		<p>Contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
 	</div>
 </div>
 <div class="video-container">
