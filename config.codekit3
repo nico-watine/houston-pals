@@ -122,69 +122,6 @@
 		"oAP": "\/_ignores\/old-htaccess.txt",
 		"oF": 0
 		},
-	"\/_ignores\/old-static-site-files\/_faq.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_faq.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_gallery.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_gallery.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_index.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_nav_bar_test.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_nav_bar_test.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_order.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_order.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_products.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_products.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_resources.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_resources.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_welcome.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_welcome.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_what.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_what.html",
-		"oF": 0
-		},
 	"\/_ignores\/pages\/403.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5054,6 +4991,12 @@
 		"oAP": "\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
 		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
