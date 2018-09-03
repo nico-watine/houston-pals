@@ -78,7 +78,9 @@ body#ordering-product-faq {
 .ordering-pdf {
 	img {
 		border: 2px solid #30659b;
-		margin-bottom: 8px;
+		max-width: 380px;
+		width: 100%;
+		margin-bottom: 16px;
 	}
 
 	span {
