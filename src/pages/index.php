@@ -68,7 +68,7 @@ layout: index
 			<a class="build-a-brace-block block-link grid-x align-middle cell medium-6" href="/build-a-brace.php">
 				<div class="content">
 					<div class="prose text-center medium-text-left">
-						<h3 class="black">Build-A-Brace</h3>
+						<h3 class="black">PALS Canine Design Center</h3>
 						<p class="black h5 margin-0">Visualize your dog’s injury solution</p>
 					</div>
 				</div>
