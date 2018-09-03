@@ -78,7 +78,7 @@ layout: index
 			<a class="common-questions-block block-link cell medium-6 grid-x align-middle" href="/ordering-product-faq.php">
 				<div class="content">
 					<div class="prose text-center medium-text-left">
-						<h3 class="white">Common Questions</h3>
+						<h3 class="white">Ordering Your Pet’s Device</h3>
 						<p class="white h5 margin-0">Ordering &amp; Product FAQ</p>
 					</div>
 				</div>
