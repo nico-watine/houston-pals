@@ -11,7 +11,7 @@ body#ordering-product-faq {
 
 	.row.ordering-summary {
 		p {
-			margin-bottom: 0;
+			// margin-bottom: 0;
 		}
 	}
 
@@ -71,6 +71,29 @@ body#ordering-product-faq {
 		img,
 		h3 {
 			@include vertical-center;
+		}
+	}
+}
+
+.ordering-pdf {
+	img {
+		border: 2px solid #30659b;
+		margin-bottom: 8px;
+	}
+
+	span {
+		background: $dark-blue;
+		border-radius: rem-calc(5);
+		box-shadow: $z-1;
+		font-size: rem-calc(20);
+		border: rem-calc(2) solid $dark-blue;
+	}
+
+	&:hover {
+		span {
+			background: #fff;
+			color: $dark-blue;
+			box-shadow: $z-2;
 		}
 	}
 }

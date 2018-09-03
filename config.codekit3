@@ -383,6 +383,42 @@
 		"oAP": "\/assets\/humans.txt",
 		"oF": 0
 		},
+	"\/assets\/pdf\/front-limb-injury.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/pdf\/front-limb-injury.pdf",
+		"oF": 1
+		},
+	"\/assets\/pdf\/front-limb-injury.png": {
+		"ft": 32768,
+		"iS": 56808,
+		"oA": 0,
+		"oAP": "\/assets\/pdf\/front-limb-injury.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/pdf\/rear-limb-injury.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/pdf\/rear-limb-injury.pdf",
+		"oF": 1
+		},
+	"\/assets\/pdf\/rear-limb-injury.png": {
+		"ft": 32768,
+		"iS": 60307,
+		"oA": 0,
+		"oAP": "\/assets\/pdf\/rear-limb-injury.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/php\/autoVer.php": {
 		"cB": 0,
 		"ft": 8192,
