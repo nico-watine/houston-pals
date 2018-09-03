@@ -62,7 +62,22 @@ body-class:
 </div>
 <div class="row ordering-summary">
 	<div class="medium-10 medium-push-1 columns">
-		<p>To get started, contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
+		<p class="h4">To get started on your pet's custom injury solution, please fill out the attached form.</p>
+		<div class="row">
+			<div class="medium-6 columns text-center">
+				<a class="ordering-pdf" href="/pdf/front-limb-injury.pdf">
+					<img src="/pdf/front-limb-injury.png" alt="Front Limb Injury PDF Preview" title="Front Limb Injury PDF Preview">
+					<span class="button heading">Front Limb Injury</span>
+				</a>
+			</div>
+			<div class="medium-6 columns text-center">
+				<a class="ordering-pdf" href="/pdf/rear-limb-injury.pdf">
+					<img src="/pdf/rear-limb-injury.png" alt="Rear Limb Injury PDF Preview" title="Rear Limb Injury PDF Preview">
+					<span class="button heading">Rear Limb Injury</span>
+				</a>
+			</div>
+		</div>
+		<p class="h4">Contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
 	</div>
 </div>
 <div class="video-container">

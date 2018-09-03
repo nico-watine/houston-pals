@@ -122,69 +122,6 @@
 		"oAP": "\/_ignores\/old-htaccess.txt",
 		"oF": 0
 		},
-	"\/_ignores\/old-static-site-files\/_faq.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_faq.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_gallery.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_gallery.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_index.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_nav_bar_test.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_nav_bar_test.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_order.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_order.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_products.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_products.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_resources.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_resources.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_welcome.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_welcome.html",
-		"oF": 0
-		},
-	"\/_ignores\/old-static-site-files\/_what.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/old-static-site-files\/_what.html",
-		"oF": 0
-		},
 	"\/_ignores\/pages\/403.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -382,6 +319,42 @@
 		"oA": 2,
 		"oAP": "\/assets\/humans.txt",
 		"oF": 0
+		},
+	"\/assets\/pdf\/front-limb-injury.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/pdf\/front-limb-injury.pdf",
+		"oF": 1
+		},
+	"\/assets\/pdf\/front-limb-injury.png": {
+		"ft": 32768,
+		"iS": 56808,
+		"oA": 0,
+		"oAP": "\/assets\/pdf\/front-limb-injury.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/pdf\/rear-limb-injury.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/pdf\/rear-limb-injury.pdf",
+		"oF": 1
+		},
+	"\/assets\/pdf\/rear-limb-injury.png": {
+		"ft": 32768,
+		"iS": 60307,
+		"oA": 0,
+		"oAP": "\/assets\/pdf\/rear-limb-injury.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/php\/autoVer.php": {
 		"cB": 0,
@@ -5019,6 +4992,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -7094,6 +7073,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/pages\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/pages\/build-a-brace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/src\/pages\/build-a-brace.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
