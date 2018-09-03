@@ -65,7 +65,7 @@ layout: index
 <section class="block-banner">
 	<div class="grid-container fluid full">
 		<div class="grid-x">
-			<a class="build-a-brace-block block-link grid-x align-middle cell medium-6" href="/build-a-brace.php">
+			<a class="build-a-brace-block block-link grid-x align-middle cell medium-6" href="/pals-canine-design-center.php">
 				<div class="content">
 					<div class="prose text-center medium-text-left">
 						<h3 class="black">PALS Canine Design Center</h3>
