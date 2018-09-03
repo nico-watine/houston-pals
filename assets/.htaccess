@@ -331,3 +331,12 @@ RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
 #AddHandler php5-script .php .html .htm
 
 AddHandler application/x-httpd-php5 .html .htm
+
+
+
+# -----------------------------------------------------------------
+# |            Redirect the renamed build-a-brace page            |
+# -----------------------------------------------------------------
+
+Redirect 301 /build-a-brace.php https://houstonpals.com/pals-canine-design-center.php
+

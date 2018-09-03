@@ -1,18 +1,18 @@
 ---
-url: /build-a-brace
-title: Interactive Build-A-Brace | Houston PALS
-description: Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.
-og-title: Interactive Build-A-Brace | Houston PALS
-og-description: Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.
+url: /pals-canine-design-center
+title: Interactive Design Center | Houston PALS
+description: Use our guided PALS Canine Design Center process to generate a visual mock-up of your pet’s unique injury solution.
+og-title: Interactive Canine Design Center | Houston PALS
+og-description: Use our guided PALS Canine Design Center process to generate a visual mock-up of your pet’s unique injury solution.
 og-image: /img/product-builder/og-image/build-a-brace-og.png
 body-id: build-a-brace
 body-class: build-a-brace
 ---
 <section class="grid-x grid-padding-x page-intro">
 	<div class="cell medium-offset-1 medium-shrink">
-		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/build-a-brace.php">Build-A-Brace</a></h1>
+		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/pals-canine-design-center.php">PALS Canine Design Center</a></h1>
 		<div class="prose">
-			<p>Use our guided build-a-brace process to generate a visual mock-up of your pet’s unique injury solution.</p>
+			<p>Use our guided PALS Canine Design Center process to generate a visual mock-up of your pet’s unique injury solution.</p>
 			<p>Each PALS-produced limb support is custom fitted to match your pet’s exact needs.</p>
 			<a href="/products.php" class="td-underline hover-td-none h5"><strong>Learn more about our products.</strong></a>
 		</div>
