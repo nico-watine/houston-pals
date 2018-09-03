@@ -62,7 +62,8 @@ body-class:
 </div>
 <div class="row ordering-summary">
 	<div class="medium-10 medium-push-1 columns">
-		<p>Contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
+		<p class="h4">To get started on your pet's custom injury solution, please fill out the attached form.</p>
+		<p class="h4">Contact Bill Bickley to receive a casting kit. This video will walk you through how to apply the kit on your animal to create a mold cast.</p>
 	</div>
 </div>
 <div class="video-container">

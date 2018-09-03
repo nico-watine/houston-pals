@@ -9738,9 +9738,6 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
   body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
     padding: 2.5rem 0;
   }
-  body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
-    font-size: 1.5625rem;
-  }
 }
 
 .priceCard {
@@ -9783,10 +9780,6 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
 
 body#ordering-product-faq .row.page-intro, body#ordering-product-faq main .content-wrapper .page-intro.content, main .content-wrapper body#ordering-product-faq .page-intro.content {
   padding: 1.25rem 0;
-}
-
-body#ordering-product-faq .row.ordering-summary p, body#ordering-product-faq main .content-wrapper .ordering-summary.content p, main .content-wrapper body#ordering-product-faq .ordering-summary.content p {
-  margin-bottom: 0;
 }
 
 body#ordering-product-faq .row#contact-info, body#ordering-product-faq main .content-wrapper #contact-info.content, main .content-wrapper body#ordering-product-faq #contact-info.content {
