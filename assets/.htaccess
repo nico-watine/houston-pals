@@ -28,10 +28,7 @@
 # | Character encodings                                                |
 # ----------------------------------------------------------------------
 
-# Serve the following file types with the media type `charset`
-# parameter set to `UTF-8`.
-#
-# https://httpd.apache.org/docs/current/mod/mod_mime.html#addcharset
+AddDefaultCharset utf-8
 
 <IfModule mod_mime.c>
     AddCharset utf-8 .css \
