@@ -34,11 +34,6 @@ AddDefaultCharset utf-8
     AddCharset utf-8 .css \
                      .js \
                      .json \
-                     .jsonld \
-                     .manifest \
-                     .rss \
-                     .webapp \
-                     .webmanifest \
                      .xml
 </IfModule>
 
