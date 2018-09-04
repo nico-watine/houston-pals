@@ -4992,6 +4992,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/hpals\/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -6383,15 +6389,11 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
+	"\/js\/vendor": {
+		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/js\/vendor\/jquery\/2-2-4\/jquery-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
+		"oAP": "\/build\/js\/vendor",
+		"oF": 0
 		},
 	"\/node_modules": {
 		"ft": 65536,
@@ -9124,7 +9126,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/dist",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/dist, \/js\/vendor",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
