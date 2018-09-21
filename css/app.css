@@ -5259,21 +5259,8 @@ output {
   transform: translateX(-250px);
 }
 
-@media print, screen and (min-width: 40em) {
-  .position-left {
-    width: 250px;
-    transform: translateX(-250px);
-  }
-}
-
 .off-canvas-content .off-canvas.position-left {
   transform: translateX(-250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content .off-canvas.position-left {
-    transform: translateX(-250px);
-  }
 }
 
 .off-canvas-content .off-canvas.position-left.is-transition-overlap.is-open {
@@ -5282,12 +5269,6 @@ output {
 
 .off-canvas-content.is-open-left.has-transition-push {
   transform: translateX(250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content.is-open-left.has-transition-push {
-    transform: translateX(250px);
-  }
 }
 
 .position-left.is-transition-push {
@@ -5303,21 +5284,8 @@ output {
   transform: translateX(250px);
 }
 
-@media print, screen and (min-width: 40em) {
-  .position-right {
-    width: 250px;
-    transform: translateX(250px);
-  }
-}
-
 .off-canvas-content .off-canvas.position-right {
   transform: translateX(250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content .off-canvas.position-right {
-    transform: translateX(250px);
-  }
 }
 
 .off-canvas-content .off-canvas.position-right.is-transition-overlap.is-open {
@@ -5326,12 +5294,6 @@ output {
 
 .off-canvas-content.is-open-right.has-transition-push {
   transform: translateX(-250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content.is-open-right.has-transition-push {
-    transform: translateX(-250px);
-  }
 }
 
 .position-right.is-transition-push {
@@ -5347,21 +5309,8 @@ output {
   transform: translateY(-250px);
 }
 
-@media print, screen and (min-width: 40em) {
-  .position-top {
-    height: 250px;
-    transform: translateY(-250px);
-  }
-}
-
 .off-canvas-content .off-canvas.position-top {
   transform: translateY(-250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content .off-canvas.position-top {
-    transform: translateY(-250px);
-  }
 }
 
 .off-canvas-content .off-canvas.position-top.is-transition-overlap.is-open {
@@ -5370,12 +5319,6 @@ output {
 
 .off-canvas-content.is-open-top.has-transition-push {
   transform: translateY(250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content.is-open-top.has-transition-push {
-    transform: translateY(250px);
-  }
 }
 
 .position-top.is-transition-push {
@@ -5391,21 +5334,8 @@ output {
   transform: translateY(250px);
 }
 
-@media print, screen and (min-width: 40em) {
-  .position-bottom {
-    height: 250px;
-    transform: translateY(250px);
-  }
-}
-
 .off-canvas-content .off-canvas.position-bottom {
   transform: translateY(250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content .off-canvas.position-bottom {
-    transform: translateY(250px);
-  }
 }
 
 .off-canvas-content .off-canvas.position-bottom.is-transition-overlap.is-open {
@@ -5414,12 +5344,6 @@ output {
 
 .off-canvas-content.is-open-bottom.has-transition-push {
   transform: translateY(-250px);
-}
-
-@media print, screen and (min-width: 40em) {
-  .off-canvas-content.is-open-bottom.has-transition-push {
-    transform: translateY(-250px);
-  }
 }
 
 .position-bottom.is-transition-push {
