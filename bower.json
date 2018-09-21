@@ -1,18 +1,14 @@
 {
-  "name": "zurb-f6-boilerplate",
-  "version": "1.0.0",
+  "name": "houston-pals",
   "authors": [
-    "Nico Watine <nico@studioncreations.com> (http://nicowatine.me/)"
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
-  "description": "New project boilerplate using ZURB's 'Advanced' Foundation 6 framework",
-  "main": "gulpfile.js",
+  "description": "Repo for houstonpals.com, built on zurb-f6-boilerplate",
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
     "foundation-sites": "~6.3.0",
