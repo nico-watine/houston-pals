@@ -23,7 +23,7 @@ layout: index
 				</a>
 			</div>
 
-			<div class="cell title-bar show-for-small-only text-right" data-hide-for="medium">
+			<div class="cell title-bar text-right">
 				<a href="mailto:bill@houstonpals.com"><i class="icon email"></i></a>
 				<a href="tel:832-444-8384"><i class="icon phone"></i></a>
 				<div class="align-self-right cell auto">
