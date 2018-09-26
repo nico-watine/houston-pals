@@ -13,7 +13,7 @@ layout: index
 	<header class="header header-scrim">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
-				<a id="email" href="mailto:bill@houstonpals.com" class="normal">bill@houston<span class="green">P</span><span class="blue">A</span><span class="green">L</span><span class="blue">S</span>.com</a>
+				<a id="email" href="mailto:bill@houstonpals.com" class="normal">bill@houston<span class="green">P</span><span class="blue">A</span><span class="green">L</span><span> class="blue">S</span>.com</a>
 				<a href="https://www.facebook.com/pages/Pet-Artificial-Limbs-and-Supports/547234815361977" target="_blank"><img src="/img/assets/social-icons/facebook/facebook-blue.png" srcset="/img/assets/social-icons/facebook/facebook-blue_2x.png 2x" alt="Houston PALS Facebook Page Link"></a>
 			</aside>
 			<div class="large-5 cell text-center logo">
@@ -23,7 +23,7 @@ layout: index
 				</a>
 			</div>
 
-			<div class="cell title-bar text-right">
+			<div class="cell title-bar show-for-small-only text-right" data-responsive-toggle="top-bar-nav" data-hide-for="medium">
 				<a href="mailto:bill@houstonpals.com"><i class="icon email"></i></a>
 				<a href="tel:832-444-8384"><i class="icon phone"></i></a>
 				<div class="align-self-right cell auto">
@@ -34,7 +34,7 @@ layout: index
 
 			<div class="nav-wrapper large-auto align-middle cell grid-x">
 				<div class="cell align-middle">
-					<nav class="custom-dropdown-pane dropdown-pane text-center" data-dropdown data-close-on-click="true" id="top-bar-nav">
+					<nav class="custom-dropdown-pane dropdown-pane text-center" data-dropdown id="top-bar-nav">
 						<ul class="vertical medium-horizontal menu align-center">
 							<li><a href="/">Home</a></li>
 							<li><a href="/products.php">Products</a></li>
