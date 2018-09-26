@@ -13,6 +13,8 @@ UNCSS_OPTIONS:
   ignore:
   - !!js/regexp .foundation-mq
   - !!js/regexp ^\.is-.*
+  - "#top-bar-nav.dropdown-pane.is-open"
+  - "#top-bar-nav.dropdown-pane"
   - ".dropdown-pane.is-open"
   - ".is-reveal-open"
   - ".reveal-overlay"
