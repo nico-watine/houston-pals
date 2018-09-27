@@ -10732,17 +10732,6 @@ img.circle {
   padding-bottom: 2.5rem;
 }
 
-@media print, screen and (min-width: 64em) {
-  .splash .header,
-  .splash .hero-wrapper {
-    position: absolute;
-    width: 100%;
-  }
-  .splash .hero-wrapper {
-    top: 200px;
-  }
-}
-
 .splash .hero {
   background: #acc1d8 url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
   height: 320px;
@@ -10820,6 +10809,17 @@ img.circle {
 @media screen and (min-width: 100em) {
   .splash .dog-background {
     height: 800px;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .splash .header,
+  .splash .hero-wrapper {
+    position: absolute;
+    width: 100%;
+  }
+  .splash .hero-wrapper {
+    top: 200px;
   }
 }
 
