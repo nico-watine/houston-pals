@@ -7822,7 +7822,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/splash\/_header.scss": {
+	"\/scss\/pages\/index\/_splash.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -7830,20 +7830,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/index\/css\/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/splash\/_splash.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/index\/css\/_splash.css",
+		"oAP": "\/scss\/pages\/css\/_splash.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
