@@ -11614,7 +11614,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
-@media only screen and (min-width: 40em) and (max-width: 53.75em) {
+@media screen and (min-width: 40em) and (max-width: 53.75em) {
   body#products section.wide#product-definitions .product-block .description h2 {
     font-size: 1.875rem;
   }
@@ -11626,7 +11626,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
-@media only screen and (min-width: 40em) and (max-width: 53.75em) {
+@media screen and (min-width: 40em) and (max-width: 53.75em) {
   body#products section.wide#product-definitions .product-block .description h3 {
     font-size: 1.625rem;
   }
@@ -11639,7 +11639,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
-@media only screen and (min-width: 40em) and (max-width: 53.75em) {
+@media screen and (min-width: 40em) and (max-width: 53.75em) {
   body#products section.wide#product-definitions .product-block .description p {
     font-size: 1.125rem;
   }
@@ -11653,7 +11653,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
-@media only screen and (min-width: 40em) and (max-width: 53.75em) {
+@media screen and (min-width: 40em) and (max-width: 53.75em) {
   body#products section.wide#product-definitions .product-block .reasons p {
     font-size: 1.125rem;
   }
@@ -11667,7 +11667,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
-@media only screen and (min-width: 40em) and (max-width: 53.75em) {
+@media screen and (min-width: 40em) and (max-width: 53.75em) {
   body#products section.wide#product-definitions .product-block .reasons ul {
     font-size: 1.125rem;
   }
