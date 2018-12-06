@@ -65,13 +65,12 @@
 		"oAP": "/_ignores/hpals-online-presence-urls.txt",
 		"oF": 0
 		},
-	"/_ignores/json-schema.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/_ignores/json-schema-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
+	"/_ignores/json-schema.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_ignores/json-schema.html",
+		"oF": 0
 		},
 	"/_ignores/notes.txt": {
 		"cB": 0,
