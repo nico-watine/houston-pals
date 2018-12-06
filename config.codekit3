@@ -170,13 +170,6 @@
 		"oAP": "/_ignores/site-transition-pages/contact.php",
 		"oF": 0
 		},
-	"/_ignores/youtube-embed-links.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/youtube-embed-links.txt",
-		"oF": 0
-		},
 	"/assets/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
