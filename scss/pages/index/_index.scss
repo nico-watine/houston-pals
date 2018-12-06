@@ -63,7 +63,7 @@ body#index {
 				}
 			}
 
-			@media #{$max-width-760} {
+			@include breakpoint(760 down) {
 				padding-top: 0;
 			}
 

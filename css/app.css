@@ -11501,7 +11501,7 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
-@media only screen and (max-width: 47.5em) {
+@media screen and (max-width: 47.5em) {
   body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #tagline.content .vertical-wrapper h2, main .content-wrapper body#index #tagline.content .vertical-wrapper h2 {
     font-size: 2rem;
   }
@@ -11561,7 +11561,7 @@ body#index .row#intro .prose h2, body#index main .content-wrapper #intro.content
   }
 }
 
-@media only screen and (max-width: 47.5em) {
+@media screen and (max-width: 47.5em) {
   body#index .row#intro .prose, body#index main .content-wrapper #intro.content .prose, main .content-wrapper body#index #intro.content .prose {
     padding-top: 0;
   }
