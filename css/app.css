@@ -12046,7 +12046,7 @@ body#about .row#intro #profile-pic img, body#about main .content-wrapper #intro.
   }
 }
 
-@media only screen and (max-width: 47.5em) {
+@media screen and (max-width: 47.5em) {
   body#about .row#intro .prose, body#about main .content-wrapper #intro.content .prose, main .content-wrapper body#about #intro.content .prose {
     padding-top: 0;
   }
