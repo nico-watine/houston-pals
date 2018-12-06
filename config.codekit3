@@ -65,19 +65,19 @@
 		"oAP": "/_ignores/hpals-online-presence-urls.txt",
 		"oF": 0
 		},
-	"/_ignores/json-schema-examples.json": {
+	"/_ignores/json-schema.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/_ignores/json-schema-examples-min.json",
+		"oAP": "/_ignores/json-schema-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"/_ignores/misc-text.txt": {
+	"/_ignores/notes.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_ignores/misc-text.txt",
+		"oAP": "/_ignores/notes.txt",
 		"oF": 0
 		},
 	"/_ignores/PDF/get_adobe_reader.gif": {
