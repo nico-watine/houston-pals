@@ -29,12 +29,7 @@
 }
 
 a#colorful-name-hover {
-	// color: #000;
-	// text-shadow: 0 rem-calc(2) rem-calc(1) #fff;
-
 	&:hover {
-		// text-decoration: underline;
-
 		span.green {
 			color: #fff;
 			background: $light-green;
