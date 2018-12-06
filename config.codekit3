@@ -30,20 +30,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/_ignores/_notes.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/_ignores/_notes.txt",
-		"oF": 0
-		},
-	"/_ignores/blogging-article-ideas-plans.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/blogging-article-ideas-plans.txt",
-		"oF": 0
-		},
 	"/_ignores/google-site-verification.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -56,20 +42,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_ignores/google-tracking-snippet-notes.html",
-		"oF": 0
-		},
-	"/_ignores/head/favicon-linking.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_ignores/head/favicon-linking.html",
-		"oF": 0
-		},
-	"/_ignores/head/head-references.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_ignores/head/head-references.html",
 		"oF": 0
 		},
 	"/_ignores/houston-pals.sublime-project": {
@@ -93,68 +65,18 @@
 		"oAP": "/_ignores/hpals-online-presence-urls.txt",
 		"oF": 0
 		},
-	"/_ignores/json-schema-examples.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/_ignores/json-schema-examples-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/_ignores/misc-text.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/misc-text.txt",
-		"oF": 0
-		},
-	"/_ignores/misc/browser-upgrade-snippet.html": {
+	"/_ignores/json-schema.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/_ignores/misc/browser-upgrade-snippet.html",
+		"oAP": "/_ignores/json-schema.html",
 		"oF": 0
 		},
-	"/_ignores/old-htaccess.txt": {
+	"/_ignores/notes.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_ignores/old-htaccess.txt",
-		"oF": 0
-		},
-	"/_ignores/pages/403.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/403.html",
-		"oF": 0
-		},
-	"/_ignores/pages/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/404.html",
-		"oF": 0
-		},
-	"/_ignores/pages/about-pals.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/about-pals.php",
-		"oF": 0
-		},
-	"/_ignores/pages/blog.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/blog.php",
-		"oF": 0
-		},
-	"/_ignores/pages/contact.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/contact.php",
+		"oAP": "/_ignores/notes.txt",
 		"oF": 0
 		},
 	"/_ignores/PDF/get_adobe_reader.gif": {
@@ -219,11 +141,25 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/_ignores/youtube-embed-links.txt": {
+	"/_ignores/site-transition-pages/about-pals.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_ignores/youtube-embed-links.txt",
+		"oAP": "/_ignores/site-transition-pages/about-pals.php",
+		"oF": 0
+		},
+	"/_ignores/site-transition-pages/blog.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/site-transition-pages/blog.php",
+		"oF": 0
+		},
+	"/_ignores/site-transition-pages/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/site-transition-pages/contact.php",
 		"oF": 0
 		},
 	"/assets/.htaccess": {
@@ -5972,6 +5908,12 @@
 		"oAP": "/css/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
 		},
 	"/fonts/hpals/hpals.eot": {
 		"cB": 0,
