@@ -10435,7 +10435,7 @@ main .content-wrapper .content {
   padding: 0.75rem 0;
 }
 
-@media only screen and (max-width: 30em) {
+@media screen and (max-width: 30em) {
   main .content-wrapper .content {
     background-size: contain;
   }
