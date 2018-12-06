@@ -1,5 +1,4 @@
 
-$max-width-760: 'only screen and (max-width : 47.500em)';
 
 body#about {
 	.row#intro {
@@ -53,7 +52,7 @@ body#about {
 				}
 			}
 
-			@media #{$max-width-760} {
+			@include breakpoint(760 down) {
 				padding-top: 0;
 			}
 

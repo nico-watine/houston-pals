@@ -1,5 +1,4 @@
 
-$max-width-480: 'only screen and (max-width : 30.000em)';
 
 main {
 	background-image: linear-gradient(0deg, rgba(255,255,255,.00) 65%, rgba(255,255,255,.00) 65%, $light-green 100%);
@@ -12,7 +11,7 @@ main {
 			background: #fff url('#{$url}/img/assets/bg/paw/paw-shadow.png') right bottom no-repeat;
 			background-size: 480px 513px;
 
-			@media #{$max-width-480} {
+			@include breakpoint(480 down) {
 				background-size: contain;
 			}
 
