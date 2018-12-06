@@ -10370,7 +10370,7 @@ body {
 
 @media print, screen and (min-width: 64em) {
   .header-scrim {
-    background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0.5) 0%, transparent 100%);
+    background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 100%);
     height: 12.5rem;
   }
   .header-scrim a#email {
@@ -11901,7 +11901,7 @@ body#products section#product-image-gallery .gallery .ordering-button:hover {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(-180deg, transparent 38%, #000 100%);
+  background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 38%, #000 100%);
 }
 
 .priceCard .plaque {
@@ -12060,33 +12060,6 @@ body#about .row#intro #profile-pic img, body#about main .content-wrapper #intro.
 
 body#about .row#story, body#about main .content-wrapper #story.content, main .content-wrapper body#about #story.content {
   margin-bottom: 1.875rem;
-}
-
-body.coming-soon main .content-wrapper .content {
-  min-height: 25rem;
-}
-
-body.coming-soon #top-row {
-  padding-top: 4.375rem;
-  padding-bottom: 4.375rem;
-}
-
-@media screen and (max-width: 39.9375em) {
-  body.coming-soon #top-row {
-    text-align: center;
-  }
-  body.coming-soon #top-row h1 {
-    font-size: 2rem;
-  }
-  body.coming-soon #top-row h2 {
-    font-size: 1.375rem;
-  }
-}
-
-@media print, screen and (min-width: 40em) {
-  body.coming-soon main .content-wrapper .content {
-    min-height: 34.375rem;
-  }
 }
 
 .build-a-brace#build-a-brace .content {
