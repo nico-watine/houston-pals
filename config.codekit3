@@ -87,20 +87,6 @@
 		"oAP": "/_ignores/old-htaccess.txt",
 		"oF": 0
 		},
-	"/_ignores/pages/403.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/403.html",
-		"oF": 0
-		},
-	"/_ignores/pages/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/404.html",
-		"oF": 0
-		},
 	"/_ignores/pages/about-pals.php": {
 		"cB": 0,
 		"ft": 8192,
