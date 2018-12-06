@@ -80,13 +80,6 @@
 		"oAP": "/_ignores/misc-text.txt",
 		"oF": 0
 		},
-	"/_ignores/old-htaccess.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/old-htaccess.txt",
-		"oF": 0
-		},
 	"/_ignores/PDF/get_adobe_reader.gif": {
 		"ft": 4194304,
 		"iS": 2126,
