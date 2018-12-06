@@ -87,27 +87,6 @@
 		"oAP": "/_ignores/old-htaccess.txt",
 		"oF": 0
 		},
-	"/_ignores/pages/about-pals.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/about-pals.php",
-		"oF": 0
-		},
-	"/_ignores/pages/blog.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/blog.php",
-		"oF": 0
-		},
-	"/_ignores/pages/contact.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_ignores/pages/contact.php",
-		"oF": 0
-		},
 	"/_ignores/PDF/get_adobe_reader.gif": {
 		"ft": 4194304,
 		"iS": 2126,
@@ -169,6 +148,27 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/_ignores/site-transition-pages/about-pals.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/site-transition-pages/about-pals.php",
+		"oF": 0
+		},
+	"/_ignores/site-transition-pages/blog.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/site-transition-pages/blog.php",
+		"oF": 0
+		},
+	"/_ignores/site-transition-pages/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/site-transition-pages/contact.php",
+		"oF": 0
 		},
 	"/_ignores/youtube-embed-links.txt": {
 		"cB": 0,
