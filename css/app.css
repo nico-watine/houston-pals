@@ -10674,6 +10674,14 @@ img.circle {
   border-radius: 100%;
 }
 
+.svg-icon {
+  vertical-align: middle;
+}
+
+.svg-color-blue path {
+  fill: #30659b;
+}
+
 .p-x {
   padding: 0 1rem !important;
 }
