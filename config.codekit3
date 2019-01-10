@@ -7877,41 +7877,6 @@
 		"oAP": "/src/helpers/_notes.txt",
 		"oF": 0
 		},
-	"/src/layouts-production/_notes.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/src/layouts-production/_notes.txt",
-		"oF": 0
-		},
-	"/src/layouts-production/blank.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/src/layouts-production/blank.html",
-		"oF": 0
-		},
-	"/src/layouts-production/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/src/layouts-production/default.html",
-		"oF": 0
-		},
-	"/src/layouts-production/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/src/layouts-production/index.html",
-		"oF": 0
-		},
-	"/src/layouts-production/products.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/src/layouts-production/products.html",
-		"oF": 0
-		},
 	"/src/layouts/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,
