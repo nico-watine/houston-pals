@@ -5,6 +5,7 @@ description: Use our guided PALS Canine Design Center process to generate a visu
 og-title: Interactive Canine Design Center | Houston PALS
 og-description: Use our guided PALS Canine Design Center process to generate a visual mock-up of your pet’s unique injury solution.
 og-image: /img/product-builder/og-image/build-a-brace-og.png
+layout: default-jquery2
 body-id: build-a-brace
 body-class: build-a-brace
 ---
