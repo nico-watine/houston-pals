@@ -19,6 +19,7 @@ UNCSS_OPTIONS:
   - ".is-reveal-open"
   - ".reveal-overlay"
   - ".tooltip"
+  - ".svg-color-blue path"
 
 # Gulp will reference these paths when it copies files
 PATHS:
