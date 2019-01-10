@@ -10682,6 +10682,10 @@ img.circle {
   fill: #30659b;
 }
 
+.svg-color-white path {
+  fill: #fff;
+}
+
 .p-x {
   padding: 0 1rem !important;
 }
