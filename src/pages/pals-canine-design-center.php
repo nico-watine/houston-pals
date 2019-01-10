@@ -10,7 +10,7 @@ body-id: build-a-brace
 body-class: build-a-brace
 ---
 <section class="grid-x grid-padding-x page-intro">
-	<div class="cell medium-offset-1 medium-shrink">
+	<div class="cell medium-offset-1">
 		<h1 class="title" style="text-transform: none; letter-spacing: normal;"><a href="/pals-canine-design-center.php">PALS Canine Design Center</a></h1>
 		<div class="prose">
 			<p>Use our guided PALS Canine Design Center process to generate a visual mock-up of your pet’s unique injury solution.</p>
