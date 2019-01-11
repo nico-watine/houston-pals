@@ -69,18 +69,18 @@ $("#tan-coat").click(function(){$("#tan-coat").addClass("active"),$("#black-coat
 // Affected Limb
 $("#front-limb").click(function(){$("#front-limb").addClass("active"),$("#rear-limb, #front-prosthesis, #rear-orthosis, #rear-prosthesis, #front-orthosis").removeClass("active")}),$("#rear-limb").click(function(){$("#rear-limb").addClass("active"),$("#front-limb, #front-prosthesis, #rear-orthosis, #rear-prosthesis, #front-orthosis").removeClass("active")}),
 // Injury Solution
-$("#front-orthosis").click(function(){$("#front-orthosis").addClass("active"),$("#front-prosthesis, #rear-orthosis, #rear-prosthesis").removeClass("active")}),$("#front-prosthesis").click(function(){$("#front-prosthesis").addClass("active"),$("#front-orthosis, #rear-orthosis, #rear-prosthesis").removeClass("active")}),$("#rear-orthosis").click(function(){$("#rear-orthosis").addClass("active"),$("#rear-prosthesis, #front-orthosis, #front-prosthesis").removeClass("active")}),$("#rear-prosthesis").click(function(){$("#rear-prosthesis").addClass("active"),$("#rear-orthosis, #front-orthosis, #front-prosthesis").removeClass("active")}),
+$("#front-orthosis").click(function(){$("#front-orthosis").addClass("active"),$("#front-prosthesis, #rear-orthosis, #rear-prosthesis").removeClass("active")}),$("#front-prosthesis").click(function(){$("#front-prosthesis").addClass("active"),$("#front-orthosis, #rear-orthosis, #rear-prosthesis").removeClass("active")}),$("#rear-orthosis").click(function(){$("#rear-orthosis").addClass("active"),$("#rear-prosthesis, #front-orthosis, #front-prosthesis").removeClass("active")}),$("#rear-prosthesis").click(function(){$("#rear-prosthesis").addClass("active"),$("#rear-orthosis, #front-orthosis, #front-prosthesis").removeClass("active")}),$("#finish-1013").click(function(){$("#finish-1013").addClass("active"),$("#finish-1025").removeClass("active")}),$("#finish-1025").click(function(){$("#finish-1025").addClass("active"),$("#finish-1013").removeClass("active")}),
 /*
 * Replace all SVG images with inline SVG
 */
-jQuery("img.svg").each(function(){var s=jQuery(this),t=s.attr("id"),r=s.attr("class"),i=s.attr("src");jQuery.get(i,function(i){
+jQuery("img.svg").each(function(){var o=jQuery(this),t=o.attr("id"),r=o.attr("class"),i=o.attr("src");jQuery.get(i,function(i){
 // Get the SVG tag, ignore the rest
-var o=jQuery(i).find("svg");
+var s=jQuery(i).find("svg");
 // Add replaced image's ID to the new SVG
-void 0!==t&&(o=o.attr("id",t)),
+void 0!==t&&(s=s.attr("id",t)),
 // Add replaced image's classes to the new SVG
-void 0!==r&&(o=o.attr("class",r+" replaced-svg")),
+void 0!==r&&(s=s.attr("class",r+" replaced-svg")),
 // Remove any invalid XML tags as per http://validator.w3.org
-o=o.removeAttr("xmlns:a"),
+s=s.removeAttr("xmlns:a"),
 // Replace image with new SVG
-s.replaceWith(o)},"xml")});
+o.replaceWith(s)},"xml")});

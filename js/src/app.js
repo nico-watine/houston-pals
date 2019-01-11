@@ -141,6 +141,15 @@ $('#rear-prosthesis').click(function(){
 	$('#rear-orthosis, #front-orthosis, #front-prosthesis').removeClass('active');
 });
 
+$('#finish-1013').click(function(){
+	$('#finish-1013').addClass('active');
+	$('#finish-1025').removeClass('active');
+});
+
+$('#finish-1025').click(function(){
+	$('#finish-1025').addClass('active');
+	$('#finish-1013').removeClass('active');
+});
 
 /*
 * Replace all SVG images with inline SVG
