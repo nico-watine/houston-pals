@@ -195,6 +195,10 @@ $('.finish-1201').click(function(){
 	$('.finish-1025, .finish-1026, .finish-1050, .finish-1053, .finish-1060, .finish-1071, .finish-1083, .finish-1090, .finish-1013').removeClass('active');
 });
 
+// Reset choice after selecting new limb or injury-solution
+$('#front-limb, #rear-limb, #front-injury-orthotic-solution, #front-injury-prosthetic-solution, #rear-injury-orthotic-solution, #rear-injury-prosthetic-solution').click(function(){
+	$('.finish-1013, .finish-1025, .finish-1026, .finish-1050, .finish-1053, .finish-1060, .finish-1071, .finish-1083, .finish-1090, .finish-1201').removeClass('active');
+});
 
 // -------------------------------------------------------------
 // Replace all SVG images with inline SVG
