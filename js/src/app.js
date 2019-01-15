@@ -141,19 +141,64 @@ $('#rear-prosthesis').click(function(){
 	$('#rear-orthosis, #front-orthosis, #front-prosthesis').removeClass('active');
 });
 
+
+// -------------------------------------------------------------
+// Tailored-Finish resets function
+// -------------------------------------------------------------
 $('#finish-1013').click(function(){
 	$('#finish-1013').addClass('active');
-	$('#finish-1025').removeClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1053, #finish-1060, #finish-1071, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
 });
 
 $('#finish-1025').click(function(){
 	$('#finish-1025').addClass('active');
-	$('#finish-1013').removeClass('active');
+	$('#finish-1013, #finish-1026, #finish-1050, #finish-1053, #finish-1060, #finish-1071, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
 });
 
-/*
-* Replace all SVG images with inline SVG
-*/
+$('#finish-1026').click(function(){
+	$('#finish-1026').addClass('active');
+	$('#finish-1025, #finish-1013, #finish-1050, #finish-1053, #finish-1060, #finish-1071, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
+});
+
+$('#finish-1050').click(function(){
+	$('#finish-1050').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1013, #finish-1053, #finish-1060, #finish-1071, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
+});
+
+$('#finish-1053').click(function(){
+	$('#finish-1053').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1013, #finish-1060, #finish-1071, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
+});
+
+$('#finish-1060').click(function(){
+	$('#finish-1060').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1053, #finish-1013, #finish-1071, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
+});
+
+$('#finish-1071').click(function(){
+	$('#finish-1071').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1053, #finish-1060, #finish-1013, #finish-1083, #finish-1090, #finish-1201').removeClass('active');
+});
+
+$('#finish-1083').click(function(){
+	$('#finish-1083').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1053, #finish-1060, #finish-1071, #finish-1013, #finish-1090, #finish-1201').removeClass('active');
+});
+
+$('#finish-1090').click(function(){
+	$('#finish-1090').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1053, #finish-1060, #finish-1071, #finish-1083, #finish-1013, #finish-1201').removeClass('active');
+});
+
+$('#finish-1201').click(function(){
+	$('#finish-1201').addClass('active');
+	$('#finish-1025, #finish-1026, #finish-1050, #finish-1053, #finish-1060, #finish-1071, #finish-1083, #finish-1090, #finish-1013').removeClass('active');
+});
+
+
+// -------------------------------------------------------------
+// Replace all SVG images with inline SVG
+// -------------------------------------------------------------
 jQuery('img.svg').each(function(){
 	var $img = jQuery(this);
 	var imgID = $img.attr('id');
