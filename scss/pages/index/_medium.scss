@@ -1,5 +1,4 @@
 
-$max-width-760: 'only screen and (max-width : 47.500em)';
 
 @include breakpoint(medium) {
 	body#index {
@@ -28,7 +27,7 @@ $max-width-760: 'only screen and (max-width : 47.500em)';
 	}
 }
 
-@media #{$max-width-760} {
+@include breakpoint(760 down) {
 	body#index {
 		.row#tagline {
 			.vertical-wrapper {

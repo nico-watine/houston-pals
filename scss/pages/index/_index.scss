@@ -1,4 +1,4 @@
-@import 'splash/_splash.scss';
+@import '_splash.scss';
 @import '_block-banner.scss';
 @import '_build-a-brace.scss';
 @import '_common-questions.scss';
@@ -63,7 +63,7 @@ body#index {
 				}
 			}
 
-			@media #{$max-width-760} {
+			@include breakpoint(760 down) {
 				padding-top: 0;
 			}
 

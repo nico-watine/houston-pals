@@ -1,4 +1,14 @@
 
+@include breakpoint(small only) {
+	#top-bar-nav.dropdown-pane {
+		position: absolute !important;
+	}
+	#top-bar-nav.dropdown-pane.is-open {
+		visibility: visible !important;
+		display: block !important;
+	}
+}
+
 #top-bar-nav.dropdown-pane {
 	width: 100% !important;
 	left: 0 !important;
@@ -15,3 +25,5 @@
 		box-shadow: none;
 	}
 }
+
+

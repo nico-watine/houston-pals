@@ -1,6 +1,4 @@
 
-$max-width-860: 'only screen and (max-width : 53.750em)';
-
 @include breakpoint(medium) {
 	body#products {
 		.row.page-intro {
@@ -8,16 +6,14 @@ $max-width-860: 'only screen and (max-width : 53.750em)';
 		}
 
 		section.wide#product-definitions {
-			// padding: rem-calc(20);
 
 			.product-block {
-				// padding: rem-calc(20);
 
 				.description {
 					h2 {
 						margin: 0;
 
-						@media #{$max-width-860} {
+						@include breakpoint(860 down) {
 							font-size: rem-calc(30);
 						}
 					}
@@ -25,7 +21,7 @@ $max-width-860: 'only screen and (max-width : 53.750em)';
 					h3 {
 						margin-bottom: rem-calc(16);
 
-						@media #{$max-width-860} {
+						@include breakpoint(860 down) {
 							font-size: rem-calc(26);
 						}
 					}
@@ -34,7 +30,7 @@ $max-width-860: 'only screen and (max-width : 53.750em)';
 						font-size: rem-calc(20);
 						line-height: 1.4;
 
-						@media #{$max-width-860} {
+						@include breakpoint(860 down) {
 							font-size: rem-calc(18);
 						}
 					}
@@ -46,7 +42,7 @@ $max-width-860: 'only screen and (max-width : 53.750em)';
 						line-height: 1.4;
 						margin-bottom: rem-calc(8);
 
-						@media #{$max-width-860} {
+						@include breakpoint(860 down) {
 							font-size: rem-calc(18);
 						}
 					}
@@ -56,7 +52,7 @@ $max-width-860: 'only screen and (max-width : 53.750em)';
 						line-height: 1.4;
 						padding-left: rem-calc(10);
 
-						@media #{$max-width-860} {
+						@include breakpoint(860 down) {
 							font-size: rem-calc(18);
 						}
 					}

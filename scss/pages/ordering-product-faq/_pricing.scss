@@ -2,8 +2,10 @@
 .priceCard {
 	background: #f7f7f7;
 	box-shadow: $z-1;
+
 	.priceCard-header {
 		position: relative;
+
 		h4 {
 			position: absolute;
 			z-index: 10;
@@ -11,6 +13,7 @@
 			padding: 0 rem-calc(16);
 			color: #fff;
 		}
+
 		.image-scrim {
 			position: absolute;
 			width: 100%;
