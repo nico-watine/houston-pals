@@ -7891,6 +7891,13 @@
 		"oAP": "/src/layouts/blank.html",
 		"oF": 0
 		},
+	"/src/layouts/default-jquery2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/src/layouts/default-jquery2.html",
+		"oF": 0
+		},
 	"/src/layouts/default.html": {
 		"cB": 0,
 		"ft": 8192,
