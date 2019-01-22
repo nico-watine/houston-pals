@@ -306,13 +306,6 @@
 		"oAP": "/assets/robots.txt",
 		"oF": 0
 		},
-	"/assets/sitemap.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/sitemap.xml",
-		"oF": 0
-		},
 	"/assets/tile-wide.png": {
 		"ft": 32768,
 		"iS": 13256,
