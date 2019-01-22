@@ -55,7 +55,7 @@
 // |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
 // ------------------------------------------------------------------------------
 
-@import 'settings/_custom-settings.scss';
+@import '_var.scss';
 
 // BLOCKS ::
 @import 'blocks/_body.scss';
@@ -70,8 +70,10 @@
 @import 'components/_utility-classes.scss';
 @import 'components/_image-styles.scss';
 @import 'components/_metrics.scss';
+@import 'components/_extras.scss';
 @import 'components/_padding-margin.scss';
 @import 'components/_height-width.scss';
+@import 'components/_flexbox-utilities.scss';
 
 // PAGES ::
 @import 'pages/index/_index.scss';

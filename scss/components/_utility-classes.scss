@@ -12,3 +12,30 @@
 	-ms-flex-align: start;
 	align-items: flex-start;
 }
+
+
+// ------------------------------------
+// |            box-shadow            |
+// ------------------------------------
+
+.box-shadow-1 {
+	box-shadow: $z-1;
+}
+
+.box-shadow-2 {
+	box-shadow: $z-2;
+}
+
+.box-shadow-3 {
+	box-shadow: $z-3;
+}
+
+.box-shadow-4 {
+	box-shadow: $z-4;
+}
+
+.box-shadow-5 {
+	box-shadow: $z-5;
+}
+
+// ---------------------------------------------------------------------- //
