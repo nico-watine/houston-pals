@@ -11413,10 +11413,10 @@ img.circle {
     height: 370px;
   }
   .splash .hero h1 {
-    font-size: 2.5rem;
+    font-size: 2.375rem;
   }
   .splash .hero h3 {
-    font-size: 1.9375rem;
+    font-size: 1.75rem;
   }
 }
 
@@ -11467,7 +11467,7 @@ img.circle {
 
 @media screen and (min-width: 46.875em) {
   .index#index .block-banner .block-link .prose h3 {
-    font-size: 1.9375rem;
+    font-size: 1.75rem;
   }
   .index#index .block-banner .block-link .prose p {
     font-size: 1.125rem;
