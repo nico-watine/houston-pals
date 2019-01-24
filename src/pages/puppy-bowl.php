@@ -14,8 +14,11 @@ layout: blank
 		<div class="row">
 			<div class="columns text-center">
 				<div>
-					<h4 class="display-inline-block" style="padding: 4px 28px; background: #F7F7F7; border-radius: 4px; text-transform: uppercase; line-height: 1; letter-spacing: 0.5px;">Upcoming!</h4>
+					<h4 class="display-inline-block" style="padding: 4px 28px; background: #F7F7F7; border-radius: 4px; text-transform: uppercase; line-height: 1; letter-spacing: 0.5px; margin-bottom: 24px">Upcoming!</h4>
 				</div>
+				<h3 style="color: #fff; margin-bottom: 4px;" class="h4"><strong>Animal Planet’s <br><span class="h3 heading">Puppy Bowl 15</span></strong></h3>
+				<h4 style="color: #fff;"><strong>February 3, 2019</strong></h4>
+				<br>
 				<img src="/img/puppy-bowl/puppy-bowl-logo.png" style="width: 350px;" alt="">
 			</div>
 		</div>
