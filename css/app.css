@@ -11688,7 +11688,6 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   border: 2px solid #30659b;
   box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
   color: #30659b;
-  transform: translateY(-4px);
 }
 
 @media print, screen and (min-width: 64em) {

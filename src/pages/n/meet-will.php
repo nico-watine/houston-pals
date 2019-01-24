@@ -17,7 +17,7 @@ layout: blank
 					<h2 class="heading">Meet Will</h2>
 					<p>We’ve partnered with <strong>Doodle Rock Rescue</strong> in Dallas to rehabilitate Will and help him find a new home. On February 3, watch Will and his pals play in <strong>Animal Planet’s Puppy Bowl</strong> to spread adoption awareness.</p>
 					<p class="mb-32">Learn about Will’s inspiring story as he journeys towards health and home.</p>
-					<a href="#" class="page-link display-inline-block heading py-16 px-40">Read It</a>
+					<a href="#" class="button m-0 page-link display-inline-block heading py-16 px-40">Read It</a>
 				</div>
 			</div>
 			<div class="img-cell text-center medium-5 cell medium-text-right medium-order-1">
