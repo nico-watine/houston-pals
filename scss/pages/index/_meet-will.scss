@@ -1,14 +1,14 @@
 .meet-will-section {
-	// Prose Cell : ----------------------------------------------------------------
-	.prose-cell {
-		margin-bottom: 40px;
+	// Article Cell : ----------------------------------------------------------------
+	.article-cell {
+		margin-bottom: rem-calc(40);
 
 		@include breakpoint(medium) {
 			margin-bottom: 0;
 		}
 	}
 
-	.prose-container {
+	.meet-will-article {
 		background: #fefefe;
 		border: rem-calc(2) solid #30659b;
 		border-radius: rem-calc(16);
@@ -25,12 +25,12 @@
 			margin: initial;
 		}
 
-		h2 {
-			margin-bottom: 16px;
+		.article-title {
+			margin-bottom: rem-calc(16);
 			font-size: $h2-medium;
 
 			@include breakpoint(760) {
-				margin-bottom: 32px;
+				margin-bottom: rem-calc(32);
 			}
 		}
 
@@ -40,7 +40,7 @@
 			}
 
 			@include breakpoint(760) {
-				margin-bottom: 32px;
+				margin-bottom: rem-calc(32);
 				line-height: 1.6;
 			}
 
@@ -49,7 +49,7 @@
 			}
 		}
 
-		.page-link {
+		.article-page-link {
 			background: #30659b;
 			border: rem-calc(2) solid #fff;
 			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
@@ -60,7 +60,7 @@
 
 			&:hover {
 				background: #fff;
-				border: 2px solid #30659b;
+				border: rem-calc(2) solid #30659b;
 				box-shadow: $z-2;
 				color: $dark-blue;
 			}
@@ -72,7 +72,7 @@
 	}
 
 	// Image Cell : ----------------------------------------------------------------
-	img.will {
+	img.doggo {
 		border-radius: 24px;
 		width: 400px;
 
