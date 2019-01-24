@@ -11581,13 +11581,13 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 }
 
 .puppy-bowl-section .section-interior .tag {
-  padding: 4px 28px;
+  padding: 0.1875rem 1.75rem;
   background: #f7f7f7;
-  border-radius: 4px;
+  border-radius: 0.1875rem;
   text-transform: uppercase;
   line-height: 1;
-  letter-spacing: .5px;
-  margin-bottom: 24px;
+  letter-spacing: 0.03125rem;
+  margin-bottom: 1.5rem;
 }
 
 .puppy-bowl-section .puppy-bowl-logo-row hr {
