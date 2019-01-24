@@ -4334,14 +4334,14 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.0625rem;
+  font-size: 1rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: 0.875rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem;
@@ -4349,22 +4349,22 @@ h6, .h6 {
 
 @media print, screen and (min-width: 40em) {
   h1, .h1 {
-    font-size: 3rem;
+    font-size: 3.125rem;
   }
   h2, .h2 {
-    font-size: 2.5rem;
+    font-size: 2.375rem;
   }
   h3, .h3 {
-    font-size: 1.9375rem;
+    font-size: 1.75rem;
   }
   h4, .h4 {
-    font-size: 1.5625rem;
+    font-size: 1.3125rem;
   }
   h5, .h5 {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
   h6, .h6 {
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
 }
 
@@ -10604,58 +10604,6 @@ address {
   font-style: normal;
 }
 
-.p {
-  font-size: 1rem;
-}
-
-.h1 {
-  font-size: 2rem;
-}
-
-.h2 {
-  font-size: 1.625rem;
-}
-
-.h3 {
-  font-size: 1.375rem;
-}
-
-.h4 {
-  font-size: 1.125rem;
-}
-
-.h5 {
-  font-size: 1.0625rem;
-}
-
-.h6 {
-  font-size: 1rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .p {
-    font-size: 1.125rem;
-  }
-  .h1 {
-    font-size: 3rem;
-  }
-  .h2 {
-    font-size: 2.5rem;
-  }
-  .h3 {
-    font-size: 1.9375rem;
-  }
-  .h4 {
-    font-size: 1.5625rem;
-  }
-  .h5 {
-    font-size: 1.25rem;
-  }
-  .h6 {
-    font-size: 1rem;
-  }
-}
-
 .td-underline {
   text-decoration: underline;
 }
@@ -11465,10 +11413,10 @@ img.circle {
     height: 370px;
   }
   .splash .hero h1 {
-    font-size: 2.5rem;
+    font-size: 2.375rem;
   }
   .splash .hero h3 {
-    font-size: 1.9375rem;
+    font-size: 1.75rem;
   }
 }
 
@@ -11519,7 +11467,7 @@ img.circle {
 
 @media screen and (min-width: 46.875em) {
   .index#index .block-banner .block-link .prose h3 {
-    font-size: 1.9375rem;
+    font-size: 1.75rem;
   }
   .index#index .block-banner .block-link .prose p {
     font-size: 1.125rem;
