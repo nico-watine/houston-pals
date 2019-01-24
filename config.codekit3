@@ -417,6 +417,14 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/bower_components/foundation-sites/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -7288,6 +7296,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/puppy-bowl/football-field-grid.png": {
+		"ft": 32768,
+		"iS": 116872,
+		"oA": 0,
+		"oAP": "/img/puppy-bowl/football-field-grid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/puppy-bowl/puppy-bowl-logo.png": {
+		"ft": 32768,
+		"iS": 479576,
+		"oA": 0,
+		"oAP": "/img/puppy-bowl/puppy-bowl-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/js/app-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7970,6 +8000,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/src/pages/products.php",
+		"oF": 0
+		},
+	"/src/pages/puppy-bowl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/src/pages/puppy-bowl.php",
 		"oF": 0
 		},
 	"/src/partials/_notes.txt": {
