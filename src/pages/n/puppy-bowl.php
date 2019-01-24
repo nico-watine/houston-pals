@@ -25,7 +25,7 @@ layout: blank
 					<hr>
 				</div>
 				<div class="medium-4 cell">
-					<img src="/img/puppy-bowl/puppy-bowl-logo.png" alt="">
+					<img src="/img/index/puppy-bowl/puppy-bowl-logo.png" alt="">
 				</div>
 				<div class="medium-4 cell">
 					<hr>

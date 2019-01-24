@@ -266,7 +266,7 @@
 	"/assets/pdf/front-limb-injury.png": {
 		"ft": 32768,
 		"iS": 56808,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/assets/pdf/front-limb-injury.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -284,7 +284,7 @@
 	"/assets/pdf/rear-limb-injury.png": {
 		"ft": 32768,
 		"iS": 60307,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/assets/pdf/rear-limb-injury.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -5970,7 +5970,7 @@
 	"/img/assets/accents/dog/top-left.png": {
 		"ft": 32768,
 		"iS": 9793,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/accents/dog/top-left.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6003,7 +6003,7 @@
 	"/img/assets/bg/paw/paw.png": {
 		"ft": 32768,
 		"iS": 6606,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/bg/paw/paw.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6014,7 +6014,7 @@
 	"/img/assets/blank.png": {
 		"ft": 32768,
 		"iS": 95,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/blank.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6025,7 +6025,7 @@
 	"/img/assets/logo/logo-white-2.png": {
 		"ft": 32768,
 		"iS": 50179,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/logo/logo-white-2.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6036,7 +6036,7 @@
 	"/img/assets/logo/logo.png": {
 		"ft": 32768,
 		"iS": 10092,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/logo/logo.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6047,7 +6047,7 @@
 	"/img/assets/logo/logo@2x.png": {
 		"ft": 32768,
 		"iS": 22518,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/logo/logo@2x.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6069,7 +6069,7 @@
 	"/img/assets/schema/houston-pet-artificial-limbs-and-supports-logo.png": {
 		"ft": 32768,
 		"iS": 23934,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/assets/schema/houston-pet-artificial-limbs-and-supports-logo.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6146,7 +6146,7 @@
 		"ft": 16384,
 		"iS": 54241,
 		"jF": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/index/build-a-brace-block/build-a-brace.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -6156,7 +6156,7 @@
 	"/img/index/common-questions-block/dog-detail.png": {
 		"ft": 32768,
 		"iS": 16281,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/index/common-questions-block/dog-detail.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6189,8 +6189,52 @@
 	"/img/index/dog_circles.png": {
 		"ft": 32768,
 		"iS": 185106,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/index/dog_circles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/index/puppy-bowl/BAK/football-field-grid.png": {
+		"ft": 32768,
+		"iS": 116872,
+		"oA": 1,
+		"oAP": "/img/index/puppy-bowl/BAK/football-field-grid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/index/puppy-bowl/BAK/puppy-bowl-logo.png": {
+		"ft": 32768,
+		"iS": 479576,
+		"oA": 1,
+		"oAP": "/img/index/puppy-bowl/BAK/puppy-bowl-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/index/puppy-bowl/football-field-grid.png": {
+		"ft": 32768,
+		"iS": 28400,
+		"oA": 1,
+		"oAP": "/img/index/puppy-bowl/football-field-grid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/index/puppy-bowl/puppy-bowl-logo.png": {
+		"ft": 32768,
+		"iS": 42160,
+		"oA": 1,
+		"oAP": "/img/index/puppy-bowl/puppy-bowl-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6201,7 +6245,7 @@
 		"ft": 16384,
 		"iS": 202127,
 		"jF": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/index/splash/splash-large.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -6212,7 +6256,7 @@
 		"ft": 16384,
 		"iS": 169200,
 		"jF": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/index/splash/splash-medium.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -6223,7 +6267,7 @@
 		"ft": 16384,
 		"iS": 130972,
 		"jF": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/index/splash/splash-small.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -6265,7 +6309,7 @@
 	"/img/product-builder/affected-limb/front/front-icon.png": {
 		"ft": 32768,
 		"iS": 4684,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/affected-limb/front/front-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6276,7 +6320,7 @@
 	"/img/product-builder/affected-limb/front/front.png": {
 		"ft": 32768,
 		"iS": 9678,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/affected-limb/front/front.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6287,7 +6331,7 @@
 	"/img/product-builder/affected-limb/rear/rear-icon.png": {
 		"ft": 32768,
 		"iS": 5293,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/affected-limb/rear/rear-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6298,7 +6342,7 @@
 	"/img/product-builder/affected-limb/rear/rear.png": {
 		"ft": 32768,
 		"iS": 10931,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/affected-limb/rear/rear.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6309,7 +6353,7 @@
 	"/img/product-builder/coat-color/black.png": {
 		"ft": 32768,
 		"iS": 114,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/coat-color/black.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6320,7 +6364,7 @@
 	"/img/product-builder/coat-color/brown.png": {
 		"ft": 32768,
 		"iS": 114,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/coat-color/brown.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6331,7 +6375,7 @@
 	"/img/product-builder/coat-color/spotted.png": {
 		"ft": 32768,
 		"iS": 3294,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/coat-color/spotted.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6342,7 +6386,7 @@
 	"/img/product-builder/coat-color/tan.png": {
 		"ft": 32768,
 		"iS": 114,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/coat-color/tan.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6353,7 +6397,7 @@
 	"/img/product-builder/dog/black-dog.png": {
 		"ft": 32768,
 		"iS": 26151,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/dog/black-dog.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6364,7 +6408,7 @@
 	"/img/product-builder/dog/brown-dog.png": {
 		"ft": 32768,
 		"iS": 25976,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/dog/brown-dog.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6375,7 +6419,7 @@
 	"/img/product-builder/dog/tan-dog.png": {
 		"ft": 32768,
 		"iS": 26420,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/dog/tan-dog.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6386,7 +6430,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1013.png": {
 		"ft": 32768,
 		"iS": 273334,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1013.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6397,7 +6441,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1025.png": {
 		"ft": 32768,
 		"iS": 227878,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1025.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6408,7 +6452,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1026.png": {
 		"ft": 32768,
 		"iS": 208332,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1026.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6419,7 +6463,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1050.png": {
 		"ft": 32768,
 		"iS": 299941,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1050.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6430,7 +6474,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1053.png": {
 		"ft": 32768,
 		"iS": 283836,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1053.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6441,7 +6485,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1060.png": {
 		"ft": 32768,
 		"iS": 281271,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1060.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6452,7 +6496,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1071.png": {
 		"ft": 32768,
 		"iS": 145902,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1071.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6463,7 +6507,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1083.png": {
 		"ft": 32768,
 		"iS": 205222,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1083.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6474,7 +6518,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1090.png": {
 		"ft": 32768,
 		"iS": 303632,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1090.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6485,7 +6529,7 @@
 	"/img/product-builder/front/orthotic/front-orthotic-1201.png": {
 		"ft": 32768,
 		"iS": 234694,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/orthotic/front-orthotic-1201.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6496,7 +6540,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1013.png": {
 		"ft": 32768,
 		"iS": 23423,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1013.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6507,7 +6551,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1025.png": {
 		"ft": 32768,
 		"iS": 26815,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1025.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6518,7 +6562,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1026.png": {
 		"ft": 32768,
 		"iS": 26405,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1026.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6529,7 +6573,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1050.png": {
 		"ft": 32768,
 		"iS": 29987,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1050.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6540,7 +6584,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1053.png": {
 		"ft": 32768,
 		"iS": 28804,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1053.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6551,7 +6595,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1060.png": {
 		"ft": 32768,
 		"iS": 27853,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1060.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6562,7 +6606,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1071.png": {
 		"ft": 32768,
 		"iS": 23794,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1071.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6573,7 +6617,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1083.png": {
 		"ft": 32768,
 		"iS": 24800,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1083.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6584,7 +6628,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1090.png": {
 		"ft": 32768,
 		"iS": 33918,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1090.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6595,7 +6639,7 @@
 	"/img/product-builder/front/prosthetic/front-prosthetic-1201.png": {
 		"ft": 32768,
 		"iS": 33327,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/front/prosthetic/front-prosthetic-1201.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6606,7 +6650,7 @@
 	"/img/product-builder/injury-solution/front/front-orthotic-icon.png": {
 		"ft": 32768,
 		"iS": 3897,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/front/front-orthotic-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6617,7 +6661,7 @@
 	"/img/product-builder/injury-solution/front/front-orthotic.png": {
 		"ft": 32768,
 		"iS": 8050,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/front/front-orthotic.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6628,7 +6672,7 @@
 	"/img/product-builder/injury-solution/front/front-prosthesis.png": {
 		"ft": 32768,
 		"iS": 11415,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/front/front-prosthesis.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6639,7 +6683,7 @@
 	"/img/product-builder/injury-solution/front/front-prosthetic-icon.png": {
 		"ft": 32768,
 		"iS": 4874,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/front/front-prosthetic-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6650,7 +6694,7 @@
 	"/img/product-builder/injury-solution/rear/rear-orthosis-icon.png": {
 		"ft": 32768,
 		"iS": 8906,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/rear/rear-orthosis-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6661,7 +6705,7 @@
 	"/img/product-builder/injury-solution/rear/rear-orthosis.png": {
 		"ft": 32768,
 		"iS": 11124,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/rear/rear-orthosis.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6672,7 +6716,7 @@
 	"/img/product-builder/injury-solution/rear/rear-prosthesis-icon.png": {
 		"ft": 32768,
 		"iS": 5184,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/rear/rear-prosthesis-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6683,7 +6727,7 @@
 	"/img/product-builder/injury-solution/rear/rear-prosthesis.png": {
 		"ft": 32768,
 		"iS": 6819,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/injury-solution/rear/rear-prosthesis.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6694,7 +6738,7 @@
 	"/img/product-builder/og-image/build-a-brace-og.png": {
 		"ft": 32768,
 		"iS": 331751,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/og-image/build-a-brace-og.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6705,7 +6749,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1013.png": {
 		"ft": 32768,
 		"iS": 25452,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1013.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6716,7 +6760,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1025.png": {
 		"ft": 32768,
 		"iS": 28751,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1025.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6727,7 +6771,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1026.png": {
 		"ft": 32768,
 		"iS": 27588,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1026.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6738,7 +6782,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1050.png": {
 		"ft": 32768,
 		"iS": 31248,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1050.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6749,7 +6793,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1053.png": {
 		"ft": 32768,
 		"iS": 32218,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1053.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6760,7 +6804,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1060.png": {
 		"ft": 32768,
 		"iS": 30498,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1060.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6771,7 +6815,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1071.png": {
 		"ft": 32768,
 		"iS": 24924,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1071.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6782,7 +6826,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1083.png": {
 		"ft": 32768,
 		"iS": 27547,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1083.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6793,7 +6837,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1090.png": {
 		"ft": 32768,
 		"iS": 38417,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1090.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6804,7 +6848,7 @@
 	"/img/product-builder/rear/orthosis/rear-orthosis-1201.png": {
 		"ft": 32768,
 		"iS": 36705,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/orthosis/rear-orthosis-1201.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6815,7 +6859,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1013.png": {
 		"ft": 32768,
 		"iS": 22873,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1013.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6826,7 +6870,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1025.png": {
 		"ft": 32768,
 		"iS": 26169,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1025.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6837,7 +6881,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1026.png": {
 		"ft": 32768,
 		"iS": 25552,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1026.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6848,7 +6892,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1050.png": {
 		"ft": 32768,
 		"iS": 28062,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1050.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6859,7 +6903,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1053.png": {
 		"ft": 32768,
 		"iS": 28051,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1053.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6870,7 +6914,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1060.png": {
 		"ft": 32768,
 		"iS": 26093,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1060.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6881,7 +6925,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1071.png": {
 		"ft": 32768,
 		"iS": 23108,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1071.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6892,7 +6936,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1083.png": {
 		"ft": 32768,
 		"iS": 23645,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1083.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6903,7 +6947,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1090.png": {
 		"ft": 32768,
 		"iS": 33287,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1090.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6914,7 +6958,7 @@
 	"/img/product-builder/rear/prosthesis/rear-prosthesis-1201.png": {
 		"ft": 32768,
 		"iS": 31702,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/rear/prosthesis/rear-prosthesis-1201.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6925,7 +6969,7 @@
 	"/img/product-builder/tailored-finish/1013.png": {
 		"ft": 32768,
 		"iS": 68262,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1013.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6936,7 +6980,7 @@
 	"/img/product-builder/tailored-finish/1025.png": {
 		"ft": 32768,
 		"iS": 50956,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1025.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6947,7 +6991,7 @@
 	"/img/product-builder/tailored-finish/1026.png": {
 		"ft": 32768,
 		"iS": 58510,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1026.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6958,7 +7002,7 @@
 	"/img/product-builder/tailored-finish/1050.png": {
 		"ft": 32768,
 		"iS": 85137,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1050.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6969,7 +7013,7 @@
 	"/img/product-builder/tailored-finish/1053.png": {
 		"ft": 32768,
 		"iS": 72218,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1053.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6980,7 +7024,7 @@
 	"/img/product-builder/tailored-finish/1060.png": {
 		"ft": 32768,
 		"iS": 84921,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1060.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -6991,7 +7035,7 @@
 	"/img/product-builder/tailored-finish/1071.png": {
 		"ft": 32768,
 		"iS": 37165,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1071.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -7002,7 +7046,7 @@
 	"/img/product-builder/tailored-finish/1083.png": {
 		"ft": 32768,
 		"iS": 55772,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1083.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -7013,7 +7057,7 @@
 	"/img/product-builder/tailored-finish/1090.png": {
 		"ft": 32768,
 		"iS": 76474,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1090.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -7024,7 +7068,7 @@
 	"/img/product-builder/tailored-finish/1201.png": {
 		"ft": 32768,
 		"iS": 59350,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/product-builder/tailored-finish/1201.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -7294,28 +7338,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"/img/puppy-bowl/football-field-grid.png": {
-		"ft": 32768,
-		"iS": 116872,
-		"oA": 0,
-		"oAP": "/img/puppy-bowl/football-field-grid.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/puppy-bowl/puppy-bowl-logo.png": {
-		"ft": 32768,
-		"iS": 479576,
-		"oA": 0,
-		"oAP": "/img/puppy-bowl/puppy-bowl-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/js/app-min.js": {
@@ -9843,7 +9865,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.gif",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -9866,7 +9888,7 @@
 		"useUnixNewlines": 0
 		},
 	"languageDefaultsJPG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.jpg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -9955,7 +9977,7 @@
 		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
