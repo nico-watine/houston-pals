@@ -11613,7 +11613,7 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 .meet-will-section img.will {
   border-radius: 24px;
-  max-width: 370px;
+  width: 370px;
 }
 
 .meet-will-section .prose-container {
@@ -11623,6 +11623,17 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   max-width: 37.5rem;
 }
 
+.meet-will-section .prose-container p {
+  line-height: 1.5;
+}
+
+@media print, screen and (min-width: 64em) {
+  .meet-will-section .prose-container p {
+    font-size: 1.25rem;
+    line-height: 1.6;
+  }
+}
+
 .meet-will-section .prose-container .page-link {
   background: #30659b;
   border: 0.125rem solid #fff;
@@ -11630,6 +11641,13 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   border-radius: 0.75rem;
   line-height: 1;
   color: #fff;
+  font-size: 1.3125rem;
+}
+
+@media print, screen and (min-width: 64em) {
+  .meet-will-section .prose-container .page-link {
+    font-size: 1.75rem;
+  }
 }
 
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {
