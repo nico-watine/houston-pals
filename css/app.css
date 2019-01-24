@@ -11612,12 +11612,12 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
-.meet-will-section .prose-cell {
+.meet-will-section .article-cell {
   margin-bottom: 40px;
 }
 
 @media print, screen and (min-width: 40em) {
-  .meet-will-section .prose-cell {
+  .meet-will-section .article-cell {
     margin-bottom: 0;
   }
 }

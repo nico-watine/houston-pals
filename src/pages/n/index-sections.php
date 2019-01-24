@@ -37,7 +37,7 @@ layout: blank
 <section class="meet-will-section py-40">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-middle">
-			<div class="prose-cell medium-7 cell medium-order-2">
+			<div class="article-cell medium-7 cell medium-order-2">
 				<article class="meet-will-article p-16">
 					<h2 class="article-title heading">Meet Will</h2>
 					<p>We’ve partnered with <strong>Doodle Rock Rescue</strong> in Dallas to rehabilitate Will and help him find a new home. On February 3, watch Will and his pals play in <strong>Animal Planet’s Puppy Bowl</strong> to spread adoption awareness.</p>
