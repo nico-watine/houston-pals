@@ -20,7 +20,7 @@ layout: blank
 					<a href="#" class="page-link display-inline-block heading py-16 px-40">Read It</a>
 				</div>
 			</div>
-			<div class="img-cell medium-5 cell medium-text-right medium-order-1">
+			<div class="img-cell text-center medium-5 cell medium-text-right medium-order-1">
 				<img class="will" src="/img/index/meet-will/puppy-bowl-meet-will.jpg" alt="">
 			</div>
 		</div>
