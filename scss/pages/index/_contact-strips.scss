@@ -4,9 +4,14 @@
 	.contact-link {
 		font-size: $h3-medium;
 		color: #fff;
+		display: inline-block;
 
 		&:hover {
 			text-decoration: underline;
+		}
+
+		@include breakpoint(medium) {
+			margin-bottom: 0;
 		}
 	}
 }

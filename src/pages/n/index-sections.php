@@ -66,7 +66,7 @@ layout: blank
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-center">
 			<div class="auto shrink cell medium-text-right">
-				<a href="mailto:bill@houstonpals.com" class="contact-link"><strong>bill@houstonpals.com</strong></a>
+				<a href="mailto:bill@houstonpals.com" class="contact-link mb-16"><strong>bill@houstonpals.com</strong></a>
 			</div>
 				<div class="auto shrink cell">
 				<a href="" class="contact-link"><strong>(832) 444-8384</strong></a>

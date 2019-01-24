@@ -11715,10 +11715,17 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 .contact-strip-section .contact-link {
   font-size: 1.75rem;
   color: #fff;
+  display: inline-block;
 }
 
 .contact-strip-section .contact-link:hover {
   text-decoration: underline;
+}
+
+@media print, screen and (min-width: 40em) {
+  .contact-strip-section .contact-link {
+    margin-bottom: 0;
+  }
 }
 
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {
