@@ -11622,7 +11622,7 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
-.meet-will-section .prose-container {
+.meet-will-section .meet-will-article {
   background: #fefefe;
   border: 0.125rem solid #30659b;
   border-radius: 1rem;
@@ -11631,50 +11631,50 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 }
 
 @media print, screen and (min-width: 40em) {
-  .meet-will-section .prose-container {
+  .meet-will-section .meet-will-article {
     max-width: 31.25rem;
     margin: initial;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .meet-will-section .prose-container {
+  .meet-will-section .meet-will-article {
     max-width: 37.5rem;
     margin: initial;
   }
 }
 
-.meet-will-section .prose-container h2 {
+.meet-will-section .meet-will-article .article-title {
   margin-bottom: 16px;
   font-size: 2.375rem;
 }
 
 @media screen and (min-width: 47.5em) {
-  .meet-will-section .prose-container h2 {
+  .meet-will-section .meet-will-article .article-title {
     margin-bottom: 32px;
   }
 }
 
 @media print, screen and (min-width: 40em) {
-  .meet-will-section .prose-container p {
+  .meet-will-section .meet-will-article p {
     line-height: 1.5;
   }
 }
 
 @media screen and (min-width: 47.5em) {
-  .meet-will-section .prose-container p {
+  .meet-will-section .meet-will-article p {
     margin-bottom: 32px;
     line-height: 1.6;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .meet-will-section .prose-container p {
+  .meet-will-section .meet-will-article p {
     font-size: 1.25rem;
   }
 }
 
-.meet-will-section .prose-container .page-link {
+.meet-will-section .meet-will-article .article-page-link {
   background: #30659b;
   border: 0.125rem solid #fff;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
@@ -11684,7 +11684,7 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   font-size: 1.3125rem;
 }
 
-.meet-will-section .prose-container .page-link:hover {
+.meet-will-section .meet-will-article .article-page-link:hover {
   background: #fff;
   border: 2px solid #30659b;
   box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
@@ -11692,18 +11692,18 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 }
 
 @media print, screen and (min-width: 64em) {
-  .meet-will-section .prose-container .page-link {
+  .meet-will-section .meet-will-article .article-page-link {
     font-size: 1.75rem;
   }
 }
 
-.meet-will-section img.will {
+.meet-will-section img.doggo {
   border-radius: 24px;
   width: 400px;
 }
 
 @media print, screen and (min-width: 40em) {
-  .meet-will-section img.will {
+  .meet-will-section img.doggo {
     width: 370px;
   }
 }
