@@ -19,18 +19,19 @@ layout: blank
 				<h3 style="color: #fff;"><strong>Animal Planet’s <br><span style="text-transform: uppercase; letter-spacing: 1px;" class="h2 heading">Puppy Bowl 15</span></strong></h3>
 				<h4 style="color: #fff;"><strong>February 3, 2019</strong></h4>
 				<br>
-				<!-- <img src="/img/puppy-bowl/puppy-bowl-logo.png" style="width: 350px;" alt=""> -->
 			</div>
 		</div>
-		<div class="row">
-			<div class="medium-4 columns">
-				<hr style="border-bottom: 4px solid #FFFFFF;">
-			</div>
-			<div class="medium-4 columns">
-				<img src="/img/puppy-bowl/puppy-bowl-logo.png" style="width: 350px;" alt="">
-			</div>
-			<div class="medium-4 columns">
-				<hr style="border-bottom: 4px solid #FFFFFF;">
+		<div class="grid-container">
+			<div class="grid-x grid-padding-x align-middle text-center">
+				<div class="medium-4 cell">
+					<hr style="border-bottom: 4px solid #FFFFFF;">
+				</div>
+				<div class="medium-4 cell">
+					<img src="/img/puppy-bowl/puppy-bowl-logo.png" style="width: 350px;" alt="">
+				</div>
+				<div class="medium-4 cell">
+					<hr style="border-bottom: 4px solid #FFFFFF;">
+				</div>
 			</div>
 		</div>
 	</div>
