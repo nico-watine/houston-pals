@@ -11559,6 +11559,10 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
+.puppy-bowl-section {
+  background: #28A501 url("/img/puppy-bowl/football-field-grid.png") center center/cover no-repeat;
+}
+
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {
   margin-bottom: 1.5625rem;
   padding-top: 1.25rem;
