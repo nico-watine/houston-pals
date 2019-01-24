@@ -1,7 +1,7 @@
 .meet-will-section {
 	// Article Cell : ----------------------------------------------------------------
 	.article-cell {
-		margin-bottom: 40px;
+		margin-bottom: rem-calc(40);
 
 		@include breakpoint(medium) {
 			margin-bottom: 0;
@@ -26,11 +26,11 @@
 		}
 
 		.article-title {
-			margin-bottom: 16px;
+			margin-bottom: rem-calc(16);
 			font-size: $h2-medium;
 
 			@include breakpoint(760) {
-				margin-bottom: 32px;
+				margin-bottom: rem-calc(32);
 			}
 		}
 
@@ -40,7 +40,7 @@
 			}
 
 			@include breakpoint(760) {
-				margin-bottom: 32px;
+				margin-bottom: rem-calc(32);
 				line-height: 1.6;
 			}
 
@@ -60,7 +60,7 @@
 
 			&:hover {
 				background: #fff;
-				border: 2px solid #30659b;
+				border: rem-calc(2) solid #30659b;
 				box-shadow: $z-2;
 				color: $dark-blue;
 			}
