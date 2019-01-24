@@ -13,6 +13,9 @@ layout: blank
 	<div class="section-interior" style="background: rgba(48,101,155,0.80); padding: 40px 0;">
 		<div class="row">
 			<div class="columns text-center">
+				<div>
+					<h4 class="display-inline-block" style="padding: 4px 28px; background: #F7F7F7; border-radius: 4px; text-transform: uppercase; line-height: 1; letter-spacing: 0.5px;">Upcoming!</h4>
+				</div>
 				<img src="/img/puppy-bowl/puppy-bowl-logo.png" style="width: 350px;" alt="">
 			</div>
 		</div>
