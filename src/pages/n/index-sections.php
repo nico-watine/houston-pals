@@ -51,7 +51,7 @@ layout: blank
 		</div>
 	</div>
 </section>
-<section class="contact-strip-section py-40">
+<!-- <section class="contact-strip-section py-40">
 	<div class="row ">
 		<div class="medium-6 columns medium-text-right">
 			<a href="mailto:bill@houstonpals.com" class="contact-link"><strong>bill@houstonpals.com</strong></a>
@@ -61,7 +61,7 @@ layout: blank
 		</div>
 	</div>
 </section>
-<br>
+<br> -->
 <section class="contact-strip-section py-40">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-center">
