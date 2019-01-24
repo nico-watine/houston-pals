@@ -16,6 +16,11 @@
 		margin: 0 auto;
 
 		@include breakpoint(medium) {
+			max-width: rem-calc(500);
+			margin: initial;
+		}
+
+		@include breakpoint(large) {
 			max-width: rem-calc(600);
 			margin: initial;
 		}

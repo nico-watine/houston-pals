@@ -11631,6 +11631,13 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 @media print, screen and (min-width: 40em) {
   .meet-will-section .prose-container {
+    max-width: 31.25rem;
+    margin: initial;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .meet-will-section .prose-container {
     max-width: 37.5rem;
     margin: initial;
   }
