@@ -11,7 +11,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "foundation-sites": "^6.4.3",
+    "foundation-sites": "6.4.3",
     "motion-ui": "~1.2.2",
     "normalize-css": "^4.2.0",
     "slick-carousel": "^1.6.0"
