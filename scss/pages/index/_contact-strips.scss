@@ -1,0 +1,12 @@
+.contact-strip-section {
+	background: $dark-blue;
+
+	.contact-link {
+		font-size: $h3-medium;
+		color: #fff;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

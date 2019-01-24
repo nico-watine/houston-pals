@@ -51,3 +51,13 @@ layout: blank
 		</div>
 	</div>
 </section>
+<section class="contact-strip-section py-40">
+	<div class="row ">
+		<div class="medium-6 columns medium-text-right">
+			<a href="mailto:bill@houstonpals.com" class="contact-link"><strong>bill@houstonpals.com</strong></a>
+		</div>
+			<div class="medium-6 columns">
+			<a href="" class="contact-link"><strong>(832) 444-8384</strong></a>
+		</div>
+	</div>
+</section>
