@@ -7994,6 +7994,13 @@
 		"oAP": "/src/pages/index.php",
 		"oF": 0
 		},
+	"/src/pages/n/puppy-bowl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/src/pages/n/puppy-bowl.php",
+		"oF": 0
+		},
 	"/src/pages/ordering-product-faq.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -8013,13 +8020,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/src/pages/products.php",
-		"oF": 0
-		},
-	"/src/pages/puppy-bowl.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/src/pages/puppy-bowl.php",
 		"oF": 0
 		},
 	"/src/partials/_notes.txt": {
