@@ -6,15 +6,15 @@
 
 	.prose-container {
 		background: #fefefe;
-		border: 2px solid #30659b;
-		border-radius: 16px;
-		max-width: 600px;
+		border: rem-calc(2) solid #30659b;
+		border-radius: rem-calc(16);
+		max-width: rem-calc(600);
 
 		.page-link {
 			background: #30659b;
-			border: 2px solid #fff;
-			box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
-			border-radius: 12px;
+			border: rem-calc(2) solid #fff;
+			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
+			border-radius: rem-calc(12);
 			line-height: 1;
 			color: #fff;
 		}

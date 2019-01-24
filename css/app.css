@@ -11618,16 +11618,16 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 .meet-will-section .prose-container {
   background: #fefefe;
-  border: 2px solid #30659b;
-  border-radius: 16px;
-  max-width: 600px;
+  border: 0.125rem solid #30659b;
+  border-radius: 1rem;
+  max-width: 37.5rem;
 }
 
 .meet-will-section .prose-container .page-link {
   background: #30659b;
-  border: 2px solid #fff;
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-  border-radius: 12px;
+  border: 0.125rem solid #fff;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
   line-height: 1;
   color: #fff;
 }
