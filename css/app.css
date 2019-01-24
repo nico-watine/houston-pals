@@ -11611,6 +11611,27 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
+.meet-will-section img.will {
+  border-radius: 24px;
+  max-width: 370px;
+}
+
+.meet-will-section .prose-container {
+  background: #fefefe;
+  border: 2px solid #30659b;
+  border-radius: 16px;
+  max-width: 600px;
+}
+
+.meet-will-section .prose-container .page-link {
+  background: #30659b;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  border-radius: 12px;
+  line-height: 1;
+  color: #fff;
+}
+
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {
   margin-bottom: 1.5625rem;
   padding-top: 1.25rem;
