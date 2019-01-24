@@ -11616,6 +11616,16 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   width: 370px;
 }
 
+.meet-will-section .prose-cell {
+  margin-bottom: 40px;
+}
+
+@media print, screen and (min-width: 40em) {
+  .meet-will-section .prose-cell {
+    margin-bottom: 0;
+  }
+}
+
 .meet-will-section .prose-container {
   background: #fefefe;
   border: 0.125rem solid #30659b;

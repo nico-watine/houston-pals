@@ -4,6 +4,14 @@
 		width: 370px;
 	}
 
+	.prose-cell {
+		margin-bottom: 40px;
+
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+		}
+	}
+
 	.prose-container {
 		background: #fefefe;
 		border: rem-calc(2) solid #30659b;
