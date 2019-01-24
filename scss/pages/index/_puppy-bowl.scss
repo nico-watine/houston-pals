@@ -1,3 +1,17 @@
 .puppy-bowl-section {
-	background: #28A501 url("/img/puppy-bowl/football-field-grid.png") center center/cover no-repeat;
+	background: #28a501 url('/img/puppy-bowl/football-field-grid.png') center center/cover no-repeat;
+
+	.section-interior {
+		background: rgba(48,101,155,.80);
+
+		.tag {
+			padding: 4px 28px;
+			background: #f7f7f7;
+			border-radius: 4px;
+			text-transform: uppercase;
+			line-height: 1;
+			letter-spacing: .5px;
+			margin-bottom: 24px;
+		}
+	}
 }

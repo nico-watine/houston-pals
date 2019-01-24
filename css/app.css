@@ -11560,7 +11560,21 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 }
 
 .puppy-bowl-section {
-  background: #28A501 url("/img/puppy-bowl/football-field-grid.png") center center/cover no-repeat;
+  background: #28a501 url("/img/puppy-bowl/football-field-grid.png") center center/cover no-repeat;
+}
+
+.puppy-bowl-section .section-interior {
+  background: rgba(48, 101, 155, 0.8);
+}
+
+.puppy-bowl-section .section-interior .tag {
+  padding: 4px 28px;
+  background: #f7f7f7;
+  border-radius: 4px;
+  text-transform: uppercase;
+  line-height: 1;
+  letter-spacing: .5px;
+  margin-bottom: 24px;
 }
 
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {
