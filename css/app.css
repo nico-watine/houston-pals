@@ -10592,7 +10592,8 @@ a#colorful-name-hover:hover span.blue {
   background: #30659b;
 }
 
-.white {
+.white,
+.color-white {
   color: #fefefe;
 }
 
@@ -11575,6 +11576,14 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   line-height: 1;
   letter-spacing: .5px;
   margin-bottom: 24px;
+}
+
+.puppy-bowl-section .puppy-bowl-logo-row hr {
+  border-bottom: 4px solid #fff;
+}
+
+.puppy-bowl-section .puppy-bowl-logo-row img {
+  width: 350px;
 }
 
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {

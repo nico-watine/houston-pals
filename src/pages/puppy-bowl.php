@@ -14,21 +14,21 @@ layout: blank
 		<div class="row">
 			<div class="columns text-center">
 				<h4 class="display-inline-block tag">Upcoming!</h4>
-				<h3 style="color: #fff;"><strong>Animal Planet’s <br><span style="text-transform: uppercase; letter-spacing: 1px;" class="h2 heading">Puppy Bowl 15</span></strong></h3>
-				<h4 style="color: #fff;"><strong>February 3, 2019</strong></h4>
+				<h3 class="announcement color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
+				<h4 class="color-white"><strong>February 3, 2019</strong></h4>
 				<br>
 			</div>
 		</div>
 		<div class="grid-container">
-			<div class="grid-x grid-padding-x align-middle text-center">
+			<div class="grid-x grid-padding-x align-middle text-center puppy-bowl-logo-row">
 				<div class="medium-4 cell">
-					<hr style="border-bottom: 4px solid #FFFFFF;">
+					<hr>
 				</div>
 				<div class="medium-4 cell">
-					<img src="/img/puppy-bowl/puppy-bowl-logo.png" style="width: 350px;" alt="">
+					<img src="/img/puppy-bowl/puppy-bowl-logo.png" alt="">
 				</div>
 				<div class="medium-4 cell">
-					<hr style="border-bottom: 4px solid #FFFFFF;">
+					<hr>
 				</div>
 			</div>
 		</div>
