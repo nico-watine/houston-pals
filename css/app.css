@@ -11623,8 +11623,24 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   max-width: 37.5rem;
 }
 
+.meet-will-section .prose-container h2 {
+  margin-bottom: 16px;
+}
+
+@media screen and (min-width: 47.5em) {
+  .meet-will-section .prose-container h2 {
+    margin-bottom: 32px;
+  }
+}
+
 .meet-will-section .prose-container p {
   line-height: 1.5;
+}
+
+@media screen and (min-width: 47.5em) {
+  .meet-will-section .prose-container p {
+    margin-bottom: 32px;
+  }
 }
 
 @media print, screen and (min-width: 64em) {
