@@ -11568,26 +11568,27 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   background: rgba(48, 101, 155, 0.8);
 }
 
-.puppy-bowl-section .section-interior .h2 {
-  font-size: 2.375rem;
-}
-
-.puppy-bowl-section .section-interior .h3 {
-  font-size: 1.75rem;
-}
-
-.puppy-bowl-section .section-interior .h4 {
-  font-size: 1.3125rem;
-}
-
-.puppy-bowl-section .section-interior .tag {
+.puppy-bowl-section .section-interior .event-announcement {
   padding: 0.1875rem 1.75rem;
   background: #f7f7f7;
+  font-size: 1.3125rem;
   border-radius: 0.1875rem;
   text-transform: uppercase;
   line-height: 1;
   letter-spacing: 0.03125rem;
   margin-bottom: 1.5rem;
+}
+
+.puppy-bowl-section .section-interior .event-title {
+  font-size: 1.75rem;
+}
+
+.puppy-bowl-section .section-interior .h2 {
+  font-size: 2.375rem;
+}
+
+.puppy-bowl-section .section-interior .event-date {
+  font-size: 1.3125rem;
 }
 
 .puppy-bowl-section .puppy-bowl-logo-row hr {
@@ -11601,12 +11602,12 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
-.puppy-bowl-section .puppy-bowl-logo-row img {
+.puppy-bowl-section .puppy-bowl-logo-row img.logo {
   width: 250px;
 }
 
 @media print, screen and (min-width: 40em) {
-  .puppy-bowl-section .puppy-bowl-logo-row img {
+  .puppy-bowl-section .puppy-bowl-logo-row img.logo {
     width: 350px;
   }
 }

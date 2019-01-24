@@ -13,9 +13,9 @@ layout: blank
 	<div class="section-interior py-40">
 		<div class="row">
 			<div class="columns text-center">
-				<h4 class="h4 display-inline-block tag">Upcoming!</h4>
-				<h3 class="h3 announcement color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
-				<h4 class="h4 color-white"><strong>February 3, 2019</strong></h4>
+				<h4 class="display-inline-block announcement-tag event-announcement">Upcoming!</h4>
+				<h3 class="event-title color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
+				<h4 class="event-date announcement-date color-white"><strong>February 3, 2019</strong></h4>
 				<br>
 			</div>
 		</div>
@@ -25,7 +25,7 @@ layout: blank
 					<hr>
 				</div>
 				<div class="medium-4 cell">
-					<img src="/img/index/puppy-bowl/puppy-bowl-logo.png" alt="">
+					<img class="logo" src="/img/index/puppy-bowl/puppy-bowl-logo.png" alt="">
 				</div>
 				<div class="medium-4 cell">
 					<hr>
