@@ -58,6 +58,14 @@
 			color: #fff;
 			font-size: $h4-medium;
 
+			&:hover {
+				background: #fff;
+				border: 2px solid #30659b;
+				box-shadow: $z-2;
+				color: $dark-blue;
+				transform: translateY(-4px);
+			}
+
 			@include breakpoint(large) {
 				font-size: $h3-medium;
 			}
