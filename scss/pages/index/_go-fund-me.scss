@@ -1,10 +1,15 @@
 .go-fund-me-section {
+	.go-fund-me-article {
+		max-width: rem-calc(420);
+		margin: 0 auto;
+	}
+
 	.go-fund-me-page-link {
 		background: #fff;
 		box-shadow: $z-1;
-		border-radius: 12px;
-		border: 4px solid #00B964;
-		padding: 4px 32px;
+		border-radius: rem-calc(12);
+		border: rem-calc(4) solid #00B964;
+		padding: rem-calc(4) rem-calc(32);
 
 		&:hover {
 			box-shadow: $z-3;
