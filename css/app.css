@@ -11736,6 +11736,10 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   padding: 4px 32px;
 }
 
+.go-fund-me-section .go-fund-me-page-link:hover {
+  box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3);
+}
+
 body#index .row#intro, body#index main .content-wrapper #intro.content, main .content-wrapper body#index #intro.content {
   margin-bottom: 1.5625rem;
   padding-top: 1.25rem;
