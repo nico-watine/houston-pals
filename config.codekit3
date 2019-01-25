@@ -6197,6 +6197,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/index/go-fund-me/go-fund-me-logo.png": {
+		"ft": 32768,
+		"iS": 1639,
+		"oA": 1,
+		"oAP": "/img/index/go-fund-me/go-fund-me-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/index/go-fund-me/video-holder.png": {
+		"ft": 32768,
+		"iS": 199266,
+		"oA": 1,
+		"oAP": "/img/index/go-fund-me/video-holder.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/index/meet-will/puppy-bowl-meet-will.jpg": {
 		"ft": 16384,
 		"iS": 142217,
