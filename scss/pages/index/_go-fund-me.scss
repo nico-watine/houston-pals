@@ -1,7 +1,16 @@
 .go-fund-me-section {
+	.pals-promo-video {
+		max-width: 700px;
+		margin: 0 auto;
+	}
+
 	.go-fund-me-article {
 		max-width: rem-calc(420);
 		margin: 0 auto;
+
+		@include breakpoint(large) {
+			margin: 0;
+		}
 	}
 
 	.go-fund-me-page-link {

@@ -11728,9 +11728,20 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
+.go-fund-me-section .pals-promo-video {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
 .go-fund-me-section .go-fund-me-article {
   max-width: 26.25rem;
   margin: 0 auto;
+}
+
+@media print, screen and (min-width: 64em) {
+  .go-fund-me-section .go-fund-me-article {
+    margin: 0;
+  }
 }
 
 .go-fund-me-section .go-fund-me-page-link {
