@@ -68,7 +68,11 @@ layout: blank
 		<div class="grid-x grid-padding-x align-center">
 			<div class="large-6 cell">
 				<div class="pals-promo-video">
-					<img class="mb-40" src="/img/index/go-fund-me/video-holder.png" alt="">
+					<video width="100%" class="mb-40" controls loop preload="auto" poster="/img/videos/pals-promo-video/poster.png">
+						<source src="/img/videos/pals-promo-video/pals-promo-video.mp4" type="video/mp4">
+						<!-- <source src="video.webm" type="video/webm"> -->
+						<!-- <source src="video.ogv" type="video/ogg"> -->
+					</video>
 				</div>
 			</div>
 			<div class="large-shrink cell">

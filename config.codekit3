@@ -7351,12 +7351,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/videos/pals-promo-video.mp4": {
+	"/img/videos/pals-promo-video/pals-promo-video.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/img/videos/pals-promo-video.mp4",
+		"oAP": "/img/videos/pals-promo-video/pals-promo-video.mp4",
 		"oF": 0
+		},
+	"/img/videos/pals-promo-video/poster.png": {
+		"ft": 32768,
+		"iS": 243175,
+		"oA": 1,
+		"oAP": "/img/videos/pals-promo-video/poster.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/js/app-min.js": {
 		"ft": 64,
