@@ -1,0 +1,25 @@
+.go-fund-me-section {
+	padding: rem-calc(60) 0;
+
+	.pals-promo-video {
+		max-width: 700px;
+		margin: 0 auto;
+	}
+
+	.go-fund-me-article {
+		max-width: rem-calc(420);
+		margin: 0 auto;
+	}
+
+	.go-fund-me-page-link {
+		background: #fff;
+		box-shadow: $z-1;
+		border-radius: rem-calc(12);
+		border: rem-calc(4) solid #00B964;
+		padding: rem-calc(4) rem-calc(32);
+
+		&:hover {
+			box-shadow: $z-3;
+		}
+	}
+}
