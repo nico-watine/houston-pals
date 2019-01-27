@@ -7351,6 +7351,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/videos/pals-promo-video.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/videos/pals-promo-video.mp4",
+		"oF": 0
+		},
 	"/js/app-min.js": {
 		"ft": 64,
 		"ma": 0,
