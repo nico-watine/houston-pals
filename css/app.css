@@ -11728,6 +11728,10 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   }
 }
 
+.go-fund-me-section {
+  padding: 3.75rem 0;
+}
+
 .go-fund-me-section .pals-promo-video {
   max-width: 700px;
   margin: 0 auto;
