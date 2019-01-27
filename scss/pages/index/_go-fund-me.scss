@@ -7,10 +7,6 @@
 	.go-fund-me-article {
 		max-width: rem-calc(420);
 		margin: 0 auto;
-
-		@include breakpoint(large) {
-			margin: 0;
-		}
 	}
 
 	.go-fund-me-page-link {

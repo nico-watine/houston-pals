@@ -11738,12 +11738,6 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   margin: 0 auto;
 }
 
-@media print, screen and (min-width: 64em) {
-  .go-fund-me-section .go-fund-me-article {
-    margin: 0;
-  }
-}
-
 .go-fund-me-section .go-fund-me-page-link {
   background: #fff;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
