@@ -6317,6 +6317,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/partners/animal-planet-logo.png": {
+		"ft": 32768,
+		"iS": 12269,
+		"oA": 1,
+		"oAP": "/img/partners/animal-planet-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/partners/doodle-rock-rescue.png": {
+		"ft": 32768,
+		"iS": 396909,
+		"oA": 1,
+		"oAP": "/img/partners/doodle-rock-rescue.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/product-builder/affected-limb/front/front-icon.png": {
 		"ft": 32768,
 		"iS": 4684,
@@ -8007,6 +8029,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/pages/puppy-bowl-2019-journey/_puppy-bowl-2019-journey.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_puppy-bowl-2019-journey.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/src/data/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -8103,6 +8138,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/src/pages/products.php",
+		"oF": 0
+		},
+	"/src/pages/puppy-bowl-2019-journey.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/src/pages/puppy-bowl-2019-journey.php",
 		"oF": 0
 		},
 	"/src/partials/_notes.txt": {

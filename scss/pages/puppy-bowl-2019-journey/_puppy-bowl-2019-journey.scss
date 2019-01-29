@@ -1,0 +1,116 @@
+.puppy-bowl-2019-journey-header {
+	background: #28a501 url('/img/index/puppy-bowl/football-field-grid.png') center center/cover no-repeat;
+	border-top: 6px solid $white;
+	border-bottom: 6px solid $white;
+
+	.section-interior {
+		background: rgba(48,101,155,.80);
+		padding-top: rem-calc(20);
+		padding-bottom: rem-calc(20);
+
+		@include breakpoint(medium) {
+			padding-top: rem-calc(40);
+			padding-bottom: rem-calc(40);
+		}
+	}
+
+	img.doggo {
+		border-radius: 24px;
+		width: 180px;
+
+		@include breakpoint(740) {
+			width: 270px;
+		}
+	}
+}
+
+.puppy-bowl-2019-journey-story {
+	padding-top: rem-calc(40);
+
+	@include breakpoint(medium) {
+		padding-top: rem-calc(60);
+	}
+
+	.img-wrap {
+		margin-bottom: rem-calc(32);
+
+		img {
+			width: 300px;
+		}
+	}
+
+	.animal-planet-logo-img-cell {
+		margin-top: rem-calc(32);
+		display: none;
+		visibility: hidden;
+
+		@include breakpoint(987) {
+			display: block;
+			visibility: visible;
+		}
+	}
+
+	.double-img-row {
+		max-width: 650px;
+
+		@include breakpoint(987) {
+			display: none;
+			visibility: hidden;
+		}
+	}
+
+	.prose {
+		max-width: rem-calc(400);
+		margin: 0 auto;
+
+		.lead-heading {
+			line-height: 1.4;
+			margin-bottom: rem-calc(32);
+		}
+
+		@include breakpoint(medium) {
+			max-width: rem-calc(570);
+
+			p {
+				font-size: $p * 1.25;
+			}
+		}
+	}
+
+	.blog-link-callout {
+		padding: rem-calc(30);
+		background: $dark-blue;
+		border: rem-calc(3) solid $light-green;
+		border-radius: rem-calc(12);
+		margin-top: rem-calc(60);
+		margin-bottom: rem-calc(60);
+
+		@include breakpoint(medium) {
+			margin-top: rem-calc(120);
+		}
+
+		.heading-wrap {
+			max-width: rem-calc(250);
+		}
+
+		.blog-link {
+			background: #fff;
+			border: rem-calc(2) solid #30659b;
+			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
+			border-radius: rem-calc(12);
+			line-height: 1;
+			color: $dark-blue;
+			font-size: $h4-medium;
+
+			&:hover {
+				background: #fff;
+				box-shadow: $z-2;
+				color: $dark-blue;
+			}
+
+			@include breakpoint(medium) {
+				font-size: $h3-medium;
+			}
+		}
+	}
+}
