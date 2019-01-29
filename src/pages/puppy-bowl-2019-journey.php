@@ -13,7 +13,7 @@ layout: blank
 <section class="puppy-bowl-2019-journey-header">
 	<div class="section-interior">
 		<div class="grid-container">
-			<div class="grid-x grid-padding-x align-middle">
+			<div class="grid-x grid-padding-x align-middle align-center">
 				<div class="cell medium-shrink medium-order-2 text-center medium-text-left">
 					<h1 class="color-white mb-20"><span class="h3">Discover Will’s journey to</span> <br>Puppy Bowl 2019</h1>
 				</div>
