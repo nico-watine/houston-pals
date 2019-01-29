@@ -12432,6 +12432,16 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   }
 }
 
+.puppy-bowl-2019-journey-story {
+  padding-top: 2.5rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .puppy-bowl-2019-journey-story {
+    padding-top: 3.75rem;
+  }
+}
+
 .puppy-bowl-2019-journey-story .img-wrap {
   margin-bottom: 2rem;
 }
@@ -12488,6 +12498,18 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   background: #30659b;
   border: 0.1875rem solid #98cd68;
   border-radius: 0.75rem;
+  margin-top: 3.75rem;
+  margin-bottom: 3.75rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .puppy-bowl-2019-journey-story .blog-link-callout {
+    margin-top: 7.5rem;
+  }
+}
+
+.puppy-bowl-2019-journey-story .blog-link-callout .heading-wrap {
+  max-width: 15.625rem;
 }
 
 .puppy-bowl-2019-journey-story .blog-link-callout .blog-link {

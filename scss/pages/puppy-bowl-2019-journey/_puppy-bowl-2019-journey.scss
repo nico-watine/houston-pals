@@ -25,6 +25,12 @@
 }
 
 .puppy-bowl-2019-journey-story {
+	padding-top: rem-calc(40);
+
+	@include breakpoint(medium) {
+		padding-top: rem-calc(60);
+	}
+
 	.img-wrap {
 		margin-bottom: rem-calc(32);
 
@@ -76,6 +82,16 @@
 		background: $dark-blue;
 		border: rem-calc(3) solid $light-green;
 		border-radius: rem-calc(12);
+		margin-top: rem-calc(60);
+		margin-bottom: rem-calc(60);
+
+		@include breakpoint(medium) {
+			margin-top: rem-calc(120);
+		}
+
+		.heading-wrap {
+			max-width: rem-calc(250);
+		}
 
 		.blog-link {
 			background: #fff;

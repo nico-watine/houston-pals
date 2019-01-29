@@ -70,18 +70,16 @@ layout: blank
 							</div>
 						</div>
 						<div class="cell medium-shrink blog-link-callout">
-							<!-- <div class="blog-link-callout"> -->
-								<div class="grid-x grid-padding-x align-middle align-center">
-									<div class="cell shrink">
-										<div class="heading-wrap" style="max-width: 250px;">
-											<h4 class="heading color-white medium-text-right">The full story of their journey is detailed on our PALS blog.</h4>
-										</div>
-									</div>
-									<div class="cell shrink">
-										<a href="#" class="button m-0 blog-link display-inline-block heading py-16 px-40">Read It</a>
+							<div class="grid-x grid-padding-x align-middle align-center">
+								<div class="cell shrink">
+									<div class="heading-wrap">
+										<h4 class="heading color-white medium-text-right">The full story of their journey is detailed on our PALS blog.</h4>
 									</div>
 								</div>
-							<!-- </div> -->
+								<div class="cell shrink">
+									<a href="#" class="button m-0 blog-link display-inline-block heading py-16 px-40">Read It</a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</section>
