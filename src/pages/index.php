@@ -180,7 +180,7 @@ layout: index
 				<div class="pals-promo-video">
 					<video width="100%" class="mb-40" controls loop preload="auto" poster="/img/videos/pals-promo-video/poster.png">
 						<source src="/img/videos/pals-promo-video/pals-promo-video.mp4" type="video/mp4">
-						<!-- <source src="video.webm" type="video/webm"> -->
+						<source src="/img/videos/pals-promo-video/pals-promo-video.webm" type="video/webm">
 						<!-- <source src="video.ogv" type="video/ogg"> -->
 					</video>
 				</div>
