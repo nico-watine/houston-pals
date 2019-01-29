@@ -12404,11 +12404,21 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
 
 .puppy-bowl-2019-journey-header {
   background: #28a501 url("/img/index/puppy-bowl/football-field-grid.png") center center/cover no-repeat;
+  border-top: 6px solid #fefefe;
   border-bottom: 6px solid #fefefe;
 }
 
 .puppy-bowl-2019-journey-header .section-interior {
   background: rgba(48, 101, 155, 0.8);
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .puppy-bowl-2019-journey-header .section-interior {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
 }
 
 .puppy-bowl-2019-journey-header img.doggo {

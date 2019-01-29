@@ -1,9 +1,17 @@
 .puppy-bowl-2019-journey-header {
 	background: #28a501 url('/img/index/puppy-bowl/football-field-grid.png') center center/cover no-repeat;
+	border-top: 6px solid $white;
 	border-bottom: 6px solid $white;
 
 	.section-interior {
 		background: rgba(48,101,155,.80);
+		padding-top: rem-calc(20);
+		padding-bottom: rem-calc(20);
+
+		@include breakpoint(medium) {
+			padding-top: rem-calc(40);
+			padding-bottom: rem-calc(40);
+		}
 	}
 
 	img.doggo {

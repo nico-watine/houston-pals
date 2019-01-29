@@ -11,14 +11,14 @@ layout: blank
 ---
 {{> header}}
 <section class="puppy-bowl-2019-journey-header">
-	<div class="section-interior pt-40 pb-40">
+	<div class="section-interior">
 		<div class="grid-container">
 			<div class="grid-x grid-padding-x align-middle">
-				<div class="cell medium-shrink">
-					<img class="doggo" src="/img/index/meet-will/puppy-bowl-meet-will.jpg" alt="">
+				<div class="cell medium-shrink medium-order-2 text-center medium-text-left">
+					<h1 class="color-white mb-20"><span class="h3">Discover Will’s journey to</span> <br>Puppy Bowl 2019</h1>
 				</div>
-				<div class="cell medium-shrink">
-					<h1 class="color-white"><span class="h3">Discover Will’s journey to</span> <br>Puppy Bowl 2019</h1>
+				<div class="cell medium-shrink medium-order-1 text-center">
+					<img class="doggo" src="/img/index/meet-will/puppy-bowl-meet-will.jpg" alt="">
 				</div>
 			</div>
 		</div>
