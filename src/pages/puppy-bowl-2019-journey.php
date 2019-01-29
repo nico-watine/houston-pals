@@ -77,7 +77,7 @@ layout: blank
 									</div>
 								</div>
 								<div class="cell shrink">
-									<a href="#" class="button m-0 blog-link display-inline-block heading py-16 px-40">Read It</a>
+									<a href="https://blog.houstonpals.com/will-and-bill-story-of-love-and-friendship/" class="button m-0 blog-link display-inline-block heading py-16 px-40">Read It</a>
 								</div>
 							</div>
 						</div>
