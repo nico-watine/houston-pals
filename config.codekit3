@@ -7387,6 +7387,13 @@
 		"oAP": "/img/videos/pals-promo-video/pals-promo-video.mp4",
 		"oF": 0
 		},
+	"/img/videos/pals-promo-video/pals-promo-video.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/videos/pals-promo-video/pals-promo-video.ogv",
+		"oF": 0
+		},
 	"/img/videos/pals-promo-video/pals-promo-video.webm": {
 		"cB": 0,
 		"ft": 8192,

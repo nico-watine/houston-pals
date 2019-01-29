@@ -181,7 +181,7 @@ layout: index
 					<video width="100%" class="mb-40" controls loop preload="auto" poster="/img/videos/pals-promo-video/poster.png">
 						<source src="/img/videos/pals-promo-video/pals-promo-video.mp4" type="video/mp4">
 						<source src="/img/videos/pals-promo-video/pals-promo-video.webm" type="video/webm">
-						<!-- <source src="video.ogv" type="video/ogg"> -->
+						<source src="/img/videos/pals-promo-video/pals-promo-video.ogv" type="video/ogg">
 					</video>
 				</div>
 			</div>
