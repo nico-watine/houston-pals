@@ -189,7 +189,7 @@ layout: index
 				<article class="go-fund-me-article">
 					<p class="mb-24"><span class="lead"><strong>Bill has a passion for helping animals get back on their feet,</strong></span> and the advanced injury solutions that he provides are no walk in the park. He never wants the price of his services, however, to prevent animals from having their days in the park again.</p>
 					<p class="mb-24"><span class="lead heading">Kindly consider</span> a contribution to PALS.</p>
-					<p class="mb-40" style="max-width: 420px;">Bill puts contributions towards his costs, allowing him to provide tailored treatment solutions at a lower price.</p>
+					<p class="mb-40" style="max-width: 420px;">Bill puts contributions towards the <strong>research and development of more cost effective solutions</strong> of providing orthotic and prosthetic veterinary care. These advancements help him to provide tailored treatment solutions at a <strong>lower price for all clients.</strong></p>
 					<a href="https://www.gofundme.com/houston-pals-friendly-funds?sharetype=teams&member=1590398&rcid=r01-154878082231-90cbe03bdfe04209&pc=ot_co_campmgmt_w" target="_blank" class="button m-0 go-fund-me-page-link"><img src="/img/index/go-fund-me/go-fund-me-logo.png" style="width: 165px;" title="GoFundMe page link" alt=""></a>
 				</article>
 			</div>
