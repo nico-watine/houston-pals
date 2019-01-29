@@ -30,6 +30,13 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/_ignores/01-29-notes.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_ignores/01-29-notes.txt",
+		"oF": 0
+		},
 	"/_ignores/google-site-verification.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6319,7 +6326,7 @@
 		},
 	"/img/partners/animal-planet-logo.png": {
 		"ft": 32768,
-		"iS": 12269,
+		"iS": 3092,
 		"oA": 1,
 		"oAP": "/img/partners/animal-planet-logo.png",
 		"oF": 0,
@@ -6330,7 +6337,7 @@
 		},
 	"/img/partners/doodle-rock-rescue.png": {
 		"ft": 32768,
-		"iS": 396909,
+		"iS": 83045,
 		"oA": 1,
 		"oAP": "/img/partners/doodle-rock-rescue.png",
 		"oF": 0,
@@ -7378,6 +7385,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/img/videos/pals-promo-video/pals-promo-video.mp4",
+		"oF": 0
+		},
+	"/img/videos/pals-promo-video/pals-promo-video.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/videos/pals-promo-video/pals-promo-video.ogv",
+		"oF": 0
+		},
+	"/img/videos/pals-promo-video/pals-promo-video.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/videos/pals-promo-video/pals-promo-video.webm",
 		"oF": 0
 		},
 	"/img/videos/pals-promo-video/poster.png": {
