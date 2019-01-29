@@ -17,13 +17,14 @@ layout: blank
 			<div class="grid-container">
 				<div class="grid-x grid-padding-x">
 					<div class="cell">
-						<div class="grid-x grid-padding-x align-center">
+						<div class="grid-x grid-padding-x align-center align-middle">
 							<div class="cell shrink">
 								<img src="/img/partners/doodle-rock-rescue.png" style="width: 300px;" alt="">
 							</div>
 							<div class="cell shrink">
-								<div class="prose" style="width: 570px; height: 200px; background: red;">
-
+								<div class="prose" style="width: 570px;">
+									<p class="h3 mb-32"><strong>Dallas-based Doodle Rock Rescue reached out to us in Houston to assist Will in obtaining a limb.</strong></p>
+									<p class="lead">Bill, the man behind <strong>Pet Artificial Limbs and Supports</strong>, fell in love with Will during his initial mold casting, and brought him home to foster him while making his new limb.</p>
 								</div>
 							</div>
 						</div>
