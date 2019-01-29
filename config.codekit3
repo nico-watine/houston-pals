@@ -8029,6 +8029,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/pages/puppy-bowl-2019-journey/_puppy-bowl-2019-journey.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_puppy-bowl-2019-journey.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/src/data/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,

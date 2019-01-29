@@ -1,0 +1,30 @@
+.puppy-bowl-2019-journey-story {
+	.img-wrap {
+		margin-bottom: rem-calc(32);
+
+		img {
+			width: 300px;
+		}
+	}
+
+	.img-wrap.animal-planet-logo-img {
+		margin-top: rem-calc(32);
+	}
+
+	.prose {
+		max-width: rem-calc(400);
+
+		.lead-heading {
+			line-height: 1.4;
+			margin-bottom: rem-calc(32);
+		}
+
+		@include breakpoint(medium) {
+			max-width: rem-calc(570);
+
+			p {
+				font-size: $p * 1.25;
+			}
+		}
+	}
+}
