@@ -1,0 +1,49 @@
+.puppy-bowl-section {
+	background: #28a501 url('/img/index/puppy-bowl/football-field-grid.png') center center/cover no-repeat;
+
+	.section-interior {
+		background: rgba(48,101,155,.80);
+
+		.event-announcement {
+			padding: rem-calc(3) rem-calc(28);
+			background: #f7f7f7;
+			font-size: $h4-medium;
+			border-radius: rem-calc(3);
+			text-transform: uppercase;
+			line-height: 1;
+			letter-spacing: rem-calc(.5);
+			margin-bottom: rem-calc(24);
+		}
+
+		.event-title {
+			font-size: $h3-medium;
+		}
+
+		.h2 {
+			font-size: $h2-medium;
+		}
+
+		.event-date {
+			font-size: $h4-medium;
+		}
+	}
+
+	.puppy-bowl-logo-row {
+		hr {
+			border-bottom: 4px solid #fff;
+			max-width: 360px;
+
+			@include breakpoint(medium) {
+				max-width: none;
+			}
+		}
+
+		img.logo {
+			width: 250px;
+
+			@include breakpoint(medium) {
+				width: 350px;
+			}
+		}
+	}
+}

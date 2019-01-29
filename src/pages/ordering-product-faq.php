@@ -84,7 +84,7 @@ body-class:
 	<div class="row">
 		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
 			<div class="iframe-wrapper">
-				<iframe src="https://www.youtube.com/embed/FP0VMYZFKmM?rel=0" frameborder="0" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/BkmNf2OMOqQ?rel=0" frameborder="0" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>

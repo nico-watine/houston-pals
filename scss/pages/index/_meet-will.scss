@@ -1,0 +1,83 @@
+.meet-will-section {
+	// Article Cell : ----------------------------------------------------------------
+	.article-cell {
+		margin-bottom: rem-calc(40);
+
+		@include breakpoint(medium) {
+			margin-bottom: 0;
+		}
+	}
+
+	.meet-will-article {
+		background: #fefefe;
+		border: rem-calc(2) solid #30659b;
+		border-radius: rem-calc(16);
+		max-width: rem-calc(480);
+		margin: 0 auto;
+
+		@include breakpoint(medium) {
+			max-width: rem-calc(500);
+			margin: initial;
+		}
+
+		@include breakpoint(large) {
+			max-width: rem-calc(600);
+			margin: initial;
+		}
+
+		.article-title {
+			margin-bottom: rem-calc(16);
+			font-size: $h2-medium;
+
+			@include breakpoint(760) {
+				margin-bottom: rem-calc(32);
+			}
+		}
+
+		p {
+			@include breakpoint(medium) {
+				line-height: 1.5;
+			}
+
+			@include breakpoint(760) {
+				margin-bottom: rem-calc(32);
+				line-height: 1.6;
+			}
+
+			@include breakpoint(large) {
+				font-size: $p * 1.25;
+			}
+		}
+
+		.article-page-link {
+			background: #30659b;
+			border: rem-calc(2) solid #fff;
+			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
+			border-radius: rem-calc(12);
+			line-height: 1;
+			color: #fff;
+			font-size: $h4-medium;
+
+			&:hover {
+				background: #fff;
+				border: rem-calc(2) solid #30659b;
+				box-shadow: $z-2;
+				color: $dark-blue;
+			}
+
+			@include breakpoint(large) {
+				font-size: $h3-medium;
+			}
+		}
+	}
+
+	// Image Cell : ----------------------------------------------------------------
+	img.doggo {
+		border-radius: 24px;
+		width: 400px;
+
+		@include breakpoint(medium) {
+			width: 370px;
+		}
+	}
+}
