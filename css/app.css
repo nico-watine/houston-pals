@@ -12410,8 +12410,28 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   width: 300px;
 }
 
-.puppy-bowl-2019-journey-story .img-wrap.animal-planet-logo-img {
+.puppy-bowl-2019-journey-story .animal-planet-logo-img-cell {
   margin-top: 2rem;
+  display: none;
+  visibility: hidden;
+}
+
+@media screen and (min-width: 61.6875em) {
+  .puppy-bowl-2019-journey-story .animal-planet-logo-img-cell {
+    display: block;
+    visibility: visible;
+  }
+}
+
+.puppy-bowl-2019-journey-story .double-img-row {
+  max-width: 650px;
+}
+
+@media screen and (min-width: 61.6875em) {
+  .puppy-bowl-2019-journey-story .double-img-row {
+    display: none;
+    visibility: hidden;
+  }
 }
 
 .puppy-bowl-2019-journey-story .prose {

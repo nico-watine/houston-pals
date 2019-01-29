@@ -7,8 +7,24 @@
 		}
 	}
 
-	.img-wrap.animal-planet-logo-img {
+	.animal-planet-logo-img-cell {
 		margin-top: rem-calc(32);
+		display: none;
+		visibility: hidden;
+
+		@include breakpoint(987) {
+			display: block;
+			visibility: visible;
+		}
+	}
+
+	.double-img-row {
+		max-width: 650px;
+
+		@include breakpoint(987) {
+			display: none;
+			visibility: hidden;
+		}
 	}
 
 	.prose {
