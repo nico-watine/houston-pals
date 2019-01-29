@@ -12416,6 +12416,7 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
 
 .puppy-bowl-2019-journey-story .prose {
   max-width: 25rem;
+  margin: 0 auto;
 }
 
 .puppy-bowl-2019-journey-story .prose .lead-heading {
