@@ -23,7 +23,7 @@ layout: blank
 							</div>
 							<div class="cell shrink">
 								<div class="prose" style="width: 570px;">
-									<p class="h3 mb-32"><strong>Dallas-based Doodle Rock Rescue reached out to us in Houston to assist Will in obtaining a limb.</strong></p>
+									<p class="h3 mb-40"><strong>Dallas-based Doodle Rock Rescue reached out to us in Houston to assist Will in obtaining a limb.</strong></p>
 									<p class="lead mb-40">Bill, the man behind <strong>Pet Artificial Limbs and Supports</strong>, fell in love with Will during his initial mold casting, and brought him home to foster him while making his new limb.</p>
 								</div>
 							</div>
