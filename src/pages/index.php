@@ -177,14 +177,17 @@ layout: index
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-center">
 			<div class="large-6 cell">
-				<div class="youtube-embed">
-					<iframe class="mb-40" src="https://www.youtube.com/embed/V23RiCcGAHY?rel=0" frameborder="0" allowfullscreen></iframe>
+				<!-- <div class="pals-promo-video youtube-embed"> -->
+				<div class="pals-promo-video">
+				<div class="responsive-embed widescreen mb-40">
+					<iframe src="https://www.youtube.com/embed/V23RiCcGAHY?rel=0" frameborder="0" allowfullscreen></iframe>
 					<!-- <iframe width="100%" class="mb-40" src="https://youtu.be/V23RiCcGAHY" frameborder="0" allowfullscreen></iframe> -->
 					<!-- <video width="100%" class="mb-40" controls loop preload="auto" poster="/img/videos/pals-promo-video/poster.png">
 						<source src="/img/videos/pals-promo-video/pals-promo-video.mp4" type="video/mp4">
 						<source src="/img/videos/pals-promo-video/pals-promo-video.webm" type="video/webm">
 						<source src="/img/videos/pals-promo-video/pals-promo-video.ogv" type="video/ogg">
 					</video> -->
+				</div>
 				</div>
 			</div>
 			<div class="large-shrink cell">
