@@ -56,7 +56,7 @@ layout: index
 	</div>
 	<div class="grid-x align-middle dog-background show-for-large">
 		<div class="cell">
-			<img src="/img/index/splash/will/will-hero-large.jpg" alt="">
+			<img src="/img/index/splash/will/will-hero.jpg" alt="">
 		</div>
 	</div>
 </div>

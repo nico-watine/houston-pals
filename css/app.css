@@ -11392,7 +11392,7 @@ img.circle {
 
 @media print, screen and (min-width: 40em) {
   .hero-wrapper {
-    background: #f7f7f7 url("/img/index/splash/will/will-hero-large.jpg") center top/cover no-repeat;
+    background: #f7f7f7 url("/img/index/splash/will/will-hero.jpg") center top/cover no-repeat;
     justify-content: flex-end;
     align-items: center;
   }

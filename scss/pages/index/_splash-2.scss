@@ -15,7 +15,7 @@
 	}
 
 	@include breakpoint(medium) {
-		background: $off-white url('/img/index/splash/will/will-hero-large.jpg') center top/cover no-repeat;
+		background: $off-white url('/img/index/splash/will/will-hero.jpg') center top/cover no-repeat;
 		@include flex-align(right, middle);
 
 		.prose {
