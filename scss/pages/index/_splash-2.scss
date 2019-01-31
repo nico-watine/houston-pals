@@ -27,14 +27,15 @@
 
 	@include breakpoint(large) {
 		background: none;
+		width: 100%;
+		position: absolute;
 	}
 }
 
 
 @include breakpoint(large) {
 	.index-splash {
-		.header,
-		.hero-wrapper {
+		.header {
 			position: absolute;
 			width: 100%;
 		}

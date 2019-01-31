@@ -11404,12 +11404,13 @@ img.circle {
 @media print, screen and (min-width: 64em) {
   .hero-wrapper {
     background: none;
+    width: 100%;
+    position: absolute;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .index-splash .header,
-  .index-splash .hero-wrapper {
+  .index-splash .header {
     position: absolute;
     width: 100%;
   }
