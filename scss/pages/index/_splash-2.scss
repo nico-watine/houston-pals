@@ -1,5 +1,5 @@
 .hero-wrapper {
-	background: $off-white url("/img/index/splash/will/will-hero-small.jpg") center top/cover no-repeat;
+	background: $off-white url('/img/index/splash/will/will-hero-small.jpg') center top/cover no-repeat;
 	height: 600px;
 
 	.prose {
@@ -8,13 +8,35 @@
 		h1 {
 			font-size: $h1;
 		}
+
+		h3 {
+			font-size: $h3;
+		}
 	}
 
 	@include breakpoint(medium) {
-		background: $off-white url("/img/index/splash/will/will-hero-large.jpg") center top/cover no-repeat;
+		background: $off-white url('/img/index/splash/will/will-hero-large.jpg') center top/cover no-repeat;
+		@include flex-align(right, middle);
 
 		.prose {
-			// max-width: none;
+			h1 {
+				font-size: $h2-medium;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		background: none;
+	}
+}
+
+
+@include breakpoint(large) {
+	.index-splash {
+		.header,
+		.hero-wrapper {
+			position: absolute;
+			width: 100%;
 		}
 	}
 }

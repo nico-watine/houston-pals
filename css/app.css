@@ -11386,9 +11386,32 @@ img.circle {
   font-size: 2rem;
 }
 
+.hero-wrapper .prose h3 {
+  font-size: 1.375rem;
+}
+
 @media print, screen and (min-width: 40em) {
   .hero-wrapper {
     background: #f7f7f7 url("/img/index/splash/will/will-hero-large.jpg") center top/cover no-repeat;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .hero-wrapper .prose h1 {
+    font-size: 2.375rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .hero-wrapper {
+    background: none;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .index-splash .header,
+  .index-splash .hero-wrapper {
+    position: absolute;
+    width: 100%;
   }
 }
 

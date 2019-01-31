@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 layout: index
 ---
-<div class="splash">
+<div class="index-splash">
 	<header class="header header-scrim">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
@@ -46,23 +46,21 @@ layout: index
 			</div>
 		</div>
 	</header>
-	<div class="hero-wrapper grid-x medium-align-right">
-		<!-- <div class="grid-container"> -->
-			<div class="hero grid-x grid-padding-x">
-				<div class="cell medium-shrink">
-					<div class="prose pt-16">
-						<h1 class="title-font">Custom made orthotics and prosthetics for any&nbsp;pet.</h1>
-						<!-- <h3 style="line-height: 1.4;" class="body-font">Just like the animal kingdom, our services are not limited to dogs.</h3> -->
-					</div>
+	<div class="hero-wrapper grid-x pt-16">
+		<div class="hero grid-x grid-padding-x">
+			<div class="cell medium-shrink">
+				<div class="prose">
+					<h1 class="title-font">Custom made orthotics and prosthetics for any&nbsp;pet.</h1>
+					<h3 style="line-height: 1.4;" class="show-for-medium body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
 				</div>
 			</div>
-		<!-- </div> -->
-	</div>
-	<!-- <div class="grid-x align-middle dog-background">
-		<div class="cell">
-			<img src="/img/index/splash/splash-large.jpg" alt="">
 		</div>
-	</div> -->
+	</div>
+	<div class="grid-x align-middle dog-background">
+		<div class="cell">
+			<img src="/img/index/splash/will/will-hero-large.jpg" alt="">
+		</div>
+	</div>
 </div>
 <section class="puppy-bowl-section">
 	<div class="section-interior py-40">
