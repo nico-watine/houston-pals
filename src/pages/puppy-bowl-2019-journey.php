@@ -65,7 +65,7 @@ layout: blank
 								</div>
 								<div class="cell medium-shrink">
 									<div class="prose">
-										<p class="mb-32">Because of the success of Bill’s injury-solution limb for Will, <a href="https://www.animalplanet.com/" target="_blank" title="animalplanet.com link"><strong>Animal Planet</strong></a> reached out, asking for Will’s participation in <a href="https://www.animalplanet.com/tv-shows/puppy-bowl/" target="_blank" title="Puppy Bowl 2019 website link"><strong>Puppy Bowl 2019</strong></a>! Will, weighing a healthy 50 pounds, was too large to travel in the cabin of an airplane, so he and Bill set off on an exciting road trip to get him to New York, in time for the filming of Puppy Bowl 2019.</p>
+										<p class="mb-32">Because of Will's inspiring story, <a href="https://www.animalplanet.com/" target="_blank" title="animalplanet.com link"><strong>Animal Planet</strong></a> reached out, asking for Will’s participation in <a href="https://www.animalplanet.com/tv-shows/puppy-bowl/" target="_blank" title="Puppy Bowl 2019 website link"><strong>Puppy Bowl 2019</strong></a>! Will, weighing a healthy 30 pounds, was too large to travel in the cabin of an airplane, so he and Bill set off on an exciting road trip to get him to New York, in time for the filming of Puppy Bowl 2019.</p>
 									</div>
 								</div>
 								<div class="cell medium-shrink animal-planet-logo-img-cell">
