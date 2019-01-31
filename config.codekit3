@@ -6292,6 +6292,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/splash/will/will-hero-large.jpg": {
+		"ft": 16384,
+		"iS": 119341,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/splash/will/will-hero-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/orderingProductFAQ/orthotic.jpg": {
 		"ft": 16384,
 		"iS": 75657,
