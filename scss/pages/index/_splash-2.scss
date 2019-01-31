@@ -1,3 +1,14 @@
+.index-splash {
+	.header {
+		.svg-icon {
+			@include breakpoint(medium only) {
+				path {
+					fill: #30659b;
+				}
+			}
+		}
+	}
+}
 .hero-wrapper {
 	background: $off-white url('/img/index/splash/will/will-hero-small.jpg') center top/cover no-repeat;
 	height: 600px;

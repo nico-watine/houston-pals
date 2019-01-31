@@ -11373,6 +11373,12 @@ img.circle {
   position: absolute;
 }
 
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .index-splash .header .svg-icon path {
+    fill: #30659b;
+  }
+}
+
 .hero-wrapper {
   background: #f7f7f7 url("/img/index/splash/will/will-hero-small.jpg") center top/cover no-repeat;
   height: 600px;
