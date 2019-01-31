@@ -1,14 +1,20 @@
-
-.splash {
-	.hero {
-		background: #acc1d8 url('/img/index/splash/splash-small.jpg') center/cover no-repeat;
-		height: 320px;
-
-		@include align-middle;
-
-		.prose {
-			max-width: rem-calc(570);
+.index-splash {
+	.header {
+		.svg-icon {
+			@include breakpoint(medium only) {
+				path {
+					fill: #30659b;
+				}
+			}
 		}
+	}
+}
+.hero-wrapper {
+	background: $off-white url('/img/index/splash/will/will-hero-small.jpg') center top/cover no-repeat;
+	height: 600px;
+
+	.prose {
+		max-width: rem-calc(400);
 
 		h1 {
 			font-size: $h1;
@@ -17,34 +23,35 @@
 		h3 {
 			font-size: $h3;
 		}
+	}
 
-		@include breakpoint(380) {
-			height: 400px;
-		}
+	@include breakpoint(medium) {
+		background: $off-white url('/img/index/splash/will/will-hero.jpg') center top/cover no-repeat;
+		@include flex-align(right, middle);
 
-		@include breakpoint(480) {
-			background: #acc1d8 url('/img/index/splash/splash-medium.jpg') center/cover no-repeat;
-		}
-
-		@include breakpoint(medium) {
-			@include align-bottom;
-			padding-bottom: 40px;
-		}
-
-		@include breakpoint(750) {
-			height: 450px;
-		}
-
-		@include breakpoint(950) {
-			height: 500px;
-		}
-
-		@include breakpoint(large) {
-			background: transparent;
-			height: 370px;
-
+		.prose {
 			h1 {
 				font-size: $h2-medium;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		background: none;
+		width: 100%;
+		position: absolute;
+
+		.prose {
+			max-width: rem-calc(500);
+		}
+	}
+
+	@include breakpoint(1200) {
+		height: 100%;
+
+		.prose {
+			h1 {
+				font-size: $h1-medium;
 			}
 
 			h3 {
@@ -53,27 +60,27 @@
 		}
 	}
 
-	.dog-background {
-		overflow: hidden;
-
-		@include breakpoint(1350) {
-			height: 700px;
-		}
-
-		@include breakpoint(1600) {
-			height: 800px;
+	@include breakpoint(1300) {
+		.prose {
+			max-width: rem-calc(600);
 		}
 	}
+}
 
-	@include breakpoint(large) {
-		.header,
-		.hero-wrapper {
+
+@include breakpoint(large) {
+	.index-splash {
+		position: relative;
+
+		.header {
 			position: absolute;
 			width: 100%;
 		}
 
-		.hero-wrapper {
-			top: 200px;
+		.dog-background {
+			img {
+				width: 100%;
+			}
 		}
 	}
 }
