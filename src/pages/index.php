@@ -181,7 +181,7 @@ layout: index
 					<div class="responsive-embed widescreen m-0">
 						<iframe src="https://www.youtube.com/embed/V23RiCcGAHY?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>
-					<div class="caption px-8 py-16 mb-40" style="background: #30659B; border-radius: 0 0 12px 12px;">
+					<div class="caption px-8 py-16 mb-40 medium-text-center" style="background: #30659B; border-radius: 0 0 12px 12px;">
 						<h4 class="body-font color-white m-0"><strong>PALS Success Stories Promo Video</strong></h4>
 					</div>
 				</div>
