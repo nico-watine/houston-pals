@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 layout: index
 ---
-<div class="splash">
+<div class="index-splash">
 	<header class="header header-scrim">
 		<div class="expanded row grid-x">
 			<aside class="show-for-medium">
@@ -46,21 +46,17 @@ layout: index
 			</div>
 		</div>
 	</header>
-	<div class="hero-wrapper">
-		<div class="grid-container">
-			<div class="hero grid-x grid-padding-x">
-				<div class="cell">
-					<div class="prose">
-						<h1 class="white title-font">Custom made orthotics and prosthetics for any pet.</h1>
-						<h3 style="line-height: 1.4;" class="white body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
-					</div>
-				</div>
+	<div class="hero-wrapper grid-x grid-padding-x">
+		<div class="cell medium-shrink large-6 pt-16">
+			<div class="prose">
+				<h1 class="title-font">Custom made orthotics and prosthetics for any&nbsp;pet.</h1>
+				<h3 style="line-height: 1.4;" class="show-for-medium body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
 			</div>
 		</div>
 	</div>
 	<div class="grid-x align-middle dog-background show-for-large">
 		<div class="cell">
-			<img src="/img/index/splash/splash-large.jpg" alt="">
+			<img src="/img/index/splash/will/will-hero.jpg" alt="">
 		</div>
 	</div>
 </div>

@@ -11373,94 +11373,79 @@ img.circle {
   position: absolute;
 }
 
-.splash .hero {
-  background: #acc1d8 url("/img/index/splash/splash-small.jpg") center/cover no-repeat;
-  height: 320px;
-  -ms-flex-align: center;
-  align-items: center;
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .index-splash .header .svg-icon path {
+    fill: #30659b;
+  }
 }
 
-.splash .hero .prose {
-  max-width: 35.625rem;
+.hero-wrapper {
+  background: #f7f7f7 url("/img/index/splash/will/will-hero-small.jpg") center top/cover no-repeat;
+  height: 600px;
 }
 
-.splash .hero h1 {
+.hero-wrapper .prose {
+  max-width: 25rem;
+}
+
+.hero-wrapper .prose h1 {
   font-size: 2rem;
 }
 
-.splash .hero h3 {
+.hero-wrapper .prose h3 {
   font-size: 1.375rem;
 }
 
-@media screen and (min-width: 23.75em) {
-  .splash .hero {
-    height: 400px;
-  }
-}
-
-@media screen and (min-width: 30em) {
-  .splash .hero {
-    background: #acc1d8 url("/img/index/splash/splash-medium.jpg") center/cover no-repeat;
-  }
-}
-
 @media print, screen and (min-width: 40em) {
-  .splash .hero {
-    -ms-flex-align: end;
-    align-items: flex-end;
-    padding-bottom: 40px;
+  .hero-wrapper {
+    background: #f7f7f7 url("/img/index/splash/will/will-hero.jpg") center top/cover no-repeat;
+    justify-content: flex-end;
+    align-items: center;
   }
-}
-
-@media screen and (min-width: 46.875em) {
-  .splash .hero {
-    height: 450px;
-  }
-}
-
-@media screen and (min-width: 59.375em) {
-  .splash .hero {
-    height: 500px;
+  .hero-wrapper .prose h1 {
+    font-size: 2.375rem;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .splash .hero {
-    background: transparent;
-    height: 370px;
+  .hero-wrapper {
+    background: none;
+    width: 100%;
+    position: absolute;
   }
-  .splash .hero h1 {
-    font-size: 2.375rem;
+  .hero-wrapper .prose {
+    max-width: 31.25rem;
   }
-  .splash .hero h3 {
+}
+
+@media screen and (min-width: 75em) {
+  .hero-wrapper {
+    height: 100%;
+  }
+  .hero-wrapper .prose h1 {
+    font-size: 3.125rem;
+  }
+  .hero-wrapper .prose h3 {
     font-size: 1.75rem;
   }
 }
 
-.splash .dog-background {
-  overflow: hidden;
-}
-
-@media screen and (min-width: 84.375em) {
-  .splash .dog-background {
-    height: 700px;
-  }
-}
-
-@media screen and (min-width: 100em) {
-  .splash .dog-background {
-    height: 800px;
+@media screen and (min-width: 81.25em) {
+  .hero-wrapper .prose {
+    max-width: 37.5rem;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .splash .header,
-  .splash .hero-wrapper {
+  .index-splash {
+    position: relative;
+  }
+  .index-splash .header {
     position: absolute;
     width: 100%;
   }
-  .splash .hero-wrapper {
-    top: 200px;
+  .index-splash .dog-background img {
+    width: 100%;
   }
 }
 

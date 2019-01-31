@@ -1,0 +1,86 @@
+.index-splash {
+	.header {
+		.svg-icon {
+			@include breakpoint(medium only) {
+				path {
+					fill: #30659b;
+				}
+			}
+		}
+	}
+}
+.hero-wrapper {
+	background: $off-white url('/img/index/splash/will/will-hero-small.jpg') center top/cover no-repeat;
+	height: 600px;
+
+	.prose {
+		max-width: rem-calc(400);
+
+		h1 {
+			font-size: $h1;
+		}
+
+		h3 {
+			font-size: $h3;
+		}
+	}
+
+	@include breakpoint(medium) {
+		background: $off-white url('/img/index/splash/will/will-hero.jpg') center top/cover no-repeat;
+		@include flex-align(right, middle);
+
+		.prose {
+			h1 {
+				font-size: $h2-medium;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		background: none;
+		width: 100%;
+		position: absolute;
+
+		.prose {
+			max-width: rem-calc(500);
+		}
+	}
+
+	@include breakpoint(1200) {
+		height: 100%;
+
+		.prose {
+			h1 {
+				font-size: $h1-medium;
+			}
+
+			h3 {
+				font-size: $h3-medium;
+			}
+		}
+	}
+
+	@include breakpoint(1300) {
+		.prose {
+			max-width: rem-calc(600);
+		}
+	}
+}
+
+
+@include breakpoint(large) {
+	.index-splash {
+		position: relative;
+
+		.header {
+			position: absolute;
+			width: 100%;
+		}
+
+		.dog-background {
+			img {
+				width: 100%;
+			}
+		}
+	}
+}

@@ -5916,12 +5916,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/dist",
-		"oF": 0
-		},
 	"/fonts/hpals/hpals.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -6287,6 +6281,28 @@
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/img/index/splash/splash-small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/splash/will/will-hero-small.jpg": {
+		"ft": 16384,
+		"iS": 58563,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/splash/will/will-hero-small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/splash/will/will-hero.jpg": {
+		"ft": 16384,
+		"iS": 119341,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/splash/will/will-hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7910,6 +7926,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_small.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/index/_splash-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_splash-2.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
