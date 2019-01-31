@@ -1,0 +1,20 @@
+.hero-wrapper {
+	background: $off-white url("/img/index/splash/will/will-hero-small.jpg") center top/cover no-repeat;
+	height: 600px;
+
+	.prose {
+		max-width: rem-calc(400);
+
+		h1 {
+			font-size: $h1;
+		}
+	}
+
+	@include breakpoint(medium) {
+		background: $off-white url("/img/index/splash/will/will-hero-large.jpg") center top/cover no-repeat;
+
+		.prose {
+			// max-width: none;
+		}
+	}
+}
