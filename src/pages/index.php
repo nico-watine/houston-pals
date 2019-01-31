@@ -46,13 +46,11 @@ layout: index
 			</div>
 		</div>
 	</header>
-	<div class="hero-wrapper grid-x pt-16">
-		<div class="hero grid-x grid-padding-x">
-			<div class="cell medium-shrink">
-				<div class="prose">
-					<h1 class="title-font">Custom made orthotics and prosthetics for any&nbsp;pet.</h1>
-					<h3 style="line-height: 1.4;" class="show-for-medium body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
-				</div>
+	<div class="hero-wrapper grid-x grid-padding-x">
+		<div class="cell medium-shrink large-6 pt-16">
+			<div class="prose">
+				<h1 class="title-font">Custom made orthotics and prosthetics for any&nbsp;pet.</h1>
+				<h3 style="line-height: 1.4;" class="show-for-medium body-font">Just like the animal kingdom, our services are not limited to dogs.</h3>
 			</div>
 		</div>
 	</div>

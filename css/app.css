@@ -11407,9 +11407,33 @@ img.circle {
     width: 100%;
     position: absolute;
   }
+  .hero-wrapper .prose {
+    max-width: 31.25rem;
+  }
+}
+
+@media screen and (min-width: 75em) {
+  .hero-wrapper {
+    height: 100%;
+  }
+  .hero-wrapper .prose h1 {
+    font-size: 3.125rem;
+  }
+  .hero-wrapper .prose h3 {
+    font-size: 1.75rem;
+  }
+}
+
+@media screen and (min-width: 81.25em) {
+  .hero-wrapper .prose {
+    max-width: 37.5rem;
+  }
 }
 
 @media print, screen and (min-width: 64em) {
+  .index-splash {
+    position: relative;
+  }
   .index-splash .header {
     position: absolute;
     width: 100%;
