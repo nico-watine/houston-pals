@@ -1,0 +1,31 @@
+.debotech-thank-you-banner {
+	.thank-you-badge {
+		overflow: hidden;
+		margin: 0 auto rem-calc(24);
+		max-width: rem-calc(300);
+		border-radius: rem-calc(8);
+		border: rem-calc(3) solid #30659b;
+
+		p {
+			line-height: 1;
+		}
+
+		.badge-label {
+			background: $dark-blue;
+
+			.p {
+				letter-spacing: rem-calc(.5);
+				text-transform: uppercase;
+			}
+		}
+
+		.partner-name {
+			background: $off-white;
+
+			p {
+				color: $dark-blue;
+				font-size: $h3-medium;
+			}
+		}
+	}
+}
