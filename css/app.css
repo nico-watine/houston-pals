@@ -11973,6 +11973,15 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
+@media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner .thank-you-badge-wrap {
+    order: 2;
+  }
+  .debotech-thank-you-banner .debotech-logo-img-wrap {
+    order: 1;
+  }
+}
+
 .debotech-thank-you-banner .thank-you-badge {
   overflow: hidden;
   margin: 0 auto 1.5rem;

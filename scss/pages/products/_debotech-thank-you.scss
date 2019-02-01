@@ -1,4 +1,16 @@
 .debotech-thank-you-banner {
+	@include breakpoint(medium) {
+		.thank-you-badge-wrap {
+			order: 2;
+		}
+
+		.debotech-logo-img-wrap {
+			order: 1;
+		}
+	}
+}
+
+.debotech-thank-you-banner {
 	.thank-you-badge {
 		overflow: hidden;
 		margin: 0 auto rem-calc(24);
