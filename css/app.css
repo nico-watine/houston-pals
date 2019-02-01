@@ -12018,17 +12018,24 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   .debotech-thank-you-banner .thank-you-badge .partner-name {
     width: 17.5rem;
   }
-  .debotech-thank-you-banner .thank-you-badge .badge-label {
-    float: left;
-  }
-  .debotech-thank-you-banner .thank-you-badge .partner-name {
-    float: right;
-  }
   .debotech-thank-you-banner img.dobotech-logo {
     width: 360px;
   }
   .debotech-thank-you-banner .prose {
     max-width: 29rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .debotech-thank-you-banner .thank-you-badge .badge-label,
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    width: 17.5rem;
+  }
+  .debotech-thank-you-banner .thank-you-badge .badge-label {
+    float: left;
+  }
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    float: right;
   }
 }
 
