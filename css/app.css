@@ -11981,15 +11981,9 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   border: 0.1875rem solid #30659b;
 }
 
-@media print, screen and (min-width: 40em) {
-  .debotech-thank-you-banner .thank-you-badge {
-    margin: 0 0 1.5rem;
-  }
-}
-
 .debotech-thank-you-banner .thank-you-badge .badge-label,
 .debotech-thank-you-banner .thank-you-badge .partner-name {
-  line-height: 1;
+  line-height: 50px;
 }
 
 .debotech-thank-you-banner .thank-you-badge .badge-label {
@@ -12009,18 +12003,30 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   width: 400px;
 }
 
-@media print, screen and (min-width: 40em) {
-  .debotech-thank-you-banner img.debotech-logo {
-    width: 360px;
-  }
-}
-
 .debotech-thank-you-banner .prose {
   max-width: 18.75rem;
   margin: 0 auto;
 }
 
 @media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner .thank-you-badge {
+    display: inline-block;
+    margin: 0 0 1.5rem;
+    max-width: none;
+  }
+  .debotech-thank-you-banner .thank-you-badge .badge-label,
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    width: 17.5rem;
+  }
+  .debotech-thank-you-banner .thank-you-badge .badge-label {
+    float: left;
+  }
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    float: right;
+  }
+  .debotech-thank-you-banner img.dobotech-logo {
+    width: 360px;
+  }
   .debotech-thank-you-banner .prose {
     max-width: 29rem;
   }

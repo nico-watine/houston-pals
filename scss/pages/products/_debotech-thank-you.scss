@@ -1,3 +1,7 @@
+// -------------------------------------------
+// |            All @small styles            |
+// -------------------------------------------
+
 .debotech-thank-you-banner {
 	.thank-you-badge {
 		overflow: hidden;
@@ -6,13 +10,9 @@
 		border-radius: rem-calc(8);
 		border: rem-calc(3) solid #30659b;
 
-		@include breakpoint(medium) {
-			margin: 0 0 rem-calc(24);
-		}
-
 		.badge-label,
 		.partner-name {
-			line-height: 1;
+			line-height: 50px;
 		}
 
 		.badge-label {
@@ -31,21 +31,52 @@
 	img.debotech-logo {
 		border-radius: 16px;
 		width: 400px;
-
-		@include breakpoint(medium) {
-			width: 360px;
-		}
 	}
 
 	.prose {
 		max-width: rem-calc(300);
 		margin: 0 auto;
+	}
+}
 
-		@include breakpoint(medium) {
+// --------------------------------------------
+// |            All @medium styles            |
+// --------------------------------------------
+
+@include breakpoint(medium) {
+	.debotech-thank-you-banner {
+		.thank-you-badge {
+			display: inline-block;
+			margin: 0 0 rem-calc(24);
+			max-width: none;
+
+			.badge-label,
+			.partner-name {
+				width: rem-calc(280);
+			}
+
+			.badge-label {
+				float: left;
+			}
+
+			.partner-name {
+				float: right;
+			}
+		}
+
+		img.dobotech-logo {
+			width: 360px;
+		}
+
+		.prose {
 			max-width: rem-calc(464);
 		}
 	}
 }
+
+// ----------------------------------------------------
+// |            Cell Alignment & Structure            |
+// ----------------------------------------------------
 
 .debotech-thank-you-banner {
 	@include breakpoint(medium) {

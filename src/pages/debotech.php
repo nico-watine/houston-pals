@@ -43,8 +43,8 @@ layout: default
 			<div class="grid-x grid-padding-x">
 				<div class="cell medium-6 thank-you-badge-wrap align-self-bottom">
 					<div class="thank-you-badge">
-						<p class="text-center badge-label color-white py-12 m-0"><strong>Supplier Thank You</strong></p>
-						<p class="text-center partner-name h3 py-12 m-0 body-font"><strong>deBotech, Inc.</strong></p>
+						<p class="text-center badge-label color-white m-0"><strong>Supplier Thank You</strong></p>
+						<p class="text-center partner-name h3 m-0 body-font"><strong>deBotech, Inc.</strong></p>
 					</div>
 				</div>
 				<div class="cell medium-6 debotech-logo-img-wrap text-center medium-text-right mb-24">
