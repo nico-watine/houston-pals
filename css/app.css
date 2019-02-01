@@ -12008,6 +12008,11 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   width: 400px;
 }
 
+.debotech-thank-you-banner .prose {
+  max-width: 18.75rem;
+  margin: 0 auto;
+}
+
 body#products section.wide#product-definitions {
   width: 100%;
   background: #30659b;

@@ -33,4 +33,9 @@
 		border-radius: 16px;
 		width: 400px;
 	}
+
+	.prose {
+		max-width: rem-calc(300);
+		margin: 0 auto;
+	}
 }
