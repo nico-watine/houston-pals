@@ -114,18 +114,30 @@
 	}
 
 	@include breakpoint(900) {
+		@include xy-grid-container(960);
+
 		.thank-you-badge-wrap {
 			@include xy-cell();
 			order: 1;
 		}
 
+		.debotech-logo-img-wrap,
+		.prose-wrap {
+			@include xy-cell(1 of 2);
+		}
+
 		.debotech-logo-img-wrap {
 			order: 2;
-			@include xy-cell(shrink);
 		}
 
 		.prose-wrap {
 			padding: 0;
+		}
+	}
+
+	@include breakpoint(1000) {
+		.debotech-logo-img-wrap,
+		.prose-wrap {
 			@include xy-cell(shrink);
 		}
 	}
