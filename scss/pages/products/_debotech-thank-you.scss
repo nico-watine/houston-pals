@@ -1,16 +1,4 @@
 .debotech-thank-you-banner {
-	@include breakpoint(medium) {
-		.thank-you-badge-wrap {
-			order: 2;
-		}
-
-		.debotech-logo-img-wrap {
-			order: 1;
-		}
-	}
-}
-
-.debotech-thank-you-banner {
 	.thank-you-badge {
 		overflow: hidden;
 		margin: 0 auto rem-calc(24);
@@ -28,20 +16,14 @@
 
 		.badge-label {
 			background: $dark-blue;
-
-			.p {
-				letter-spacing: rem-calc(.5);
-				text-transform: uppercase;
-			}
+			letter-spacing: rem-calc(.5);
+			text-transform: uppercase;
 		}
 
 		.partner-name {
 			background: $off-white;
-
-			p {
-				color: $dark-blue;
-				font-size: $h3-medium;
-			}
+			color: $dark-blue;
+			font-size: $h3-medium;
 		}
 	}
 
@@ -60,6 +42,38 @@
 
 		@include breakpoint(medium) {
 			max-width: rem-calc(464);
+		}
+	}
+}
+
+.debotech-thank-you-banner {
+	@include breakpoint(medium) {
+		.thank-you-badge-wrap {
+			order: 2;
+		}
+
+		.debotech-logo-img-wrap {
+			order: 1;
+		}
+
+		.prose-wrap {
+			order: 3;
+		}
+	}
+
+	@include breakpoint(900) {
+		.thank-you-badge-wrap {
+			@include xy-cell();
+			order: 1;
+		}
+
+		.debotech-logo-img-wrap {
+			order: 2;
+		}
+
+		.debtech-logo-img-wrap,
+		.prose-wrap {
+			@include xy-cell(6);
 		}
 	}
 }

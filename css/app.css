@@ -11973,15 +11973,6 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
-@media print, screen and (min-width: 40em) {
-  .debotech-thank-you-banner .thank-you-badge-wrap {
-    order: 2;
-  }
-  .debotech-thank-you-banner .debotech-logo-img-wrap {
-    order: 1;
-  }
-}
-
 .debotech-thank-you-banner .thank-you-badge {
   overflow: hidden;
   margin: 0 auto 1.5rem;
@@ -12002,18 +11993,12 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
 
 .debotech-thank-you-banner .thank-you-badge .badge-label {
   background: #30659b;
-}
-
-.debotech-thank-you-banner .thank-you-badge .badge-label .p {
   letter-spacing: 0.03125rem;
   text-transform: uppercase;
 }
 
 .debotech-thank-you-banner .thank-you-badge .partner-name {
   background: #f7f7f7;
-}
-
-.debotech-thank-you-banner .thank-you-badge .partner-name p {
   color: #30659b;
   font-size: 1.75rem;
 }
@@ -12037,6 +12022,39 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
 @media print, screen and (min-width: 40em) {
   .debotech-thank-you-banner .prose {
     max-width: 29rem;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner .thank-you-badge-wrap {
+    order: 2;
+  }
+  .debotech-thank-you-banner .debotech-logo-img-wrap {
+    order: 1;
+  }
+  .debotech-thank-you-banner .prose-wrap {
+    order: 3;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .debotech-thank-you-banner .thank-you-badge-wrap {
+    flex: 0 0 auto;
+    min-height: 0px;
+    min-width: 0px;
+    width: calc(100% - 1.25rem);
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
+    order: 1;
+  }
+  .debotech-thank-you-banner .debotech-logo-img-wrap {
+    order: 2;
+  }
+  .debotech-thank-you-banner .debtech-logo-img-wrap,
+  .debotech-thank-you-banner .prose-wrap {
+    width: calc(50% - 1.25rem);
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
   }
 }
 
