@@ -23,7 +23,7 @@ layout: default
 				</div>
 			</div>
 			<div class="debotech-logo-img-wrap text-center mb-24">
-				<img src="/img/partners/debotech-logo.png" style="border-radius: 16px; width: 400px;" alt="">
+				<img class="debotech-logo" src="/img/partners/debotech-logo.png" title="deBotech, Inc., logo" alt="deBotech, Inc., logo">
 			</div>
 			<div class="prose" style="max-width: 300px; margin: 0 auto;">
 				<p>We are very thankful to deBotech of North Carolina for supplying us with the highest quality carbon-fiber available. deBotech, Inc., founded by Hans deBot, is an industry leader for carbon-fiber manufacturing.</p>

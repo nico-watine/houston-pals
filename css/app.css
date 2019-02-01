@@ -12003,6 +12003,11 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   font-size: 1.75rem;
 }
 
+.debotech-thank-you-banner img.debotech-logo {
+  border-radius: 16px;
+  width: 400px;
+}
+
 body#products section.wide#product-definitions {
   width: 100%;
   background: #30659b;
