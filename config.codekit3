@@ -6357,6 +6357,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/partners/debotech-logo.png": {
+		"ft": 32768,
+		"iS": 29009,
+		"oA": 1,
+		"oAP": "/img/partners/debotech-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/partners/doodle-rock-rescue.png": {
 		"ft": 32768,
 		"iS": 83045,
@@ -8001,6 +8012,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/pages/products/_debotech-thank-you.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_debotech-thank-you.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/pages/products/_large.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -8134,6 +8158,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "/src/pages/_notes.txt",
+		"oF": 0
+		},
+	"/src/pages/debotech.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/src/pages/debotech.php",
 		"oF": 0
 		},
 	"/src/pages/index.php": {
