@@ -1,0 +1,144 @@
+// -------------------------------------------
+// |            All @small styles            |
+// -------------------------------------------
+
+.debotech-thank-you-banner {
+	@include xy-grid-container();
+
+	.thank-you-badge {
+		overflow: hidden;
+		margin: 0 auto rem-calc(24);
+		max-width: rem-calc(300);
+		border-radius: rem-calc(8);
+		border: rem-calc(3) solid #30659b;
+
+		.badge-label,
+		.partner-name {
+			line-height: 50px;
+		}
+
+		.badge-label {
+			background: $dark-blue;
+			letter-spacing: rem-calc(.5);
+			text-transform: uppercase;
+		}
+
+		.partner-name {
+			background: $off-white;
+			color: $dark-blue;
+			font-size: $h3-medium;
+		}
+	}
+
+	img.debotech-logo {
+		border-radius: 16px;
+		width: 400px;
+	}
+
+	.prose {
+		max-width: rem-calc(300);
+		margin: 0 auto;
+	}
+}
+
+// --------------------------------------------
+// |            All @medium styles            |
+// --------------------------------------------
+
+@include breakpoint(medium) {
+	.debotech-thank-you-banner {
+		.thank-you-badge {
+			display: inline-block;
+			margin: 0 0 rem-calc(24);
+			max-width: none;
+
+			.badge-label,
+			.partner-name {
+				width: rem-calc(280);
+			}
+		}
+
+		img.dobotech-logo {
+			width: 360px;
+		}
+
+		.prose {
+			max-width: rem-calc(464);
+		}
+	}
+}
+
+// -------------------------------------------
+// |            900px + up styles            |
+// -------------------------------------------
+
+@include breakpoint(900) {
+	.debotech-thank-you-banner {
+		.thank-you-badge {
+			.badge-label,
+			.partner-name {
+				width: rem-calc(280);
+			}
+			.badge-label {
+				float: left;
+			}
+
+			.partner-name {
+				float: right;
+			}
+		}
+
+		.prose {
+			margin: 0;
+		}
+	}
+}
+
+// ----------------------------------------------------
+// |            Cell Alignment & Structure            |
+// ----------------------------------------------------
+
+.debotech-thank-you-banner {
+	@include breakpoint(medium) {
+		.thank-you-badge-wrap {
+			order: 2;
+		}
+
+		.debotech-logo-img-wrap {
+			order: 1;
+		}
+
+		.prose-wrap {
+			order: 3;
+		}
+	}
+
+	@include breakpoint(900) {
+		@include xy-grid-container(960);
+
+		.thank-you-badge-wrap {
+			@include xy-cell();
+			order: 1;
+		}
+
+		.debotech-logo-img-wrap,
+		.prose-wrap {
+			@include xy-cell(1 of 2);
+		}
+
+		.debotech-logo-img-wrap {
+			order: 2;
+		}
+
+		.prose-wrap {
+			padding: 0;
+		}
+	}
+
+	@include breakpoint(1000) {
+		.debotech-logo-img-wrap,
+		.prose-wrap {
+			@include xy-cell(shrink);
+		}
+	}
+}

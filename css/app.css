@@ -11973,6 +11973,165 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
+.debotech-thank-you-banner {
+  padding-right: 0.625rem;
+  padding-left: 0.625rem;
+  max-width: 75rem;
+  margin: 0 auto;
+}
+
+@media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .debotech-thank-you-banner {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+.debotech-thank-you-banner .thank-you-badge {
+  overflow: hidden;
+  margin: 0 auto 1.5rem;
+  max-width: 18.75rem;
+  border-radius: 0.5rem;
+  border: 0.1875rem solid #30659b;
+}
+
+.debotech-thank-you-banner .thank-you-badge .badge-label,
+.debotech-thank-you-banner .thank-you-badge .partner-name {
+  line-height: 50px;
+}
+
+.debotech-thank-you-banner .thank-you-badge .badge-label {
+  background: #30659b;
+  letter-spacing: 0.03125rem;
+  text-transform: uppercase;
+}
+
+.debotech-thank-you-banner .thank-you-badge .partner-name {
+  background: #f7f7f7;
+  color: #30659b;
+  font-size: 1.75rem;
+}
+
+.debotech-thank-you-banner img.debotech-logo {
+  border-radius: 16px;
+  width: 400px;
+}
+
+.debotech-thank-you-banner .prose {
+  max-width: 18.75rem;
+  margin: 0 auto;
+}
+
+@media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner .thank-you-badge {
+    display: inline-block;
+    margin: 0 0 1.5rem;
+    max-width: none;
+  }
+  .debotech-thank-you-banner .thank-you-badge .badge-label,
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    width: 17.5rem;
+  }
+  .debotech-thank-you-banner img.dobotech-logo {
+    width: 360px;
+  }
+  .debotech-thank-you-banner .prose {
+    max-width: 29rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .debotech-thank-you-banner .thank-you-badge .badge-label,
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    width: 17.5rem;
+  }
+  .debotech-thank-you-banner .thank-you-badge .badge-label {
+    float: left;
+  }
+  .debotech-thank-you-banner .thank-you-badge .partner-name {
+    float: right;
+  }
+  .debotech-thank-you-banner .prose {
+    margin: 0;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner .thank-you-badge-wrap {
+    order: 2;
+  }
+  .debotech-thank-you-banner .debotech-logo-img-wrap {
+    order: 1;
+  }
+  .debotech-thank-you-banner .prose-wrap {
+    order: 3;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .debotech-thank-you-banner {
+    padding-right: 0.625rem;
+    padding-left: 0.625rem;
+    max-width: 960;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 56.25em) and (min-width: 40em) {
+  .debotech-thank-you-banner {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) and (min-width: 64em) {
+  .debotech-thank-you-banner {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .debotech-thank-you-banner .thank-you-badge-wrap {
+    flex: 0 0 auto;
+    min-height: 0px;
+    min-width: 0px;
+    width: calc(100% - 1.25rem);
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
+    order: 1;
+  }
+  .debotech-thank-you-banner .debotech-logo-img-wrap,
+  .debotech-thank-you-banner .prose-wrap {
+    width: calc(50% - 1.25rem);
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
+  }
+  .debotech-thank-you-banner .debotech-logo-img-wrap {
+    order: 2;
+  }
+  .debotech-thank-you-banner .prose-wrap {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 62.5em) {
+  .debotech-thank-you-banner .debotech-logo-img-wrap,
+  .debotech-thank-you-banner .prose-wrap {
+    flex: 0 0 auto;
+    width: auto;
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
+  }
+}
+
 body#products section.wide#product-definitions {
   width: 100%;
   background: #30659b;
