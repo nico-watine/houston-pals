@@ -3,6 +3,8 @@
 // -------------------------------------------
 
 .debotech-thank-you-banner {
+	@include xy-grid-container();
+
 	.thank-you-badge {
 		overflow: hidden;
 		margin: 0 auto rem-calc(24);
@@ -85,6 +87,10 @@
 				float: right;
 			}
 		}
+
+		.prose {
+			margin: 0;
+		}
 	}
 }
 
@@ -115,11 +121,24 @@
 
 		.debotech-logo-img-wrap {
 			order: 2;
+			@include xy-cell(shrink);
+		}
+
+		.prose-wrap {
+			padding: 0;
+			@include xy-cell(auto);
 		}
 
 		.debtech-logo-img-wrap,
 		.prose-wrap {
-			@include xy-cell(6);
+			// @include xy-cell(6);
 		}
 	}
+
+	// @include breakpoint(large) {
+	// 	.thank-you-badge-wrap {
+	// 		@include xy-cell(shrink);
+	// 		@include xy-cell-offset(1.5);
+	// 	}
+	// }
 }

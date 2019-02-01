@@ -37,7 +37,7 @@ layout: default
 		</div>
 	</div>
 </div> -->
-<div class="grid-container debotech-thank-you-banner">
+<div class="debotech-thank-you-banner">
 	<div class="grid-x grid-padding-x">
 		<div class="cell py-40">
 			<div class="grid-x grid-padding-x">

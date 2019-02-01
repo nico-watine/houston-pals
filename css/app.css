@@ -11973,6 +11973,27 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
 }
 
+.debotech-thank-you-banner {
+  padding-right: 0.625rem;
+  padding-left: 0.625rem;
+  max-width: 75rem;
+  margin: 0 auto;
+}
+
+@media print, screen and (min-width: 40em) {
+  .debotech-thank-you-banner {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .debotech-thank-you-banner {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
 .debotech-thank-you-banner .thank-you-badge {
   overflow: hidden;
   margin: 0 auto 1.5rem;
@@ -12037,6 +12058,9 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   .debotech-thank-you-banner .thank-you-badge .partner-name {
     float: right;
   }
+  .debotech-thank-you-banner .prose {
+    margin: 0;
+  }
 }
 
 @media print, screen and (min-width: 40em) {
@@ -12063,10 +12087,15 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
   .debotech-thank-you-banner .debotech-logo-img-wrap {
     order: 2;
+    flex: 0 0 auto;
+    width: auto;
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
   }
-  .debotech-thank-you-banner .debtech-logo-img-wrap,
   .debotech-thank-you-banner .prose-wrap {
-    width: calc(50% - 1.25rem);
+    padding: 0;
+    flex: 1 1 0px;
+    width: auto;
     margin-right: 0.625rem;
     margin-left: 0.625rem;
   }
