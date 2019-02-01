@@ -12,6 +12,9 @@ layout: default
 <div class="grid-container">
 	<div class="grid-x grid-padding-x">
 		<div class="cell">
+			<div class="debotech-logo-img-wrap text-center mb-24">
+				<img src="/img/partners/debotech-logo.png" style="width: 400px;" alt="">
+			</div>
 			<div class="prose" style="max-width: 380px; margin: 0 auto;">
 				<p>We are very thankful to deBotech of North Carolina for supplying us with the highest quality carbon-fiber available. deBotech, Inc., founded by Hans deBot, is an industry leader for carbon-fiber manufacturing.</p>
 				<p>In addition to providing Houston PALS with our composite materials, Hans and his team also designed and manufactured the US Olympic Sliding Team’s bobsleds.</p>
