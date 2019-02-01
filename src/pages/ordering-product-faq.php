@@ -123,7 +123,7 @@ body-class:
 				<img src="/img/orderingProductFAQ/orthotic.jpg" alt="Orthotic Reference Photo">
 			</div>
 			<div class="plaque">
-				<p class="margin-0">A standard orthotic has an estimated price range between $1200 and $1500 <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Additional charge for heavy duty designs, such as for high activity and large animals."><strong>*</strong></span></p>
+				<p class="margin-0">A standard orthotic has an estimated price range between $600 and $1000 <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Additional charge for heavy duty designs, such as for high activity and large animals."><strong>*</strong></span></p>
 			</div>
 		</div>
 	</div>
