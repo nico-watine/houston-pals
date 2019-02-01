@@ -23,7 +23,7 @@ layout: default
 						</span>
 					</div>
 				</div>
-				<div class="cell medium-6 medium-order-1 debotech-logo-img-wrap text-center mb-24">
+				<div class="cell medium-6 medium-order-1 debotech-logo-img-wrap text-center medium-text-right mb-24">
 					<img class="debotech-logo" src="/img/partners/debotech-logo.png" title="deBotech, Inc., logo" alt="deBotech, Inc., logo">
 				</div>
 			</div>

@@ -6,6 +6,10 @@
 		border-radius: rem-calc(8);
 		border: rem-calc(3) solid #30659b;
 
+		@include breakpoint(medium) {
+			margin: 0 0 rem-calc(24);
+		}
+
 		p {
 			line-height: 1;
 		}
@@ -32,10 +36,18 @@
 	img.debotech-logo {
 		border-radius: 16px;
 		width: 400px;
+
+		@include breakpoint(medium) {
+			width: 360px;
+		}
 	}
 
 	.prose {
 		max-width: rem-calc(300);
 		margin: 0 auto;
+
+		@include breakpoint(medium) {
+			max-width: rem-calc(464);
+		}
 	}
 }
