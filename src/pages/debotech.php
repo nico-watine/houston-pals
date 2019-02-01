@@ -13,7 +13,7 @@ layout: default
 	<div class="grid-x grid-padding-x">
 		<div class="cell py-40">
 			<div class="thank-you-badge-wrap">
-				<div class="thank-you-badge" style="overflow: hidden; margin: 0 auto 24px; max-width: 300px; border-radius: 6px; border: 3px solid #30659B;">
+				<div class="thank-you-badge" style="overflow: hidden; margin: 0 auto 24px; max-width: 300px; border-radius: 8px; border: 3px solid #30659B;">
 					<span class="display-block text-center" style="background: #30659B;">
 						<p class="color-white py-12 m-0" style="line-height: 1; letter-spacing: 0.5px; text-transform: uppercase;"><strong>Supplier Thank You</strong></p>
 					</span>
@@ -23,7 +23,7 @@ layout: default
 				</div>
 			</div>
 			<div class="debotech-logo-img-wrap text-center mb-24">
-				<img src="/img/partners/debotech-logo.png" style="width: 400px;" alt="">
+				<img src="/img/partners/debotech-logo.png" style="border-radius: 16px; width: 400px;" alt="">
 			</div>
 			<div class="prose" style="max-width: 300px; margin: 0 auto;">
 				<p>We are very thankful to deBotech of North Carolina for supplying us with the highest quality carbon-fiber available. deBotech, Inc., founded by Hans deBot, is an industry leader for carbon-fiber manufacturing.</p>
