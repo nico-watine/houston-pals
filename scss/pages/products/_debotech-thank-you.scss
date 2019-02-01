@@ -126,19 +126,7 @@
 
 		.prose-wrap {
 			padding: 0;
-			@include xy-cell(auto);
-		}
-
-		.debtech-logo-img-wrap,
-		.prose-wrap {
-			// @include xy-cell(6);
+			@include xy-cell(shrink);
 		}
 	}
-
-	// @include breakpoint(large) {
-	// 	.thank-you-badge-wrap {
-	// 		@include xy-cell(shrink);
-	// 		@include xy-cell-offset(1.5);
-	// 	}
-	// }
 }

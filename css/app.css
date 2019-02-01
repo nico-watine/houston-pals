@@ -12094,7 +12094,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
   }
   .debotech-thank-you-banner .prose-wrap {
     padding: 0;
-    flex: 1 1 0px;
+    flex: 0 0 auto;
     width: auto;
     margin-right: 0.625rem;
     margin-left: 0.625rem;
