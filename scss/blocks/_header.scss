@@ -116,5 +116,13 @@
 				}
 			}
 		}
+
+		@include breakpoint(large) {
+			li {
+				a {
+					border-radius: rem-calc(12);
+				}
+			}
+		}
 	}
 }
