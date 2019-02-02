@@ -10350,7 +10350,7 @@ body {
 
 @media print, screen and (min-width: 40em) {
   .header ul.menu li a {
-    border-radius: 0.75rem;
+    border-radius: 0.75rem 0.75rem 0 0;
     height: 4.375rem;
     line-height: 3.125rem;
   }
