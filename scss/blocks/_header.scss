@@ -87,6 +87,7 @@
 		@include breakpoint(medium) {
 			li {
 				a {
+					border-radius: rem-calc(12) rem-calc(12) 0 0;
 					height: rem-calc(70);
 					line-height: rem-calc(50);
 
@@ -112,6 +113,14 @@
 			li#about-pals {
 				a {
 					width: rem-calc(130);
+				}
+			}
+		}
+
+		@include breakpoint(large) {
+			li {
+				a {
+					border-radius: rem-calc(12);
 				}
 			}
 		}
