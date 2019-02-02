@@ -36,7 +36,6 @@ layout: index
 				<div class="cell align-middle">
 					<nav class="custom-dropdown-pane dropdown-pane text-center" data-dropdown id="top-bar-nav">
 						<ul class="vertical medium-horizontal menu align-center">
-							<li><a href="/">Home</a></li>
 							<li><a href="/products.php">Products</a></li>
 							<li id="op-faq"><a href="/ordering-product-faq.php">Ordering + Product FAQ</a></li>
 							<li><a href="https://blog.houstonpals.com/">Blog</a></li>
