@@ -87,6 +87,7 @@
 		@include breakpoint(medium) {
 			li {
 				a {
+					border-radius: rem-calc(12);
 					height: rem-calc(70);
 					line-height: rem-calc(50);
 

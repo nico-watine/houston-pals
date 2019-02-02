@@ -10350,6 +10350,7 @@ body {
 
 @media print, screen and (min-width: 40em) {
   .header ul.menu li a {
+    border-radius: 0.75rem;
     height: 4.375rem;
     line-height: 3.125rem;
   }
@@ -10386,6 +10387,9 @@ body {
   .header-scrim ul.menu li a {
     color: #fff;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .header-scrim ul.menu li a:hover {
+    text-shadow: none;
   }
 }
 
