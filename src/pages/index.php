@@ -63,7 +63,7 @@ layout: index
 	<div class="section-interior py-40">
 		<div class="row">
 			<div class="columns text-center">
-				<div class="event-announcement display-inline-block">
+				<div class="mb-32 event-announcement display-inline-block">
 					<h5 class="m-0 h5 text-line-through text-uppercase">Upcoming</h5>
 					<h4 class="m-0 h4 text-underline"><a href="">Updated Feb 4!</a></h4>
 				</div>
