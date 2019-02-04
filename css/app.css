@@ -11731,6 +11731,7 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 .meet-will-section .update-snippet {
   overflow: hidden;
+  border-bottom: 4px solid #30659B;
 }
 
 .meet-will-section .update-snippet .h3 span {
@@ -11749,7 +11750,7 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
   top: 50%;
 }
 
-.meet-will-section .update-snippet p {
+.meet-will-section .update-snippet .p {
   width: 18.75rem;
 }
 

@@ -84,6 +84,7 @@
 	// Update-Snippet : ----------------------------------------------------------------
 	.update-snippet {
 		overflow: hidden;
+		border-bottom: 4px solid #30659B;
 
 		.h3 span {
 			display: inline-block;
@@ -96,14 +97,9 @@
 			position: absolute;
 			left: 100%;
 			margin-left: 16px;
-			// height: 5px;
-			// height: 28px;
 			width: 300px;
 			border-bottom: 4px solid $dark-blue;
-			// border-top: 1px solid $dark-blue;
-			// top: 0;
 			top: 50%;
-			// width: 600px;
 		}
 
 		.p {
