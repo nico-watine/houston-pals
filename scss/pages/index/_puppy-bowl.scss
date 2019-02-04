@@ -5,14 +5,24 @@
 		background: rgba(48,101,155,.80);
 
 		.event-announcement {
-			padding: rem-calc(3) rem-calc(28);
+			padding: rem-calc(12) rem-calc(40);
 			background: #f7f7f7;
-			font-size: $h4-medium;
 			border-radius: rem-calc(3);
-			text-transform: uppercase;
 			line-height: 1;
-			letter-spacing: rem-calc(.5);
-			margin-bottom: rem-calc(24);
+
+			.h5 {
+				letter-spacing: rem-calc(.5);
+				font-size: $h5-medium;
+			}
+
+			.h4 {
+				font-size: $h4-medium;
+				text-decoration: underline;
+
+				&:hover {
+					text-decoration: none;
+				}
+			}
 		}
 
 		.event-title {

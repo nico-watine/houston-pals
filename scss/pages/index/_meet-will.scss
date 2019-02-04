@@ -80,4 +80,54 @@
 			width: 370px;
 		}
 	}
+
+	// Update-Snippet : ----------------------------------------------------------------
+	.update-snippet {
+		overflow: hidden;
+
+		.h3,
+		.p {
+			max-width: rem-calc(300);
+		}
+
+		.h3 {
+			overflow: hidden;
+		}
+
+		.h3 span {
+			display: inline-block;
+			position: relative;
+			font-weight: bold;
+		}
+
+		.h3 span:after {
+			content: '';
+			position: absolute;
+			margin-left: 16px;
+			width: 300px;
+			border-bottom: 4px solid $dark-blue;
+			top: 50%;
+		}
+
+		.p {
+			padding-bottom: rem-calc(16);
+			margin: 0;
+			font-size: rem-calc(16);
+			border-bottom: 4px solid #30659b;
+		}
+
+		@include breakpoint(480) {
+			.h3,
+			.p {
+				max-width: rem-calc(360);
+			}
+		}
+
+		@include breakpoint(large) {
+			.h3,
+			.p {
+				max-width: rem-calc(400);
+			}
+		}
+	}
 }
