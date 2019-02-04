@@ -11580,14 +11580,24 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 }
 
 .puppy-bowl-section .section-interior .event-announcement {
-  padding: 0.1875rem 1.75rem;
+  padding: 0.75rem 2.5rem;
   background: #f7f7f7;
-  font-size: 1.3125rem;
   border-radius: 0.1875rem;
-  text-transform: uppercase;
   line-height: 1;
+}
+
+.puppy-bowl-section .section-interior .event-announcement .h5 {
   letter-spacing: 0.03125rem;
-  margin-bottom: 1.5rem;
+  font-size: 1rem;
+}
+
+.puppy-bowl-section .section-interior .event-announcement .h4 {
+  font-size: 1.3125rem;
+  text-decoration: underline;
+}
+
+.puppy-bowl-section .section-interior .event-announcement .h4:hover {
+  text-decoration: none;
 }
 
 .puppy-bowl-section .section-interior .event-title {
@@ -11716,6 +11726,55 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 @media print, screen and (min-width: 40em) {
   .meet-will-section img.doggo {
     width: 370px;
+  }
+}
+
+.meet-will-section .update-snippet {
+  overflow: hidden;
+}
+
+.meet-will-section .update-snippet .h3,
+.meet-will-section .update-snippet .p {
+  max-width: 18.75rem;
+}
+
+.meet-will-section .update-snippet .h3 {
+  overflow: hidden;
+}
+
+.meet-will-section .update-snippet .h3 span {
+  display: inline-block;
+  position: relative;
+  font-weight: bold;
+}
+
+.meet-will-section .update-snippet .h3 span:after {
+  content: '';
+  position: absolute;
+  margin-left: 16px;
+  width: 300px;
+  border-bottom: 4px solid #30659b;
+  top: 50%;
+}
+
+.meet-will-section .update-snippet .p {
+  padding-bottom: 1rem;
+  margin: 0;
+  font-size: 1rem;
+  border-bottom: 4px solid #30659b;
+}
+
+@media screen and (min-width: 30em) {
+  .meet-will-section .update-snippet .h3,
+  .meet-will-section .update-snippet .p {
+    max-width: 22.5rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .meet-will-section .update-snippet .h3,
+  .meet-will-section .update-snippet .p {
+    max-width: 25rem;
   }
 }
 

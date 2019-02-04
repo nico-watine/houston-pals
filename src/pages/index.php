@@ -63,7 +63,10 @@ layout: index
 	<div class="section-interior py-40">
 		<div class="row">
 			<div class="columns text-center">
-				<h4 class="display-inline-block announcement-tag event-announcement">Upcoming!</h4>
+				<div class="mb-32 event-announcement display-inline-block" data-magellan data-threshold="0">
+					<h5 class="m-0 h5 text-line-through text-uppercase">Upcoming</h5>
+					<h4 class="m-0 h4"><a href="#meet-will-section">Updated Feb 4!</a></h4>
+				</div>
 				<h3 class="event-title color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
 				<h4 class="event-date announcement-date color-white"><strong>February 3, 2019</strong></h4>
 				<br>
@@ -84,12 +87,16 @@ layout: index
 		</div>
 	</div>
 </section>
-<section class="meet-will-section py-40">
+<section class="meet-will-section py-40" id="meet-will-section" data-magellan-target="meet-will-section">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-middle">
 			<div class="article-cell medium-7 cell medium-order-2">
 				<article class="meet-will-article p-16">
-					<h2 class="article-title heading">Meet Will</h2>
+					<h2 style="margin-bottom: 24px;" class="article-title heading">Meet Will</h2>
+					<div class="update-snippet mb-24">
+						<h3 class="h3 body-font"><span>Update 2/4</span></h3>
+						<p class="p"><strong>Thank you for a successful Puppy&nbsp;Bowl. <br>Will was voted Underdog of&nbsp;the&nbsp;game!</strong></p>
+					</div>
 					<p>We partnered with <strong>Doodle Rock Rescue</strong> in Dallas to rehabilitate Will and help him find a new home. On February 3, watch Will and his pals play in <strong>Animal Planet’s Puppy Bowl</strong> to spread adoption awareness.</p>
 					<p class="mb-32">Learn about Will’s inspiring story as he journeyed towards health and home.</p>
 					<a href="/puppy-bowl-2019-journey" class="button m-0 article-page-link display-inline-block heading py-16 px-40">Read It</a>
