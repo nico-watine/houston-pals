@@ -63,7 +63,11 @@ layout: index
 	<div class="section-interior py-40">
 		<div class="row">
 			<div class="columns text-center">
-				<h4 class="display-inline-block announcement-tag event-announcement">Upcoming!</h4>
+				<div class="event-announcement display-inline-block">
+					<h5 class="h5 text-line-through text-uppercase">Upcoming</h5>
+					<h4><a href="">Updated Feb 4!</a></h4>
+				</div>
+				<!-- <h4 class="display-inline-block announcement-tag event-announcement text-line-through">Upcoming</h4> -->
 				<h3 class="event-title color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
 				<h4 class="event-date announcement-date color-white"><strong>February 3, 2019</strong></h4>
 				<br>
