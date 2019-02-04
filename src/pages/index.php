@@ -63,7 +63,7 @@ layout: index
 	<div class="section-interior py-40">
 		<div class="row">
 			<div class="columns text-center">
-				<div class="mb-32 event-announcement display-inline-block">
+				<div class="mb-32 event-announcement display-inline-block" data-magellan data-threshold="0">
 					<h5 class="m-0 h5 text-line-through text-uppercase">Upcoming</h5>
 					<h4 class="m-0 h4"><a href="#meet-will-section">Updated Feb 4!</a></h4>
 				</div>
@@ -87,7 +87,7 @@ layout: index
 		</div>
 	</div>
 </section>
-<section class="meet-will-section py-40" id="meet-will-section">
+<section class="meet-will-section py-40" id="meet-will-section" data-magellan-target="meet-will-section">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-middle">
 			<div class="article-cell medium-7 cell medium-order-2">
