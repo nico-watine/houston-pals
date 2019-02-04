@@ -11593,6 +11593,11 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 .puppy-bowl-section .section-interior .event-announcement .h4 {
   font-size: 1.3125rem;
+  text-decoration: underline;
+}
+
+.puppy-bowl-section .section-interior .event-announcement .h4:hover {
+  text-decoration: none;
 }
 
 .puppy-bowl-section .section-interior .event-title {

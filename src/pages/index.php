@@ -65,7 +65,7 @@ layout: index
 			<div class="columns text-center">
 				<div class="mb-32 event-announcement display-inline-block">
 					<h5 class="m-0 h5 text-line-through text-uppercase">Upcoming</h5>
-					<h4 class="m-0 h4 text-underline"><a href="">Updated Feb 4!</a></h4>
+					<h4 class="m-0 h4"><a href="">Updated Feb 4!</a></h4>
 				</div>
 				<h3 class="event-title color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
 				<h4 class="event-date announcement-date color-white"><strong>February 3, 2019</strong></h4>

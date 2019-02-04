@@ -17,6 +17,11 @@
 
 			.h4 {
 				font-size: $h4-medium;
+				text-decoration: underline;
+
+				&:hover {
+					text-decoration: none;
+				}
 			}
 		}
 
