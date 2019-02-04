@@ -65,7 +65,7 @@ layout: index
 			<div class="columns text-center">
 				<div class="mb-32 event-announcement display-inline-block">
 					<h5 class="m-0 h5 text-line-through text-uppercase">Upcoming</h5>
-					<h4 class="m-0 h4"><a href="#meet-will-article">Updated Feb 4!</a></h4>
+					<h4 class="m-0 h4"><a href="#meet-will-section">Updated Feb 4!</a></h4>
 				</div>
 				<h3 class="event-title color-white"><strong>Animal Planet’s <br><span style="letter-spacing: 1px;" class="h2 heading uppercase">Puppy Bowl 15</span></strong></h3>
 				<h4 class="event-date announcement-date color-white"><strong>February 3, 2019</strong></h4>
@@ -87,11 +87,11 @@ layout: index
 		</div>
 	</div>
 </section>
-<section class="meet-will-section py-40">
+<section class="meet-will-section py-40" id="meet-will-section">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-middle">
 			<div class="article-cell medium-7 cell medium-order-2">
-				<article class="meet-will-article p-16" id="meet-will-article">
+				<article class="meet-will-article p-16">
 					<h2 style="margin-bottom: 24px;" class="article-title heading">Meet Will</h2>
 					<div class="update-snippet mb-24">
 						<h3 class="h3 body-font"><span>Update 2/4</span></h3>
