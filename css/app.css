@@ -11731,7 +11731,15 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 .meet-will-section .update-snippet {
   overflow: hidden;
-  border-bottom: 4px solid #30659B;
+}
+
+.meet-will-section .update-snippet .h3,
+.meet-will-section .update-snippet .p {
+  max-width: 18.75rem;
+}
+
+.meet-will-section .update-snippet .h3 {
+  overflow: hidden;
 }
 
 .meet-will-section .update-snippet .h3 span {
@@ -11751,7 +11759,24 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 }
 
 .meet-will-section .update-snippet .p {
-  width: 18.75rem;
+  padding-bottom: 1rem;
+  margin: 0;
+  font-size: 1rem;
+  border-bottom: 4px solid #30659b;
+}
+
+@media screen and (min-width: 30em) {
+  .meet-will-section .update-snippet .h3,
+  .meet-will-section .update-snippet .p {
+    max-width: 22.5rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .meet-will-section .update-snippet .h3,
+  .meet-will-section .update-snippet .p {
+    max-width: 25rem;
+  }
 }
 
 .contact-strip-section {

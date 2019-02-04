@@ -84,7 +84,15 @@
 	// Update-Snippet : ----------------------------------------------------------------
 	.update-snippet {
 		overflow: hidden;
-		border-bottom: 4px solid #30659B;
+
+		.h3,
+		.p {
+			max-width: rem-calc(300);
+		}
+
+		.h3 {
+			overflow: hidden;
+		}
 
 		.h3 span {
 			display: inline-block;
@@ -103,7 +111,24 @@
 		}
 
 		.p {
-			width: rem-calc(300);
+			padding-bottom: rem-calc(16);
+			margin: 0;
+			font-size: rem-calc(16);
+			border-bottom: 4px solid #30659b;
+		}
+
+		@include breakpoint(480) {
+			.h3,
+			.p {
+				max-width: rem-calc(360);
+			}
+		}
+
+		@include breakpoint(large) {
+			.h3,
+			.p {
+				max-width: rem-calc(400);
+			}
 		}
 	}
 }

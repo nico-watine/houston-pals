@@ -93,7 +93,7 @@ layout: index
 			<div class="article-cell medium-7 cell medium-order-2">
 				<article class="meet-will-article p-16">
 					<h2 style="margin-bottom: 24px;" class="article-title heading">Meet Will</h2>
-					<div class="update-snippet mb-24 display-inline-block">
+					<div class="update-snippet mb-24">
 						<h3 class="h3 body-font"><span>Update 2/4</span></h3>
 						<p class="p"><strong>Thank you for a successful Puppy Bowl. <br>Will was voted Underdog of the game!</strong></p>
 					</div>
