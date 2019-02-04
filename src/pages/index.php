@@ -92,7 +92,11 @@ layout: index
 		<div class="grid-x grid-padding-x align-middle">
 			<div class="article-cell medium-7 cell medium-order-2">
 				<article class="meet-will-article p-16">
-					<h2 class="article-title heading">Meet Will</h2>
+					<h2 style="margin-bottom: 24px;" class="article-title heading">Meet Will</h2>
+					<div class="update-snippet mb-24" style="border-bottom: 4px solid #30659B;">
+						<h3 class="body-font"><strong>Update 2/4</strong></h3>
+						<p><strong>Thank you for a successful Puppy Bowl. <br>Will was voted Underdog of the game!</strong></p>
+					</div>
 					<p>We partnered with <strong>Doodle Rock Rescue</strong> in Dallas to rehabilitate Will and help him find a new home. On February 3, watch Will and his pals play in <strong>Animal Planet’s Puppy Bowl</strong> to spread adoption awareness.</p>
 					<p class="mb-32">Learn about Will’s inspiring story as he journeyed towards health and home.</p>
 					<a href="/puppy-bowl-2019-journey" class="button m-0 article-page-link display-inline-block heading py-16 px-40">Read It</a>
