@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Raleway:700,900");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700|Raleway:700,900");
 @media print, screen and (min-width: 40em) {
   .reveal, .reveal.tiny, .reveal.small, .reveal.large {
     right: auto;
