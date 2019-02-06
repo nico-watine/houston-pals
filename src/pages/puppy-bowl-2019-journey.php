@@ -18,7 +18,7 @@ layout: blank
 					<h1 class="color-white mb-20"><span class="h3">Discover Will’s journey to</span> <br>Puppy Bowl 2019</h1>
 					<div class="update-snippet show-for-medium">
 						<h3 class="h2 color-white body-font mb-16"><span>Update 2/4</span></h3>
-						<p class="p p-16"><strong>Thank you to everyone for an amazing Puppy Bowl! Learn about Will’s success <a href="" class="text-underline">in&nbsp;our&nbsp;blog&nbsp;post.</a></strong></p>
+						<p class="p p-16"><strong>Thank you to everyone for an amazing Puppy Bowl! Learn about Will’s success <a href="https://blog.houstonpals.com/thank-you-for-a-successful-puppy-bowl-2019/">in&nbsp;our&nbsp;blog&nbsp;post.</a></strong></p>
 					</div>
 				</div>
 				<div class="cell medium-shrink medium-order-1 text-center">
@@ -27,7 +27,7 @@ layout: blank
 				<div class="cell hide-for-medium text-center">
 					<div class="update-snippet pt-20">
 						<h3 class="h2 color-white body-font mb-16"><span>Update 2/4</span></h3>
-						<p class="p p-16"><strong>Thank you to everyone for an amazing Puppy Bowl! Learn about Will’s success <a href="" class="text-underline">in&nbsp;our&nbsp;blog&nbsp;post.</a></strong></p>
+						<p class="p p-16"><strong>Thank you to everyone for an amazing Puppy Bowl! Learn about Will’s success <a href="https://blog.houstonpals.com/thank-you-for-a-successful-puppy-bowl-2019/" class="text-underline">in&nbsp;our&nbsp;blog&nbsp;post.</a></strong></p>
 					</div>
 				</div>
 			</div>

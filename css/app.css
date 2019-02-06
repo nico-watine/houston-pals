@@ -12704,6 +12704,12 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   .puppy-bowl-2019-journey-header .update-snippet .h2 {
     font-size: 1.625rem;
   }
+  .puppy-bowl-2019-journey-header .update-snippet .p a {
+    text-decoration: underline;
+  }
+  .puppy-bowl-2019-journey-header .update-snippet .p a:hover {
+    text-decoration: none;
+  }
 }
 
 .puppy-bowl-2019-journey-story {

@@ -64,6 +64,16 @@
 			.h2 {
 				font-size: $h2;
 			}
+
+			.p {
+				a {
+					text-decoration: underline;
+
+					&:hover {
+						text-decoration: none;
+					}
+				}
+			}
 		}
 	}
 }
