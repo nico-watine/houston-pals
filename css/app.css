@@ -12665,7 +12665,6 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   max-width: 20rem;
   overflow: hidden;
   margin: 0 auto;
-  padding-top: 1.25rem;
 }
 
 .puppy-bowl-2019-journey-header .update-snippet .h2 span {
@@ -12696,6 +12695,15 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
 .puppy-bowl-2019-journey-header .update-snippet .p {
   background: #f7f7f7;
   border-radius: 0.75rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .puppy-bowl-2019-journey-header .update-snippet {
+    margin: initial;
+  }
+  .puppy-bowl-2019-journey-header .update-snippet .h2 {
+    font-size: 1.75rem;
+  }
 }
 
 .puppy-bowl-2019-journey-story {

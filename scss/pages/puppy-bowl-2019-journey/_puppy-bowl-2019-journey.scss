@@ -27,7 +27,6 @@
 		max-width: rem-calc(320);
 		overflow: hidden;
 		margin: 0 auto;
-		padding-top: rem-calc(20);
 
 		.h2 span {
 			display: inline-block;
@@ -57,6 +56,14 @@
 		.p {
 			background: #f7f7f7;
 			border-radius: rem-calc(12);
+		}
+
+		@include breakpoint(medium) {
+			margin: initial;
+
+			.h2 {
+				font-size: $h3-medium;
+			}
 		}
 	}
 }
