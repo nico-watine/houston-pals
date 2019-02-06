@@ -22,6 +22,19 @@
 			width: 270px;
 		}
 	}
+
+	.update-notification {
+		.h3 {
+			// font-size: $h3-medium;
+		}
+
+		.p {
+			margin: 0 auto;
+			background: #f7f7f7;
+			max-width: rem-calc(320);
+			border-radius: rem-calc(12);
+		}
+	}
 }
 
 .puppy-bowl-2019-journey-story {

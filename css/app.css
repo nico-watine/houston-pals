@@ -12661,6 +12661,13 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   }
 }
 
+.puppy-bowl-2019-journey-header .update-notification .p {
+  margin: 0 auto;
+  background: #f7f7f7;
+  max-width: 20rem;
+  border-radius: 0.75rem;
+}
+
 .puppy-bowl-2019-journey-story {
   padding-top: 2.5rem;
 }
