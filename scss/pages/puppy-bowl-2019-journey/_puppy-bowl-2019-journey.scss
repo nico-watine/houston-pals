@@ -22,6 +22,60 @@
 			width: 270px;
 		}
 	}
+
+	.update-snippet {
+		max-width: rem-calc(320);
+		overflow: hidden;
+		margin: 0 auto;
+
+		.h2 span {
+			display: inline-block;
+			position: relative;
+			font-weight: bold;
+		}
+
+		.h2 span:before,
+		.h2 span:after {
+			content: '';
+			position: absolute;
+			border-bottom: 4px solid $off-white;
+			top: 50%;
+			width: 400px;
+		}
+
+		.h2 span:before {
+			right: 100%;
+			margin-right: 16px;
+		}
+
+		.h2 span:after {
+			left: 100%;
+			margin-left: 16px;
+		}
+
+		.p {
+			background: #f7f7f7;
+			border-radius: rem-calc(12);
+		}
+
+		@include breakpoint(medium) {
+			margin: initial;
+
+			.h2 {
+				font-size: $h2;
+			}
+
+			.p {
+				a {
+					text-decoration: underline;
+
+					&:hover {
+						text-decoration: none;
+					}
+				}
+			}
+		}
+	}
 }
 
 .puppy-bowl-2019-journey-story {
