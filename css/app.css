@@ -12661,10 +12661,11 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   }
 }
 
-.puppy-bowl-2019-journey-header .update-snippet .h2 {
+.puppy-bowl-2019-journey-header .update-snippet {
   max-width: 20rem;
-  margin: 1.25rem auto 0.5rem;
   overflow: hidden;
+  margin: 0 auto;
+  padding-top: 1.25rem;
 }
 
 .puppy-bowl-2019-journey-header .update-snippet .h2 span {
@@ -12693,9 +12694,7 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
 }
 
 .puppy-bowl-2019-journey-header .update-snippet .p {
-  margin: 0 auto;
   background: #f7f7f7;
-  max-width: 20rem;
   border-radius: 0.75rem;
 }
 

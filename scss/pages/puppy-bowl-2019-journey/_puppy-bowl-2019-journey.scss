@@ -24,13 +24,10 @@
 	}
 
 	.update-snippet {
-		.h2 {
-			max-width: rem-calc(320);
-			margin: rem-calc(20) auto rem-calc(8);
-			// margin-left: auto;
-			// margin-right: auto;
-			overflow: hidden;
-		}
+		max-width: rem-calc(320);
+		overflow: hidden;
+		margin: 0 auto;
+		padding-top: rem-calc(20);
 
 		.h2 span {
 			display: inline-block;
@@ -58,9 +55,7 @@
 		}
 
 		.p {
-			margin: 0 auto;
 			background: #f7f7f7;
-			max-width: rem-calc(320);
 			border-radius: rem-calc(12);
 		}
 	}
