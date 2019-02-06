@@ -7817,6 +7817,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/pages/index/_about-pals.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_about-pals.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/pages/index/_block-banner.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -8158,6 +8171,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "/src/pages/_notes.txt",
+		"oF": 0
+		},
+	"/src/pages/bill.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/src/pages/bill.php",
 		"oF": 0
 		},
 	"/src/pages/debotech.php": {
