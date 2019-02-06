@@ -14,11 +14,15 @@ layout: blank
 	<div class="section-interior">
 		<div class="grid-container">
 			<div class="grid-x grid-padding-x align-middle align-center">
-				<div class="cell medium-shrink medium-order-2 text-center medium-text-left">
+				<div class="cell medium-8 medium-order-2 text-center medium-text-left">
 					<h1 class="color-white mb-20"><span class="h3">Discover Will’s journey to</span> <br>Puppy Bowl 2019</h1>
 				</div>
 				<div class="cell medium-shrink medium-order-1 text-center">
 					<img class="doggo" src="/img/index/meet-will/puppy-bowl-meet-will.jpg" alt="">
+				</div>
+				<div class="cell hide-for-medium text-center pt-20">
+					<h3 class="color-white body-font"><strong>Update 2/4</strong></h3>
+					<p style="margin: 0 auto; background: #F7F7F7; max-width: 320px; padding: 16px; border-radius: 12px;"><strong>Thank you to everyone for an amazing Puppy Bowl! Learn about Will’s success <a href="" class=" text-underline">in&nbsp;our&nbsp;blog&nbsp;post.</a></strong></p>
 				</div>
 			</div>
 		</div>
