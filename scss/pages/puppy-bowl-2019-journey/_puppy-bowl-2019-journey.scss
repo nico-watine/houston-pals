@@ -24,6 +24,39 @@
 	}
 
 	.update-snippet {
+		.h2 {
+			max-width: rem-calc(320);
+			margin: rem-calc(20) auto rem-calc(8);
+			// margin-left: auto;
+			// margin-right: auto;
+			overflow: hidden;
+		}
+
+		.h2 span {
+			display: inline-block;
+			position: relative;
+			font-weight: bold;
+		}
+
+		.h2 span:before,
+		.h2 span:after {
+			content: '';
+			position: absolute;
+			border-bottom: 4px solid $off-white;
+			top: 50%;
+			width: 400px;
+		}
+
+		.h2 span:before {
+			right: 100%;
+			margin-right: 16px;
+		}
+
+		.h2 span:after {
+			left: 100%;
+			margin-left: 16px;
+		}
+
 		.p {
 			margin: 0 auto;
 			background: #f7f7f7;

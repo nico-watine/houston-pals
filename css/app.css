@@ -12661,6 +12661,37 @@ body#about .row#story, body#about main .content-wrapper #story.content, main .co
   }
 }
 
+.puppy-bowl-2019-journey-header .update-snippet .h2 {
+  max-width: 20rem;
+  margin: 1.25rem auto 0.5rem;
+  overflow: hidden;
+}
+
+.puppy-bowl-2019-journey-header .update-snippet .h2 span {
+  display: inline-block;
+  position: relative;
+  font-weight: bold;
+}
+
+.puppy-bowl-2019-journey-header .update-snippet .h2 span:before,
+.puppy-bowl-2019-journey-header .update-snippet .h2 span:after {
+  content: '';
+  position: absolute;
+  border-bottom: 4px solid #f7f7f7;
+  top: 50%;
+  width: 400px;
+}
+
+.puppy-bowl-2019-journey-header .update-snippet .h2 span:before {
+  right: 100%;
+  margin-right: 16px;
+}
+
+.puppy-bowl-2019-journey-header .update-snippet .h2 span:after {
+  left: 100%;
+  margin-left: 16px;
+}
+
 .puppy-bowl-2019-journey-header .update-snippet .p {
   margin: 0 auto;
   background: #f7f7f7;
