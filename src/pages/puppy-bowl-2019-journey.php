@@ -20,7 +20,7 @@ layout: blank
 				<div class="cell medium-shrink medium-order-1 text-center">
 					<img class="doggo" src="/img/index/meet-will/puppy-bowl-meet-will.jpg" alt="">
 				</div>
-				<div class="cell update-notification hide-for-medium text-center pt-20">
+				<div class="cell update-snippet hide-for-medium text-center pt-20">
 					<h3 class="h2 color-white body-font"><strong>Update 2/4</strong></h3>
 					<p class="p p-16"><strong>Thank you to everyone for an amazing Puppy Bowl! Learn about Will’s success <a href="" class="text-underline">in&nbsp;our&nbsp;blog&nbsp;post.</a></strong></p>
 				</div>
