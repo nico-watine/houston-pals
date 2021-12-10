@@ -7,7 +7,7 @@
  */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700|Raleway:700,900");
 @media print, screen and (min-width: 40em) {
-  .reveal, .reveal.tiny, .reveal.small, .reveal.large {
+  .reveal.large, .reveal.small, .reveal.tiny, .reveal {
     right: auto;
     left: auto;
     margin: 0 auto;
@@ -3219,11 +3219,11 @@ textarea {
   float: left;
 }
 
-.column.row.row, .row.row.columns, main .content-wrapper .columns.content, main .content-wrapper .column.content {
+.column.row.row, main .content-wrapper .column.content, .row.row.columns, main .content-wrapper .columns.content {
   float: none;
 }
 
-.row .column.row.row, main .content-wrapper .content .column.row.row, .row .row.row.columns, main .content-wrapper .content .row.row.columns, .row main .content-wrapper .columns.content, main .content-wrapper .row .columns.content, main .content-wrapper .content .columns.content, .row main .content-wrapper .column.content, main .content-wrapper .row .column.content, main .content-wrapper .content .column.content {
+.row .column.row.row, main .content-wrapper .content .column.row.row, .row main .content-wrapper .column.content, main .content-wrapper .row .column.content, main .content-wrapper .content .column.content, .row .row.row.columns, main .content-wrapper .content .row.row.columns, .row main .content-wrapper .columns.content, main .content-wrapper .row .columns.content, main .content-wrapper .content .columns.content {
   margin-right: 0;
   margin-left: 0;
   padding-right: 0;
@@ -3901,8 +3901,8 @@ textarea {
     clear: both;
   }
   .medium-uncentered,
-  .medium-push-0,
-  .medium-pull-0 {
+.medium-push-0,
+.medium-pull-0 {
     position: static;
     float: left;
     margin-right: 0;
@@ -4200,8 +4200,8 @@ textarea {
     clear: both;
   }
   .large-uncentered,
-  .large-push-0,
-  .large-pull-0 {
+.large-push-0,
+.large-pull-0 {
     position: static;
     float: left;
     margin-right: 0;
@@ -4415,7 +4415,7 @@ ol {
   margin-left: 1.25rem;
 }
 
-ul ul, ol ul, ul ol, ol ol {
+ul ul, ul ol, ol ul, ol ol {
   margin-left: 1.25rem;
   margin-bottom: 0;
 }
@@ -4586,22 +4586,22 @@ ul.no-bullet, ol.no-bullet {
     display: table-cell !important;
   }
   a,
-  a:visited {
+a:visited {
     text-decoration: underline;
   }
   a[href]:after {
     content: " (" attr(href) ")";
   }
   .ir a:after,
-  a[href^='javascript:']:after,
-  a[href^='#']:after {
+a[href^='javascript:']:after,
+a[href^='#']:after {
     content: '';
   }
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
   pre,
-  blockquote {
+blockquote {
     border: 1px solid #8a8a8a;
     page-break-inside: avoid;
   }
@@ -4609,7 +4609,7 @@ ul.no-bullet, ol.no-bullet {
     display: table-header-group;
   }
   tr,
-  img {
+img {
     page-break-inside: avoid;
   }
   img {
@@ -4619,13 +4619,13 @@ ul.no-bullet, ol.no-bullet {
     margin: 0.5cm;
   }
   p,
-  h2,
-  h3 {
+h2,
+h3 {
     orphans: 3;
     widows: 3;
   }
   h2,
-  h3 {
+h3 {
     page-break-after: avoid;
   }
   .print-break-inside {
@@ -4758,10 +4758,10 @@ label.middle {
   border-radius: 0 0 0 0;
 }
 
-.input-group-label, .input-group-field, .input-group-button, .input-group-button a,
+.input-group-button a,
 .input-group-button input,
 .input-group-button button,
-.input-group-button label {
+.input-group-button label, .input-group-button, .input-group-field, .input-group-label {
   margin: 0;
   white-space: nowrap;
 }
@@ -7147,7 +7147,7 @@ a.button:hover, a.button:focus {
   color: #fefefe;
 }
 
-.orbit-previous, .orbit-next {
+.orbit-next, .orbit-previous {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -7156,11 +7156,11 @@ a.button:hover, a.button:focus {
   color: #fefefe;
 }
 
-[data-whatinput='mouse'] .orbit-previous, [data-whatinput='mouse'] .orbit-next {
+[data-whatinput='mouse'] .orbit-next, [data-whatinput='mouse'] .orbit-previous {
   outline: 0;
 }
 
-.orbit-previous:hover, .orbit-next:hover, .orbit-previous:active, .orbit-next:active, .orbit-previous:focus, .orbit-next:focus {
+.orbit-next:hover, .orbit-previous:hover, .orbit-next:active, .orbit-previous:active, .orbit-next:focus, .orbit-previous:focus {
   background-color: rgba(10, 10, 10, 0.5);
 }
 
@@ -7628,7 +7628,7 @@ input:checked ~ .switch-paddle::after {
   outline: 0;
 }
 
-.switch-active, .switch-inactive {
+.switch-inactive, .switch-active {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -7785,8 +7785,8 @@ table.unstriped tbody tr {
     display: none;
   }
   table.stack tr,
-  table.stack th,
-  table.stack td {
+table.stack th,
+table.stack td {
     display: block;
   }
   table.stack td {
@@ -8132,7 +8132,7 @@ a.thumbnail image {
     flex-wrap: wrap;
   }
   .top-bar.stacked-for-medium .top-bar-left,
-  .top-bar.stacked-for-medium .top-bar-right {
+.top-bar.stacked-for-medium .top-bar-right {
     flex: 0 0 100%;
     max-width: 100%;
   }
@@ -8143,7 +8143,7 @@ a.thumbnail image {
     flex-wrap: wrap;
   }
   .top-bar.stacked-for-large .top-bar-left,
-  .top-bar.stacked-for-large .top-bar-right {
+.top-bar.stacked-for-large .top-bar-right {
     flex: 0 0 100%;
     max-width: 100%;
   }
@@ -8257,14 +8257,14 @@ a.thumbnail image {
 
 @media screen and (orientation: landscape) {
   .show-for-landscape,
-  .hide-for-portrait {
+.hide-for-portrait {
     display: block !important;
   }
 }
 
 @media screen and (orientation: portrait) {
   .show-for-landscape,
-  .hide-for-portrait {
+.hide-for-portrait {
     display: none !important;
   }
 }
@@ -8276,14 +8276,14 @@ a.thumbnail image {
 
 @media screen and (orientation: landscape) {
   .hide-for-landscape,
-  .show-for-portrait {
+.show-for-portrait {
     display: none !important;
   }
 }
 
 @media screen and (orientation: portrait) {
   .hide-for-landscape,
-  .show-for-portrait {
+.show-for-portrait {
     display: block !important;
   }
 }
@@ -11766,14 +11766,14 @@ body#index .row#tagline .vertical-wrapper h2, body#index main .content-wrapper #
 
 @media screen and (min-width: 30em) {
   .meet-will-section .update-snippet .h3,
-  .meet-will-section .update-snippet .p {
+.meet-will-section .update-snippet .p {
     max-width: 22.5rem;
   }
 }
 
 @media print, screen and (min-width: 64em) {
   .meet-will-section .update-snippet .h3,
-  .meet-will-section .update-snippet .p {
+.meet-will-section .update-snippet .p {
     max-width: 25rem;
   }
 }
@@ -12105,7 +12105,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     max-width: none;
   }
   .debotech-thank-you-banner .thank-you-badge .badge-label,
-  .debotech-thank-you-banner .thank-you-badge .partner-name {
+.debotech-thank-you-banner .thank-you-badge .partner-name {
     width: 17.5rem;
   }
   .debotech-thank-you-banner img.dobotech-logo {
@@ -12118,7 +12118,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
 
 @media screen and (min-width: 56.25em) {
   .debotech-thank-you-banner .thank-you-badge .badge-label,
-  .debotech-thank-you-banner .thank-you-badge .partner-name {
+.debotech-thank-you-banner .thank-you-badge .partner-name {
     width: 17.5rem;
   }
   .debotech-thank-you-banner .thank-you-badge .badge-label {
@@ -12178,7 +12178,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
     order: 1;
   }
   .debotech-thank-you-banner .debotech-logo-img-wrap,
-  .debotech-thank-you-banner .prose-wrap {
+.debotech-thank-you-banner .prose-wrap {
     width: calc(50% - 1.25rem);
     margin-right: 0.625rem;
     margin-left: 0.625rem;
@@ -12193,7 +12193,7 @@ body#index .row#story, body#index main .content-wrapper #story.content, main .co
 
 @media screen and (min-width: 62.5em) {
   .debotech-thank-you-banner .debotech-logo-img-wrap,
-  .debotech-thank-you-banner .prose-wrap {
+.debotech-thank-you-banner .prose-wrap {
     flex: 0 0 auto;
     width: auto;
     margin-right: 0.625rem;
@@ -12444,7 +12444,7 @@ body#ordering-product-faq .video-container .row .video-wrapper .iframe-wrapper i
     display: block;
   }
   .designAdjustment img,
-  .designAdjustment h3 {
+.designAdjustment h3 {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
