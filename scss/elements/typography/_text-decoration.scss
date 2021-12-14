@@ -1,0 +1,13 @@
+.text-decoration-none {
+	text-decoration: none !important;
+}
+
+.td-underline {
+	text-decoration: underline;
+}
+
+.hover-td-none {
+	&:hover {
+		text-decoration: none;
+	}
+}
