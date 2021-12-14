@@ -6661,36 +6661,36 @@
       "oAP" : "\/fonts\/hpals\/hpals.woff",
       "oF" : 0
     },
-    "\/fonts\/open-sans\/open-sans-v18-latin-700.woff" : {
+    "\/fonts\/open-sans\/open-sans-v27-latin-700.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/open-sans\/open-sans-v18-latin-700.woff",
+      "oAP" : "\/fonts\/open-sans\/open-sans-v27-latin-700.woff",
       "oF" : 0
     },
-    "\/fonts\/open-sans\/open-sans-v18-latin-700.woff2" : {
+    "\/fonts\/open-sans\/open-sans-v27-latin-700.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/open-sans\/open-sans-v18-latin-700.woff2",
+      "oAP" : "\/fonts\/open-sans\/open-sans-v27-latin-700.woff2",
       "oF" : 0
     },
-    "\/fonts\/open-sans\/open-sans-v18-latin-regular.woff" : {
+    "\/fonts\/open-sans\/open-sans-v27-latin-regular.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/open-sans\/open-sans-v18-latin-regular.woff",
+      "oAP" : "\/fonts\/open-sans\/open-sans-v27-latin-regular.woff",
       "oF" : 0
     },
-    "\/fonts\/open-sans\/open-sans-v18-latin-regular.woff2" : {
+    "\/fonts\/open-sans\/open-sans-v27-latin-regular.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/open-sans\/open-sans-v18-latin-regular.woff2",
+      "oAP" : "\/fonts\/open-sans\/open-sans-v27-latin-regular.woff2",
       "oF" : 0
     },
     "\/fonts\/raleway\/raleway-v19-latin-700.woff" : {
