@@ -6693,36 +6693,36 @@
       "oAP" : "\/fonts\/open-sans\/open-sans-v27-latin-regular.woff2",
       "oF" : 0
     },
-    "\/fonts\/raleway\/raleway-v19-latin-700.woff" : {
+    "\/fonts\/raleway\/raleway-v22-latin-700.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/raleway\/raleway-v19-latin-700.woff",
+      "oAP" : "\/fonts\/raleway\/raleway-v22-latin-700.woff",
       "oF" : 0
     },
-    "\/fonts\/raleway\/raleway-v19-latin-700.woff2" : {
+    "\/fonts\/raleway\/raleway-v22-latin-700.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/raleway\/raleway-v19-latin-700.woff2",
+      "oAP" : "\/fonts\/raleway\/raleway-v22-latin-700.woff2",
       "oF" : 0
     },
-    "\/fonts\/raleway\/raleway-v19-latin-regular.woff" : {
+    "\/fonts\/raleway\/raleway-v22-latin-900.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/raleway\/raleway-v19-latin-regular.woff",
+      "oAP" : "\/fonts\/raleway\/raleway-v22-latin-900.woff",
       "oF" : 0
     },
-    "\/fonts\/raleway\/raleway-v19-latin-regular.woff2" : {
+    "\/fonts\/raleway\/raleway-v22-latin-900.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/raleway\/raleway-v19-latin-regular.woff2",
+      "oAP" : "\/fonts\/raleway\/raleway-v22-latin-900.woff2",
       "oF" : 0
     },
     "\/gulpfile.babel.js" : {
