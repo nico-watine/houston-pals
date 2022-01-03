@@ -7,7 +7,7 @@
       "uuidString" : "412FF380-250F-4884-8E39-EF8E30398051"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/_ignores\/01-29-notes.txt" : {
       "cB" : 0,
@@ -10883,6 +10883,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
