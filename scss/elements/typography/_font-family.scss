@@ -1,0 +1,15 @@
+.text-monospace {
+	font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
+}
+
+.icon {
+	font: normal rem-calc(16) hpals;
+}
+
+.icon.phone:before {
+	content: '\e801';
+}
+
+.icon.email:before {
+	content: '\e802';
+}

@@ -1,5 +1,9 @@
-@import 'typography/_fonts.scss';
-
+@import '_font-face.scss';
+@import '_font-family.scss';
+@import '_font-weight.scss';
+@import '_links.scss';
+@import '_text-color.scss';
+@import '_text-decoration.scss';
 
 .title {
 	font-family: $title-font;
@@ -24,10 +28,6 @@
 	font-weight: $global-weight-normal;
 }
 
-.normal {
-	font-weight: normal;
-}
-
 a#colorful-name-hover {
 	&:hover {
 		span.green {
@@ -39,28 +39,5 @@ a#colorful-name-hover {
 			color: #fff;
 			background: $dark-blue;
 		}
-	}
-}
-
-.white,
-.color-white {
-	color: $white;
-}
-
-.black {
-	color: $black;
-}
-
-address {
-	font-style: normal;
-}
-
-.td-underline {
-	text-decoration: underline;
-}
-
-.hover-td-none {
-	&:hover {
-		text-decoration: none;
 	}
 }
