@@ -7416,25 +7416,25 @@ ol.list-upper-roman {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 700;
-  src: local(""), url("/fonts/raleway-v22-latin-700.woff2") format("woff2"), url("/fonts/raleway-v22-latin-700.woff") format("woff"); }
+  src: local(""), url("/fonts/raleway/raleway-v22-latin-700.woff2") format("woff2"), url("/fonts/raleway/raleway-v22-latin-700.woff") format("woff"); }
 
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 900;
-  src: local(""), url("/fonts/raleway-v22-latin-900.woff2") format("woff2"), url("/fonts/raleway-v22-latin-900.woff") format("woff"); }
+  src: local(""), url("/fonts/raleway/raleway-v22-latin-900.woff2") format("woff2"), url("/fonts/raleway/raleway-v22-latin-900.woff") format("woff"); }
 
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local(""), url("/fonts/open-sans-v27-latin-regular.woff2") format("woff2"), url("/fonts/open-sans-v27-latin-regular.woff") format("woff"); }
+  src: local(""), url("/fonts/open-sans/open-sans-v27-latin-regular.woff2") format("woff2"), url("/fonts/open-sans/open-sans-v27-latin-regular.woff") format("woff"); }
 
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: local(""), url("/fonts/open-sans-v27-latin-700.woff2") format("woff2"), url("/fonts/open-sans-v27-latin-700.woff") format("woff"); }
+  src: local(""), url("/fonts/open-sans/open-sans-v27-latin-700.woff2") format("woff2"), url("/fonts/open-sans/open-sans-v27-latin-700.woff") format("woff"); }
 
 @font-face {
   font-family: 'hpals';
