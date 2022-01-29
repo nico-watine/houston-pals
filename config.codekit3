@@ -9572,6 +9572,22 @@
       "oAP" : "\/src\/data\/cdn.yml",
       "oF" : 0
     },
+    "\/src\/data\/meta-viewport.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/data\/meta-viewport.yml",
+      "oF" : 0
+    },
+    "\/src\/data\/tld-url.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/data\/tld-url.yml",
+      "oF" : 0
+    },
     "\/src\/helpers\/_notes.txt" : {
       "cB" : 0,
       "ft" : 8192,
